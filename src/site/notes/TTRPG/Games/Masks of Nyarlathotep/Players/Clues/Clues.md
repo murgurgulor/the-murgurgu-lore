@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/Clues.md","permalink":"/masks-of-nyarlathotep/clues/clues/","pinned":true,"tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/Clues.md","permalink":"/masks-of-nyarlathotep/clues/clues/","hide":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
 - [[TTRPG/Games/Masks of Nyarlathotep/Players/Clues/Carlyle Expedition Papers\|Carlyle Expedition Papers]]
