@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Murgurgu Lore.md","permalink":"/the-murgurgu-lore/","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Pages/The Murgurgu Lore.md","permalink":"/pages/the-murgurgu-lore/","hide":true,"tags":["gardenEntry"]}
 ---
 
 
