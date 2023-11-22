@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/Tomes and Artefacts.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/tomes-and-artefacts/","pinned":true,"tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/Tomes and Artefacts.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/tomes-and-artefacts/","hide":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
 ##### Tomes and Artefacts found in China
