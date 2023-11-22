@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/China/China Leads.md","permalink":"/masks-of-nyarlathotep/journal/china/china-leads/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/China/China Leads.md","permalink":"/masks-of-nyarlathotep/journals/china/china-leads/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ## Leads pointing to China
