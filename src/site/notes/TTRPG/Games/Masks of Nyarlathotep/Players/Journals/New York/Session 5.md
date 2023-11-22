@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/New York/Session 5.md","permalink":"/masks-of-nyarlathotep/journal/new-york/session-5/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/New York/Session 5.md","permalink":"/masks-of-nyarlathotep/journals/new-york/session-5/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Tuesday, January 20th, 1925
