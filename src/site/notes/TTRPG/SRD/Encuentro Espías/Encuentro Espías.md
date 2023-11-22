@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"encuentro-espias","permalink":"/encuentro-espias/","hide":true,"tags":["TTRPG/SRD"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías.md","dg-permalink":"encuentro-espias","permalink":"/encuentro-espias/","hide":true,"tags":["TTRPG/SRD"]}
 ---
 
 >*Welcome back, Agent X. It's time for your briefing.
