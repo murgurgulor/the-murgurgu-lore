@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/New York/Session 6.md","permalink":"/masks-of-nyarlathotep/journal/new-york/session-6/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/New York/Session 6.md","permalink":"/masks-of-nyarlathotep/journals/new-york/session-6/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Wednesday, January 21st, 1925
