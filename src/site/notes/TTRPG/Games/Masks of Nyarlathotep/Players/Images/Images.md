@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Images/Images.md","permalink":"/masks-of-nyarlathotep/images/images/","hide":true,"tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Images/Images.md","permalink":"/masks-of-nyarlathotep/images/images/","pinned":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
 - [[TTRPG/Games/Masks of Nyarlathotep/Players/Images/China Images\|China Images]]
