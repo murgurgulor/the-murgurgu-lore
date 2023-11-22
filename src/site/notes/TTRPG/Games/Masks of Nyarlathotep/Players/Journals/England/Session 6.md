@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/England/Session 6.md","permalink":"/masks-of-nyarlathotep/journal/england/session-6/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/England/Session 6.md","permalink":"/masks-of-nyarlathotep/journals/england/session-6/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Wednesday, February 4th, 1925
