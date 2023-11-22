@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mirror-images","permalink":"/mirror-images/","hide":true,"tags":["Writing"]}
+{"dg-publish":true,"dg-permalink":"mirror-images","permalink":"/mirror-images/","tags":["Writing"]}
 ---
 
 
