@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/England/England Leads.md","permalink":"/masks-of-nyarlathotep/journal/england/england-leads/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/England/England Leads.md","permalink":"/masks-of-nyarlathotep/journals/england/england-leads/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ## Leads pointing to England
