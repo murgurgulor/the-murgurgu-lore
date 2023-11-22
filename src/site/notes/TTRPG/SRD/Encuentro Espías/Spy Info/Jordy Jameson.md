@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/srd/encuentro-espias/spy-info/jordy-jameson/","hide":true,"tags":["TTRPG/SRD/EE"]}
+{"dg-publish":true,"dg-path":"Jordy Jameson.md","permalink":"/jordy-jameson/","hide":true,"tags":["TTRPG/SRD/EE"]}
 ---
 
 ### Intelligence Officer Jordy Jameson
