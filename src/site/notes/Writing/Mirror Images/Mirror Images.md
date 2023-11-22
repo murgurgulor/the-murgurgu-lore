@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"mirror-images","permalink":"/mirror-images/","hide":true,"tags":["Writing"]}
 ---
 
+# Mirror Images 
+
 I did not kill my wife. 
 Hannah is dead, but I did not kill her.
 
