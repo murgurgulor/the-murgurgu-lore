@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Known Spells.md","permalink":"/masks-of-nyarlathotep/known-spells/"}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Magic/Known Spells.md","permalink":"/masks-of-nyarlathotep/magic/known-spells/","pinned":true}
 ---
 
 | Spell                                                                                                     | Known by                                                              |
