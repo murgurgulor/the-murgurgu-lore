@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/Egypt/Session 4.md","permalink":"/masks-of-nyarlathotep/journal/egypt/session-4/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Egypt/Session 4.md","permalink":"/masks-of-nyarlathotep/journals/egypt/session-4/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Friday, February 20th, 1925
