@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/srd/encuentro-espias/game-mechanics/how-to-play-the-game/","hide":true,"tags":["TTRPG/SRD/EE"]}
+{"dg-publish":true,"dg-path":"How to play the game.md","permalink":"/how-to-play-the-game/","hide":true,"tags":["TTRPG/SRD/EE"]}
 ---
 
 
