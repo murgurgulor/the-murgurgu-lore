@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/Tomes and Artefacts.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/tomes-and-artefacts/","hide":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
-##### Tomes and Artefacts found in China
 | Tome/Artefact                                                                                                                        | Found in                   |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/China/Serpent's Cigarette\|Serpent's Cigarette]]                  | <ul><li>China</li></ul>    |
