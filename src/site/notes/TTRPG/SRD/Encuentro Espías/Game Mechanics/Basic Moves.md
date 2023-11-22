@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/srd/encuentro-espias/game-mechanics/basic-moves/","hide":true,"tags":["TTRPG/SRD/EE"]}
+{"dg-publish":true,"dg-path":"Basic Moves.md","permalink":"/basic-moves/","hide":true,"tags":["TTRPG/SRD/EE"]}
 ---
 
 **Basic Moves** are Moves that all Spies can trigger. They cover most of the actions that you could take as a Spy. Any action that doesn't seem to fall clearly under one of the Moves will be handled as the **Act Under Pressure** Move.
