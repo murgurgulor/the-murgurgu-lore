@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/China/Session 1.md","permalink":"/masks-of-nyarlathotep/journal/china/session-1/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/China/Session 1.md","permalink":"/masks-of-nyarlathotep/journals/china/session-1/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Saturday, March 28th, 1925
