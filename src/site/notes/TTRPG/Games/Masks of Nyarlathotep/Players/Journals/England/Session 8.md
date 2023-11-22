@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/England/Session 8.md","permalink":"/masks-of-nyarlathotep/journal/england/session-8/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/England/Session 8.md","permalink":"/masks-of-nyarlathotep/journals/england/session-8/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Thursday, February 5th, 1925
