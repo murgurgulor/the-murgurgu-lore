@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/England/Session 3.md","permalink":"/masks-of-nyarlathotep/journal/england/session-3/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/England/Session 3.md","permalink":"/masks-of-nyarlathotep/journals/england/session-3/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Monday, February 2nd, 1925
