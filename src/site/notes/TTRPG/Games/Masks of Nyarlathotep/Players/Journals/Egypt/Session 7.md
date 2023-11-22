@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journal/Egypt/Session 7.md","permalink":"/masks-of-nyarlathotep/journal/egypt/session-7/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Egypt/Session 7.md","permalink":"/masks-of-nyarlathotep/journals/egypt/session-7/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Monday, February 23rd, 1925
