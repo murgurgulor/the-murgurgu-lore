@@ -3,7 +3,7 @@
 ---
 
 ##### China Journal
-| Session File                                                                             | Session Date     |
+| Session Journal                                                                          | Session Date     |
 | ---------------------------------------------------------------------------------------- | ---------------- |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/China Leads\|China Leads]] | \-               |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 1\|Session 1]]     | October 17, 2023 |
@@ -11,7 +11,7 @@
 { .block-language-dataview}
 
 ##### Egypt Journal
-| Session File                                                                             | Session Date       |
+| Session Journal                                                                          | Session Date       |
 | ---------------------------------------------------------------------------------------- | ------------------ |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/Egypt/Egypt Leads\|Egypt Leads]] | \-                 |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/Egypt/Session 1\|Session 1]]     | April 18, 2023     |
@@ -27,7 +27,7 @@
 { .block-language-dataview}
 
 ##### England Journal
-| Session File                                                                                   | Session Date      |
+| Session Journal                                                                                | Session Date      |
 | ---------------------------------------------------------------------------------------------- | ----------------- |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/England/England Leads\|England Leads]] | \-                |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/England/Session 1\|Session 1]]         | December 20, 2022 |
@@ -42,7 +42,7 @@
 { .block-language-dataview}
 
 ##### New York Journal
-| Session File                                                                            | Session Date       |
+| Session Journal                                                                         | Session Date       |
 | --------------------------------------------------------------------------------------- | ------------------ |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/New York/Session 1\|Session 1]] | August 20, 2022    |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/New York/Session 2\|Session 2]] | September 13, 2022 |
