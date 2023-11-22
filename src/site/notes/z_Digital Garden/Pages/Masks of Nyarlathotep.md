@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Pages/Masks of Nyarlathotep.md","dg-permalink":"masks-of-nyarlathotep","permalink":"/masks-of-nyarlathotep/","title":"Main","hide":true}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Masks of Nyarlathotep.md","dg-permalink":"masks-of-nyarlathotep","permalink":"/masks-of-nyarlathotep/","title":"Main"}
 ---
 
 >*Welcome, dear Investigator. I hope your Sanity finds you well.*
