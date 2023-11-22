@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/games/masks-of-nyarlathotep/players/journals/journals/","hide":true,"tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Journals.md","permalink":"/masks-of-nyarlathotep/journals/journals/","hide":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
 ##### China Journal
