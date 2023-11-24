@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Magic/Voorish Sign.md","permalink":"/masks-of-nyarlathotep/magic/voorish-sign/","tags":["TTRPG/SRD/CoC"]}
 ---
 
+>[!infobox|ttl-c left]
 > # Voorish Sign
 > ##### Details 
 >**Magic Points:** 1
