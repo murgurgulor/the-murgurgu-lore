@@ -3,10 +3,11 @@
 ---
 
 ##### China Journal
-| Session Journal                                                                          | Session Date     |
-| ---------------------------------------------------------------------------------------- | ---------------- |
-| [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/China Leads\|China Leads]] | \-               |
-| [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 1\|Session 1]]     | October 17, 2023 |
+| Session Journal                                                                          | Session Date      |
+| ---------------------------------------------------------------------------------------- | ----------------- |
+| [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/China Leads\|China Leads]] | \-                |
+| [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 1\|Session 1]]     | October 17, 2023  |
+| [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 2\|Session 2]]     | November 24, 2023 |
 
 { .block-language-dataview}
 
