@@ -8,5 +8,5 @@
 - Relive your trauma through the [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/Journals\|Journal]]
 - Unravel the mystery through the [[TTRPG/Games/Masks of Nyarlathotep/Players/Clues/Clues\|Clues]]
 - Delve into the deep lore of the [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/Tomes and Artefacts\|Tomes and Artefacts]]
-- Break your mind and bend reality with your [[Spells\|Spells]] 
-- Claw out your eyes after seeing the [[Masks of Nyarlathotep/Images/Images\|Images]] 
+- Break your mind and bend reality with your [[TTRPG/Games/Masks of Nyarlathotep/Players/Known Spells\|Known Spells]]
+- Claw out your eyes after seeing the [[TTRPG/Games/Masks of Nyarlathotep/Players/Images/Images\|Images]] 
