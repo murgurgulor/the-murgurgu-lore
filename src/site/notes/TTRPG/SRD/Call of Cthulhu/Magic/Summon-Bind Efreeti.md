@@ -19,6 +19,3 @@
 > Can give a Bonus Die on the POW roll by expending MP equal to 1/5 of the Efreeti's POW, though this cost is unknown.
 > 
 > An already bound Efreeti can be unbound in the same way, by making an opposed POW check versus the current binder.
-> 
->##### Known by 
-> [[Dick Booker\|Dick Booker]] 
