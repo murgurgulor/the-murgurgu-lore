@@ -5,6 +5,7 @@
 >*Welcome back, Agent X. It's time for your briefing.
 >On what topic do you require intel?* 
 ---
+- BRIEFING: Review your [[TTRPG/SRD/Encuentro Espías/Mission Statement\|Mission Statement]]
 - IMPORTANT: You need to learn [[TTRPG/SRD/Encuentro Espías/Game Mechanics/How to play the game\|How to play the game]]
 - CLASSIFIED: An overview of the [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Basic Moves\|Basic Moves]]
 - FOR YOUR EYES ONLY: [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Detailed Moves and Examples of Play\|Detailed Moves and Examples of Play]] 
