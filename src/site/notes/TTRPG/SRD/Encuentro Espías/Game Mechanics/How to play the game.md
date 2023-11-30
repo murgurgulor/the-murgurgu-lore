@@ -62,5 +62,6 @@ When all your Cover boxes are crossed off, you are **Suspected**. Being Suspect
 ---
 ##### Further reading
 [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Basic Moves\|Basic Moves]]
+[[TTRPG/SRD/Encuentro Espías/Game Mechanics/Detailed Moves and Examples of Play\|Detailed Moves and Examples of Play]] 
 [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Luck\|Luck]]
 [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Items\|Items]] 
