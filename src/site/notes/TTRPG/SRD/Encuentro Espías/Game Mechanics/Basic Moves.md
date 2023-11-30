@@ -51,7 +51,7 @@ There are 3 subcategories of Basic Moves:
 >- Roll **Force** if you're making threats or intimidation. 
 >- Roll **Guile** if you're trying to fast talk or deceive them. 
 >- Roll **Wit** if you're using rational reasoning.
->- 
+>
 >---
 >**On a 6**, they do it or they tell you the easiest way to convince them
 >**On a 4-5**, they’ll tell you how to convince them, but it’ll likely be costly, tricky or difficult.
@@ -125,7 +125,7 @@ There are 3 subcategories of Basic Moves:
 >- Roll **Force** if you're making threats or intimidation. 
 >- Roll **Guile** if you're trying to fast talk or deceive them. 
 >- Roll **Wit** if you're using rational reasoning.
->- 
+>
 >---
 >**On a 6**, uncheck one Cover checkbox
 >**On a 3-**, you’ve only made things worse for yourself: *cross off a Cover checkbox*
