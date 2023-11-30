@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Simone Saveur.md","permalink":"/simone-saveur/","hide":true,"tags":["TTRPG/SRD/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Simone Saveur.md","permalink":"/encuentro-espias/spy-info/simone-saveur/","tags":["TTRPG/SRD/EE"]}
 ---
 
 ### Mme Simone Saveur, Espionne
