@@ -17,9 +17,9 @@ If you play Dmitri Dustov, you will have access to these **Specialty Moves**:
 
 ---
 
-#### Krasnyy Kulak
-When **you Overpower someone with Force**, they fall unconscious even on a 3-.
+>#### Krasnyy Kulak
+>When **you Overpower someone with Force**, they fall unconscious even on a 3-.
 
 ---
-#### Years of Experience 
-When **you Surveil a situation**, you can ask one extra question, even on a 3-.
+>#### Years of Experience 
+>When **you Surveil a situation**, you can ask one extra question, even on a 3-.
