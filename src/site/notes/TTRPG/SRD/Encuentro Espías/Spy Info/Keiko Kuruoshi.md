@@ -17,18 +17,19 @@ If you play Keiko Kuruoshi, you will have access to these **Specialty Moves**:
 
 ---
 
-#### Jinsokuna Shiko
-When **you Surveil using deduction rather than perception**, you may roll Wit instead of Focus.
+>#### Jinsokuna Shiko
+>When **you Surveil using deduction rather than perception**, you may roll Wit instead of Focus.
 
 ---
-#### Heist
-When **you take time to make a plan to steal something**, roll **Wit**.
-
-**On a 6**, ask the GM 3 questions from the list below;
-**On a 4-5**, ask the GM 1 question from the list below.
-When you or your allies first act on an answer, *take +1d forward*.
-
-- *Where can I find it?*
-- *What's the biggest obstacle to getting it?*
-- *How quickly will it be missed?*
-- *Who will notice it’s missing?*
+>#### Heist
+>When **you take time to make a plan to steal something**, roll **Wit**.
+>
+>---
+>**On a 6**, ask the GM 3 questions from the list below;
+>**On a 4-5**, ask the GM 1 question from the list below.
+>When you or your allies first act on an answer, *take +1d forward*.
+>
+>- *Where can I find it?*
+>- *What's the biggest obstacle to getting it?*
+>- *How quickly will it be missed?*
+>- *Who will notice it’s missing?*
