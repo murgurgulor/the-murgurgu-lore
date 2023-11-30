@@ -4,13 +4,13 @@
 
 | Tome/Artefact                                                                                                                        | Found in                   |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/China/Serpent's Cigarette\|Serpent's Cigarette]]                  | <ul><li>China</li></ul>    |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/England/Bust of the Black Pharaoh\|Bust of the Black Pharaoh]]    | <ul><li>England</li></ul>  |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/England/Headdress of Eyes\|Headdress of Eyes]]                    | <ul><li>England</li></ul>  |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/England/Song of the Djinn\|Song of the Djinn]]                    | <ul><li>England</li></ul>  |
+| [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/China/Serpent's Cigarette\|Serpent's Cigarette]]                  | <ul><li>China</li></ul>    |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Africa's Dark Sects\|Africa's Dark Sects]]               | <ul><li>New York</li></ul> |
-| [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Ju-Ju Mask\|Ju-Ju Mask]]                                 | <ul><li>New York</li></ul> |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Amongst the Stones\|Amongst the Stones]]                 | <ul><li>New York</li></ul> |
+| [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Ju-Ju Mask\|Ju-Ju Mask]]                                 | <ul><li>New York</li></ul> |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Life as a God\|Life as a God]]                           | <ul><li>New York</li></ul> |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Selections de Livre d'Ivon\|Selections de Livre d'Ivon]] | <ul><li>New York</li></ul> |
 | [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/The Pnakotic Manuscripts\|The Pnakotic Manuscripts]]     | <ul><li>New York</li></ul> |
