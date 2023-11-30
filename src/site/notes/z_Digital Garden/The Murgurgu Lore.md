@@ -13,3 +13,5 @@
 ### [[z_Digital Garden/Masks of Nyarlathotep\|Masks of Nyarlathotep]]
 This is for the players of the Masks of Nyarlathotep campaign for Call of Cthulhu. In here you'll find all the journals, clues, tomes, artefacts and spells you've gathered during the campaign.
 
+### [[z_Digital Garden/Encuentro Espías\|Encuentro Espías]]
+This is for the players of the Spy Game. In here you'll find the game mechanics and the information for the different spies to choose from.
