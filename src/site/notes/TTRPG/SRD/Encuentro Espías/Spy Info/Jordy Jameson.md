@@ -16,23 +16,25 @@ Jordy prefers to tackle problems with **Flair**, **Agility** and **Guile**. He�
 If you play Jordy Jameson, you will have access to these **Specialty Moves**:
 
 ---
-#### That Damned Smile 
-When **you use your overbearing confidence and swagger to charm someone to help you out**, roll **Flair**.
-
-**On a 6**, choose 2 from the list below;
-**On a 4-5**, choose 1 from the list below.
-
-- *They are charmed and will help you out to the best of their ability*
-- *You don’t draw attention to yourself doing so*
+>#### That Damned Smile 
+>When **you use your overbearing confidence and swagger to charm someone to help you out**, roll **Flair**.
+>
+>---
+>**On a 6**, choose 2 from the list below;
+>**On a 4-5**, choose 1 from the list below.
+>
+>- *They are charmed and will help you out to the best of their ability*
+>- *You don’t draw attention to yourself doing so*
 
 ---
-#### Derring-Do
-When **you jump into the fray** or **leap headfirst into a dangerous situation**, roll **Agility**.
-
-**On a 6**, hold 3 Dash;
-**On a 4-5**, hold 1 Dash.
-
-While you’re in the situation, you may spend Dash 1-for-1 to:
-- *Leap around, over, or through an obstacle in your path*
-- *Create an obstacle or distraction an enemy has to deal with*
+>#### Derring-Do
+>When **you jump into the fray** or **leap headfirst into a dangerous situation**, roll **Agility**.
+>
+>---
+>**On a 6**, hold 3 Dash;
+>**On a 4-5**, hold 1 Dash.
+>
+>While you’re in the situation, you may spend Dash 1-for-1 to:
+>- *Leap around, over, or through an obstacle in your path*
+>- *Create an obstacle or distraction an enemy has to deal with*
 - *Divert attention from yourself to an ally, or from an ally to yourself*
