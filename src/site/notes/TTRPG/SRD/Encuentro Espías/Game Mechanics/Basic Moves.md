@@ -14,7 +14,7 @@ There are 3 subcategories of Basic Moves:
 ### Generic Moves 
 ---
 
->##### Act Under Pressure
+##### Act Under Pressure
 >When **you do something in response to an imminent threat**, or when **the stakes are high and you do something daring**, say what it is you want to achieve and roll your Approach.
 >
 >- Roll **Agility** if you employ speed and finesse.
