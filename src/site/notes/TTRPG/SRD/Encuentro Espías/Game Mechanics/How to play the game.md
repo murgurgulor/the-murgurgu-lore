@@ -15,8 +15,8 @@ A Move looks like this:
 >When **fiction that triggers the move**, [roll the dice if a roll is required].
 >
 >---
->Outcome of the Move, depending on the outcome of the roll if a roll took place.
->If a Move has a choice of outcomes, the Move instructs you who chooses what.
+>- Outcome of the Move, depending on the outcome of the roll if a roll took place.
+>- If a Move has a choice of outcomes, the Move instructs you who chooses what.
 
 There are two different categories of Moves. **[[TTRPG/SRD/Encuentro Espías/Game Mechanics/Basic Moves\|Basic Moves]]** are moves that every Spy can trigger. **Specialty Moves** are Moves that are unique to each Spy. You can’t trigger a Specialty Move if it’s not on your Spy sheet.
 
