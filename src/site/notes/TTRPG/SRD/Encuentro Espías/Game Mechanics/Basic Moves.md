@@ -23,7 +23,7 @@ There are 3 subcategories of Basic Moves:
 >- Roll **Force** if you power through or endure.
 >- Roll **Guile** if you deceive, sneak or misdirect.
 >- Roll **Wit** if you have a clever plan or use quick thinking.
->- 
+>
 >---
 >**On a 6**, you do it without complications.
 >**On a 4-5**, you do it, but the GM will offer you a lesser success, ugly choice or consequence.
