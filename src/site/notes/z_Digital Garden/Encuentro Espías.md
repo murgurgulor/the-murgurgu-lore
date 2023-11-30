@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Encuentro Espías.md","dg-permalink":"encuentro-espias","permalink":"/encuentro-espias/","title":"Main","tags":["DG"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Encuentro Espías.","dg-permalink":"encuentro-espias","permalink":"/encuentro-espias/","title":"Main","tags":["DG"]}
 ---
 
 >*Welcome back, Agent X. It's time for your briefing.
