@@ -6,7 +6,8 @@
 >On what topic do you require intel?* 
 ---
 - IMPORTANT: You need to learn [[TTRPG/SRD/Encuentro Espías/Game Mechanics/How to play the game\|How to play the game]]
-- CLASSIFIED: an overview of the [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Basic Moves\|Basic Moves]]
+- CLASSIFIED: An overview of the [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Basic Moves\|Basic Moves]]
+- FOR YOUR EYES ONLY: [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Detailed Moves and Examples of Play\|Detailed Moves and Examples of Play]] 
 - BE AWARE: you might need a healthy dose of [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Luck\|Luck]] to complete your mission!
 - REPORT TO THE QUARTERMASTER: you might need some [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Items\|Items]]
 ---
