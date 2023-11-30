@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Pamela Pummel.md","permalink":"/pamela-pummel/","hide":true,"tags":["TTRPG/SRD/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Pamela Pummel.md","permalink":"/encuentro-espias/spy-info/pamela-pummel/","tags":["TTRPG/SRD/EE"]}
 ---
 
 ### Special Agent Pamela Pummel
