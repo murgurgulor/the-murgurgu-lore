@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Encuentro Espías/Game Mechanics/Basic Moves.md","permalink":"/encuentro-espias/game-mechanics/basic-moves/","tags":["TTRPG/SRD/EE"]}
 ---
 
-**Basic Moves** are Moves that all Spies can trigger. They cover most of the actions that you could take as a Spy. Any action that doesn't seem to fall clearly under one of the Moves will be handled as the **Act Under Pressure** Move.
+**Basic Moves** are Moves that all Spies can trigger. They cover most of the actions that you could take as a Spy. Any action that doesn't seem to fall clearly under one of the Moves will be handled as the **Act Under Pressure** Move. Below are all the Basic Moves collected. If you want more detailed explanations and examples of play, look [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Detailed Moves and Examples of Play\|here]].
 
 There are 3 subcategories of Basic Moves:
 - [[TTRPG/SRD/Encuentro Espías/Game Mechanics/Basic Moves#Generic Moves\|Generic Moves]] cover the general actions 
@@ -14,7 +14,7 @@ There are 3 subcategories of Basic Moves:
 ### Generic Moves 
 ---
 
-##### Act Under Pressure
+>##### Act Under Pressure
 >When **you do something in response to an imminent threat**, or when **the stakes are high and you do something daring**, say what it is you want to achieve and roll your Approach.
 >
 >- Roll **Agility** if you employ speed and finesse.
@@ -27,6 +27,8 @@ There are 3 subcategories of Basic Moves:
 >---
 >**On a 6**, you do it without complications.
 >**On a 4-5**, you do it, but the GM will offer you a lesser success, ugly choice or consequence.
+{ #eeaup}
+
 
 ---
 
@@ -41,6 +43,8 @@ There are 3 subcategories of Basic Moves:
 >- *No one will miss them for a while.*
 >- *You don’t leave any evidence.*
 >- *You don’t show physical signs of a struggle yourself.*
+{ #eeoverpower}
+
 
 ---
 
@@ -57,6 +61,8 @@ There are 3 subcategories of Basic Moves:
 >**On a 4-5**, they’ll tell you how to convince them, but it’ll likely be costly, tricky or difficult.
 >
 >*This move does not trigger if the NPC would never consider doing the thing you ask of them.*
+{ #eenegman}
+
 
 ---
 
@@ -75,6 +81,8 @@ There are 3 subcategories of Basic Moves:
 >- *How could I influence ....?*
 >- *What here is not what it appears to be?*
 >- *What happened here recently?*
+{ #eesurveil}
+
 
 ---
 
@@ -84,6 +92,8 @@ There are 3 subcategories of Basic Moves:
 >---
 >**On a 6**, the GM will tell you something interesting and useful
 >**On a 4-5**, the GM will tell you something interesting but it’s up to you to make it useful
+{ #eereview}
+
 
 ---
 
@@ -91,11 +101,15 @@ There are 3 subcategories of Basic Moves:
 >When **you reveal that your character did something off-screen earlier that affects their current situation**, describe a flashback scene to the rest and reap the rewards.
 >
 >*You can only trigger this move once.*
+{ #eewellact}
+
 
 ---
 
 >##### Aid 
 >When **you help someone who is about to roll**, they *take +1d* on their roll but you are exposed to any risks, costs or consequences they are.
+{ #eeaid}
+
 
 ---
 
@@ -103,6 +117,8 @@ There are 3 subcategories of Basic Moves:
 >When **you need to succeed despite the cost**, *take +1d* on your roll. 
 >  
 >As a consequence you draw suspicion on yourself: *cross off a Cover checkbox.*
+{ #eepittl}
+
 
 ---
 
@@ -116,6 +132,8 @@ There are 3 subcategories of Basic Moves:
 >**On a 6**, they buy your story and leave you alone
 >**On a 4-5**, they buy your story for now, but have some doubts
 >**On a 3-**, they suspect more is afoot but might not immediately act on it: *cross off a Cover checkbox*
+{ #eemcover}
+
 
 ---
 >##### Shake the Heat
@@ -129,12 +147,16 @@ There are 3 subcategories of Basic Moves:
 >---
 >**On a 6**, uncheck one Cover checkbox
 >**On a 3-**, you’ve only made things worse for yourself: *cross off a Cover checkbox*
+{ #eesth}
+
 
 ---
 >##### Walking on Thin Ice 
 >When **you’re Suspected**, *take -1d ongoing* on every roll for illicit activities.
 >
 >If **you rouse more suspicion when Suspected**, you get taken away by security for further investigation.
+{ #eewoti}
+
 
 ---
 
