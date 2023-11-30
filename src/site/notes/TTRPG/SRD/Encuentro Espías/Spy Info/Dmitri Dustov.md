@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Dmitri Dustov.md","permalink":"/dmitri-dustov/","hide":true,"tags":["TTRPG/SRD/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Dmitri Dustov.md","permalink":"/encuentro-espias/spy-info/dmitri-dustov/","tags":["TTRPG/SRD/EE"]}
 ---
 
 ### Comrade Dmitri Dustov
