@@ -17,18 +17,19 @@ If you play Pamela Pummel, you will have access to these **Specialty Moves**:
 
 ---
 
-#### Handbag of Holding
-When **you need a mundane item that would fit in a handbag**, you have it.
+>#### Handbag of Holding
+>When **you need a mundane item that would fit in a handbag**, you have it.
 
 ---
-#### Pants on Fire
-When **you use lies, bluster, or deception to avoid suspicion or get out of trouble**, roll **Guile**.
-
-**On a 6**, hold 3 Ruse;
-**On a 4-5**, hold 1 Ruse.
-
-Until your deception is exposed, you may spend Ruse 1-for-1 to:
-- *Move about or maneuver unchallenged*
-- *Withstand direct scrutiny or questioning*
-- *Direct suspicion or attention elsewhere*
-- *Provide cover for an ally*
+>#### Pants on Fire
+>When **you use lies, bluster, or deception to avoid suspicion or get out of trouble**, roll **Guile**.
+>
+>---
+>**On a 6**, hold 3 Ruse;
+>**On a 4-5**, hold 1 Ruse.
+>
+>Until your deception is exposed, you may spend Ruse 1-for-1 to:
+>- *Move about or maneuver unchallenged*
+>- *Withstand direct scrutiny or questioning*
+>- *Direct suspicion or attention elsewhere*
+>- *Provide cover for an ally*
