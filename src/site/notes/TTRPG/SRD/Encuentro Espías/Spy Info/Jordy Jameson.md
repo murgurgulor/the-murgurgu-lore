@@ -37,4 +37,4 @@ If you play Jordy Jameson, you will have access to these **Specialty Moves**:
 >While you’re in the situation, you may spend Dash 1-for-1 to:
 >- *Leap around, over, or through an obstacle in your path*
 >- *Create an obstacle or distraction an enemy has to deal with*
-- *Divert attention from yourself to an ally, or from an ally to yourself*
+>- *Divert attention from yourself to an ally, or from an ally to yourself*
