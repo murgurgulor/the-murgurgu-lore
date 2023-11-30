@@ -17,15 +17,17 @@ If you play Simone Saveur, you will have access to these **Specialty Moves**:
 
 ---
 
-#### Escape Route
-When **you’re in too deep and need a way out**, roll **Agility**.
-
-**On a 6**, you’re gone;
-**On a 4-5**, you’re gone, but you leave something behind or take something with you, the GM will tell you what.
+>#### Escape Route
+>When **you’re in too deep and need a way out**, roll **Agility**.
+>
+>---
+>**On a 6**, you’re gone;
+>**On a 4-5**, you’re gone, but you leave something behind or take something with you, the GM will tell you what.
 
 ---
-#### Con Artiste
-When **you spend time studying someone’s behavior and mannerisms and disguise yourself as them**, roll **Focus**.
-
-**On a 6**, only their intimate friends can tell the difference;
-**On a 4-5**, only people who don’t know the person are fooled.
+>#### Con Artiste
+>When **you spend time studying someone’s behavior and mannerisms and disguise yourself as them**, roll **Focus**.
+>
+>---
+>**On a 6**, only their intimate friends can tell the difference;
+>**On a 4-5**, only people who don’t know the person are fooled.
