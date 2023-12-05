@@ -12,7 +12,7 @@
 > ###### Spell Description 
 > **Summon Efreeti**
 > Costs 1d4 Sanity. Each Magic Point invested gives a 10% chance of success.
-> Upon success, a Fire Vampire arrives after 20 minutes, streaking from the sky like a ball of fire. After summoning, the caster can immediately try to bind the Efreeti. Failure incurs the Efreeti's wrath.
+> Upon success, an Efreeit arrives after 20 minutes, streaking from the sky like a ball of fire. After summoning, the caster can immediately try to bind the Efreeti. Failure incurs the Efreeti's wrath.
 > 
 > **Bind Efreeti**
 > Costs 1 Sanity. Make an Opposed POW check vs. Efreeti. On a win, bind the Efreeti to perform a task for you. After this it will return to its home dimension.
