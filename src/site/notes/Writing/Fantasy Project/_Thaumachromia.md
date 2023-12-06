@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Fantasy Project/_Thaumachromia.md","dg-permalink":"thaumachromia","permalink":"/thaumachromia/","hide":true,"tags":["Writing"]}
+{"dg-publish":true,"dg-path":"_Thaumachromia.md","dg-permalink":"thaumachromia","permalink":"/thaumachromia/","hide":true,"tags":["Writing"]}
 ---
 
 # What is Thaumachrome
