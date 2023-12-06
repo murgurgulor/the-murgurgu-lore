@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Keiko Kuruoshi.md","permalink":"/encuentro-espias/spy-info/keiko-kuruoshi/","tags":["TTRPG/SRD/EE"]}
 ---
 
-### Keiko Kuruoshi-chan
-##### Age 15, Japan
----
+# Keiko Kuruoshi-chan
+### Age 15, Japan
+
 With the fall of the Japanese Empire, the Japanese sought to scout out the brightest minds to bring into the secret service. They found Keiko at the young age of 6, but already showing the brilliance and geniosity that comes once in a generation. Keiko was trained from a young age to be a child genius super spy. With a keen mind, Keiko can reduce any mission to a series of simple steps of deduction. 
 
 ##### Cover Story
