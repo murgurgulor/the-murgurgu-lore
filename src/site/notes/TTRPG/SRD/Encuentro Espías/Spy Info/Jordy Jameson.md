@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Jordy Jameson.md","permalink":"/encuentro-espias/spy-info/jordy-jameson/","tags":["TTRPG/SRD/EE"]}
 ---
 
-### Intelligence Officer Jordy Jameson
-##### Age 29, Great Britain
----
+# Intelligence Officer Jordy Jameson
+### Age 29, Great Britain
+
 Jordy Jameson is your typical young and strapping spy, and he probably inspired Ian Fleming’s James Bond to some degree. His charms and his skills have quickly advanced his career in MI6. With a thick head of blonde hair and a smile as bright as the sun, he’ll jump headlong into any mission with gusto and passion. 
 
 ##### Cover Story
