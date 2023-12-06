@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Pamela Pummel.md","permalink":"/encuentro-espias/spy-info/pamela-pummel/","tags":["TTRPG/SRD/EE"]}
 ---
 
-### Special Agent Pamela Pummel
-##### Age 41, United States of America
----
+# Special Agent Pamela Pummel
+### Age 41, United States of America
+
 Pam is an up and coming rookie in the CIA. What she lacks in experience, she makes up for in a can-do attitude, guile, wiles, and a healthy dose of moxy. 
 
 ##### Cover Story
