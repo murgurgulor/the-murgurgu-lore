@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Simone Saveur.md","permalink":"/encuentro-espias/spy-info/simone-saveur/","tags":["TTRPG/SRD/EE"]}
 ---
 
-### Mme Simone Saveur, Espionne
-##### Age 33, France
----
+# Mme Simone Saveur, Espionne
+### Age 33, France
+
 Inspired by legendary French spy and rebel leader Marie-Madeleine Fourcade, Simone pursues her career in covert operations to bring down any oppressive government or leadership in the world. Her free-spirited mind and keen eye for the human condition has gotten her in and out of dangerous situations more than once. Oppression and subservience annoy her to no end, and she’s only bound to rules as long as she deems necessary. 
 
 ### Cover Story
