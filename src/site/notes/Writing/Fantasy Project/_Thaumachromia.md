@@ -137,12 +137,16 @@ The Existential Manifestations deal with the forces of life and death. They can 
 ###### Growth 
 Growth enhances and expedites the natural propagation, development and healing of the target. When used, it draws on the target's own energy to fuel the enhancement.
 
-Additionally Growth can be used to create fields of positive thaumachromic pressure. When this is used to create an area of positive pressure around a target, the higher gradient causes increased thaumachromic regeneration. Alternatively it lessens the thaumachromic expenditure of Manifestations, allowing greater effects for smaller costs. This is usually a noticeable but modest increase.
+Additionally Growth can be used to create fields of positive thaumachromic pressure. When this is used to create an area of positive pressure around a target, the higher gradient causes increased thaumachromic regeneration. Alternatively it lessens the thaumachromic expenditure of Manifestations, allowing greater effects for smaller costs. This is usually a noticeable but modest increase. 
+
+This application of Growth can also be used to increase and/or prolong the effect of a different Manifestation, feeding ambient thaumachrome as additional fuel.
 
 ###### Decay 
 Decay decreases or halts the natural propagation, development and healing of the target. It does not actively cause decay or reversal of growth. Any energy leeched in this way is lost.
 
 Additionally Decay can be used to create fields of negative thaumachromic pressure. When this is used to create an area of negative pressure around a target, the reversed gradient causes their thaumachromic reserve to leak out. Alternatively it increases the thaumachromic expenditure of Manifestations, allowing lesser effects for greater costs. This is usually a noticeable but modest decrease.
+
+This application of Decay can also be used to decrease and/or dispel the effect of a different Manifestation, drawing its fuel away into ambient thaumachrome.
 
 ###### Cycle (Growth/Decay)
 Theoretically a caster proficient in both Growth and Decay can combine the Manifestations. Due to their effects, this ends up as a net zero effect and is therefore not considered a relevant interaction.
