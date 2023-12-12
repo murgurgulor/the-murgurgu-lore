@@ -163,10 +163,10 @@ Manifesting Growth and Force increases the target's natural growing and healing,
 Manifesting Decay and Force actively dissolves the target's natural state, fueled by the thaumachrome. This means their energy gets depleted and their body starts to fail and wither.
 
 ###### Wisdom (Growth/Mind)
-Manifesting Growth and Mind increases the target's cognitive capacity, increasing their intelligence and the strength of their cognitive energy. Afflicted minds, as with dementia, are temporarily restored as long as the Manifestation holds.
+Manifesting Growth and Mind increases the target's cognitive capacity, increasing their intelligence and the strength of their cognitive energy. Afflicted minds, as with dementia, are temporarily restored as long as the Manifestation holds. Prolonged or intensive Manifestations may leave some permanent effects.
 
 ###### Madness (Decay/Mind)
-Manifesting Decay and Mind diminishes the target's cognitive capacity, making them insane, delusional or feebleminded for as long as the Manifestation holds.
+Manifesting Decay and Mind diminishes the target's cognitive capacity, making them insane, delusional or feebleminded for as long as the Manifestation holds. Prolonged or intensive Manifestations may leave some permanent effects.
 
 ---
 
