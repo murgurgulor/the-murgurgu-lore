@@ -50,7 +50,9 @@ Those who have lived for a longer time with great thaumachromic capacities show 
 # Manifestations 
 Thaumachrome can be channeled into different effects called Manifestations. There are 8 types of Manifestation identified. Four of these have a direct effect on the natural elements: Fire, Water, Air and Earth. These Manifestations are called the Physical Manifestations. 
 
-The other four Manifestations are not as easily defined and have a less tangible and perceivable effect. They have been called Force, Mind, Growth and Decay. Two of these Manifestations - Force and Mind - are called the Metaphysical Manifestations. The other two - Growth and Decay - are called the Existential Manifestations, which encompasses Growth and Decay. Metaphysical Manifestations can be combined with Physical Manifestations to achieve new effects - but not with each other. The Existential Manifestations can be combined with any other Manifestation to achieve new effects. 
+The other four Manifestations are not as easily defined and have a less tangible and perceivable effect. They have been called Force, Mind, Growth and Decay. Two of these Manifestations - Force and Mind - are called the Metaphysical Manifestations. The other two - Growth and Decay - are called the Existential Manifestations. 
+
+Metaphysical Manifestations can be combined with Physical Manifestations to achieve new effects - but not with each other. The Existential Manifestations can be combined with any other Manifestation to achieve new effects. 
 
 Through single and combined use of Manifestations a total of 29 different Manifested effects can be achieved.
 
