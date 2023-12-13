@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Alternate Moves.md","permalink":"/encuentro-espias/spy-info/alternate-moves/","hide":true,"tags":["TTRPG/SRD/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Alternate Moves.md","permalink":"/encuentro-espias/spy-info/alternate-moves/","tags":["TTRPG/SRD/EE"]}
 ---
 
 ### Keiko 
