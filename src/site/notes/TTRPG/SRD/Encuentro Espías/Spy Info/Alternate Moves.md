@@ -19,7 +19,7 @@
 ---
 
 ### Dmitri 
->#### Hunt for Red Dawn
+>#### Hunt of the Red Dawn
 >When **you Surveil while looking for a specific individual**, on a 4+ the GM will also tell you what their most recent movements here were, if any.
 
 ---
