@@ -9,7 +9,7 @@
 ---
 
 >#### Deep Deduction
->When **you are in close proximity with someone and make deductions from their appearance, behaviour and mannerisms**, roll **Wit** and choose one of the following options: surface thoughts, emotions, secrets, desires.
+>When **you are in close proximity with someone and make deductions from their appearance, behaviour and mannerisms**, roll **Wit** and choose one of the following options: *surface thoughts*, *emotions*, *secrets*, desires.
 >
 >---
 >**On a 6**, you deduce something about the chosen topic;
