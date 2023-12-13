@@ -24,8 +24,8 @@
 
 ---
 
->#### Crazy Eyes 
->When **you stare someone down with your crazy eyes**, roll **Force**. 
+>#### Sumasshedshiye glaza 
+>When **someone intrudes on you and you stare them down with your crazy eyes**, roll **Force**. 
 >
 >---
 >**On a 4+**, they back off and leave you alone
