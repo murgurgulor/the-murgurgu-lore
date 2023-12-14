@@ -40,4 +40,4 @@ If you play Keiko Kuruoshi, you will have access to these **Specialty Moves**:
 >
 >**On a 3-**, hold 1 Prep.
 >
->When you are presented with an obstacle, problem or person in your way during the session, you can explain how you have prepared for this exact scenario and spend 1 Prep. Then tell everyone how you deal with the obstacle and carry on.
+>When **you are presented with an obstacle, problem or person in your way during the session**, you can explain how you have prepared for this exact scenario and spend 1 Prep. Then tell everyone how you deal with the obstacle and carry on.
