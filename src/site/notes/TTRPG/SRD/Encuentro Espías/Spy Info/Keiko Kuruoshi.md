@@ -17,19 +17,27 @@ If you play Keiko Kuruoshi, you will have access to these **Specialty Moves**:
 
 ---
 
->#### Jinsokuna Shiko
->When **you Surveil using deduction rather than perception**, you may roll Wit instead of Focus.
-
----
->#### Heist
->When **you take time to make a plan to steal something**, roll **Wit**.
+>#### Gee Willikers, Mister!
+>When **you employ your childish charm to excuse your presence in places you shouldn't be in**, roll **Guile**
 >
 >---
->**On a 6**, ask the GM 3 questions from the list below;
->**On a 4-5**, ask the GM 1 question from the list below.
->When you or your allies first act on an answer, *take +1d forward*.
+>**On a 6**, they think you're adorable: choose 2 from the list below;
 >
->- *Where can I find it?*
->- *What's the biggest obstacle to getting it?*
->- *How quickly will it be missed?*
->- *Who will notice it’s missing?*
+>**On a 4-5**, they think you're adorable: choose 1 from the list below.
+>
+>- *They allow you to snoop around unchallenged.*
+>- *They will indulge your curiosity and answer one question to the best of their knowledge.*
+
+---
+
+>#### Checkmate!
+>You never go anywhere unprepared. When **you're about to start a new session of the game**, roll **Wit**.
+>
+>---
+>**On a 6**, hold 3 Prep;
+>
+>**On a 4-5**, hold 2 Prep;
+>
+>**On a 3-**, hold 1 Prep.
+>
+>When you are presented with an obstacle, problem or person in your way during the session, you can explain how you have prepared for this exact scenario and spend 1 Prep. Then tell everyone how you deal with the obstacle and carry on.
