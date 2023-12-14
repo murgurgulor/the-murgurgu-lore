@@ -17,9 +17,21 @@ If you play Dmitri Dustov, you will have access to these **Specialty Moves**:
 
 ---
 
->#### Krasnyy Kulak
->When **you Overpower someone with Force**, they fall unconscious even on a 3-.
+>#### Mambo No. Die
+>When **someone intrudes on you at an inopportune moment and you want to scare them off**, roll **Force** as you describe yourself breaking out in an agressive and intimidating mambo dance. 
+>
+>---
+>**On a 4+**, they back off and leave you alone
+>
+>**On a 4-5**, choose 1 from the list below
+>
+>**On a 6**, choose 2 from the list below
+>
+>- *They won't tell anyone what they may have caught you doing.*
+>- *They won't tell anyone how weird you are.*
 
 ---
->#### Years of Experience 
->When **you Surveil a situation**, you can ask one extra question, even on a 3-.
+>#### The Stalingrad Night Cap
+>You are skilled in taking out people silently and efficiently. When **you Overpower someone with Focus by delivering a single precise hit to the neck**, you always render them unconscious, even on a 3-. 
+>
+>Additionally, when selecting consequences you never *show signs of a struggle yourself*.
