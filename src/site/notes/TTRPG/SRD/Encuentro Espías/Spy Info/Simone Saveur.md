@@ -17,12 +17,12 @@ If you play Simone Saveur, you will have access to these **Specialty Moves**:
 
 ---
 
->#### Escape Route
->When **you’re in too deep and need a way out**, roll **Agility**.
+>#### Crouching Tiger, Flying Nun
+>When **you use your surroundings to perform a gracefully extravagant acrobatic maneuver**, you can choose one of the following outcomes in addition to the normal outcome of your maneuver.
 >
->---
->**On a 6**, you’re gone;
->**On a 4-5**, you’re gone, but you leave something behind or take something with you, the GM will tell you what.
+>- *You grab something, it's now yours even if someone else was holding it first.*
+>- *You knock someone down or off-balance.*
+>- *You move from where you are to somewhere else in sight without difficulty.*
 
 ---
 >#### Con Artiste
@@ -30,4 +30,5 @@ If you play Simone Saveur, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 6**, only their intimate friends can tell the difference;
+>
 >**On a 4-5**, only people who don’t know the person are fooled.
