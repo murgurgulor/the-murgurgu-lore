@@ -18,7 +18,7 @@ If you play Keiko Kuruoshi, you will have access to these **Specialty Moves**:
 ---
 
 >#### Gee Willikers, Mister!
->When **you employ your childish charm to excuse your presence in places you shouldn't be in**, roll **Guile**
+>When **you employ your childish charm to infiltrate places you shouldn't be in**, roll **Guile**
 >
 >---
 >**On a 6**, they think you're adorable: choose 2 from the list below;
