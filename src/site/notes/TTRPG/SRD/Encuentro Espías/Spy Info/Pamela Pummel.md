@@ -26,6 +26,7 @@ If you play Pamela Pummel, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 6**, hold 3 Ruse;
+>
 >**On a 4-5**, hold 1 Ruse.
 >
 >Until your deception is exposed, you may spend Ruse 1-for-1 to:
