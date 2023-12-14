@@ -20,6 +20,7 @@ Each Spy has 3 item slots. Most items take up 1 slot, but some of them take up 2
 >- Portable voice recorder
 >- Small polaroid photocamera
 >- Switchblade
+>- Grappling hook
 >- Derringer handgun (1 bullet)
 >- Blackjack (2 slots, gives +1d to Overpower)
 >- Set of walkie-talkies (2 slots, provides long distance communication)
