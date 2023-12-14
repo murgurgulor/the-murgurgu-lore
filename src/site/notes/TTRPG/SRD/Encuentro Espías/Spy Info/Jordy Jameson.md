@@ -21,6 +21,7 @@ If you play Jordy Jameson, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 6**, choose 2 from the list below;
+>
 >**On a 4-5**, choose 1 from the list below.
 >
 >- *They are charmed and will help you out to the best of their ability*
@@ -32,6 +33,7 @@ If you play Jordy Jameson, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 6**, hold 3 Dash;
+>
 >**On a 4-5**, hold 1 Dash.
 >
 >While you’re in the situation, you may spend Dash 1-for-1 to:
