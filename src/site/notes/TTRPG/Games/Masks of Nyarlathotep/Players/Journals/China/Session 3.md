@@ -2,14 +2,14 @@
 {"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/China/Session 3.md","permalink":"/masks-of-nyarlathotep/journals/china/session-3/","tags":["TTRPG/Games/MoN"]}
 ---
 
-### Dateline: Sunday, March 30th, 1925
+### Dateline: Monday, March 30th, 1925
 The next morning, Dick sits Short Round down and tells him honestly that they're not just archeologists, they're also paranormal investigators. Short Round's eyes light up when he compares the crew to Dr. Jones. Lawrence is still violently ill and the group discusses whether to seek out regular medical care or a spiritual healer. They decide to head to a hospital. After some adminstration and tests, the doctor informs the group that Lawrence has radiation poisoning. It seems the Dark Mistress was powered nuclearly! This also explains the physical situation of Captain Jules Savoyard. The doctors inquire where he was exposed, to ensure public health and safety. Lawrence claims that he's been on so many ships that he can't possibly remember. Lawrence's case seems to be mild and he is discharged from the hospital. The group orders Short Round to make an anonymous phone call to the municipality to give them the approximate coordinates of the Dark Mistress' sunken wreck.
 
 Back in their hotel room, Lawrence takes some much deserved rest while the others check out the weird metallic cube they looted. Zasu feels a connection with the device and somehow knows that it's a [[TTRPG/Games/Masks of Nyarlathotep/Players/Tomes and Artefacts/China/R'lyehan Mist Maker\|R'lyehan Mist Maker]]! The connection she has made with the device allows her to activate it. 
 
 ---
 
-### Dateline: Monday, March 31st, 1925
+### Dateline: Tuesday, March 31st, 1925
 Upon awakening, Lawrence feels refreshed and all better. The group ponders their next move. If they ever decide to seek out Grey Dragon Island, they'll need transportation and intel. They decide to split up and look for ships or aircrafts for hire. Luckily, they find both! They think of the positives and negatives of each mode of transportation. Scouting ahead with an airplane will provide more information on the island, but will also draw the attention of anyone on the island. Going in with a ship means they might have the advantage of surprise, but also are unaware what they're actually sailing towards. They decide to shelf the dilemma for now and head to the Stumbling Tiger Bar. 
 
 The Stumbling Tiger Bar is a filthy and cramped place, in a part of town littered with gambling dens and flower girl houses. They approach the jolly looking barkeep who introduces himself as half-Chinese half-Scottish Fergus McChum, to much dismay of Zasu. They question him about Jackson Elias and he mentions seeing Jackson every now and then. When asked what Jackson Elias was doing here, he first feigns ignorance but then proceeds to tell a tale about how Jackson was meeting a man named Charley Gray about a weapons deal going on in Rangoon, Indonesia. The investigators realize that Rangoon is not in Indonesia but in Burma, and Fergus must be lying. Zasu attempts to converse with a man in a drunken stupor at the bar but he provides no helpful insights. 
