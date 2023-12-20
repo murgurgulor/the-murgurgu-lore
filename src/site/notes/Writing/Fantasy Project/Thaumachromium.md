@@ -60,6 +60,8 @@ Metaphysical Manifestations can be combined with Physical Manifestations to achi
 
 Through single and combined use of Manifestations a total of 29 different Manifested effects can be achieved.
 
+Ancient religious texts also mention a ninth Divine Manifestation, only to be wielded by the gods themselves. There is no proof or indication of its actual existence.
+
 ---
 
 ### Physical Manifestations 
