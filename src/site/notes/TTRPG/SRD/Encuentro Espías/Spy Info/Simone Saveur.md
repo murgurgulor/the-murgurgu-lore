@@ -30,5 +30,4 @@ If you play Simone Saveur, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 6**, only their intimate friends can tell the difference;
->
 >**On a 4-5**, only people who don’t know the person are fooled.
