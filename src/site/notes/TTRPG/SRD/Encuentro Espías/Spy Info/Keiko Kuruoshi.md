@@ -22,7 +22,6 @@ If you play Keiko Kuruoshi, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 6**, they think you're adorable: choose 2 from the list below;
->
 >**On a 4-5**, they think you're adorable: choose 1 from the list below.
 >
 >- *They allow you to snoop around unchallenged.*
@@ -35,9 +34,7 @@ If you play Keiko Kuruoshi, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 6**, hold 3 Prep;
->
 >**On a 4-5**, hold 2 Prep;
->
 >**On a 3-**, hold 1 Prep.
 >
 >When **you are presented with an obstacle, problem or person in your way during the session**, explain how you have prepared for this exact scenario and spend 1 Prep. Then tell everyone how you deal with the obstacle and carry on.
