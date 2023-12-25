@@ -22,9 +22,7 @@ If you play Dmitri Dustov, you will have access to these **Specialty Moves**:
 >
 >---
 >**On a 4+**, they back off and leave you alone
->
 >**On a 4-5**, choose 1 from the list below
->
 >**On a 6**, choose 2 from the list below
 >
 >- *They won't tell anyone what they may have caught you doing.*
