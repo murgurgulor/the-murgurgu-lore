@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Thaumachromium.md","dg-permalink":"thaumachromium","permalink":"/thaumachromium/","hide":true,"tags":["Writing"]}
 ---
 
+The following is a summary of the world's current understanding of magic.
+
 # What is Thaumachrome
 Thaumachrome is best described as an insubstantial state of energy that blankets the planet like an atmosphere. It doesn't appear to be either a gas, liquid, solid or plasma. Its natural state is inert, but it can be used by individuals with a specific predisposed proficiency and capacity to fuel the manifestation of extraordinary effects that defy natural law. These individuals have existed since the dawn of humanity and their powers were initially ascribed to divine sources, claiming them servants or avatars of the gods. The rise of science in the past two hundred years has developed an understanding of the nature and mechanics of the thaumachrome and these individuals, and has rejected the theory of divine forces. Though the scientific method has enthralled a large part of the world, a significant portion still holds to the religious angle.
 
