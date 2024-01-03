@@ -7,6 +7,7 @@
 - [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 1\|Session 1]]: October 17, 2023
 - [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 2\|Session 2]]: November 23, 2023
 - [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 3\|Session 3]]: December 19, 2023
+- [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Session 4\|Session 4]]: January 02, 2024
 - [[TTRPG/Games/Masks of Nyarlathotep/Players/Journals/China/Transcript of Jack Brady's Story\|Transcript of Jack Brady's Story]]: \-
 
 { .block-language-dataview}
