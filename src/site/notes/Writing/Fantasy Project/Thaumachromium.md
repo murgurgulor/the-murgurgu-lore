@@ -99,8 +99,8 @@ Manifesting Mind means tapping into a creature's cognitive energy. Through this 
 #### Metaphysical Manifestations combined with Physical Manifestations 
 When Metaphysical Manifestations are combined with Physical Manifestations, their effects target living creatures only. The caster can choose to spread out a blanket effect, or choose to focus the effect on a single or several specific creatures.
 
-###### Vigor (Force/Fire)
-Manifesting Force and Fire increases the target's physical energy and strength. In effect, thaumachrome is offered to the target as an energy source. This effect does not heal any pre-existing fatigue, which will return as soon as the manifesting ends. It also has no effect on mental awareness and tiredness.
+###### Might (Force/Fire)
+Manifesting Force and Fire increases the target's physical energy and strength. It allows the target to feel physically energized and it enhances their physical strength beyond normal human limits. This effect does not heal any pre-existing fatigue, which will return as soon as the manifesting ends. It also has no effect on mental awareness and tiredness.
 
 If wanting to use offensively, the caster can burst their Manifestation to cause heart palpitations. They can ebb and flow the thaumachrome to throw the target off-balance or mess with their momentum and movements through the rapidly changing physical abilities.
 
@@ -141,7 +141,7 @@ If wanting to use offensively, the caster can burst their Manifestation to force
 
 ---
 
-##### Existential Manifestations 
+### Existential Manifestations 
 The Existential Manifestations deal with the forces of life and death. They can be combined with any other Manifestation to give them new effects based on their part in the cycle of existence. The Existential Manifestations can also be combined with each other, but due to their nature they achieve a net zero effect. The Existential Manifestations are Growth and Decay.
 
 ###### Growth 
