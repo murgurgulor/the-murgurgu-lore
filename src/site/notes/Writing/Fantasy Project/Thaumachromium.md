@@ -166,7 +166,7 @@ Theoretically a caster proficient in both Growth and Decay can combine the Manif
 #### Existential Manifestations combined with Metaphysical Manifestations 
 When the Existential Manifestations are combined with the Metaphysical Manifestations, their effects become the powers to give or take away physical and cognitive existence. This can target living creatures only.
 
-###### Healing (Growth/Force)
+###### Restoration (Growth/Force)
 Manifesting Growth and Force increases the target's natural growing and healing, but this process is fueled by the thaumachrome rather than the target's own energy. This allows for powerful healing of wounds or wild propagation of plants.
 
 ###### Destruction (Decay/Force)
