@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"thaumachromium","permalink":"/thaumachromium/","hide":true,"tags":["Writing"]}
+{"dg-publish":true,"dg-path":"Thaumachromium.md","dg-permalink":"thaumachromium","permalink":"/thaumachromium/","hide":true,"tags":["Writing"]}
 ---
 
 The following is a summary of the world's current understanding of magic.
