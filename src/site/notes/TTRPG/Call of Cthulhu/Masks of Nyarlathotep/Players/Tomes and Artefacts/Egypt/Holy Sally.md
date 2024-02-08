@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/egypt/holy-sally/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/Egypt/Holy Sally.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/egypt/holy-sally/","tags":["TTRPG/Games/MoN"]}
 ---
 
 Shark's trusty handgun, imbued with holy powers reputed to be from Allah itself. It does wicked damage to otherworldly horrors.
