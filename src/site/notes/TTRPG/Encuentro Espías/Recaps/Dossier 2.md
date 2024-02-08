@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/encuentro-espias/recaps/dossier-2/","pinned":true,"tags":["TTRPG/Games/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Recaps/Dossier 2.md","permalink":"/encuentro-espias/recaps/dossier-2/","pinned":true,"tags":["TTRPG/Games/EE"]}
 ---
 
 # Dossier #2
