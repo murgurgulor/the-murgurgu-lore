@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-digital-garden/the-murgurgu-lore/","hide":true,"tags":["DG","gardenEntry"]}
+{"dg-publish":true,"dg-path":"The Murgurgu Lore.md","permalink":"/the-murgurgu-lore/","hide":true,"tags":["DG","gardenEntry"]}
 ---
 
 
