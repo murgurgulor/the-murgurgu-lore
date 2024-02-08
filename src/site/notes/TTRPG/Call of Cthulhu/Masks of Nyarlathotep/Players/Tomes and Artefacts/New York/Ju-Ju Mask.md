@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/new-york/ju-ju-mask/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/New York/Ju-Ju Mask.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/new-york/ju-ju-mask/","tags":["TTRPG/Games/MoN"]}
 ---
 
 A strange mask was found in the Ju-Ju House. It consists of a cage made of a wood unknown to the investigators with covers the head of the wearer. Perched on top of the cage are stylised carvings of four figures, reminiscent of masks worn by the Yoruba tribes to channel their gods.
