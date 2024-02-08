@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/new-york/amongst-the-stones/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/New York/Amongst the Stones.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/new-york/amongst-the-stones/","tags":["TTRPG/Games/MoN"]}
 ---
 
 **Location:** Roger Carlyle’s Library
