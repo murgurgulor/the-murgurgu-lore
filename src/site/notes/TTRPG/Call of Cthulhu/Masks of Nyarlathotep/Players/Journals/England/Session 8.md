@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/england/session-8/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/England/Session 8.md","permalink":"/masks-of-nyarlathotep/journals/england/session-8/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Thursday, February 5th, 1925
