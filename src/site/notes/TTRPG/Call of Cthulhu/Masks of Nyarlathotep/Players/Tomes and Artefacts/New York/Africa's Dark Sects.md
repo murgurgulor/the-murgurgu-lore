@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/new-york/africa-s-dark-sects/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/New York/Africa's Dark Sects.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/new-york/africa-s-dark-sects/","tags":["TTRPG/Games/MoN"]}
 ---
 
 **Location:** M’Dari’s Alcove in Ju-Ju House basement.
