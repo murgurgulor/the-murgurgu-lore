@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/new-york/session-3/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/New York/Session 3.md","permalink":"/masks-of-nyarlathotep/journals/new-york/session-3/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Saturday, January 17th, 1925
