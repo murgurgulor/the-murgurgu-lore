@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/england/song-of-the-djinn/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/England/Song of the Djinn.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/england/song-of-the-djinn/","tags":["TTRPG/Games/MoN"]}
 ---
 
 **Location:** Misr House - Secret Workroom (England)
