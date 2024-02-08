@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/china/china-leads/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/China/China Leads.md","permalink":"/masks-of-nyarlathotep/journals/china/china-leads/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ## Leads pointing to China
