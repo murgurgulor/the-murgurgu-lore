@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/china/r-lyehan-mist-maker/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/China/R'lyehan Mist Maker.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/china/r-lyehan-mist-maker/","tags":["TTRPG/Games/MoN"]}
 ---
 
 A small metal cube of 20 cm on each side, covered in miniscule tubes and holes. One attuned to the Mist Maker can expend **1 Sanity** and a **variable number of Magic Points** to command the apparatus to spew forth a thick cloud of mist. 
