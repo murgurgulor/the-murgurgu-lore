@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/new-york/life-as-a-god/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/New York/Life as a God.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/new-york/life-as-a-god/","tags":["TTRPG/Games/MoN"]}
 ---
 
 **Location:** Roger Carlyle’s Library
