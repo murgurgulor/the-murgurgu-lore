@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/clues/china-clues/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/China Clues.md","permalink":"/masks-of-nyarlathotep/clues/china-clues/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### [CH1] Seamen's Club Damaged
