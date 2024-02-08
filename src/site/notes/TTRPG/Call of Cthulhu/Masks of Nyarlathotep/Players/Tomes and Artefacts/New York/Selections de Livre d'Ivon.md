@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/new-york/selections-de-livre-d-ivon/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/New York/Selections de Livre d'Ivon.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/new-york/selections-de-livre-d-ivon/","tags":["TTRPG/Games/MoN"]}
 ---
 
 **Location:** Roger Carlyle’s Library
