@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/egypt/egypt-leads/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Egypt/Egypt Leads.md","permalink":"/masks-of-nyarlathotep/journals/egypt/egypt-leads/","tags":["TTRPG/Games/MoN"]}
 ---
 
 # Active Threads of Investigation
