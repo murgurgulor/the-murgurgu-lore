@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/new-york/session-1/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/New York/Session 1.md","permalink":"/masks-of-nyarlathotep/journals/new-york/session-1/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Thursday, January 15th, 1925
@@ -9,7 +9,7 @@ After a relatively calm 9 months, the group gets a telegram from Jackson Elias o
 At the Hotel Chelsea the group meets Elliot ‘Ready’ Young and is escorted up to Room 410. After knocking provides no answer, Elliot opens the door with the master key and the group is greeted with a terrible sight: Jackson Elias is lying dead on the bed, covered in blood. Standing over him is an African-American man with a long curved blade, who appears to be carving something into Jackson’s forehead. Further in the room a second African-American man is seen rummaging through a desk, and a Caucasian man rummaging through some drawers. All three men are wearing a leather headband with a long strip of red cloth attached to it.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/images/new-york-images/#the-murder-of-jackson-elias" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/masks-of-nyarlathotep/images/new-york-images/#the-murder-of-jackson-elias" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
