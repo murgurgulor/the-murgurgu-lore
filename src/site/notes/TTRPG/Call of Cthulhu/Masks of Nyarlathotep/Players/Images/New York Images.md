@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/images/new-york-images/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Images/New York Images.md","permalink":"/masks-of-nyarlathotep/images/new-york-images/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### The Murder of Jackson Elias
