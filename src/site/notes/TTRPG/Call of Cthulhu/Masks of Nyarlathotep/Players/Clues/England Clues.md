@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/clues/england-clues/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/England Clues.md","permalink":"/masks-of-nyarlathotep/clues/england-clues/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### [EN1] The Egyptian Murders
