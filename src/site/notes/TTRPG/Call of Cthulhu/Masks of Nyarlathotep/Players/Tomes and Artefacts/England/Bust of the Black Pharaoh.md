@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/england/bust-of-the-black-pharaoh/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/England/Bust of the Black Pharaoh.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/england/bust-of-the-black-pharaoh/","tags":["TTRPG/Games/MoN"]}
 ---
 
 Found in the secret room of Gavigan in the Misr House, this 60cm high bust made of an unknown black material depicts the Black Pharaoh. Staring at the bust for too long invokes feelings of the cold depths of space and something terrible beyond reaching out.
