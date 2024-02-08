@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/clues/egypt-clues/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/Egypt Clues.md","permalink":"/masks-of-nyarlathotep/clues/egypt-clues/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### [EG1] Warren Besart's Statement
