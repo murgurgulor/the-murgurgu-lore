@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/encuentro-espias/game-mechanics/detailed-moves-and-examples-of-play/","tags":["TTRPG/Games/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Game Mechanics/Detailed Moves and Examples of Play.md","permalink":"/encuentro-espias/game-mechanics/detailed-moves-and-examples-of-play/","tags":["TTRPG/Games/EE"]}
 ---
 
 The following is more in-depth information about the various Basic Moves, including how they would be used in play. The Luck Moves are not featured here.
