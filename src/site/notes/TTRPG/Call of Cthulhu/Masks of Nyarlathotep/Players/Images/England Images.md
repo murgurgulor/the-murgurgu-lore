@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/images/england-images/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Images/England Images.md","permalink":"/masks-of-nyarlathotep/images/england-images/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Byakhee
