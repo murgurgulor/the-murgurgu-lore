@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/images/images/","hide":true,"tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Images/Images.md","permalink":"/masks-of-nyarlathotep/images/images/","hide":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Images/Egypt Images\|Egypt Images]]
