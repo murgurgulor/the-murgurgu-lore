@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/encuentro-espias/spy-info/simone-saveur/","tags":["TTRPG/Games/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Simone Saveur.md","permalink":"/encuentro-espias/spy-info/simone-saveur/","tags":["TTRPG/Games/EE"]}
 ---
 
 # Mme Simone Saveur, Espionne
