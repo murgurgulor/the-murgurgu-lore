@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/tomes-and-artefacts/tomes-and-artefacts/","hide":true,"tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Tomes and Artefacts/Tomes and Artefacts.md","permalink":"/masks-of-nyarlathotep/tomes-and-artefacts/tomes-and-artefacts/","hide":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
 | Tome/Artefact                                                                                                                                  | Found in                   |
