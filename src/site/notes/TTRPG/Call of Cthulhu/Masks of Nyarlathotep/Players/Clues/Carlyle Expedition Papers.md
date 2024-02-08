@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/clues/carlyle-expedition-papers/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/Carlyle Expedition Papers.md","permalink":"/masks-of-nyarlathotep/clues/carlyle-expedition-papers/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ![(CE1) Carlyle Expedition News Clipping 1.png](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/Carlyle%20Expedition/(CE1)%20Carlyle%20Expedition%20News%20Clipping%201.png)
