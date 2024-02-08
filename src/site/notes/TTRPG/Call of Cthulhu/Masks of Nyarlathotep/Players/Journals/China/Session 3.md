@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/china/session-3/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/China/Session 3.md","permalink":"/masks-of-nyarlathotep/journals/china/session-3/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Monday, March 30th, 1925
