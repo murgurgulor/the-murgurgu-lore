@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/england/session-1/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/England/Session 1.md","permalink":"/masks-of-nyarlathotep/journals/england/session-1/","tags":["TTRPG/Games/MoN"]}
 ---
 
 The group prepares for their trip to England. Considering its strict gun laws, each investigator handles this in their own way: Dick gets a weapons import permit and a letter of recommendation from Lt. Poole in order to apply for a firearms license in the UK, Shark methodically disassembles his and Zasu’s gun to smuggle along in photocamera equipment, Lawrence permanently ruins his gun, and Elliot just brings a shotgun.
