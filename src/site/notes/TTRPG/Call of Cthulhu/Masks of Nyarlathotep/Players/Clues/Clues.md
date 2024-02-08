@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/clues/clues/","hide":true,"tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/Clues.md","permalink":"/masks-of-nyarlathotep/clues/clues/","hide":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Clues/Egypt Clues\|Egypt Clues]]
