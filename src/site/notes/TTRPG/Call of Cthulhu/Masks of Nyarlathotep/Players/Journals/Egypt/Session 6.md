@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/egypt/session-6/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Egypt/Session 6.md","permalink":"/masks-of-nyarlathotep/journals/egypt/session-6/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Dateline: Sunday, February 22nd, 1925
