@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/journals/china/transcript-of-jack-brady-s-story/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/China/Transcript of Jack Brady's Story.md","permalink":"/masks-of-nyarlathotep/journals/china/transcript-of-jack-brady-s-story/","tags":["TTRPG/Games/MoN"]}
 ---
 
 So, yeah, I'm Jack Brady. And I'm the only sane one left from that damned Expedition. At least I think I'm still sane. I don't know, maybe I'm as crazy as the rest of them. Regardless: we're all in a LOT of trouble. The more I learn about the full concept of the situation, the more scared I get. When I told my story to Jackson, I felt some relief. Certainly people would read his book and do something about this cult, but in the end they caught up with him just the same. I warned him! I didn't hold anything back! I'll give you guys the courtesy of the same warning: the cult plays for keeps. They'll do anything, and I mean anything, to get what they want.
