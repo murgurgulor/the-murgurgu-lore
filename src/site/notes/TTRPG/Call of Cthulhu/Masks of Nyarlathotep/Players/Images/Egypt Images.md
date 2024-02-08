@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/images/egypt-images/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Images/Egypt Images.md","permalink":"/masks-of-nyarlathotep/images/egypt-images/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### Hunting Horror
