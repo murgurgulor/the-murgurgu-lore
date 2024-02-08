@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/call-of-cthulhu/masks-of-nyarlathotep/players/clues/new-york-clues/","tags":["TTRPG/Games/MoN"]}
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Clues/New York Clues.md","permalink":"/masks-of-nyarlathotep/clues/new-york-clues/","tags":["TTRPG/Games/MoN"]}
 ---
 
 ### [AM0] Telegram from Jackson Elias
