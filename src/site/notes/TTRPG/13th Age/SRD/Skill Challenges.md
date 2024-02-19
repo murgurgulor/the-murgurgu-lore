@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/13th-age/srd/skill-challenges/","hide":true,"tags":["TTRPG/13A/SRD"]}
+{"dg-publish":true,"dg-path":"Skill Challenges.md","permalink":"/skill-challenges/","hide":true,"tags":["TTRPG/13A/SRD"]}
 ---
 
 
