@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Skill Challenges.md","permalink":"/skill-challenges/","hide":true,"tags":["TTRPG/13A/SRD"]}
+{"dg-publish":true,"dg-path":"Skill Challenges.md","permalink":"/skill-challenges/","hide":"faks","tags":["TTRPG/13A/SRD"]}
 ---
 
 
