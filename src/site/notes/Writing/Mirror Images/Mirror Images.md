@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Mirror Images/Mirror Images.md","dg-permalink":"mirror-images","permalink":"/mirror-images/","hide":true,"tags":["Writing"]}
+{"dg-publish":true,"dg-path":"Mirror Images.md","dg-permalink":"mirror-images","permalink":"/mirror-images/","hide":true,"tags":["Writing"]}
 ---
 
 # Mirror Images 
