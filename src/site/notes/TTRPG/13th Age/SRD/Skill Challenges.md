@@ -111,7 +111,7 @@ After all the Stages of the Challenge have been completed, present the Goal that
 Boudica, Barbazoobo, Daniel and Kaggra have found themselves trapped in a cursed item of the Lich Queen's making! They are trapped in a pocket dimension graveyard where all manner of undead horrors and terrors will continue assailing them until they break the curse from within!
 
 To resolve this scene, the GM decides to run it as a Skill Challenge. 
-- The Goal is to break free by destroying a cursed object in the pocket dimension. This is a Static Goal, there is no other party involved that can change this goal.
+- The Goal is to break free by destroying a cursed object in the pocket dimension. This is a Static Goal: there is no other party involved that can change this goal.
 - The Environment is the pocket dimension graveyard, but to change things up a bit, the GM decides that the cursed object is located in an ornate mausoleum.
 - The GM thinks of a few thematic Obstacles: a horde of rotting zombies, clawing skeletal hands reaching up from the ground, the door to the mausoleum might be locked, and corpse bats might fly in at some point.
 - Finally the length of the Challenge. Considering the scene they're in and the fact that the PCs are relatively good on health and resources, the GM makes this a 3 Stage Challenge. The Stages are set as followed:
