@@ -10,6 +10,12 @@ For a Skill Challenge to make sense, the PCs must want to reach a certain Goal a
 Below is covered how to create the framework of a Skill Challenge, how to build the different Stages and how to finally run and resolve the Challenge.
 
 ---
+**Table of Contents**
+```toc
+
+```
+
+---
 
 # Skill Challenge Framework
 - Determine the Goal of the Challenge (where do the PCs want to be or what do they want to have achieved)?
