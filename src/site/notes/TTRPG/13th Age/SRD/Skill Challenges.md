@@ -254,7 +254,7 @@ With this framework set up, the GM is ready to run the Challenge! She explains t
 Boudica, Barbazoobo, Daniel and Kaggra have found themselves in the tower of an Evil Conjurer of Cheap Tricks! They know the Conjurer is about to open a portal to the Netherrealm to summon a flock of imps to his side, and they want to prevent that from happening and put a stop to him for once and all!
 
 To resolve this scene, the GM decides to run it as a Skill Challenge. 
-- The Goal is to reach the Conjurer through his tower in time to prevent him from opening the portal. This is a Dynamic Goal: the actions and successes of the party can influence to what extent the Conjurer reaches his goal.
+- The Goal is to reach the Conjurer through his tower in time to prevent him from opening the portal. This is a Dynamic Goal: there's someone else involved and the actions and successes of the party can influence to what extent the Conjurer reaches his goal.
 - The Environment is the tower. The GM decides that she wants to at least involve a collapsing staircase so there'll need to be a staircase somewhere. Other than that just general tower environment would work.
 - The GM already decided she wants a collapsing staircase as an Obstacle, so that's set. She also thinks a weird magical trap with falling conjured debris sounds like fun.
 - Considering that the GM doesn't want to detract attention away from the main fight for too long and she doesn't want to wear the party out too much before the grand finale, she settles on a 2 Stage Challenge.
