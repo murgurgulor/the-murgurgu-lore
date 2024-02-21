@@ -249,6 +249,27 @@ With this framework set up, the GM is ready to run the Challenge! She explains t
 >
 >*Barbazoobo rolls a total of 20, they just make it! Kaggra unfortunately rolls 13, a failure. The GM asks everyone to pitch in to narrate this climax and they describe Barbazoobo and Boudica frantically ramming the door while Daniel tries to suppress the incantation with his magic. Kaggra sends out waves of holy energy but it's not good enough, a few of the zombies break through and Kaggra takes 4d6 damage from their ripping fingers. The door busts open, however, and the Skill Challenge is complete! The GM explains a dark glass egg sat in the center of the mausoleum and explains that breaking this object will set them free. The GM asks the party how they want to do this, but no roll has to be made: the Challenge is finished so the rest is just flavour and fluff.*
 
+---
+# Example 2
+Boudica, Barbazoobo, Daniel and Kaggra have found themselves in the tower of an Evil Conjurer of Cheap Tricks! They know the Conjurer is about to open a portal to the Netherrealm to summon a flock of imps to his side, and they want to prevent that from happening and put a stop to him for once and all!
+
+To resolve this scene, the GM decides to run it as a Skill Challenge. 
+- The Goal is to reach the Conjurer through his tower in time to prevent him from opening the portal. This is a Dynamic Goal: the actions and successes of the party can influence to what extent the Conjurer reaches his goal.
+- The Environment is the tower. The GM decides that she wants to at least involve a collapsing staircase so there'll need to be a staircase somewhere. Other than that just general tower environment would work.
+- The GM already decided she wants a collapsing staircase as an Obstacle, so that's set. She also thinks a weird magical trap with falling conjured debris sounds like fun.
+- Considering that the GM doesn't want to detract attention away from the main fight for too long and she doesn't want to wear the party out too much before the grand finale, she settles on a 2 Stage Challenge.
+	1. Traversing the atrium past magical traps
+	2. Making it up a collapsing staircase
+
+Considering it's a Dynamic Goal, the GM thinks of 3 possible outcomes: one positive outcome, a neutral outcome and a negative outcome. She decides that the outcome influences how many imps fight alongside the Conjurer in the battle. 
+- In a neutral outcome - which will be the default - there will be some imps helping the Conjurer. 
+- In the good outcome, which will occur if the party succeeds on both Stages, there will be only one or two imps. 
+- In the bad outcome, which will occur if the party fails both Stages, there will be some imps helping the Conjurer, and some more showing up later in the battle (*staggering mooks like this prevents the party from being overwhelmed from the beginning while still presenting a harder fight than usual*)!
+
+With this framework set up, the GM is ready to run the Challenge! She explains to the players that the next scene will play out like a Skill Challenge, and goes over the rules: she'll set the scene for a Stage, and then everyone gets a chance to do something to advance their position in that scene. If they fail their Task, they have a choice of not contributing to the success of the Stage, or incurring a cost or penalty for themselves!
+
+>[!quote]- Example of a Skill Challenge with a Dynamic Goal
+>example go here
 
 ---
 
