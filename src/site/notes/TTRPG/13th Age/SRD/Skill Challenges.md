@@ -179,7 +179,7 @@ With this framework set up, the GM is ready to run the Challenge! She explains t
 >---
 >**Boudica:** Alright, I'll grab my swords and start swinging at these claws to carve a way through!
 >
->**GM:** Well, your arms are a bit fatigued from the previous Stage where you were fighting off the bats. You can try to do this but it would a second attack roll in this Challenge, so the DC will increase by 5 to 20!
+>**GM:** Well, your arms are a bit fatigued from the previous Stage where you were fighting off the bats. You can try to do this but it would be the second time you'd use an attack roll in this Challenge, so the DC will increase by 5 to 20!
 >
 >**Boudica:** Bah, never mind then. I'll employ my acrobatical proficiency to deftly step, dodge and weave through the tangling mess!
 >
