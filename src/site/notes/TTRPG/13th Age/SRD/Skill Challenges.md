@@ -121,7 +121,7 @@ To resolve this scene, the GM decides to run it as a Skill Challenge.
 
 With this framework set up, the GM is ready to run the Challenge! She explains to the players that the next scene will play out like a Skill Challenge, and goes over the rules: she'll set the scene for a Stage, and then everyone gets a chance to do something to advance their position in that scene.
 
->[!quote]
+>[!quote]- Example of a Skill Challenge with a Static Goal
 >*GM: So, you guys find yourself falling through the empty void of interplanar space and with a dull thud you suddenly smack on slimy, wet grass. When you look around you, you notice a pitch black sky, yet there seems to be an ambient light around without an apparent source. The place you find yourself in brings a shiver to your spine. In the widespread ground covered in mulch and long, unkept grass you see broken tombstones jutting angles out of the ground in all angles like crooked, jagged teeth. In the distance you notice some buildings with ghoulish stone guardians in front of the doors - mausoleums. The air is cloying with a thick, heavy scent of rot and decay.* 
 >
 >*You gather yourselves up and take stock of your situation. It seems you have been transported to some deadly environment. Just when you start thinking about how you're going to get out of this place - certainly this must be some magical effect - you hear a screech in the air, quickly joined by hundreds of other screeches. The flapping of leathery torn wings on the air. A swarm of gauntly bats are making their way to you!*
