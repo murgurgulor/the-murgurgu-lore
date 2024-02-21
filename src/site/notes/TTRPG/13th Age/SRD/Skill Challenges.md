@@ -266,7 +266,7 @@ Considering it's a Dynamic Goal, the GM thinks of 3 possible outcomes: one posit
 - In the good outcome, which will occur if the party succeeds on both Stages, there will be only one or two imps. 
 - In the bad outcome, which will occur if the party fails both Stages, there will be some imps helping the Conjurer, and some more showing up later in the battle (*staggering mooks like this prevents the party from being overwhelmed from the beginning while still presenting a harder fight than usual*)!
 
-With this framework set up, the GM is ready to run the Challenge! She explains to the players that the next scene will play out like a Skill Challenge, and goes over the rules: she'll set the scene for a Stage, and then everyone gets a chance to do something to advance their position in that scene. If they fail their Task, they have a choice of not contributing to the success of the Stage, or incurring a cost or penalty for themselves!
+With this framework set up, the GM is ready to run the Challenge! She explains to the players that the next scene will play out like a Skill Challenge, and goes over the rules: she'll set the scene for a Stage, and then everyone gets a chance to do something to advance their position in that scene. If they fail their Task, they have a choice of either not contributing to the success of the Stage, or incurring a cost or penalty for themselves!
 
 >[!quote]- Example of a Skill Challenge with a Dynamic Goal
 >example go here
