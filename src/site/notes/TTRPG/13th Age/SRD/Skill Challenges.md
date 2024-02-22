@@ -281,15 +281,14 @@ With this framework set up, the GM is ready to run the Challenge! She explains t
 
 ---
 # Example 2
-Boudica, Barbazoobo, Daniel and Kaggra have found themselves in the tower of an Evil Conjurer of Cheap Tricks! They know the Conjurer is about to open a portal to the Netherrealm to summon a flock of imps to his side, and they want to prevent that from happening and put a stop to him for once and all!
+The following is an example of a Skill Challenge with a Dynamic Goal and a Variable Path. This allows the players a lot of freedom in approaching the Goal, but may require more confidence and improvisation from the GM. In this Challenge, Boudica, Barbazoobo, Daniel and Kaggra have found themselves chasing an Evil Conjurer in a small mining town. They know the Conjurer is about to open a portal to the Netherrealm to summon a flock of imps to his side, and they want to prevent that from happening and put a stop to him for once and all! The only problem is that they don't know where he's hiding.
 
-To resolve this scene, the GM decides to run it as a Skill Challenge. 
-- The Goal is to reach the Conjurer through his tower in time to prevent him from opening the portal. This is a Dynamic Goal: there's someone else involved and the actions and successes of the party can influence to what extent the Conjurer reaches his goal.
-- The Environment is the tower. The GM decides that she wants to at least involve a collapsing staircase so there'll need to be a staircase somewhere. Other than that just general tower environment would work.
-- The GM already decided she wants a collapsing staircase as an Obstacle, so that's set. She also thinks a weird magical trap with falling conjured debris sounds like fun.
-- Considering that the GM doesn't want to detract attention away from the main fight for too long and she doesn't want to wear the party out too much before the grand finale, she settles on a 2 Stage Challenge.
-	1. Traversing the atrium past magical traps
-	2. Making it up a collapsing staircase
+The GM knows the confrontation with the Conjurer will be a proper combat, but the way there is expedited as a Skill Challenge.
+- The Goal is to *Find the Conjurer before he manages to open the portal*. This is a Dynamic Goal: there's someone else involved and the actions and successes of the party can influence to what extent the Conjurer reaches his goal.
+- The Path is Variable: the GM has decided that the portal site is in an abandoned basement in a town, and the PCs don't know which building it is. There are many different ways they could go about this, and it's unpredictable how the party will proceed.
+- The Environment is the town. The GM decides that it's a poor town with many unemployed people on the streets, and small and dark alleyways filled with thugs. 
+- Because the GM doesn't know how the party will go about it, she'll have to decide on a number of different Obstacles that may come into play. Townsfolk who will want to be paid for their information can be an Obstacle, the tracks the Conjurer has left may be hard to spot, and when the Conjurer gets closer to his goal, all kinds of magical mishaps may start occuring!
+- Considering that the GM doesn't want to detract attention away from the main fight for too long and she doesn't want to wear the party out too much before the grand finale, she settles on a 2 Stage Challenge. She imagines that Stage 1 will be looking for clues and Stage 2 will be trying to break into the house of the Conjurer, but given that it's a Variable Path this is not set in stone.
 
 Considering it's a Dynamic Goal, the GM thinks of 3 possible outcomes: one positive outcome, a neutral outcome and a negative outcome. She decides that the outcome influences how many imps fight alongside the Conjurer in the battle. 
 - In a neutral outcome - which will be the default - there will be some imps helping the Conjurer. 
