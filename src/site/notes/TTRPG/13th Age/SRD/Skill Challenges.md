@@ -93,7 +93,7 @@ Sometimes not all players can (or have to) think of a separate Task for their PC
 
 Once a player has declared their Task and the type of roll has been decided, the player rolls their dice. After the dice are rolled, the GM compares the results to the DC for the Tasks and narrates the outcome. If wanted, the players can also add to the narrative of the outcome. This process continues until every PC has rolled for a Task or has aided on a Task (so everyone has had a chance to contribute).
 
-The DC for Tasks in the Challenge are based on the environmental tier. DCs can be shifted up or down at the GM's discretion. Always communicate the difficulty of a proposed Task to the player before they roll. A failed Tasks doesn't mean no progress is made, but that progress is made at a cost. With a Static Goal the cost is to the PC themselves (damage, resource loss, ongoing penalties), and with a Dynamic Goal the cost can be towards the final outcome. 
+The DC for Tasks in the Challenge are based on the environmental tier (13th Age specific, for D&D you can mostly use the Adventurer Tier column, moving up to Champion Tier for higher levels). DCs can be shifted up or down at the GM's discretion. Always communicate the difficulty of a proposed Task to the player before they roll. A failed Tasks doesn't mean no progress is made, but that progress is made at a cost. With a Static Goal the cost is to the PC themselves (damage, resource loss, ongoing penalties), and with a Dynamic Goal the cost can be towards the final outcome. 
 
 ##### Task Difficulty 
 | Task Difficulty       | Adventurer Tier | Champion Tier | Epic Tier |
