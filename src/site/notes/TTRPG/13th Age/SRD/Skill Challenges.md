@@ -63,6 +63,8 @@ The Obstacles are what makes the Challenge a Challenge. Obstacles are passive or
 
 In order to account for the unpredictable nature of players, the GM should take care to think of a number of different Obstacles. Defining them loosely also works. That way, the GM can decide on the fly what Obstacle to place in which Environment at a specific part of the Challenge, in response to the actions and behaviour of the PCs. 
 
+If the GM has time to prepare the Skill Challenge, it's always a good idea to already think of a few different ways the PCs could overcome the Obstacles. Well-rounded Obstacles could be overcome in a few different ways, and if a player gets stuck not knowing what to do the GM can make a suggestion.
+
 ### Stages
 The amount of Stages determines how long the Challenge should take. In a Stage, the PCs are presented with an Environment and one or more Obstacles to overcome. Each PC can contribute to overcoming the Obstacles in the Stage, and the Stage ends when every PC has resolved their action. 
 
@@ -85,7 +87,7 @@ When the PCs enter a Stage of a Challenge, describe the Environment and Obstacle
 ### Declaring and Resolving Tasks
 Each PC gets to perform a Task to try and overcome the Obstacles in the Stage. Let their imagination run wild. If they suggest a feature might be present in the Stage to base a cool Task off, be lenient ('sure, there can be a chandelier on the ceiling to swing from!'). If they want to incorporate a flashback of preparation they might have done earlier, allow that with leniency as well. The PCs can declare their Tasks in whatever order they want. If it makes sense narratively, if one player declares an action that would create new opportunities for other Tasks, they can build on that. If the players can't decide or don't want to decide on an order themselves, let them roll Initiative to decide the order.
 
-When a Task is declared, the GM and player decide on what kind of check is required to complete the Task. Most Tasks will be skill checks. If the Task selected involves taking out opposition by fighting, use an attack roll (condensating combat into a single roll). If a PC with magical capabilities wants to use their magic but not a specific spell (which may be a limited Resource), they can explain what magical effect they want to produce and roll a spellcasting check. Players can also decide to expend one of their limited Resources to fulfill a Task. In this case a roll is not required, they get an automatic success.
+When a Task is declared, the GM and player decide on what kind of check is required to complete the Task. Most Tasks will be skill checks. If the Task selected involves taking out opposition by fighting, use an attack roll (condensating combat into a single roll). If a PC with magical capabilities wants to use their magic but not a specific spell (which may be a limited Resource), they can explain what magical effect they want to produce and roll a spellcasting check. Players can also decide to expend one of their limited Resources to fulfill a Task. In this case a roll is not required, they get an automatic success. It's good to inform the players, especially in the case of spells, that the effect of the spells will sometimes not be handled exactly to the letter. Some spells are capable of instantly solving a Challenge if used as written. To avoid this, have a spell grant an effect that's in line with the purpose of the spell, but not verbatim to the spell's text. This may require some negotiation with the player, and if they decide the adapted effect is not worth it, let them retract their choice and go in a different area.
 
 Sometimes not all players can (or have to) think of a separate Task for their PC. In that case they can choose to help another PC instead. If they explain how they help out, the other PC gets a +2 to their roll. Any negative consequences of a failed roll then apply to both PCs. Generally only one PC can help one other, but in some cases - if it makes sense in the narrative - two or more PCs might provide help to a single ally.
 
@@ -298,8 +300,78 @@ Considering it's a Dynamic Goal, the GM thinks of 3 possible outcomes: one posit
 With this framework set up, the GM is ready to run the Challenge! She explains to the players that the next scene will play out like a Skill Challenge, and goes over the rules: she'll set the scene for a Stage, and then everyone gets a chance to do something to advance their position in that scene. If they fail their Task, they have a choice of either not contributing to the success of the Stage, or incurring a cost or penalty for themselves!
 
 >[!quote]- Example of a Skill Challenge with a Dynamic Goal
->example go here
-
+>*GM: You have followed the tracks of the Conjurer to the mountain town of Krezlen. You know he is close to opening a portal to the Netherrealm, and he's probably chosen this town to do it in. The only problem is, you don't know where he's hiding out!*
+>
+>*The town itself looks dreary. Once this was probably a more prosperous mining town, but the years have not been kind. Unemployed workers linger on the streets, playing games of chance or simply smoking and staring off into the distance. Children play with sticks and broken barrels. A slow rain starts to fall.*
+>
+>*It's up to you to try and find the Conjurer before he manages to open the portal and destroy this town, and probably more. This will be run as a Skill Challenge, and your successes and failures will determine the outcome. What do you do?*
+>
+>---
+>**Daniel:** Well that's easy, I cast Locate Person!
+>
+>**GM:** You confidently cast your spell, but you notice some strange interference. You definitely sense that the Conjurer is in this town, and you're even able to narrow it down to the northern side of town. Any more detail can't be gleaned, unfortunately. It seems the magics he is working are blurring your divinations!
+>*A stingy player could start balking and quoting the exact text for Locate Person. Remind them that this is how things can go in a Skill Challenge, and offer them to retcon their action if they didn't want to spend the Resource. As it is, the use of this spell has earned the group a point for this Stage.*
+>
+>**Boudica:** Alright, I'll head to the part of town the spell identified and I'll start asking around. I know how to move along the downtrodden of society and I'll employ my street smarts.
+>
+>**GM:** Cool, roll me a CHA with DC15.
+>
+>**Barbazoobo:** I'll help by playing a sad ballad while Boudica is talking!
+>
+>*Boudica rolls CHA with a +2 bonus from Barbazoobo's aid, and gets a 21. That's a high enough result to earn 2 points for this Stage!*
+>
+>**GM:** The men you talk to quickly warm to your demeanor, and though they don't know exactly where the Conjurer is, they do know that some strange noises have been heard a few blocks away.
+>Kaggra, you're left in this Stage, is there anything you want to do?
+>
+>**Kaggra:** I can't really think of anything...
+>
+>**Daniel:** Well, since my spell was distorted by weird interference, maybe you can see if you can open yourself up to that feeling and see where it emanates from?
+>
+>**Kaggra:** Yeah that sounds good, I'll roll spellcasting then!
+>
+>*The roll comes up as 12, not enough unfortunately!*
+>
+>**GM:** Kaggra, you try to feel the vibes but you're unable to really use them to pinpoint anything. You're not contributing to the success of this Stage right now, but if you want to you could try to open up yourself a bit more to the energies. You'll incur some damage but you'll be adding a point to this Stage.
+>
+>**Kaggra:** Well we already have 2 points from Daniel's spell en Boudica's talking, and as we've rolled for 3 Tasks it means we already have enough points (*more than half of the amount of Tasks rolled*) to succeed so I'll just leave it.
+>
+>---
+>*Now for the second Stage of this Challenge. It seems the party has already discerned enough directions to be close to the Conjurer, so to have another Stage revolving around figuring out what's up seems a bit pointless. The GM decides that the Conjurer has probably set up some defenses, and that the ritual must be nearing its end, so it's time to throw some active opposition against the party!*
+>
+>**GM:** You head in the direction specified by the gentlemen of this town, and you feel you must be getting closer. Arcane energies are starting to pulse through the air. At first it's just tangible, but then it suddenly intensifies and crackling bolts of magic start to fire in the air around you. If you're not careful, you'll get hit by one of the blasts! What do you do?
+>
+>**Daniel:** Can I attempt to use my magic to divert the energy away from us?
+>
+>**GM:** Yeah, roll a spellcasting check!
+>
+>*Daniel only rolls a 6! That's a great failure, so Daniel will have the choice to not contribute to this Stage or to do so but suffer a major consequence. The GM offers Daniel this choice.*
+>
+>**Daniel:** Ehhhh, I'd rather not take any damage or something. I'll just hope that the rest will perform well enough to succeed here!
+>
+>**GM:** Alright, Daniel you manage to divert the magic energy away from your party, but in doing so you've disturbed some magical energies and everything becomes very disorientating, left feels right, up looks like down, it's going to be hard to find your way!
+>
+>**Kaggra:** I'd like to call upon my divine magic to see the true way!
+>
+>**GM:** You already rolled a spellcasting check this Challenge, so if you want to do so again the DC will go up by 5.
+>
+>**Kaggra:** Ugggh fine, I'll look for the right way like a normal non-magical person.
+>
+>**Boudica:** I'll help!
+>
+>*The GM offers Kaggra the choice between INT and WIS. Kaggra has higher WIS so that's the obvious choice. Even with a +2 from Boudica, the result is only 14! Another failure!*
+>
+>**Kaggra:** Noooooooooooo
+>
+>**GM:** That's 2 failures. The Stage can still be a success if Barbazoobo rolls well enough to get 2 points (*again 3 Tasks will be made this Stage, and more than half of that number in points is required for a success*)
+>
+>**Barbazoobo:** I'll use my charisma to pump everyone up to just carry on and find this guy!
+>
+>*Barbazoobo rolls CHA, and gets a 19. A success, but not good enough for 2 points. This Stage has failed.*
+>
+>**Everyone:** Nooooooooooooooooooooooooooooooooooooooooooooooo
+>
+>**GM:** Bravely you power on, but you've lost some time finding your way. You hear a crackling sounds in the distance and the door of one of the houses blows out. A violent crack appears in the sky as the portal is very close to opening! You finally see the Conjurer appear, still concentrating on wrenching the portal further open. It seems he's not yet completed his endeavour, but a few imps are slipping through the cracks. It's time to put a stop to him once and for all, roll Initiative!
+>
 ---
 
 # Travel as a Skill Challenge
