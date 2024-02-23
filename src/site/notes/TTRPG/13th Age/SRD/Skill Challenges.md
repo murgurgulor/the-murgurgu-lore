@@ -336,7 +336,7 @@ With this framework set up, the GM is ready to run the Challenge! She explains t
 >**Kaggra:** Well we already have 2 points from Daniel's spell en Boudica's talking, and as we've rolled for 3 Tasks it means we already have enough points (*more than half of the amount of Tasks rolled*) to succeed so I'll just leave it.
 >
 >---
->*Now for the second Stage of this Challenge. It seems the party has already discerned enough directions to be close to the Conjurer, so to have another Stage revolving around figuring out what's up seems a bit pointless. The GM decides that the Conjurer has probably set up some defenses, and that the ritual must be nearing its end, so it's time to throw some active opposition against the party!*
+>*Now for the second Stage of this Challenge. It seems the party has already discerned enough directions to be close to the Conjurer, so to have another Stage revolving around figuring out what's up seems a bit pointless. The GM decides that the Conjurer has probably set up some defenses, and that the ritual must be nearing its end, so it's time to throw some active opposition against the party! To raise the stakes and tension, the GM sets the DC for this environment at 20 and communicates this clearly to the players.*
 >
 >**GM:** You head in the direction specified by the gentlemen of this town, and you feel you must be getting closer. Arcane energies are starting to pulse through the air. At first it's just tangible, but then it suddenly intensifies and crackling bolts of magic start to fire in the air around you. If you're not careful, you'll get hit by one of the blasts! What do you do?
 >
@@ -352,13 +352,13 @@ With this framework set up, the GM is ready to run the Challenge! She explains t
 >
 >**Kaggra:** I'd like to call upon my divine magic to see the true way!
 >
->**GM:** You already rolled a spellcasting check this Challenge, so if you want to do so again the DC will go up by 5.
+>**GM:** You already rolled a spellcasting check this Challenge, so if you want to do so again the DC will go up by 5. As the DC is already 20, that'd be a DC25 check!
 >
 >**Kaggra:** Ugggh fine, I'll look for the right way like a normal non-magical person.
 >
 >**Boudica:** I'll help!
 >
->*The GM offers Kaggra the choice between INT and WIS. Kaggra has higher WIS so that's the obvious choice. Even with a +2 from Boudica, the result is only 14! Another failure!*
+>*The GM offers Kaggra the choice between INT and WIS. Kaggra has higher WIS so that's the obvious choice. Even with a +2 from Boudica, the result is only 16! Another failure!*
 >
 >**Kaggra:** Noooooooooooo
 >
@@ -366,7 +366,7 @@ With this framework set up, the GM is ready to run the Challenge! She explains t
 >
 >**Barbazoobo:** I'll use my charisma to pump everyone up to just carry on and find this guy!
 >
->*Barbazoobo rolls CHA, and gets a 19. A success, but not good enough for 2 points. This Stage has failed.*
+>*Barbazoobo rolls CHA, and gets a 24. A success, but not good enough for 2 points. This Stage has failed.*
 >
 >**Everyone:** Nooooooooooooooooooooooooooooooooooooooooooooooo
 >
