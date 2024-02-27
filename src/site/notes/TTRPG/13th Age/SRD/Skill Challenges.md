@@ -83,15 +83,15 @@ Sometimes not all players can (or have to) think of a separate Task for their PC
 
 Once a player has declared their Task and the type of roll has been decided, the player rolls their dice. After the dice are rolled, the GM compares the results to the DC for the Tasks and narrates the outcome. If wanted, the players can also add to the narrative of the outcome. This process continues until every PC has rolled for a Task or has aided on a Task (so everyone has had a chance to contribute).
 
-The DC for Tasks in the Challenge are based on the environmental tier (13th Age specific, for D&D use a default DC based on the PCs' Proficiency Bonus). DCs can be shifted up or down by 1 at the GM's discretion. Always communicate the difficulty of a proposed Task to the player before they roll. A failed Tasks doesn't mean no progress is made, but that progress is made at a cost. With a Static Goal the cost is to the PC themselves (damage, resource loss, ongoing penalties), and with a Dynamic Goal the cost can be towards the final outcome. 
+The DC for Tasks in the Challenge are based on the environmental tier (13th Age specific, for D&D use a default DC based on the PCs' Proficiency Bonus). DCs can be shifted up or down by 1 or 2 at the GM's discretion. Always communicate the difficulty of a proposed Task to the player before they roll. A failed Tasks doesn't mean no progress is made, but that progress is made at a cost. With a Static Goal the cost is to the PC themselves (damage, resource loss, ongoing penalties), and with a Dynamic Goal the cost can be towards the final outcome. 
 
 ##### Task Difficulty 
 | Task Difficulty       | Adventurer Tier | Champion Tier | Epic Tier | D&D   |
 | --------------------- | --------------- | ------------- | --------- | ----- |
-| **Easy**              | DC 10           | DC 15         | DC 20     | 4+PB  |
-| **Normal** (default)  | DC 15           | DC 20         | DC 25     | 9+PB  |
-| **Hard**              | DC 20           | DC 25         | DC 30     | 14+PB |
-| **Nearly impossible** | DC 25           | DC 30         | DC 35     | 19+PB | 
+| **Easy**              | DC 10           | DC 15         | DC 20     | 5+PB  |
+| **Normal** (default)  | DC 15           | DC 20         | DC 25     | 10+PB  |
+| **Hard**              | DC 20           | DC 25         | DC 30     | 15+PB |
+| **Nearly impossible** | DC 25           | DC 30         | DC 35     | 20+PB | 
 
 If a PC uses a limited Resource to fulfill their Task, don't roll but assume the DC has been exactly reached.
 
