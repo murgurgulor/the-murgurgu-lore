@@ -110,7 +110,7 @@ When the final Stage of the Challenge has concluded, the PCs reach their Goal.
 In the case of a Static Goal, they achieve just that. The outcome of the different Stages determine whether they suffer any negative consequences while doing so. Any successful roll means the PC accomplished their Task in a Stage without any real difficulty. Any failed roll means the PC accomplished their Task with difficulty or at a cost, such as HP loss, Recovery loss, loss of an item or an ongoing penalty to a specific ability score, attacks or defenses until a next full rest.
 
 ### Dynamic Goals
-In the case of a Dynamic Goal, the outcome of each Stage influences the final Goal that the players achieve. As a rule of thumb: if **at least half of the Stages are successful**, there is a positive effect on the Goal. The final Goal that is achieved is a culmination of the successes and failures of each Stage. The default Goal (good, neutral or bad) is up to the GM.
+In the case of a Dynamic Goal, the outcome of each Stage influences the final Goal that the players achieve. As a rule of thumb: if **half of the Stages are successful**, there is a positive effect on the Goal. The final Goal that is achieved is a culmination of the successes and failures of each Stage. The default Goal (good, neutral or bad) is up to the GM.
 
 ##### What determines if a Stage is successful?
 To have a Stage be resolved successfully, the PCs have to obtain a score of **more than half** the amount of Tasks performed\. So if a party of 5 PCs decides on performing 4 Tasks (with 1 PC helping another), at least 3 points must be earned for a successful outcome of the Stage. Assign points to the score as follows:
