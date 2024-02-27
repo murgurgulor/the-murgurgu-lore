@@ -23,9 +23,8 @@ To help guide this process, it's good to create a framework for a Skill Challeng
 
 1. Determine the **Goal** of the Challenge?
 2. Is the Goal **Static** or **Dynamic**?
-3. Is the way to the Goal a **Set Path** or a **Variable Path**?
-4. What are the **Environments** the PCs must proceed through on the path?
-5. What kind of **Obstacles**, either passive or active, are there in the way of the PCs reaching the Goal?
+3. What are the **Environments** the PCs must proceed through on the path?
+4. What kind of **Obstacles**, either passive or active, are there in the way of the PCs reaching the Goal?
 6. How many **Stages** should the Challenge have?
 
 ### Goal
