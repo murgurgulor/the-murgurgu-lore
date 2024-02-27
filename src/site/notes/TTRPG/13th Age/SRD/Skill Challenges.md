@@ -25,7 +25,7 @@ To help guide this process, it's good to create a framework for a Skill Challeng
 2. Is the Goal **Static** or **Dynamic**?
 3. What are the **Environments** the PCs must proceed through on the path?
 4. What kind of **Obstacles**, either passive or active, are there in the way of the PCs reaching the Goal?
-6. How many **Stages** should the Challenge have?
+5. How many **Stages** should the Challenge have?
 
 ### Goal
 The Goal of a Skill Challenge is where the PCs end up at the end of the Challenge. This can be a physical location, or it can be a situation. Where will they be, or what will they have achieved or influenced?
@@ -65,7 +65,9 @@ The amount of time a Stage takes is fluid. When traversing a dangerous hallway, 
 ---
 
 # Running the Challenge
-Once the GM has set up the framework of their Skill Challenge - either in preparation or on the fly - they're ready to run the Challenge. In the Challenge the PCs move through the different Stages, Environments and Obstacles in order to reach their Goal.
+Once the GM has set up the framework of their Skill Challenge - either in preparation or on the fly - they're ready to run the Challenge. In the Challenge the PCs move through the different Stages, Environments and Obstacles in order to reach their Goal. 
+
+A Challenge shouldn't be a 'gotcha!' experience for the players, where the GM withholds information that would aid the players into making decisions. You should clearly explain that the players are about to do a Skill Challenge (and if necessary explain the rules of a Skill Challenge), what their Goal is and what consequences of successes or failures could be. You could also explicitly tell the players the number of Stages, but if you want to preserve a bit of mystery and immersion you can also make it clear in the narration as the Challenge progresses, where you should make it exceedingly clear when the players have entered the final Stage ('you're almost there, the only thing in your way is the big lizard mutant blocking the stairs!'). 
 
 ---
 
