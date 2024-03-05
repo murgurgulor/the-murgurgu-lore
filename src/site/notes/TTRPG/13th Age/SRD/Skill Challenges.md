@@ -58,7 +58,7 @@ Each Stage should have either a different Environment or different Obstacle than
 
 Most Challenges will have between 1-3 Stages, depending on how long you want them to last. Short Challenges will have just one Stage, Long Challenges will have three. Going above 3 Stages represent lengthy and epic Challenges that must have an important Goal. 
 
-Sometimes, the amount of Stages might vary if the Challenge if the PCs decide to go about things in a particularly effective (or ineffective) way. This mostly happens if there is a Static Goal, as a Dynamic Goal will definitely have its outcome at one point, and the PCs effectiveness or ineffectivess will just alter that outcome. If this happens, make sure there's no misunderstanding of the players about the Challenge's Goal. If the players need to escape a collapsing dungeon and they're only taking actions to get further away from the exit, 
+Sometimes, the amount of Stages might vary if the Challenge if the PCs decide to go about things in a particularly effective (or ineffective) way. This mostly happens if there is a Static Goal, as a Dynamic Goal will definitely have its outcome at one point, and the PCs effectiveness or ineffectivess will just alter that outcome. If this happens, make sure there's no misunderstanding of the players about the Challenge's Goal.
 
 The amount of time a Stage takes is fluid. When traversing a dangerous hallway, each Stage may only represent a number of seconds. When preparing a grand magic ritual, each Stage might represent hours or days worth of time. Stages need not be fully consecutive: you or the players can narrate a montage in between Stages where the PCs progress through a different (or the same) Environment but no Obstacles have to be overcome or rolls are made.
 
