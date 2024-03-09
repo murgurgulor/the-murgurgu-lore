@@ -11,6 +11,7 @@
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 5\|Session 5]]: January 16, 2024
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 6\|Session 6]]: February 07, 2024
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 7\|Session 7]]: February 20, 2024
+- [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 8\|Session 8]]: March 05, 2024
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Transcript of Jack Brady's Story\|Transcript of Jack Brady's Story]]: \-
 
 { .block-language-dataview}
