@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/archive/encuentro-espias/spy-info/keiko-kuruoshi/","tags":["TTRPG/Games/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Spy Info/Keiko Kuruoshi.md","permalink":"/encuentro-espias/spy-info/keiko-kuruoshi/","tags":["TTRPG/Games/EE"]}
 ---
 
 # Keiko Kuruoshi-chan
