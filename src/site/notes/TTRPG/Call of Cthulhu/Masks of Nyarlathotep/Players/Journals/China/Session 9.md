@@ -33,7 +33,7 @@ Again, Penhew rises from the grave and rejuvenates. He surveys the room and sees
 
 Penhew tries to make his way to his rooms but with Lawrence and Zasu downing the last of the Deep Ones, he is the only target left. Dick rushes up to Penhew and sets the flame of K'thuga on him. Penhew is minorly burnt but it's noticeable that a chain around his neck starts to glow in a fiery hot glow. Jack and Penhew exchange punches and Matthias cuts at Penhew with his sword as well. Meanwhile Lawrence chucks another stick of dynamite at the twitching arms but his aim is off.
 
-Penhew fires bolts of electricity from his hands to Jack and Dick, but they only minorly damage. He frantically tries to run further into his rooms, but a well-placed hit of Dick with his torch brings Penhew down to the ground again. Matthias jumps in and wrenches the necklace away. Penhew ages significantly in front of their eyes until all that's left is a frail old dead man. He does not regenerate.
+Penhew fires bolts of electricity from his hands to Jack and Dick, but they only minorly damage. He frantically tries to run further into his rooms, but a well-placed hit of Dick with his torch brings Penhew down to the ground again. Dick then wrenches the necklace away. Penhew ages significantly in front of their eyes until all that's left is a frail old dead man. He does not regenerate.
 
 Zasu rushes to Shark's aid, but to no success. The Militia has lost a number of men, but is succeeding in driving the horde of Deep Ones away.
 
