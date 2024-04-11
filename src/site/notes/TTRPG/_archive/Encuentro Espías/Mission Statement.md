@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/archive/encuentro-espias/mission-statement/","pinned":true,"tags":["TTRPG/Games/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Mission Statement.md","permalink":"/encuentro-espias/mission-statement/","pinned":true,"tags":["TTRPG/Games/EE"]}
 ---
 
 # Mission Statement
