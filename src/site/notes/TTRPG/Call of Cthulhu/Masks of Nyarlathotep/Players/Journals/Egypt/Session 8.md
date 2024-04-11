@@ -41,4 +41,4 @@ On the walk back to the car, Matthias merrily pats Shark, Dick and Lawrence on t
 
 “I’ve never seen her before in my life.”
 
-##### Read on: [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Egypt/Session 9\|Session 9]]
+##### Read on: [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Egypt/Session 9\|TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Egypt/Session 9]]
