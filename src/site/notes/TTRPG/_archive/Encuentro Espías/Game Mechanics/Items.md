@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/archive/encuentro-espias/game-mechanics/items/","tags":["TTRPG/Games/EE"]}
+{"dg-publish":true,"dg-path":"Encuentro Espías/Game Mechanics/Items.md","permalink":"/encuentro-espias/game-mechanics/items/","tags":["TTRPG/Games/EE"]}
 ---
 
 Each Spy can bring a few items along with them to the party. Seeing as they're limited by their cover in how much they can feasible carry on them, they'll have to be prudent with what they choose to bring!
