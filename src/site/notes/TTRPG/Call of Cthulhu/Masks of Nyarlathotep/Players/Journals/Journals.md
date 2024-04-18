@@ -2,6 +2,11 @@
 {"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Journals.md","dg-permalink":"masks-of-nyarlathotep/journals","permalink":"/masks-of-nyarlathotep/journals/","title":"Journal Collections","pinned":true,"tags":["TTRPG/Games/MoN"]}
 ---
 
+##### Australia Journal
+- [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Australia/Australia Leads\|Australia Leads]]: \-
+
+{ .block-language-dataview}
+
 ##### China Journal
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/China Leads\|China Leads]]: \-
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 1\|Session 1]]: October 17, 2023
