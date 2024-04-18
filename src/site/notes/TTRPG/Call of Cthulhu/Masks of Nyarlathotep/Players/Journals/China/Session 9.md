@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/China/Session 9.md","permalink":"/masks-of-nyarlathotep/journals/china/session-9/","tags":["TTRPG/Games/MoN"]}
 ---
 
-### Dateline: Sunday, April 12th, 1925
+### Dateline: Monday, April 13th, 1925
 The group surveys the situation in the cinder cone. Several of the investigators think back to their sci-fi penny dreadfuls and realise the gigantic bullet shaped object might be a "space rocket"! Zasu peers through her Third Eye and discerns that the statue of the Bloated Woman is a chasm in reality, leading into a different dimension. They spend some time discussing tactics but in the end default to their tried and tested 'charge in guns blazing' technique.
 
 Everyone runs in the chamber. Matthias, cradling a bundle of dynamite, makes a run to the statue of the Bloated Woman in an attempt to blow it up. Shark meanwhile runs at the rocket to see if there's any way of disabling it. He learns that it's suspended over a pit of magma with three sturdy struts. Interestingly there are also a dozen pipes running from the bottom straight into the magma, and they're glowing in a white light. The rocket itself is made of a cold and slick metal.
