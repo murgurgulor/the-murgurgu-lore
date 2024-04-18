@@ -30,7 +30,7 @@ Meanwhile back in the main chamber, Lawrence, Shark and Zasu stare in horror at 
 
 
 ### The Arm Horror
-![Arm Horror.jpg](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Visuals/Arm%20Horror.jpg)
+![Arm Horror.jpg](/img/user/z_Attachments/Arm%20Horror.jpg)
 
 </div></div>
 
