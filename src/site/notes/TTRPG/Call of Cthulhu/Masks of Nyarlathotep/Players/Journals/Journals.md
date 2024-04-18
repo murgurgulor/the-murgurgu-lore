@@ -5,6 +5,7 @@
 ##### China Journal
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/China Leads\|China Leads]]: \-
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 1\|Session 1]]: October 17, 2023
+- [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 10\|Session 10]]: April 17, 2024
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 2\|Session 2]]: November 23, 2023
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 3\|Session 3]]: December 19, 2023
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 4\|Session 4]]: January 02, 2024
