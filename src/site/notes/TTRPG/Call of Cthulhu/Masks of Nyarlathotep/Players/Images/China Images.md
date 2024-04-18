@@ -18,4 +18,4 @@
 ![Deep One.jpg](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Visuals/Deep%20One.jpg)
 
 ### The Arm Horror
-![Arm Horror.jpg](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Visuals/Arm%20Horror.jpg)
+![Arm Horror.jpg](/img/user/z_Attachments/Arm%20Horror.jpg)
