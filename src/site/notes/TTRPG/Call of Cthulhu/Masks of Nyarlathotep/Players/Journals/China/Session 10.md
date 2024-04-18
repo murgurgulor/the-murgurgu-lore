@@ -22,6 +22,20 @@ The two also peruse Penhew's book collection and find three interesting tomes:
 
 Meanwhile back in the main chamber, Lawrence, Shark and Zasu stare in horror at the rotten arms. They are dragging themselves across the cavern floor on decaying finger and broken nails, grabbing on to one another and slowly forming a terrible amalgamous mass of arms. Shark ineffectively fires his gun into the mass and Lawrence throws a stick of dynamite in that blows a bunch of them to smithereens, but with almost renewed vigor the remaining arms gather and collect themselves. Towering up to 3 meters rises a monstrous abomination of grasping and clawing arms, and it's starting to pull itself forward! A few unlucky soldiers get grabbed by the hands and their flesh gets torn apart. One unlucky fellow gets pulled in the mass of arms, screaming for his life. When the muffled screaming stops, two new arms sprout from the thing.
 
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/masks-of-nyarlathotep/images/china-images/#the-arm-horror" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### The Arm Horror
+![Arm Horror.jpg](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Visuals/Arm%20Horror.jpg)
+
+</div></div>
+
+
+---
 The group quickly decides to kill it with fire. Shark sprint around and finds some jerrycans of oil. Dodging away from the grasping appendages he manages to surround the thing with oil. Lawrence throws a torch in and the mass of arms catches fire! As some of the arms start to burn and wither away, it suddenly jerks towards Zasu with unexpected speed. Several arms grab on to her and start to pull her into the mass! Lawrence and Shark quickly jump in and help her free herself from its clutches. 
 
 Dick and Matthias enter to see what all that ruckus is about, but confronted with the scene of a burning mass of rotting arms and Zasu almost being dragged in, Matthias flees the scene and Dick's mind finally snaps. The group decide to try and lure it into the pit of magma. Dick jumps in valiantly to distract it but in turn he now gets grabbed! Once again Lawrence and Shark help out so Dick can pull himself free. They manage to lead the burning - and quickly slinking - mass of arms to the rope bridges which start to collapse as the fire burns away the ropes. The arms try to grab on to something but find nothing but air. The arm horror plunges in the magma, which in turn start to violently bubble and churn.
