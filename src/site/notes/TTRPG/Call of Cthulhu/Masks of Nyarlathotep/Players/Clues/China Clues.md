@@ -17,3 +17,10 @@
 ### [CH6] Telegram from Huston
 ![(CH6) Telegram from Huston.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH6)%20Telegram%20from%20Huston.webp)
 
+### [CH9] Letter from Gavigan
+![(CH9) Letter from Gavigan.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH9)%20Letter%20from%20Gavigan.webp)
+
+### [CH10] Excerpts from Penhew's Diary
+![(CH10) Diary Excerpts.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH10)%20Diary%20Excerpts.webp)
+
+### [CH11] Letter from M'Weru
