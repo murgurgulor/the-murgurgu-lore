@@ -8,8 +8,76 @@ Matthias rushes to aid Zasu in first aiding Shark, but his golf-teaching techniq
 Matthias and Dick check out Penhew's room. They find extensive blueprints for the missile inside the main chamber and other parts of machinery, but other than that it fits on the nose of the missile they can't work out its function. They also find a lead casket in a box but remembering Lawrence's experience on the Dark Mistress, they leave it alone. 
 
 Dick goes through Penhew's correspondence and finds some interesting letters and notes, as well as Penhew's diary! He also spots an ornate sarcophagus in the corner but elects to leave it alone for now.
-[[(CH9) Letter from Gavigan.webp]]
-[[(CH10) Diary Excerpts.webp]]
+
+---
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/masks-of-nyarlathotep/clues/china-clues/#ch-9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### [CH1] Seamen's Club Damaged
+![(CH1) Seamen's Club Damaged.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH1)%20Seamen's%20Club%20Damaged.webp)
+
+### [CH2] Fire on Chin-Ling Road
+![(CH2) Fire on Chin-Ling Road.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH2)%20Fire%20on%20Chin-Ling%20Road.webp)
+
+### [CH3] Violent Incident on Lantern Street
+![(CH3) Violent Incident on Lantern Street.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH3)%20Violent%20Incident%20on%20Lantern%20Street.webp)
+
+### [CH5] Excerpts from the Order
+![(CH5) Excerpts from the Order.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH5)%20Excerpts%20from%20the%20Order.webp))
+
+### [CH6] Telegram from Huston
+![(CH6) Telegram from Huston.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH6)%20Telegram%20from%20Huston.webp)
+
+### [CH9] Letter from Gavigan
+![(CH9) Letter from Gavigan.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH9)%20Letter%20from%20Gavigan.webp)
+
+### [CH10] Excerpts from Penhew's Diary
+![(CH10) Diary Excerpts.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH10)%20Diary%20Excerpts.webp)
+
+### [CH11] Letter from M'Weru
+
+
+</div></div>
+
+
+---
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/masks-of-nyarlathotep/clues/china-clues/#ch-10" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### [CH1] Seamen's Club Damaged
+![(CH1) Seamen's Club Damaged.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH1)%20Seamen's%20Club%20Damaged.webp)
+
+### [CH2] Fire on Chin-Ling Road
+![(CH2) Fire on Chin-Ling Road.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH2)%20Fire%20on%20Chin-Ling%20Road.webp)
+
+### [CH3] Violent Incident on Lantern Street
+![(CH3) Violent Incident on Lantern Street.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH3)%20Violent%20Incident%20on%20Lantern%20Street.webp)
+
+### [CH5] Excerpts from the Order
+![(CH5) Excerpts from the Order.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH5)%20Excerpts%20from%20the%20Order.webp))
+
+### [CH6] Telegram from Huston
+![(CH6) Telegram from Huston.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH6)%20Telegram%20from%20Huston.webp)
+
+### [CH9] Letter from Gavigan
+![(CH9) Letter from Gavigan.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH9)%20Letter%20from%20Gavigan.webp)
+
+### [CH10] Excerpts from Penhew's Diary
+![(CH10) Diary Excerpts.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH10)%20Diary%20Excerpts.webp)
+
+### [CH11] Letter from M'Weru
+
+
+</div></div>
+
+
+---
 
 The two also peruse Penhew's book collection and find three interesting tomes:
 - **The Resilient Mind**: an occult manuscript on how to strengthen the mind against magical influences
