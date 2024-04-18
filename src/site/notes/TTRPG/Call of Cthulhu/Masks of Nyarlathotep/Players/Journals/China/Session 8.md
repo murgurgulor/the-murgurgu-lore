@@ -30,5 +30,21 @@ After a few hours of stalking through the jungle, they have to cross the main pa
 
 After walking a few bends, there is absolutely no natural light. Dick fires up his magic torch. After a while, they notice some orange glowing light around the next bend. They peek around the corner scooby-doo style and are met with a large hollowed out cavern. Inside, near the center, they see a strange large metal object, shaped like a bullet. It's hanging suspended over a large hole from which the orange glow is coming. There are a few tunnels branching out from this chamber, and they spot a number of humans carrying strange black goop towards the object. They also notice at least 4 Deep Ones hanging around this chamber and instructing the humans.
 
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/masks-of-nyarlathotep/images/china-images/#the-deep-ones" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### The Deep Ones
+![Deep One.jpg](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Visuals/Deep%20One.jpg)
+
+
+</div></div>
+
+
+---
+
 The last thing they see in this room is a humongous statue of the Bloated Woman, easily 9 meters tall. For some reason its back is facing this large chamber. From the back of the statue they see a multitude of tentacles and tendrils extending from the statue. Hanging on these tendrils they see hundreds upon hundreds of severed arms in various state of decay...
 
