@@ -12,6 +12,7 @@ Dick goes through Penhew's correspondence and finds some interesting letters and
 ---
 [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Clues/China Clues#[CH9] Letter from Gavigan\|[CH9] Letter from Gavigan]]
 [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Clues/China Clues#[CH10] Excerpts from Penhew's Diary\|[CH10] Excerpts from Penhew's Diary]]
+[[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Clues/China Clues#[CH11] Letter from M'Weru\|[CH11] Letter from M'Weru]]
 
 ---
 
