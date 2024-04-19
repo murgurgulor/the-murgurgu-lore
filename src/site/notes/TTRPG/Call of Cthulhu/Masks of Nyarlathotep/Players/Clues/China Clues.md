@@ -24,3 +24,4 @@
 ![(CH10) Diary Excerpts.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH10)%20Diary%20Excerpts.webp)
 
 ### [CH11] Letter from M'Weru
+![(CH11) M'Weru's Letter.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH11)%20M'Weru's%20Letter.webp)
