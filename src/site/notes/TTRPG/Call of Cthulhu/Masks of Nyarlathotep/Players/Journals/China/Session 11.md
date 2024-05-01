@@ -24,7 +24,7 @@ Mr. Mu explains the following:
 	3. Nyarlathotep would need an anchor to latch on to. That anchor must be something that is both of itself and of this dimension. Matthias gathers this must be a child of some sorts.
 - If all of these points are prevented, Nyarlathotep won't be able to fulfill its plan. If only parts of it are prevented, it might be able to break through in some lesser way.
 
-Mr. Mu tells of a ritual that can reinstate the rift locks that the cultists have broken. It's called the Ritual of the Eye of Light and Darkness. The half-piece of stone Dick has strapped to his chest is a broken Eye of Light and Darkness. The ritual goes as follows:
+Mr. Mu tells of a ritual that can reinstate the rift locks that the cultists have broken. It's called the [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Clues/China Clues#[CH8] The Ritual of the Eye of Light and Darkness\|Ritual of the Eye of Light and Darkness]]. The half-piece of stone Dick has strapped to his chest is a broken Eye of Light and Darkness. The ritual goes as follows:
 - On the day before a full moon, engrave an eye in a hard natural substance and place it on the place to be warded
 - When the full moon rises, the blood of an innocent - which is someone who has not been tainted by encounters of other dimensions - must fill the pupil of the eye. The blood must be fresh.
 - At the same time, the warlocks participating in the ritual must start chanting 'SA-MA SA-MA TE-YO SA-MA' until dawn.
