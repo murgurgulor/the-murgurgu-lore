@@ -20,6 +20,7 @@
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 8\|Session 8]]: March 05, 2024
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 9\|Session 9]]: April 11, 2024
 - [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 10\|Session 10]]: April 17, 2024
+- [[TTRPG/Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/China/Session 11\|Session 11]]: April 30, 2024
 
 { .block-language-dataview}
 
