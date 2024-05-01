@@ -25,3 +25,6 @@
 
 ### [CH11] Letter from M'Weru
 ![(CH11) M'Weru's Letter.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH11)%20M'Weru's%20Letter.webp)
+
+### [CH8] The Ritual of the Eye of Light and Darkness
+![(CH8) Translation from The Seven Cryptical Books of Hsan.webp](/img/user/z_Attachments/TTRPG/Masks%20of%20Nyarlathotep/Clues/China/(CH8)%20Translation%20from%20The%20Seven%20Cryptical%20Books%20of%20Hsan.webp)
