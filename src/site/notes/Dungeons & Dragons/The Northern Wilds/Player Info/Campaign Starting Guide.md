@@ -22,21 +22,7 @@ The western end of the North is a region called **The Wild Hinterlands**. This i
 Finally: **Skalhaug** is a large island/mountain range off Skalmyr's coast. It's mostly uninhabitable, but you can find small villages on the coastline. There is no central government between them.
  
 ---
-```leaflet
-id: Northern-Wild
-image: [[The Wild Norths - Lands.png]]
-bounds: [[0, 0], [1464.89, 3063.84\|0, 0], [1464.89, 3063.84]]
-width: 100%
-lat: 732.45
-long: 1531.92
-minZoom: -1.5
-maxZoom: 2
-defaultZoom: -1.5
-zoomDelta: 0.5
-unit: kilometers
-scale: 1
-darkMode: false
-```
+![The Wild Norths - Lands.png](/img/user/z_attachments/The%20Northern%20Wilds/The%20Wild%20Norths%20-%20Lands.png)
 
 ---
 ### Other Interesting Facts
