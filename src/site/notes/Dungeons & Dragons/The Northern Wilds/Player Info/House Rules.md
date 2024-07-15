@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Player Info/House Rules.md","permalink":"/the-northern-wilds/player-info/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD/House-Rules"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/player-info/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD/House-Rules"]}
 ---
 
 
@@ -16,7 +16,8 @@ The following rules are in addition to the Rules As Written (RAW):
 		- You roll 1 Hit Die + Con modifier to heal HP for free, and can spend more Hit Dice to heal up more (as in a Short Rest).
 - Combat:
 	- After Initiative is rolled for combat, you can choose to voluntarily lower your Initiative.
-	- We will use the **Weapon Mastery** rules as explained here: ==LINK TO BE PLACED==
+	- We will use the **Weapon Mastery** rules as explained here on pages 2-4: https://media.dndbeyond.com/compendium-images/one-dnd/ph-playtest5/owThVp1CESZ1c91y/UA-2023-PH-Playtest5.pdf
+		- Specifically, the Ranger and Barbarian get to choose 2 Weapon Masteries that they have access to. Whenever you attack with a weapon that has a Mastery you have access to, you get to apply its effect on a hit. You can change your Weapon Mastery choices after every Long Rest.
 	- If you want to drink a healing potion, you can choose to use a Bonus Action or an Action to do so. If you use a Bonus Action, you roll for the healing as usual. If you use your Action, you gain the maximum amount of healing.
 	- Disarming, Shoving, Tumbling and other Combat Maneuvers are allowed. 
 	- If you Counterspell a Counterspell, something strange will happen...
