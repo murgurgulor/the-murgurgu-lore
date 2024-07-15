@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/House Rules.md","permalink":"/the-northern-wilds/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD/House-Rules"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/House Rules.md","permalink":"/the-northern-wilds/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 
