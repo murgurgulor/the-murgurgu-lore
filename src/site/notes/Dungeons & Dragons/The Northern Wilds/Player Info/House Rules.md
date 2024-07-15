@@ -41,12 +41,12 @@ Characters with more movement than others might be able to reach areas that othe
 ##### AoE Targets
 Use the following guidelines to determine how many targets you can affect with an AoE effect:
 
-| Area                   | Targets (rounded up)                                             |
-| ---------------------- | ---------------------------------------------------------------- |
-| Cone                   | (Size / 10) targets (roughly) in a group                         |
-| Cube/Square            | (Size / 5) targets                                               |
-| Cylinder/Sphere/Circle | (Radius / 5) targets                                             |
-| Line                   | (Length / 30) **Nearby and/or Far Away** targets in a rough line |
+| Area                   | Targets (rounded up)                     |
+| ---------------------- | ---------------------------------------- |
+| Cone                   | (Size / 10) targets (roughly) in a group |
+| Cube/Square            | (Size / 5) targets                       |
+| Cylinder/Sphere/Circle | (Radius / 5) targets                     |
+| Line                   | (Length / 30) targets in a rough line    |
 
 ---
 
