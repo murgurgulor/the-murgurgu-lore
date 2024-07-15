@@ -43,9 +43,9 @@ Use the following guidelines to determine how many targets you can affect with a
 
 | Area                   | Targets (rounded up)                                             |
 | ---------------------- | ---------------------------------------------------------------- |
-| Cone                   | (Size / 10) **Nearby** targets (roughly) in a group              |
-| Cube/Square            | (Size / 5) **Nearby** or **Far Away** targets                    |
-| Cylinder/Sphere/Circle | (Radius / 5) **Nearby** or **Far Away** targets                  |
+| Cone                   | (Size / 10) targets (roughly) in a group                         |
+| Cube/Square            | (Size / 5) targets                                               |
+| Cylinder/Sphere/Circle | (Radius / 5) targets                                             |
 | Line                   | (Length / 30) **Nearby and/or Far Away** targets in a rough line |
 
 ---
