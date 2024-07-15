@@ -1,0 +1,53 @@
+---
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Australia/Session 1.md","permalink":"/masks-of-nyarlathotep/journals/australia/session-1/","tags":["TTRPG/Games/MoN"]}
+---
+
+
+# Boat Scene
+The group has purchased first class tickets on a passenger ship from Hong Kong to Darwin. They mingle with the rich and the influential that share their berth. Shark spends most of his time in the ship's on-board casino playing Blackjack, while Matthias wows the nobleborn with his shuffleboard skills. Zasu and Dick spend most of their time out on the deck reading occult books. Zasu does this while getting a tan and Dick does this while periodically staring directly into the sun. Lawrence meanwhile is pacing across all decks carrying all the worries and burdens of the party concerning the cult of Nyarlathotep, the Serpentfolk, and the elusive Observer.
+
+Midway their journey, a castaway is spotted. A gaunt man who identifies himself as Jozias Tuigstra, a Dutch sailor from a wrecked merchant vessle, is hauled aboard. Strangely enough he's cradling a dirty white ball with a face painted on it, whom Jozias refers to as Willem.
+
+The day after, screams wake up the passengers. One of the sailors has found a gruesome scene on the tanning deck. Passenger Quinten Quatswurster, an Austrian scholar, has been savagely massacred. Deep red stains are smeared out over the deck and different body parts of the man are found in different places. It seems to be a crude hack-and-slash job. The group offers their investigative services to the captain and set out looking for clues. They soon find footprints in the blood that belong to large workboots. They head to the crews' quarters and investigate the different shoes present at the bunks. They find a match in the boots of mechanic John Wilkins. They track him down in the engine room and take him down for interrogation.
+
+John Wilkins explains that he doesn't really remember what he did last night. He describes having a dream of floating in darkness, when suddenly a small prick of light appeared that told him to 'do the work, do the job, the work needs to be done'. After that all he remembers is vague impressions of dragging someone out of a bunk and hacking away with an axe. When he woke up in the morning he found his boots covered in blood and cleaned them in a panic. John Wilkins is reduced to a sobbing heap when he realizes what he has done, and allows himself to be put in the brig.
+
+The group suspects foul deeds afoot and go looking for Jozias and Willem. Willem is nowhere to be seen but they find Jozias sitting on the deck enjoying the trip. They confront Jozias with the events and Jozias explains that he and his crew found Willem floating on the ocean one day. They hauled the ball aboard, and soon after people started hearing voices. Voices that told them to do destructive things. One after another they started harming, mutilating and murdering each other, until only Jozias was left standing. Then, under Willem's thrall, he set the ship ablaze. The group asks why he just wouldn't get rid of Willem, but Jozias explains that he simply can't. Willem wouldn't let him.
+
+Reaching back to their occult knowledge, the group comes to the revelation that Willem must be a Raujasza - a being from a different dimension that is so wholly unlike our dimension, that the creature can't exist in any form here. It needs to bond itself to an object of this world to exist here, and it's nature causes those near it to fall into murderous delights. They set out to find Willem - who can move on his own accord - until they hear a sudden scream from the kitchens. One of the kitchen staff's decapitated head is served on a platter. One of the other staff explains that the head chef did the deed. 
+
+The group finds the head chef on the uppermost deck, cradling Willem. The head chef is just about to jump to his death below, but Dick lunges forward and grabs him by the ankle. Willem spins around on the deck and peers into the minds of every investigator in order to get them to assault each other, confronting them with their deepest, darkest fear.
+- Shark most fears losing his brother Dick, but he pushes away this fear by recalling how Dick can take good care of himself with his Eternal Torch.
+- Matthias most fears being just a below average academic, but he pushes away this fear by recalling his popularity among the students of Arkham's Miskatonic University.
+- Zasu most fears that secretly, nothing really matters no matter what you do, but she pushes away this fear through mental exercise, reaching into a core memory, and starts tapdancing.
+- Lawrence most fears that his peers at home will tell him that writing and solving mysteries is not a real job and that he needs to just go work in the mines, but he pushes away this fear by reminding himself that he doesn't ever have to go back there.
+- Dick most fears that for all his power, he's not any different than the people they're fighting and it's just people hurting each other over nothing, just like WW1. He pushes away this fear by realizing that that is exactly what Willem is doing to him, so if he fights the ball he'll fight his fears!
+
+Broken free of Willem's compulsion, Matthias stabs the Sword of Akmallah into Willem to deflate him and Dick sets the Eternal Flame of K'tuga on the ball. It burns to a fine ash that gets picked up in the wind. As Willem disperses, the faintest whisper is heard in their heads.
+
+"I wonder where I'll fly to now..."
+
+The group presents their victory to the captain, putting both the head chef and Jozias - who is joyfully crying to be freed of Willem's influence - in the brig as well. They then continue their journey in peace and quiet.
+
+---
+### Dateline: Friday, May 8th, 1925
+The group arrives in Darwin. It is incredibly humid, warm and it smells pretty bad.
+Matthias, Zasu and Lawrence have been spending time on the boat reading through their interest-specific books looted from Aubrey Penhew's library, and learned a thing or two about resilient minds, seances and Serpentfolk! Dick has also been reading less savoury texts.
+
+After a brief stint at the customs office, where the group explains their abundance of firearms as a necessity for their big croc hunting trip - emphasized by Matthias wearing stereotypical hunting gear, they're let go with the instructions to acquire permits. They hand in some forms at city hall and then go looking for a place to stay. 
+
+They briefly check out the fancy but rundown Darwin Hotel, but eventually settle on the Outback Inn, a rough and tumble inn manned by a big Aboriginal called Johnny Bigbush. They shoot the shit with Johnny, talking about Darwin and Australia. They learn that Darwin is a bit of a lawless place. There is a sheriff's department but they don't really do that much. Darwin kind of regulates itself. The way out of Darwin is difficult, as there are hardly any other towns within 1000 kilometers! You can take a car out, but the roads are rough and rare. Packing up enough supplies and a mechanic is advised. A different mode of transportation would be to take a ship to another port town, such as Port Hedland or Sydney.
+
+Conversation lands on the Randolph Shipping Co. Johnny explains that Toddy Randolph is a lousy drunk without any real friends. There are some thugs he surrounds himself with from time to time, often paid to protect him from an angry creditor. Apparently his vices forced him to sell his house, and he currently sleeps in his warehouse.
+
+The crew heads out to spy on Randolph Shipping Co. and find it a small-time operation with just a single worker on the docks shifting crates around. They also get a glimpse of the infamous Toddy Randolph: a rotund, sweaty white man with a permanent scowl on his face. After scoping out the surroundings, the group returns to the inn for a siesta to rest up. Tonight they plan to break into the warehouse!
+
+In the evening, Matthias, Shark and Dick head to the warehouse while Lawrence and Zasu head to Bertram's Bar to keep Toddy Randolph occupied, and to make sure the others are forewarned when he decides to head back. After some finagling with loading doors, the men find themselves in the warehouse. Other than shipping crates, a dirty cot surrounded by empty bottles and a desk with a ledger there doesn't seem to be much going on. They check the ledgers and find records of shipments to known cult addresses such as the Penhew Foundation, Ahja Singh in Kenya, and Ho Fang in China. Denoted with the same cult symbol they find a large number of shipments of fuel, supplies and mining equipment going to Mortimer Wycroft in Cuncudgerie.
+
+Meanwhile in the bar, Lawrence and Zasu make talk with Toddy Randolph under the guise of having things to ship covertly. Toddy Randolph is already well drunk and behaves like an all-round disgusting piece of human. They learn that for the right price, Toddy will ship anything you want anywhere you want, no questions asked. 
+
+The boys in the warehouse find out that 2 crates destined for the Penhew Foundation are still in the warehouse, and they go out to look for them. They quickly find one, which holds a wooden idol of a disgusting fishy creature. Shark and DIck gaze into its emerald eyes and lose themselves briefly in visions of a cyclopean city and the silhouette of a gargantuan creature. After another search they locate the other crate and find a strange device with rods, wheels and mirrors. Accompanying it is a note from Robert Huston explaining that this is a Yithian survey device. Shark and Dick deduce this must be a device that surveys *across time*! They promptly start arguing over who gets to play with it first. 
+
+A few streets over, Toddy Randolph gets thrown out of the bar for being a drunk nuisance. He starts waddling back to the warehouse, which is the cue for Lawrence and Zasu to loudly sing the United States national anthem. This warns the boys in the warehouse - whose tug of war remains undecided - and they make sure to quickly get out of there.
+
+After reconvening, the group makes their collective way back to the Outback Inn. Suddenly they get pssshed by someone in an alleyway. The person seems to be aware of the group's purpose and they get lured in further. Suddenly Shark notices that the shadow of the person is not that of a man, but of a Serpentperson! A fight erupts which quickly goes the way of the party thanks to Dick's torch, forcing the Serpentperson to create a portal to disappear through. Through the portal, however, they spotted some specific terrain features of a large mesa in a white sandy desert.
