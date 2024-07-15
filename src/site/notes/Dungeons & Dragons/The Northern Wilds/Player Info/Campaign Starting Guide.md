@@ -82,6 +82,8 @@ Select the following options when creating your character to ensure you get the 
 
 We start your character at **Level 2**. You will level up to level 3 after the first quest.
 
+During the sessions, you can either have a physical character sheet or use D&D Beyond. Whatever works for you. Note that there's also a mobile D&D Beyond app to access your character sheet on.
+
 ---
 
 Keep the following things in mind when creating your character:
@@ -94,6 +96,7 @@ Keep the following things in mind when creating your character:
 	- Choose 2 Skill Proficiencies, 1 Tool Proficiency and 1 Language that fit your Background
 - You have all rolled for your ability scores. If you are very unhappy with your results, I will allow you to change the scores to that of the Standard Array: 8, 10, 12, 13, 14, 15. The ability scores that you decide on when we start the first session is the one that sticks!
 - Please feel free to have a free reign with crafting your backstory. The world we create is there to be filled in with your imagination as well! If you'd like a certain detail about the world to be true to work for your character, let me know and we can see how we can incorporate it together!
+- If you're stuck or not sure what to do, ask for help!
 
 ---
 
@@ -103,7 +106,7 @@ Keep the following things in mind when creating your character:
 - [ ] Choose the Skill proficiencies associated with your class
 - [ ] Think of your Background and choose the proficiencies you gain from it
 - [ ] Select your starting gear as stated on your class's options
-- [ ] For your Hit Points: first level is as provided in your class desccription. For level 2 you gain the average amount of Hit Points. For your classes this is:
+- [ ] For your Hit Points: first level is as provided in your class description. For level 2 you gain the average amount of Hit Points. For your classes this is:
 	- Druid, Warlock: 5+Con modifier
 	- Ranger: 6+Con modifier
 	- Barbarian: 7+Con modifier
@@ -120,8 +123,8 @@ Keep the following things in mind when creating your character:
 
 ### Checklist for next time
 - [ ] Create your character!
-- [ ] Think of and discuss how do you know each other? What are your personal bonds?
 - [ ] Think of your backstory and write it down, together with your Ideal and Flaw. If you want you can write a little story, but keep it limited to 1 page.
+- [ ] Think of and discuss how do you know each other? What are your personal connections and bonds?
 - [ ] Think of your Secret and share it *only* with the DM!
 - [ ] Read up on your class features and options, select spells if applicable.
-- [ ] Ask any questions you may still have.
+- [ ] Ask or write down any questions you may still have.
