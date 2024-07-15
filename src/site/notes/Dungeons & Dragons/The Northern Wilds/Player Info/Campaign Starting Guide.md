@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Campaign Starting Guide.md","permalink":"/the-northern-wilds/campaign-starting-guide/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD/Campaign-Starting-Guide"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/player-info/campaign-starting-guide/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD/Campaign-Starting-Guide"]}
 ---
 
 
@@ -105,7 +105,7 @@ Keep the following things in mind when creating your character:
 - [ ] Choose your race and apply any bonuses to the ability scores
 - [ ] Choose the Skill proficiencies associated with your class
 - [ ] Think of your Background and choose the proficiencies you gain from it
-- [ ] Select your starting gear as stated on your class's options
+- [ ] Select your starting gear as stated on your class's options. If you want to switch a piece of gear out for something equivalent, that's fine (so you can switch out a Light Armour for different Light Armour, Martial Weapon for a different Martial Weapon, etc)
 - [ ] For your Hit Points: first level is as provided in your class description. For level 2 you gain the average amount of Hit Points. For your classes this is:
 	- Druid, Warlock: 5+Con modifier
 	- Ranger: 6+Con modifier
