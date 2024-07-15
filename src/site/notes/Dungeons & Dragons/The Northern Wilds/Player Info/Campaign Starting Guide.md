@@ -90,7 +90,7 @@ Our campaign starts with all of you in the employ of the Halfling merchant Terri
 ### Creating your Character
 When creating your character, you can make use of the character builder on D&D Beyond. If you join the campaign there, you also have access to all the digital resources. 
 
-You can create your character using the following link: 
+You can create your character using the following link: https://www.dndbeyond.com/campaigns/join/56979542675251148
 Select the following options when creating your character to ensure you get the right content and setting:
 
 ![Screenshot_20240715-102115.png](/img/user/z_attachments/The%20Northern%20Wilds/Screenshot_20240715-102115.png)
@@ -110,6 +110,8 @@ Keep the following things in mind when creating your character:
 	- Choose 2 Skill Proficiencies, 1 Tool Proficiency and 1 Language that fit your Background
 - You have all rolled for your ability scores. If you are very unhappy with your results, I will allow you to change the scores to that of the Standard Array: 8, 10, 12, 13, 14, 15. The ability scores that you decide on when we start the first session is the one that sticks!
 - Please feel free to have a free reign with crafting your backstory. The world we create is there to be filled in with your imagination as well! If you'd like a certain detail about the world to be true to work for your character, let me know and we can see how we can incorporate it together!
+
+---
 
 ### Character Creation Process
 - [ ] Divide your ability scores over the abilities
