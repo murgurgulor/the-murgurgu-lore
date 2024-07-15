@@ -8,7 +8,7 @@
 ### Campaign Setting
 The campaign takes place in the northern part of the continent. Most of the southerners call this area *The Northern Wilds*, but to those who call it their home it's just the North.
 
-There are three major countries in the North:
+There are three countries in the North:
 - **Asainn** is the largest and connects to the southern continent. It's a large country that consists of three different provinces. It's governed by the Ruling Council, which consists of three consuls - one from each province. It's capital city is **Caol Arrad**, a prosperous port city on the southern end of the country.
 - **Skalmyr** lies north east of Asainn. It's a relatively laid back country that focuses their efforts on their fishing activities along their coastline. They maintain friendly relations and trade with Asainn. Its capital city is **Snykeste**, an overgrown fishing town on the eastern coast. 
 - **Boreund** lies north west of Asainn and west of Skalmyr. It's a harsh country with many mountains and - with the exception of its southern borders - icy plains. It extends far to the north into the polar region. Its inhabitants are a rough and tough crowd who maintain at best neutral relations with their neighbouring countries. It's capital city is the mountain fortress **Bor Bradrak**.
