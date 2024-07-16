@@ -18,6 +18,8 @@ The western end of the North is a region called **The Wild Hinterlands**. This i
  A large mountain range cuts horizontally through the North, separating the different countries. This mountain range is called **The Carnan Meoírd**.
 
 Finally: **Skalhaug** is a large island/mountain range off Skalmyr's coast. It's mostly uninhabitable, but you can find small villages on the coastline. There is no central government between them.
+
+For inspiration, have a look at the [[Dungeons & Dragons/The Northern Wilds/Player Info/Scenes and Imagery\|Scenes and Imagery]].
  
 ---
 ![The Wild Norths - Lands.png](/img/user/z_attachments/The%20Northern%20Wilds/The%20Wild%20Norths%20-%20Lands.png)
