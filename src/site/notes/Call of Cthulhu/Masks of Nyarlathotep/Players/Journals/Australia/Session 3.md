@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Australia/Session 3.md","permalink":"/masks-of-nyarlathotep/journals/australia/session-3/","tags":["TTRPG/Games/MoN"]}
+---
+
+### Dateline: Wednesday, May 13th, 1925
+Zasu wakes up alone in her room at night to the sounds of rustling. In the dim candlelight she sees three figures standing around her: Mortimer Wycroft's daughters. One of them has a knife pressed against Zasu's throat. The ladies demand to know where their father's book is. Zasu feigns ignorance and instead tries to suggest that Mortimer's mind might be going a bit. Seeds of doubt are sewn with the daughters and they take their leave. Zasu then quickly heads to Lawrence and Matthias' room to spend the night there, forcing Lawrence to sleep in a chair.
+
+The next morning Zasu retells the story to Dick and Shark, and Shark is miffed that Zasu went to Matthias' room and not his. Dick is just reading Mortimer's book and skipping a meal. The book is a mediocre read and doesn't hold any important information, so the group deduces that reading this book must be some form of comforting obsession for the less-than-sane Mortimer. They decide to return it.
+
+Arriving at the Wycroft workshop, they see Mortimer and his daughters in an argument. Mortimer wants to get in his truck, exclaiming that the disappearance of the book is an ill omen and he must see Mr. Carver at once. His daughters try to keep him from going. Zasu inappropriately budges in with a bottle of beer to celebrate their fake up-coming partnership, giving Dick ample opportunity to slip the book back in the house.
+
+Zasu overplays her hand and enquires about the book with Mortimer, who gets mad with rage that someone knows about his book. His fury turns on his daughters as he discovers they were talking about his book. Shark joins the fray when Mortimer gives Zasu a shove, and they extract themselves from the situation. They head to the car depot where Robert Mackenzie and Short Round are eagerly waiting to embark on the expedition! They divide themselves over the two cars, with Shark and Zasu being the first drivers.
+
+After half a day of driving in the hot and dry Australian desert, Zasu suddenly spots another vehicle coming behind them. The group hides behind a plateau and sees Mortimer Wycroft speeding by in his truck. They start to follow him. Dick tries to figure out the device of rods, wheels and mirrors but fails.
+
+When dark is settling in and the temperature drops, Mortimer shows no signs of stopping. They decide to switch drivers to keep following Mortimer. After a few hours they spot a campfire up ahead, it seems even Mr. Wycroft needs some rest and reprieve. They settle on a watch and settle in for the night.
+
+Dick dreams his usual dreams of K'tuga's eternal flame and scorching heat, when suddenly there's a lull in the flames and Dick finds himself on a red rocky outcropping with an empty sky above except for a single bright blue star. He hears whispering on the winds, which soon turns into a string of words: 'zasu-zasu-zasu-zasu-zasu-zasu-zasu-zasu-zasu-zasu-zasu-zasu'. Dick turns around to find Matthias wearing Egyptian clothing standing behind him. The Matthias looks questioningly at Dick, before Dick's dream erupts into cataclysmic flames again. Everyone wakes up to Dick shouting "HE'S ALIVE!"
+
+### Dateline: Thursday, May 14th, 1925
+Dawn has arrived and everyone takes off again, Dick talking with Lawrence about the Dreamlands and whether there is a way to communicate with this fragment of Matthias and get an agent in the Dreamlands. Dick figures that his continuous obsession with the Dreamlands and finding Matthias there must have subconsciously manifested this event in the Dreamlands. Lawrence figures that if the two Matthiases meet in the Dreamlands, they could probably join back together.
+
+During a lunch break, Shark is fiddling with the device of rods, wheels and mirrors again and discovers a hidden safety latch. The device is now usable! He also finds a little dial that changes a number from 0 to 100.000. Shark sets it at 1234 - his favourite number - and activates the device. A loud *WHOMP* is heard, after which Shark seems different. He looks around with awkward eyes and spasmically jerks his limbs and start making weird noises. After some difficult communication back and forth, the group deduces that Shark might be possessed by a Yith! Matthias briefly entertains the thought of striking Shark with the Sword of Akmallah.
+
+After a while, the Shark-Yith learns to control the human body's movements better and communication is possible. Shark-Yith explains the real Shark is in the Yithian's body now in Blackpool, in the year 691. They'll switch minds back in a day. Dick then proceeds to bombard Shark-Yith with questions about Nyarlathotep, time travel and accessing the Dreamlands. They get some answers but some of it is too technical. Shark-Yith is amused and obsessed with the car.
+
+The group decides to drive on, with Shark-Yith eagerly taking the wheel. Shark-Yith comments how Lawrence's camera looks a lot like a Lightning Gun. He suddenly also realizes they're heading for the City of Pnakotus, the main base for the Yithians on this planet during the dawn of humanity! Oh boy! Shark-Yith hopes that those nasty Flying Polyps are gone from the city. These nemeses to the Yithians are imperceptible to the human eye, so Shark-Yith warns the group to watch out for their footprints: a triangle with 5 dots around it!
