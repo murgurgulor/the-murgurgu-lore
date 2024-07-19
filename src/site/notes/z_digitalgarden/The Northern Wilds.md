@@ -5,4 +5,4 @@
 
 - Get started with the [[Dungeons & Dragons/The Northern Wilds/Player Info/Campaign Starting Guide\|Campaign Starting Guide]]
 - Keep in mind the [[Dungeons & Dragons/The Northern Wilds/Player Info/House Rules\|House Rules]]
-- View some of the [[Sc\|Sc]]
+- View some of the [[Dungeons & Dragons/The Northern Wilds/Player Info/Scenes and Imagery\|Scenes and Imagery]]
