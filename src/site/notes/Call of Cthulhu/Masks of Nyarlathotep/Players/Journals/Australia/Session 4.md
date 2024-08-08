@@ -16,7 +16,7 @@ With the sandstorm hitting the rocks around them, Mortimer explains that in 1921
 
 At the end, the group convinces Mortimer to head back, pick up his daughters, and live a peaceful life elsewhere. Mortimer doubt whether his daughters want to come along - they're quite taken with Mr. Carver. Mortimer tells the group about the way to the Great City's entrance, the hand signal to call off the sniper that's on watch, and the guard that's stationed at the entrance to the Great City.
 
-Meanwhile Shark and Zasu have snuggled up together, to curious outrage from Matthias who proceeds to position a blade near Shark's nethers. Dick finally realizes that Shark and Zasu are in a relationship now. A lively discussion follows where the pros and cons of restoring Matthias' memories are discussed. Lawrence takes a firm stance that it simply would cause too much drama.
+While Shark finds it hard to talk about his experiences in Medieval England - where he spent 4 weeks! - he's happy to snuggle up to Zasu again, to curious outrage from Matthias who proceeds to position a blade near Shark's nethers. Dick finally realizes that Shark and Zasu are in a relationship. A lively discussion follows where the pros and cons of restoring Matthias' memories are discussed. Lawrence takes a firm stance that it simply would cause too much drama.
 
 As the sandstorm abates, the group beds down for the night again. 
 
