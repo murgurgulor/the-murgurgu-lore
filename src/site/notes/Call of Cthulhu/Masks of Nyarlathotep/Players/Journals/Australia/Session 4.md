@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Australia/Session 4.md","permalink":"/masks-of-nyarlathotep/journals/australia/session-4/","tags":["TTRPG/Games/MoN"]}
+---
+
+### Dateline: Thursday, May 14th, 1925
+The group sets up camp for the night. Zasu despairs that both her boyfriends have lost their minds. Meanwhile Shark-Yith tells tales about the Great City of Pnakotus where the Yith had their base on Earth aeons past. It all kind of went downhill when the city got infested with Flying Polyps and fighting them with the Lightning Guns just wasn't really worth it anymore. Shark-Yith guesses that Robert Huston is in Pnakotus to delve for the Yithians' great technologies and gadgets.
+
+They also talk about the multiverse and they wonder what Shark is up to in Medieval England. Shark-Yith expresses interest in sleeping and Lawrence teaches him some breathing exercises.
+
+### Dateline: Friday, May 15th, 1925
+The group sets out to follow Mortimer Wycroft again. As the day progresses a warm wind picks up, which they realize is a coming sandstorm! They see Mortimer Wycroft driving up to some rocky outcroppings and devise a cunning plan. They drive up to Mortimer and Shark-Yith extends a Yithian greeting to him. Mortimer recognizes this from his book and is instantly in revelry of Shark-Yith, hoping that he'll get taken along with the Yith. 
+
+Mortimer explains his life has been full of suffering, both in regular coal mines as in John Carver's eldritch tunnels, and he just wants to join the Yith in their observations. Shark-Yith gives a comforting lecture about there being many paths in the future and that Mortimer should cease his dark work to become a watcher. Shark's actual mind pops back in for a moment and causes some confusion. As Shark-Yith ends his tale, Mortimer vows to stop working for Carver. Shark's mind is yoinked back from Medieval England and is now safely back in his own head. Confused by the situation he finds himself in, he keeps quiet. The rest of the group convinces Mortimer Wycroft to give a confession. 
+
+With the sandstorm hitting the rocks around them, Mortimer explains that in 1921, an American named John Carver came to Cuncudgerie looking for mining opportunities. He hired some 25 men - including Wycroft - to start digging at many places in the Great Sandy Desert. They found nothing but one day Carver exclaimed jubilantly that god had shown him the way. The next place they dug, they found a deep shaft leading down. Carver then gave the miners a choice: join him underground, or die. Some of the miners got angry and refused to come with Carver, after which a terrible bat-like demon with leathery wings and a three-lobed eye appeared that massacred the nay-sayers. The remaining miners quickly followed Carver, but Mortimer was kept as a courier on the outside, to bring in equipment and supplies and to send strange devices to China, England and Kenya through Darwin.
+
+At the end, the group convinces Mortimer to head back, pick up his daughters, and live a peaceful life elsewhere. Mortimer doubt whether his daughters want to come along - they're quite taken with Mr. Carver. Mortimer tells the group about the way to the Great City's entrance, the hand signal to call off the sniper that's on watch, and the guard that's stationed at the entrance to the Great City.
+
+Meanwhile Shark and Zasu have snuggled up together, to curious outrage from Matthias who proceeds to position a blade near Shark's nethers. Dick finally realizes that Shark and Zasu are in a relationship now. A lively discussion follows where the pros and cons of restoring Matthias' memories are discussed. Lawrence takes a firm stance that it simply would cause too much drama.
+
+As the sandstorm abates, the group beds down for the night again. 
+
+### Dateline: Saturday, May 16th, 1925
+The next day Mortimer brings them to a crossroads and tells them to take the north track. Robert Mackenzie is concerned about their water supply and advocates going south instead, to hit up the wells in the Canning Stock Route and travel to the Great City from the other side. The group agrees with Robert and they head south. Mortimer says his goodbyes and heads back to Cuncudgerie.
+
+After restocking water and pressing on, the group finds old tire tracks that lead up to an abandoned camp - the camp the miners put up in 1921. They find everything ragged and rusted, except for one tent that seems intact and patched up. They also find unmarked tins of food and footprints belonging to a barefooted person. A bit of the ways out of the camp they see a naked sleeping man. They wake him up and the man introduces himself as Jeremy Grogan. The group claims to be Americans looking for mining in the area, and Jeremy becomes suspicious. Suddenly three dingoes appear at the backs of the group, whereas they didn't see any dingoes before! After they take the story back, the dingoes disappear again without a trace.
+
+Talking to Jeremy for a while, they learn he was one of the miners that went with Carver. After he saw some of his crew mates devoured by the bat-creature, he decided to walk away and just live in the desert instead. There is some confusion as to how Jeremy gets his food and water, but finally they deduce that Jeremy is able to consciously travel to the Dreamlands and bring stuff he needs back from there. Jeremy teaches them how he does it, but the group is having a hard time of the simultaneous sleeping/throat singing step.
+
+The group decides to press on to the entrance of the Great City rather than camping with Jeremy. Dick promises to meet him in the Dreamlands though. Jeremy is happy to hear, but he warns Dick not to go near the black tower in the Dreamlands. It recently appeared and there's a menacing entity clad in billowing yellow robes and a pallid mask that lives there. The entity calls itself the God-King of the Dreamlands....
