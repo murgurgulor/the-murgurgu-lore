@@ -7,6 +7,7 @@
 - [[Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Australia/Session 1\|Session 1]]: June 11, 2024
 - [[Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Australia/Session 2\|Session 2]]: June 25, 2024
 - [[Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Australia/Session 3\|Session 3]]: July 16, 2024
+- [[Call of Cthulhu/Masks of Nyarlathotep/Players/Journals/Australia/Session 4\|Session 4]]: August 07, 2024
 
 { .block-language-dataview}
 
