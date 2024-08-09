@@ -2,23 +2,35 @@
 {"dg-publish":true,"dg-path":"The Northern Wilds/Scenes and Imagery.md","permalink":"/the-northern-wilds/scenes-and-imagery/","tags":["TTRPG/Campaigns/Northern-Wilds"]}
 ---
 
+# Scenes
+## Session 1
+
+###### Eskel Evening Market
+![1. Eskel Market.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/1.%20Eskel%20Market.webp)
+
+##### The Forests near Eskel
+![1. Eskel Forest.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/1.%20Eskel%20Forest.jpg)
+
+##### Greyscorn's Tomb
+![1. Greyscorn's Tomb.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/1.%20Greyscorn's%20Tomb.jpg)
+
 
 # Landscapes
 
 ##### Northern Asainn
-![Scene - North Asainn.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scene%20-%20North%20Asainn.webp)
+![0. North Asainn.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Environment/0.%20North%20Asainn.webp)
 
 ##### Southern Asainn
-![Scene - South Asainn.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scene%20-%20South%20Asainn.jpg)
+![0. South Asainn.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Environment/0.%20South%20Asainn.jpg)
 
 ##### Skalmyr
-![Scene - Skalmyr.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scene%20-%20Skalmyr.webp)
+![0. Skalmyr.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Environment/0.%20Skalmyr.webp)
 
 ##### Boreund
-![Scene - Boreund.png](/img/user/z_attachments/The%20Northern%20Wilds/Scene%20-%20Boreund.png)
+![0. Boreund.png](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Environment/0.%20Boreund.png)
 
 ##### Western Hinterlands
-![Scene - Hinterlands.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scene%20-%20Hinterlands.webp)
+![0. Hinterlands.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Environment/0.%20Hinterlands.webp)
 
 ##### Skalhaug
-![Scene - Skalhaug.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scene%20-%20Skalhaug.webp)
+![0. Skalhaug.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Environment/0.%20Skalhaug.webp)

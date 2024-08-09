@@ -17,6 +17,7 @@ The party continues their journey and stumbles on some Kobold traps. Nun applies
 
 The party loots the camp and finds a map that points towards a cave. This is probably where they'll find the remaining Kobolds!
 
+
 ---
 ### Notable NPCs
 **Terrilick Gumsby**: Halfling Merchant and your current patron. He has employed you as guards for the trip down to Caol Arrad. He is a bit weird about his pillows.
@@ -34,3 +35,30 @@ The party loots the camp and finds a map that points towards a cave. This is pro
 >You can coat one slashing or piercing weapon or up to three pieces of ammunition with one dose of poison. Applying the poison takes an action. Once applied, the poison retains potency for 1 minute before drying, or until it transfers to a target through injury with the weapon.
 >
 >If ingested, a full dose needs to be ingested for the effect to take place. Ingesting less than a full dose gives Advantage on the Saving Throw to avoid its effects.
+
+---
+### Scenes and Images
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-northern-wilds/scenes-and-imagery/#session-1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Scenes and Images
+
+</div>
+
+
+## Session 1
+
+###### Eskel Evening Market
+![1. Eskel Market.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/1.%20Eskel%20Market.webp)
+
+##### The Forests near Eskel
+![1. Eskel Forest.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/1.%20Eskel%20Forest.jpg)
+
+##### Greyscorn's Tomb
+![1. Greyscorn's Tomb.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/1.%20Greyscorn's%20Tomb.jpg)
+
+
+
+</div></div>

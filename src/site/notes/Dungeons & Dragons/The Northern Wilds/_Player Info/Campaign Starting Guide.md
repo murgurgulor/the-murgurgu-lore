@@ -22,7 +22,7 @@ Finally: **Skalhaug** is a large island/mountain range off Skalmyr's coast. Ther
 For inspiration, have a look at the [[Dungeons & Dragons/The Northern Wilds/_Player Info/Scenes and Imagery\|Scenes and Imagery]].
  
 ---
-![The Wild Norths - Lands.png](/img/user/z_attachments/The%20Northern%20Wilds/The%20Wild%20Norths%20-%20Lands.png)
+![The Wild Norths - Lands.png](/img/user/z_attachments/The%20Northern%20Wilds/Maps/The%20Wild%20Norths%20-%20Lands.png)
 
 ---
 ### Other Interesting Facts
@@ -79,8 +79,8 @@ When creating your character, you can make use of the character builder on D&D B
 You can create your character using the following link: https://www.dndbeyond.com/campaigns/join/56979542675251148
 Select the following options when creating your character to ensure you get the right content and setting:
 
-![Screenshot_20240715-102115.png](/img/user/z_attachments/The%20Northern%20Wilds/Screenshot_20240715-102115.png)
-![Screenshot_20240715-101819.png](/img/user/z_attachments/The%20Northern%20Wilds/Screenshot_20240715-101819.png)
+![Screenshot_20240715-102115.png](/img/user/z_attachments/The%20Northern%20Wilds/Player%20Files/Screenshot_20240715-102115.png)
+![Screenshot_20240715-101819.png](/img/user/z_attachments/The%20Northern%20Wilds/Player%20Files/Screenshot_20240715-101819.png)
 
 We start your character at **Level 2**. You will level up to level 3 after the first quest.
 
