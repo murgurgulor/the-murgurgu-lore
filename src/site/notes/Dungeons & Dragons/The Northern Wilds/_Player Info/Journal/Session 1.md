@@ -18,7 +18,7 @@ The party continues their journey and stumbles on some Kobold traps. Nun applies
 The party loots the camp and finds a map that points towards a cave. This is probably where they'll find the remaining Kobolds!
 
 ---
-### NPCs met
+### Notable NPCs
 **Terrilick Gumsby**: Halfling Merchant and your current patron. He has employed you as guards for the trip down to Caol Arrad. He is a bit weird about his pillows.
 
 **Dooghan Maculney**: Nervous and sweaty mayor of Eskel, who has given you the quest of hunting down the remaining Kobolds.
