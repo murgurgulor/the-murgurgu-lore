@@ -9,7 +9,7 @@ After a few days in the mountains, the caravan arrives in the border town of Esk
 
 Suddenly there are screams and crashes. The party hurries over and finds a gang of Kobolds ruining the Evening Market vibes. Terrilick screams that his pillows are in grave danger. This is enough for the group to quickly dispatch of the Kobolds. Rowan surprises everyone by turning into a hyena, and Mariun gets sliced up pretty bad. Afterwards Terrilick gathers his remaining pillows while Rowan has a laughing fit.
 
-The mayor of Eskel - Dooghan Maculney - shows up and thanks the party with sweaty hands. He requests their aid to hunt down the remaining Kobolds, as Eskel's guard situation is lacking at the moment. Terrilick agrees to secondment of his guards for a nice reward of gold and orange-crusted marlow head. The party drives up the price and then heads to bed. Nun makes a start on scouting ahead and monetizing the poor.
+The mayor of Eskel - Dooghan Maculney - shows up and thanks the party with sweaty hands. He requests their aid to hunt down the remaining Kobolds, as Eskel's guard situation is lacking at the moment. Terrilick agrees to secondment of his guards for a nice reward of gold, healing potions and orange-crusted marlow head. The party drives up the price and then heads to bed. Nun makes a start on scouting ahead and monetizing the poor.
 
 The next day the group sets out and makes good time. Mariun is scouting ahead and finds a nice hill to look out from. The ground collapses underneath her to reveal and old tomb. Investigating the tomb further reveals a shocking trap that hurts Rowan - who turned into a spider for the occassion, much to Nun's delight. Children's books and the power of friendship allow Mariun and Nun to disable the magical ward and a secondary room is revealed. A stone sarcophagus lures the crew in, but opening it causes an insidious shadow to attack! Mariun gets sapped from her strength, but the party manages to vanquish the monster in the end. Heading back to their prize, they find that the occupant of the sarcophagus was probably buried alive. There's also a wicked magical Halberd in there. Mariun takes it as compensation for her hurts.
 
@@ -25,6 +25,7 @@ The party loots the camp and finds a map that points towards a cave. This is pro
 
 ---
 ### Items found
+- **Healing Potion**: Heal 2d4+2 HP when taken as a Bonus Action, or 10 HP when taken as an Action.
 - **Greyscorn's Halberd**: a +1 Halberd with a dark oily metal blade.
 - **Metal Grenade**: A strange metal sphere that you found on a Kobold. It probably does something when thrown.
 - **Large Metal Projectile Launcher**: A strange metal tube that has a bola-like object inside. You can probably fire it, but it's so foreign to you that you have Disadvantage on the attack roll.
