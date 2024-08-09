@@ -24,7 +24,7 @@ The party loots the camp and finds a map that points towards a cave. This is pro
 **Dooghan Maculney**: Nervous and sweaty mayor of Eskel, who has given you the quest of hunting down the remaining Kobolds.
 
 ---
-### Items found
+### Items gained
 - **Healing Potion**: Heal 2d4+2 HP when taken as a Bonus Action, or 10 HP when taken as an Action.
 - **Greyscorn's Halberd**: a +1 Halberd with a dark oily metal blade.
 - **Metal Grenade**: A strange metal sphere that you found on a Kobold. It probably does something when thrown.
@@ -33,4 +33,4 @@ The party loots the camp and finds a map that points towards a cave. This is pro
 >[!tip]+ Rules explained: Applying Poisons
 >You can coat one slashing or piercing weapon or up to three pieces of ammunition with one dose of poison. Applying the poison takes an action. Once applied, the poison retains potency for 1 minute before drying, or until it transfers to a target through injury with the weapon.
 >
->If ingested, a full dose needs to be ingested for the effect to take place. Ingesting less than a full dose give Advantage on the Saving Throw to avoid its effects.
+>If ingested, a full dose needs to be ingested for the effect to take place. Ingesting less than a full dose gives Advantage on the Saving Throw to avoid its effects.
