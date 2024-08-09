@@ -32,4 +32,5 @@ The party loots the camp and finds a map that points towards a cave. This is pro
 - **Dullaleaf Poison** (4 doses): Apply poison through injury or ingestion. The target makes a Constitution Saving Throw DC 12, and on a fail the target has Disadvantage on all Wisdom ability checks and Wisdom Saving Throws for the coming hour. 
 >[!tip]+ Rules explained: Applying Poisons
 >You can coat one slashing or piercing weapon or up to three pieces of ammunition with one dose of poison. Applying the poison takes an action. Once applied, the poison retains potency for 1 minute before drying, or until it transfers to a target through injury with the weapon.
+>
 >If ingested, a full dose needs to be ingested for the effect to take place. Ingesting less than a full dose give Advantage on the Saving Throw to avoid its effects.
