@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Journal/Campaign Journal.md","permalink":"/the-northern-wilds/journal/campaign-journal/","tags":["TTRPG/Campaigns/Dragons-Wrath"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Journal/Campaign Journal.md","permalink":"/the-northern-wilds/journal/campaign-journal/","pinned":true,"tags":["TTRPG/Campaigns/Dragons-Wrath"]}
 ---
 
 
