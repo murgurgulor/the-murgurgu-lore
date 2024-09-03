@@ -3,7 +3,7 @@
 ---
 
 
-- Read up on your [[Dungeons & Dragons/The Northern Wilds/_Player Info/Journal/Campaign Journal\|Campaign Journal]]
-- Get started with the [[Dungeons & Dragons/The Northern Wilds/_Player Info/Reference Material/Campaign Starting Guide\|Campaign Starting Guide]]
-- Keep in mind the [[Dungeons & Dragons/The Northern Wilds/_Player Info/Reference Material/House Rules\|House Rules]]
-- View some of the [[Dungeons & Dragons/The Northern Wilds/_Player Info/Reference Material/Scenes and Imagery\|Scenes and Imagery]]
+- Read up on your [[Dungeons & Dragons/The Northern Wilds/Players/Journal/Campaign Journal\|Campaign Journal]]
+- Get started with the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Campaign Starting Guide\|Campaign Starting Guide]]
+- Keep in mind the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/House Rules\|House Rules]]
+- View some of the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Scenes and Imagery\|Scenes and Imagery]]

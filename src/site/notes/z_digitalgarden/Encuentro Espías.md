@@ -11,7 +11,7 @@
 - CLASSIFIED: An overview of the [[_archive/Encuentro Espías/Game Mechanics/Basic Moves\|Basic Moves]]
 - FOR YOUR EYES ONLY: [[_archive/Encuentro Espías/Game Mechanics/Detailed Moves and Examples of Play\|Detailed Moves and Examples of Play]] 
 - BE AWARE: you might need a healthy dose of [[TTRPG/_archive/Encuentro Espías/Game Mechanics/Luck\|Luck]] to complete your mission!
-- REPORT TO THE QUARTERMASTER: you might need some [[_archive/Encuentro Espías/Game Mechanics/Items\|Items]]
+- REPORT TO THE QUARTERMASTER: you might need some [[_archive/Encuentro Espías/Game Mechanics/Items\|_archive/Encuentro Espías/Game Mechanics/Items]]
 ---
 Meet your fellow Spies:
 - [[_archive/Encuentro Espías/Spy Info/Jordy Jameson\|Jordy Jameson]]
