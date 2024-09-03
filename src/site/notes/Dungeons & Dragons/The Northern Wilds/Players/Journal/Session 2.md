@@ -50,6 +50,7 @@ The party leaves the tower with their contracts and instructions to present them
 - **Lasair Gordan**: Elderly Elven woman and one of Asainn's three councilors, from the province of Cridhen. Very stoic and down-to-business.
 - **Maelon Baughn**: Gruff Dwarven man and one of Asainn's three councilors, from the province of Talagar. You haven't heard him speak a word so far.
 - **Vello Cadhla**: Young and jovical human man and one of Asainn's three councilors, from the province of Glen Fior. Very warm and welcoming.
+- **Riqardo**: Laidback half-orc of unknown relevance to the rest of the story.
 
 ---
 
