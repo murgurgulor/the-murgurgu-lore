@@ -19,7 +19,7 @@ The travel to Caol Arrad takes 11 more days, which pass by uneventfully. One nig
 ---
 The party finally arrives in Caol Arrad, a bay city situated between two rivers. The city is built in tiers and on every tier a canal has been dug between the two rivers. A multitude of small waterfalls drop between tiers and give the city a magical feel when the sun shines on the spray of droplets. Hence the city's nickname: The City of Glittering Dusk.
 
-Terrilick thanks the crew for their service and pays them a handsome fee. He goes off to peddle his pillows but not before Nun's new little eight-legged friends manages to sneak one off his cart. After stealing the party resolves to scamming and they find a fancy jewelry store proprieted by Jon Batcock. They peddle their dragon parts for a handsome price, though Jon seems extremely pleased with this deal.
+Terrilick thanks the crew for their service and pays them a handsome fee. He goes off to peddle his pillows but not before Nun's new little eight-legged friends manage to sneak one off his cart. After stealing the party resolves to scamming and they find a fancy jewelry store proprieted by Jon Batcock. They peddle their dragon parts for a handsome price, though Jon seems extremely pleased with this deal.
 
 Next they look for an inn, asking random passersby for advice. They find a fatal flaw in the Wrestling Werebear's vegan menu and end up settling on the Marinating Mermaid. On their way there, Rowan spies some people looking at her and whispering. It turns out they're followers from the Church of the Dragon - Draconites - and are in awe of her scaling. Rowan asks if anyone similar to her has been by recently but they don't know, and refer Rowan to their Elder in the church. Nun goes shopping and after failing to barter buys 40 Barbed Arrows.
 
@@ -46,10 +46,10 @@ The party leaves the tower with their contracts and instructions to present them
 ---
 
 ### Notable NPCs
-**Lasair Gordan**: Elderly Elven woman and one of Asainn's three councilors, from the province of Cridhen.
-**Maelon Baughn**: Gruff Dwarven man and one of Asainn's three councilors, from the province of Talagar.
-**Vello Cadhla**: Young and jovical human man and one of Asainn's three councilors, from the province of Glen Fior.
-**Riqardo**: Laidback half-orc of unknown relevance to the rest of the story.
+- **Jon Batcock**: Proprietor of a fancy jewelry store in Caol Arrad, on whom you've unloaded your dragon spoils.
+- **Lasair Gordan**: Elderly Elven woman and one of Asainn's three councilors, from the province of Cridhen. Very stoic and down-to-business.
+- **Maelon Baughn**: Gruff Dwarven man and one of Asainn's three councilors, from the province of Talagar. You haven't heard him speak a word so far.
+- **Vello Cadhla**: Young and jovical human man and one of Asainn's three councilors, from the province of Glen Fior. Very warm and welcoming.
 
 ---
 
