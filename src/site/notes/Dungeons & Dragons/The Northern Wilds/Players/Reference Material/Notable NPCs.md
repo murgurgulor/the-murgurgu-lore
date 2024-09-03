@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/notable-np-cs/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Notable NPCs.md","permalink":"/the-northern-wilds/reference-material/notable-np-cs/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 A list of the NPCs you've met so far.
