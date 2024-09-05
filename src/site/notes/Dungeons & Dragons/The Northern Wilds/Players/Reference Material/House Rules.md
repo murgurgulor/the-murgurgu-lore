@@ -13,7 +13,7 @@ The following rules are in addition to the Rules As Written (RAW):
 	- In between these two, there's a **Medium Rest** which occurs after a night's sleep. After a Medium Rest you get the following:
 		- All the benefits from a Short Rest
 		- You recover a number of Hit Dice equal to half your level rounded up
-		- You roll 1 Hit Die + Con modifier to heal HP for free, and can spend more Hit Dice to heal up more (as in a Short Rest).
+		- You heal HP equal to a number of Hit Die of half your level (rounded up) + Con modifier. You can spend more Hit Dice to heal up more (as in a Short Rest). For example if you take a Medium Rest as a lvl 5 Fighter, you heal 3d10+Con mod HP for free.
 - Combat:
 	- After Initiative is rolled for combat, you can choose to voluntarily lower your Initiative.
 	- **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool move, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check, you'll get to do your action with Advantage. If you fail the ability check, you suffer a negative consequence.
