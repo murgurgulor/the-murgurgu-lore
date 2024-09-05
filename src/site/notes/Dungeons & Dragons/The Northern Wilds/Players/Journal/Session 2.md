@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Journal/Session 2.md","permalink":"/the-northern-wilds/journal/session-2/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/journal/session-2/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 ### Events
@@ -37,7 +37,7 @@ That evening in the inn, Nun overhears some gossip about the country's Ruling Co
 ---
 The next day, the group heads to the Council's Tower - a large hexagonal tower that once served as a military watch tower. It has a brutalist architecture that has been covered with with expensive rugs, banners and furniture. They sign in and ascend the long stairs to the top floor where the Council resides. In the waiting room they meet two gnomes who want to peddle their concept of Pineapple Armor for the dragon effort. They also briefly talk to three half-orcs, one of which is named Riqardo, who have also signed up for the Hinterlands War Effort. They appear to have dubious motives and qualities.
 
-Finally it's the party's turn. They enter the Council's Chamber: a large open space with great glass windows on every wall. Behind a large desk the councilors are seated. Lasair Gordan does the talking and inquires about the motives, skills and talents of every party member, which they answer acceptably. There is some smalltalk about Terrilick's pillows.
+Finally it's the party's turn. They enter the Council's Chamber: a large open space with great glass windows on every wall. Six guards are stationed in this room. Behind a large desk the councilors are seated. Lasair Gordan does the talking and inquires about the motives, skills and talents of every party member, which they answer acceptably. There is some smalltalk about Terrilick's pillows.
 
 After the end of the incredibly boring and formal interview, Councilor Vello Cadhla suddenly swoops in with his bright green robes and gives heartfelt words of thanks and appreciation to the party. Cadhla reprimands the other councilors for not being appreciative of the people who come to serve their country, and they begrudgingly give thanks to the party as well.
 
@@ -61,7 +61,7 @@ The party leaves the tower with their contracts and instructions to present them
 
 ### Scenes and Imagery
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/the-northern-wilds/reference-material/scenes-and-imagery/#session-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/dungeons-and-dragons/the-northern-wilds/players/reference-material/scenes-and-imagery/#session-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

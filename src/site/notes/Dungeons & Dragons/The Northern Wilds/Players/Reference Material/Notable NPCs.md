@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Notable NPCs.md","permalink":"/the-northern-wilds/reference-material/notable-np-cs/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/notable-np-cs/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 A list of the NPCs you've met so far.
@@ -7,6 +7,8 @@ A list of the NPCs you've met so far.
 **Terrilick Gumsby**: Halfling Merchant and your current patron. He has employed you as guards for the trip down to Caol Arrad. He is a bit weird about his pillows but apparently they're of great quality.
 
 **Dooghan Maculney**: Nervous and sweaty mayor of Eskel, who has given you the quest of hunting down the remaining Kobolds.
+
+**Jon Batcock**: Proprietor of a fancy jewelry store in Caol Arrad, on whom you've unloaded your dragon spoils.
 
 **Lasair Gordan**: Elderly Elven woman and one of Asainn's three councilors, from the province of Cridhen. Very stoic and down-to-business.
 

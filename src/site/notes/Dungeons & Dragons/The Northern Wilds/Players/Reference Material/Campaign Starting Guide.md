@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Campaign Starting Guide.md","permalink":"/the-northern-wilds/reference-material/campaign-starting-guide/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/campaign-starting-guide/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 
