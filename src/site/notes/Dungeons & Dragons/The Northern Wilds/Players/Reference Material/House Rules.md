@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/House Rules.md","permalink":"/the-northern-wilds/reference-material/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 
@@ -25,7 +25,7 @@ The following rules are in addition to the Rules As Written (RAW):
 	- If you Counterspell a Counterspell, something strange will happen...
 
 
-### Zone-based Combat Distances
+### Zone-based Combat
 We won't use a gridded map to play out combat. Instead we'll use Zone-based Combat.
 - If a combat area is large enough it might be divided into several zones. A small area is a single zone.
 - You can use your movement to move anywhere within your zone, or to one other zone. If you have particularly low or high movement speed, you might be able to reach less or further. Difficult Terrain also factors in here on a case-by-case judgement.
