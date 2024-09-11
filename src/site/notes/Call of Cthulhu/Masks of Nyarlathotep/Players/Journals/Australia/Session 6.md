@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"dg-path":"Masks of Nyarlathotep/Journals/Australia/Session 6.md","permalink":"/masks-of-nyarlathotep/journals/australia/session-6/","tags":["TTRPG/Games/MoN"]}
+---
+
+### Dateline: Saturday, May 16th, 1925?
+The gang is holed up in one of the many gigantic buildings of Pnakotus with their captive Alan. They study the Lightning Gun a bit more and discover it has a certain amount of charges in the battery. After the battery dies it'll need to be replaced. There's also a dial that can be turned to increase the amount of charge spent per blast. Shark slightly remembers the Yithian language and reveals that there are 20 charges left on Lawrence's Lightning Gun. They go to sleep.
+
+---
+
+### Dateline: Sunday, May 17th, 1925?
+The gang awakes from a nauseating fluting sound carrying over the streets of Pnakotus. As a strong wind suddenly rustles their hair, they realize a dreaded Flying Polyp must be near! Knowing that they're generally invisible, Lawrence performs the Voorish Sign and sees the horrendous creature: an amorphous blob of ever-shifting eyes, mouths and bulbous growths! Het gets the Lightning Gun at the ready.
+
+Alan has also woken up and starts screaming in his gag. Dick ungags him and Alan starts yelling loudly that they need to run away as fast as they can. But, oh no! Alan's loud screaming has attracted the attention of the Polyp! As it undulates towards the building and starts morphing through one of the windows, Lawrence unleashes the Lightning Gun! The shock makes the Flying Polyp visible, to everyone's shock. Everyone but Dick, that is, for he has heeded Alan's advice and started running away.
+
+![Flying_polyp.webp](/img/user/z_attachments/Masks%20of%20Nyarlathotep/Visuals/Flying_polyp.webp)
+
+The gang assaults the Polyp. While Lawrence is blasting his Lightning Gun, Shark takes out Holy Sally and fires 3 bullets right into a horrific distented eyeball. The bullets themselves don't seem to faze the Polyp, but the otherworldly energy penetrates deeply in its core and it slowly starts to collapse on itself. Meanwhile Shark does take a nasty slap to the chest, and Matthias' swordplay gets blocked by the Polyp and he also takes a slap. Zasu pretends to be a Yithian with great accuracy. Finally, Dick overcomes his fears and charges towards the back of the Polyp with his Enchanted Torch and clobbers the butt of the thing. With a final discharge of the Lightning Gun, the Polyp finally fully collapses in on itself until only a small glob is left. Matthias considers eating it, but Dick quickly puts it in a jar to take along.
+
+Recovering from their endeavour, Shark and Matthias engage in a rivaling bandaging match. Afterwards everyone continues on down the path they had taken before, bringing poor Alan along as well. After an hours of walking the massive streets, they come to a diesel generator that seems to be powering the electric lights. Closeby, the streets are blocked by collapsed rubble and buildings. Lawrence swiftly climbs up and throws everyone a rope. Dick and Shark hurt themselves on their ascent. 
+
+After continuing down on the other side, they notice the line of lights suddenly halts at an intersection. With his elven eyes, Matthias sees a faint glimmer of light far down the left path, near what seems to be a man-made structure. They head down in near darkness until they come upon the building. In a little square where 5 streets intersect, a sturdy wooden building of 3 levels has been made! There is lighting on every floor, and after some strained listening the group discerns sounds of people sleeping from the ground floor and sounds of people moaning in agony on the second floor. The top floor seems to be silent.
+
+After briefly discussing setting the building on fire and punching Alan in the face, Dick sneaks up to the ground floor window. Inside he sees lots of crates, mining equipment, and 10 bedraggled Aboriginal men sleeping. They seem to be well dirtied and ragged. Shark inspects the second floor and sees a room filled with metal cages. Some of them have emaciated men in them, but one is filled with a man twitching and moaning on the ground, while something large and round seems to be moving around in his abdomen and chest. One of the prisoners sees Shark and starts crying for help.
+
+The group decides to wake up one of the sleeping men down below. After a nudge one wakes up, but just stares blankly at the investigators. Dick takes some time to look through the crates in this room and finds two more Lightning Guns! Each has 15 charges, and they get distributed to Zasu and Shark.
+
+Then, Shark goes upstairs again to try and break open a cage, to no effect. Apparently it needs some sort of magnetic key. They question one of the prisoners and learn that they're from an Aboriginal tribe and they've been taken prisoner by the cultists. Their life force is being drained by the Sand Bat at the Purpled Domed Temple, and he dreads his soul being sucked away completely. He also explains that the man with the thing inside has been injected with something by a large obscene creature in the Temple, and the cultists congratulated him on being the cocoon for a new Guardian.
+
+Shark borrows Matthias' sword and kills both the cocoon man and the thing inside him. There's lots of green ooze. Matthias then ascends the stairs to the top floor of the building and they find a lavishly decorated room with golden ornaments, a large mural of a man in divinity, a luxurious sitting area and sleeping area, and a sturdy work desk in the back. The group theorizes that this must be where Robert Huston lives, but the thin layer of dust on his bed shows that he hasn't slept here in a while. 
+
+A thorough search of the room reveals some interesting things. First, there's a marine chronometer on the wall just like in all the hide-outs of the other baddies. There's also a strange metal coned cap with wires protruding from it with an unknown purpose. In the work desk they find a friendly letter from Edward Gavigan, and a hand-written manuscript by Robert Huston called 'Gods of Reality'. This 600-page work seems to discuss how humanity can't perceive the true reality, and if they could that they could become gods themselves. There's a lot more to the book, but that would require a longer reading.
+
+Finally, on top of the work desk the group finds a few vials with a violet liquid inside. They also see some dried roots, a knife and a herb press. Through their knowledge of the Natural World and the Occult, the group learns that these roots are Selene Capensis: a root native to African countries that is used by shamans in their rituals of Dreamwalking...
