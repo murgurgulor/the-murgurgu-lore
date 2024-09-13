@@ -30,7 +30,7 @@ We won't use a gridded map to play out combat. Instead we'll use Zone-based Comb
 
 - If a combat area is large enough it might be divided into several zones. A small area is just a single zone.
 - On your turn, your character can move anywhere within a zone or move from one zone to an adjacent zone. If you have particularly low or high movement speed, you might be able to reach less or further. Difficult Terrain also factors in here on a case-by-case judgement.
-- We assume characters are not within threatening reach of an enemy unless they were attacked by that enemy with a melee attack.
+- We assume characters are not within threatening reach of an enemy unless they have attacked or were attacked by that enemy with a melee attack.
 - We assume characters move and act smartly. They will avoid obvious hazards or unneeded opportunity attacks.
 - Ranged attacks can hit someone within the same zone or in an adjacent zone. Particularly long range abilities (generally more than 60 feet) can target zones further away if the circumstances allow. 
 - If you were attacked by an enemy with a melee attack, we assume you're within 5 feet of that enemy and thus have Disadvantage on ranged attacks. 
