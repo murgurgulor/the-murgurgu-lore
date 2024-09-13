@@ -76,16 +76,21 @@ When you Overrun or Tumble, you move through an opponent's space rather than aro
 As part of the **Attack** action, you can make one of these maneuvers against an opponent within your reach. If you can make more than one attack, you can replace one of your attacks with a maneuver. When you make a maneuver against an opponent, they get to make a **Strength** or **Dexterity saving throw** to avoid the effect. The **DC** for this saving throw is **8 + your Proficiency Bonus + your Strength modifier**.
 
 ##### Disarm
-On a failed saving throw, you don't deal damage but the opponent drops an item they're holding. They have **Advantage** on the saving throw if their size is larger than yours, or if they're holding the item with two (or more) hands. They have **Disadvantage** on the saving throw if their size is smaller than yours.
+When you Disarm someone, you knock an opponent's weapon or item they're holding out of their hands. 
+On a failed saving throw, you don't deal damage but the opponent drops an item they're holding. The item drops to the ground, or you can immediately wield it yourself if you have a free hand available. 
+They have **Advantage** on the saving throw if their size is larger than yours, or if they're holding the item with two (or more) hands. They have **Disadvantage** on the saving throw if their size is smaller than yours.
 
 ---
 ##### Grapple
+When you Grapple an opponent, you're wrestling with them to keep them where you want 'em. 
 You can only grapple an opponent that's no more than one size larger than you, and you need to have at least one hand free. On a failed saving throw, the target gains the **Grappled** condition. This means:
 - Their speed drops to 0;
 - They have **Disadvantage** on attacks that don’t target you;
 - While you’re grappling, you can move the target along with you, but you move at half your speed.
-They can escape the Grapple by using their **Action** to make a **Str (Athletics)** or **Dex (Acrobatics)** roll vs. the same DC.
+They can escape the Grapple on their turn by using their **Action** to make a **Str (Athletics)** or **Dex (Acrobatics)** roll vs. the same DC. On a success, they break your grapple.
 
 ---
 ##### Shove/Shove Aside
-You can only shove an opponent that's no more than one size larger than you. On a failed saving throw, you don't deal damage but you knock them prone or 5ft away from you. You can also choose to move the opponent to any space within your reach instead of straight back, but they get **Advantage** on the saving throw.
+When you Shove an opponent, you either knock them to the ground or 5ft away from you.
+You can only shove an opponent that's no more than one size larger than you. On a failed saving throw, you don't deal damage but you knock them prone or 5ft straight back from you. 
+You can also choose to move the opponent to any space within your reach instead of straight back, but they get **Advantage** on the saving throw.
