@@ -6,7 +6,7 @@
 The following rules are in addition to the Rules As Written (RAW)
 
 # General
-- You get an extra Feat at character creation. You can ignore the level requirement but it you can't choose a Fighting Style Feat.
+- You get an extra Feat at character creation. You can ignore the level requirement but you can't choose a Fighting Style Feat.
 - Everyone starts the session with Heroic Inspiration. 
 - If you roll for Hit Points on level-up, you can also use Heroic Inspiration to gain Advantage on the HP roll if you still have Heroic Inspiration at that time.
 
@@ -17,7 +17,7 @@ The following rules are in addition to the Rules As Written (RAW)
 - In between these two, there's a **Medium Rest** which occurs after every night's sleep. After a Medium Rest you get the following:
 	- All the benefits from a Short Rest
 	- You recover a number of Hit Point Dice equal to half your level rounded up
-	- You heal HP equal to a number of Hit Point Dice of half your level (rounded up) + Con modifier. You can spend more Hit Point Dice to heal up more (as in a Short Rest). 
+	- You heal Hit Points equal to a number of Hit Point Dice of half your level (rounded up) + Con modifier, without having to spend those Hit Point Dice. If you want more healing, you can spend more Hit Point Dice to heal up more (as in a Short Rest). 
 		- For example if you take a Medium Rest as a lvl 5 Fighter, you heal 3d10+Con mod HP for free: Your Hit Point Die as a Fighter is a d10, half your level is 2,5 which rounded up is 3.
 
 ---
