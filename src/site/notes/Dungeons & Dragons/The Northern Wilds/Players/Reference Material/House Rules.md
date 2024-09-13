@@ -70,7 +70,7 @@ When you want to move past an opponent but there’s no way around them, you can
 
 ---
 ### Offensive Maneuvers
-As part of the **Attack** action, you can take one of these maneuvers. If you can make more than one attack, you can replace one of your attacks with a maneuver. When you make a maneuver against an opponent, they get to make a **Strength** or **Dexterity saving throw** to avoid the effect. The **DC** for this saving throw is **8 + your Proficiency Bonus + your Strength modifier**.
+As part of the **Attack** action, you can make one of these maneuvers against an opponent within your reach. If you can make more than one attack, you can replace one of your attacks with a maneuver. When you make a maneuver against an opponent, they get to make a **Strength** or **Dexterity saving throw** to avoid the effect. The **DC** for this saving throw is **8 + your Proficiency Bonus + your Strength modifier**.
 
 ##### Disarm
 On a failed saving throw, you don't deal damage but the opponent drops an item they're holding. They have **Advantage** on the saving throw if their size is larger than yours, or if they're holding the item with two (or more) hands. They have **Disadvantage** on the saving throw if their size is smaller than yours.
