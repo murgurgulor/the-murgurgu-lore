@@ -4,7 +4,7 @@
 
 
 The following rules are in addition to the Rules As Written (RAW):
-- You get an extra Feat at character creation. There is no level requirement but it can't be a Fighting Style Feat.
+- You get an extra Feat at character creation. You can ignore the level requirement but it you can't choose a Fighting Style Feat.
 - Everyone starts the session with Heroic Inspiration. 
 - If you roll for Hit Points on level-up, you can also use Heroic Inspiration to gain Advantage on the HP roll if you still have Heroic Inspiration at that time.
 - Rest and recovery:
