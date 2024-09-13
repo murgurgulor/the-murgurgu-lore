@@ -61,12 +61,15 @@ If more detail is required to determine the number of targets, refer to the tabl
 # Combat Maneuvers
 
 ### Movement Maneuvers
+On your turn, as part of your movement you can use your **Action** or **Bonus Action** to force your movement through or onto an opponent. When you make these maneuvers, you have to make a **Strength (Athletics)** or **Dexterity (Acrobatics)** check to succeed. The **DC** for this check is **8 + the target's Proficiency Bonus + the target's Strength (for Overrun) or Dexterity (for Climb Onto and Tumble) modifier**.
+
 ##### Climb Onto Creature
-If you're fighting a sufficiently large opponent, you can attempt to climb onto that creature by using your **Action** to make a **Str (Athletics)** or **Dex (Acrobatics)** roll  vs. **DC (8+PB+Dex mod)** of the creature. On a success, you climb on the creature and can move about its body, but this counts as **Difficult Terrain**. Attacking the creature while on it gives you **Advantage** on your attack rolls. The creature can try to shake you off on their turn, which you can attempt to avoid with either a **Strength** or **Dexterity Saving Throw** vs. **DC (8+PB+Str/Dex mod)** of the creature.
+You can Climb onto a different Creature if it's at least one size larger than you are, if it has an appropriate anatomy that can be climbed, and if you have at least one hand free. On a success, you climb on the creature and can move about its body, but this counts as **Difficult Terrain**. Attacking the creature while on it gives you **Advantage** on your attack rolls. 
+The creature can use their **Action** to try to shake you off on their turn, which you can attempt to avoid with either a **Strength** or **Dexterity Saving Throw** against the same **DC**.
 
 ---
 ##### Overrun/Tumble
-When you want to move past an opponent but there’s no way around them, you can do so by overrunning them or tumbling past them. As an **Action** or **Bonus Action**, make a **Str (Athletics)** (Overrun) or **Dex (Acrobatics)** (Tumble) roll vs. **DC (8+PB+Str/Dex mod** (Overrun/Tumble)**)** of the opponent. On a success, you can move through the target's space once this turn. You have **Advantage** on your roll if you're larger (Overrun) or smaller (Tumble) than the target, and **Disadvantage** for the reverse. You still provoke an **Opportunity Attack** if you move out of the target’s threat.
+When you Overrun or Tumble, you move through an opponent's space rather than around. On a success, you can move through the target's space once this turn. You have **Advantage** on your roll if you're larger (Overrun) or smaller (Tumble) than the target, and **Disadvantage** for the reverse. You still provoke an **Opportunity Attack** if you move out of the target’s threat range.
 
 ---
 ### Offensive Maneuvers
@@ -77,7 +80,7 @@ On a failed saving throw, you don't deal damage but the opponent drops an item t
 
 ---
 ##### Grapple
-You can only grapple an opponent that's no more than one size larger than you. On a failed saving throw, the target gains the **Grappled** condition. This means:
+You can only grapple an opponent that's no more than one size larger than you, and you need to have at least one hand free. On a failed saving throw, the target gains the **Grappled** condition. This means:
 - Their speed drops to 0;
 - They have **Disadvantage** on attacks that don’t target you;
 - While you’re grappling, you can move the target along with you, but you move at half your speed.
