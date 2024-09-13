@@ -3,29 +3,34 @@
 ---
 
 
-The following rules are in addition to the Rules As Written (RAW):
+The following rules are in addition to the Rules As Written (RAW)
+
+### Character Creation and Level-ups
 - You get an extra Feat at character creation. You can ignore the level requirement but it you can't choose a Fighting Style Feat.
 - Everyone starts the session with Heroic Inspiration. 
 - If you roll for Hit Points on level-up, you can also use Heroic Inspiration to gain Advantage on the HP roll if you still have Heroic Inspiration at that time.
-- Rest and recovery:
-	- A **Short Rest** functions as usual, taking 30-60 minutes of in-game time.
-	- A **Long Rest** only happens when you take a full day's rest (= light activities during the day, and a good night's sleep) in a peaceful environment.
-	- In between these two, there's a **Medium Rest** which occurs after every night's sleep. After a Medium Rest you get the following:
-		- All the benefits from a Short Rest
-		- You recover a number of Hit Point Dice equal to half your level rounded up
-		- You heal HP equal to a number of Hit Point Dice of half your level (rounded up) + Con modifier. You can spend more Hit Point Dice to heal up more (as in a Short Rest). 
-			- For example if you take a Medium Rest as a lvl 5 Fighter, you heal 3d10+Con mod HP for free: Your Hit Point Die as a Fighter is a d10, half your level is 2,5 which rounded up is 3.
-- Combat:
-	- After Initiative is rolled for combat, you can choose to voluntarily lower your Initiative.
-	- **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get Advantage on that attack. However, if you fail the ability check you suffer a negative consequence, such as Disadvantage on the attack roll or falling prone. This penalty is declared before the check is made.
+
+---
+### Rest and recovery
+- A **Short Rest** functions as usual, taking 30-60 minutes of in-game time.
+- A **Long Rest** only happens when you take a full day's rest (= light activities during the day, and a good night's sleep) in a peaceful environment.
+- In between these two, there's a **Medium Rest** which occurs after every night's sleep. After a Medium Rest you get the following:
+	- All the benefits from a Short Rest
+	- You recover a number of Hit Point Dice equal to half your level rounded up
+	- You heal HP equal to a number of Hit Point Dice of half your level (rounded up) + Con modifier. You can spend more Hit Point Dice to heal up more (as in a Short Rest). 
+		- For example if you take a Medium Rest as a lvl 5 Fighter, you heal 3d10+Con mod HP for free: Your Hit Point Die as a Fighter is a d10, half your level is 2,5 which rounded up is 3.
+
+---
+### Combat
+- After Initiative is rolled for combat, you can choose to voluntarily lower your Initiative.
+- **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get Advantage on that attack. However, if you fail the ability check you suffer a negative consequence, such as Disadvantage on the attack roll or falling prone. This penalty is declared before the check is made.
 		- For example: A rogue wants to attack an evil wizard and describes how they're swinging on a chandelier while they attack. The DM offers the player the chance of Cinematic Advantage by making a Dexterity (Acrobatics) check DC 12, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with Advantage. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
-	- **Retreat**: If combat is not going well, every player can discuss a possible Retreat on their turn. On any PC’s turn, any player can propose that all the characters retreat from the fight. If all players agree, they successfully retreat, carrying any fallen party members away with them. This comes at a cost to the story: the bad guys will be able to make a major advancement against your goals!
-	- If you want to drink a healing potion, you can choose to use a Bonus Action or an Action to do so. If you use a Bonus Action, you roll for the healing as usual. If you use your Action, you gain the maximum amount of healing.
-	- A number of Combat Maneuvers are available. You can find a summary of the maneuvers below.
-	- If you Counterspell a Counterspell, something strange will happen...
+- **Retreat**: If combat is not going well, every player can discuss a possible Retreat on their turn. On any PC’s turn, any player can propose that all the characters retreat from the fight. If all players agree, they successfully retreat, carrying any fallen party members away with them. This comes at a cost to the story: the bad guys will be able to make a major advancement against your goals!
+- If you want to drink a healing potion, you can choose to use a Bonus Action or an Action to do so. If you use a Bonus Action, you roll for the healing as usual. If you use your Action, you gain the maximum amount of healing.
+- A number of Combat Maneuvers are available. You can find a summary of the maneuvers below.
+- If you Counterspell a Counterspell, something strange will happen...
 
-
-### Zone-based Combat
+##### Zone-based Combat
 We won't use a gridded map to play out combat. Instead we'll use Zone-based Combat.
 
 - If a combat area is large enough it might be divided into several zones. A small area is just a single zone.
@@ -37,7 +42,7 @@ We won't use a gridded map to play out combat. Instead we'll use Zone-based Comb
 - Areas of Effect of spells/abilities target a number of creatures as determined in the section below.
 - The DM will adjudicate specific situations as the come up in gameplay. The decision is based on what makes sense in the situation and will favor the character when possible.
 
-##### AoE Targets
+###### AoE Targets
 Use the following guidelines to roughly determine how many targets you can affect with an AoE effect:
 - **Tiny areas**: 1 creature (_cloud of daggers_)
 - **Small areas**: 2 creatures (_thunder wave, burning hands_).
@@ -84,7 +89,7 @@ As part of the **Attack** action, you can make one of these maneuvers against an
 ---
 ##### Disarm
 When you Disarm someone, you knock an opponent's weapon or other item they're holding out of their hands. 
-On a failed saving throw, you don't deal damage but the opponent drops the item you targeted. The item drops to the ground, or you can immediately wield it yourself if you have a free hand available. 
+On a failed saving throw, you don't deal damage but the opponent drops the item you targeted. The item then drops to the ground, or you can immediately wield it yourself if you have a free hand available. 
 They have **Advantage** on the saving throw if their size is larger than yours, or if they're holding the item with two (or more) hands. They have **Disadvantage** on the saving throw if their size is smaller than yours.
 
 ---
