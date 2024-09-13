@@ -18,7 +18,7 @@ The following rules are in addition to the Rules As Written (RAW):
 - Combat:
 	- After Initiative is rolled for combat, you can choose to voluntarily lower your Initiative.
 	- **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get Advantage on that attack. However, if you fail the ability check you suffer a negative consequence, such as Disadvantage on the attack roll or falling prone. This penalty is declared before the check is made.
-		- For example: A rogue wants to attack an evil wizard and describes how they're swinging on a chandelier while they attack. The DM offers the player the chance of Cinematic Advantage by making a Dexterity (Acrobatics) check DC 12, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with Advantage. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not
+		- For example: A rogue wants to attack an evil wizard and describes how they're swinging on a chandelier while they attack. The DM offers the player the chance of Cinematic Advantage by making a Dexterity (Acrobatics) check DC 12, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with Advantage. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
 	- **Retreat**: If combat is not going well, every player can discuss a possible Retreat on their turn. On any PC’s turn, any player can propose that all the characters retreat from the fight. If all players agree, they successfully retreat, carrying any fallen party members away with them. This comes at a cost to the story: the bad guys will be able to make a major advancement against your goals!
 	- If you want to drink a healing potion, you can choose to use a Bonus Action or an Action to do so. If you use a Bonus Action, you roll for the healing as usual. If you use your Action, you gain the maximum amount of healing.
 	- A number of Combat Maneuvers are available. You can find a summary of the maneuvers below.
@@ -27,19 +27,24 @@ The following rules are in addition to the Rules As Written (RAW):
 
 ### Zone-based Combat
 We won't use a gridded map to play out combat. Instead we'll use Zone-based Combat.
-- If a combat area is large enough it might be divided into several zones. A small area is a single zone.
-- You can use your movement to move anywhere within your zone, or to one other zone. If you have particularly low or high movement speed, you might be able to reach less or further. Difficult Terrain also factors in here on a case-by-case judgement.
-- You can attack anyone in your zone or in an adjacent zone over with ranged attacks. Particularly long range abilities (generally >60 feet) can target zones further away.
-- If you move within a zone, it's assumed you move tactically to avoid Opportunity Attacks. You only provoke Opportunity Attacks if it's clear you've been engaged with an enemy (as in, they've just attacked you or you've just attacked them in melee range).
-- Areas of Effect target a number of creatures as determined in the section below.
-- Edge cases or exceptions will be adjudicated by the DM as they come up, where the DM will lean to favouring the players.
+
+- If a combat area is large enough it might be divided into several zones. A small area is just a single zone.
+- On your turn, your character can move anywhere within a zone or move from one zone to an adjacent zone. If you have particularly low or high movement speed, you might be able to reach less or further. Difficult Terrain also factors in here on a case-by-case judgement.
+- We assume characters are not within threatening reach of an enemy unless they were attacked by that enemy with a melee attack.
+- We assume characters move and act smartly. They will avoid obvious hazards or unneeded opportunity attacks.
+- Ranged attacks can hit someone within the same zone or in an adjacent zone. Particularly long range abilities (generally more than 60 feet) can target zones further away if the circumstances allow. 
+- If you were attacked by an enemy with a melee attack, we assume you're within 5 feet of that enemy and thus have Disadvantage on ranged attacks. 
+- Areas of Effect of spells/abilities target a number of creatures as determined in the section below.
+- The DM will adjudicate specific situations as the come up in gameplay. The decision is based on what makes sense in the situation and will favor the character when possible.
 
 ##### AoE Targets
 Use the following guidelines to roughly determine how many targets you can affect with an AoE effect:
-- Small Area: 2 targets
-- Medium Area: 3 targets
-- Large Area: 4 targets
-- Huge Area: 8+ targets
+- **Tiny areas**: 1 creature (_cloud of daggers_)
+- **Small areas**: 2 creatures (_thunder wave, burning hands_).
+- **Large areas**: 4 creatures (_cone of cold, fireball, darkness_).
+- **Huge areas**: 8+ creatures/Everyone (_earthquake, circle of death_).
+- **Short lines**: 2 creatures (_wall of fire_).
+- **Long lines** 3 creatures (_lightning bolt, blade barrier_).
 
 If more detail is required to determine the number of targets, refer to the table below.
 
