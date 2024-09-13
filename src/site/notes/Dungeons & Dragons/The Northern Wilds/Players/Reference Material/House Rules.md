@@ -63,6 +63,7 @@ If more detail is required to determine the number of targets, refer to the tabl
 ### Movement Maneuvers
 On your turn, as part of your movement you can use your **Action** or **Bonus Action** to force your movement through or onto an opponent. When you make these maneuvers, you have to make a **Strength (Athletics)** or **Dexterity (Acrobatics)** check to succeed. The **DC** for this check is **8 + the target's Proficiency Bonus + the target's Strength** (for Overrun) or **Dexterity** (for Climb Onto and Tumble) **modifier**.
 
+---
 ##### Climb Onto Creature
 You can Climb onto a different Creature if it's at least one size larger than you are, if it has an appropriate anatomy that can be climbed, and if you have at least one hand free. 
 On a success, you climb on the creature and can move about its body, but this counts as **Difficult Terrain**. 
@@ -80,6 +81,7 @@ You still provoke an **Opportunity Attack** if you move out of the target’s th
 ### Offensive Maneuvers
 As part of the **Attack** action, you can make one of these maneuvers against an opponent within your reach. If you can make more than one attack, you can replace one of your attacks with a maneuver. When you make a maneuver against an opponent, they get to make a **Strength** or **Dexterity saving throw** to avoid the effect. The **DC** for this saving throw is **8 + your Proficiency Bonus + your Strength modifier**.
 
+---
 ##### Disarm
 When you Disarm someone, you knock an opponent's weapon or item they're holding out of their hands. 
 On a failed saving throw, you don't deal damage but the opponent drops an item they're holding. The item drops to the ground, or you can immediately wield it yourself if you have a free hand available. 
@@ -92,6 +94,7 @@ You can only grapple an opponent that's no more than one size larger than you, a
 - Their speed drops to 0;
 - They have **Disadvantage** on attacks that don’t target you;
 - While you’re grappling, you can move the target along with you, but you move at half your speed.
+
 They can escape the Grapple on their turn by using their **Action** to make a **Str (Athletics)** or **Dex (Acrobatics)** roll vs. the same DC. On a success, they break your grapple.
 
 ---
