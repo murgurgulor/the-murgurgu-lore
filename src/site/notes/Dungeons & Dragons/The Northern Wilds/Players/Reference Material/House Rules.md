@@ -30,7 +30,7 @@ The following rules are in addition to the Rules As Written (RAW)
 - A number of Combat Maneuvers are available. You can find a summary of the maneuvers below.
 - If you Counterspell a Counterspell, something strange will happen...
 
-### Zone-based Combat
+## Zone-based Combat
 We won't use a gridded map to play out combat. Instead we'll use Zone-based Combat.
 
 - If a combat area is large enough it might be divided into several zones. A small area is just a single zone.
@@ -42,7 +42,7 @@ We won't use a gridded map to play out combat. Instead we'll use Zone-based Comb
 - Areas of Effect of spells/abilities target a number of creatures as determined in the section below.
 - The DM will adjudicate specific situations as the come up in gameplay. The decision is based on what makes sense in the situation and will favor the character when possible.
 
-##### AoE Targets
+### AoE Targets
 Use the following guidelines to roughly determine how many targets you can affect with an AoE effect:
 - **Tiny areas**: 1 creature (_cloud of daggers_)
 - **Small areas**: 2 creatures (_thunder wave, burning hands_).
@@ -61,37 +61,37 @@ If more detail is required to determine the number of targets, refer to the tabl
 | Line                   | (Length / 30) targets in a rough line    |
 
 ---
-### Combat Maneuvers
+## Combat Maneuvers
 
-##### Movement Maneuvers
+### Movement Maneuvers
 On your turn, as part of your movement you can use your **Action** or **Bonus Action** to force your movement through or onto an opponent. When you make these maneuvers, you have to make a **Strength (Athletics)** or **Dexterity (Acrobatics)** check to succeed. The **DC** for this check is **8 + the target's Proficiency Bonus + the target's Strength** (for Overrun) or **Dexterity** (for Climb Onto and Tumble) **modifier**.
 
 ---
-###### Climb Onto Creature
+##### Climb Onto Creature
 You can Climb onto a different Creature if it's at least one size larger than you are, if it has an appropriate anatomy that can be climbed, and if you have at least one hand free. 
 On a success, you climb on the creature and can move about its body, but this counts as **Difficult Terrain**. 
 Attacking the creature while on it gives you **Advantage** on your attack rolls. 
 The creature can use their **Action** to try to shake you off on their turn, which you can attempt to avoid with either a **Strength** or **Dexterity Saving Throw** against the same **DC**.
 
 ---
-###### Overrun/Tumble
+##### Overrun/Tumble
 When you Overrun or Tumble, you move through an opponent's space rather than around. 
 On a success, you can move through the target's space once this turn. 
 You have **Advantage** on your roll if you're larger (Overrun) or smaller (Tumble) than the target, and **Disadvantage** for the reverse. 
 You still provoke an **Opportunity Attack** if you move out of the target’s threat range.
 
 ---
-##### Offensive Maneuvers
+### Offensive Maneuvers
 As part of the **Attack** action, you can make one of these maneuvers against an opponent within your reach. If you can make more than one attack, you can replace one of your attacks with a maneuver. When you make a maneuver against an opponent, they get to make a **Strength** or **Dexterity saving throw** to avoid the effect. The **DC** for this saving throw is **8 + your Proficiency Bonus + your Strength modifier**.
 
 ---
-###### Disarm
+##### Disarm
 When you Disarm someone, you knock an opponent's weapon or other item they're holding out of their hands. 
 On a failed saving throw, you don't deal damage but the opponent drops the item you targeted. The item then drops to the ground, or you can immediately wield it yourself if you have a free hand available. 
 They have **Advantage** on the saving throw if their size is larger than yours, or if they're holding the item with two (or more) hands. They have **Disadvantage** on the saving throw if their size is smaller than yours.
 
 ---
-###### Grapple
+##### Grapple
 When you Grapple an opponent, you're wrestling with them to keep them where you want 'em. 
 You can only grapple an opponent that's no more than one size larger than you, and you need to have at least one hand free. On a failed saving throw, the target gains the **Grappled** condition. This means:
 - Their speed drops to 0;
@@ -101,7 +101,7 @@ You can only grapple an opponent that's no more than one size larger than you, a
 They can escape the Grapple on their turn by using their **Action** to make a **Str (Athletics)** or **Dex (Acrobatics)** roll vs. the same DC. On a success, they break your grapple.
 
 ---
-###### Shove/Shove Aside
+##### Shove/Shove Aside
 When you Shove an opponent, you either knock them to the ground or 5ft away from you.
 You can only shove an opponent that's no more than one size larger than you. On a failed saving throw, you don't deal damage but you knock them prone or 5ft straight back from you. 
 You can also choose to move the opponent to any space within your reach instead of straight back, but they get **Advantage** on the saving throw.
