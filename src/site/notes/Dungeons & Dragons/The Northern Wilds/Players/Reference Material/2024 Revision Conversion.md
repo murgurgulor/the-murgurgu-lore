@@ -16,8 +16,8 @@ Follow these steps to update your character to the 2024 revision!
 ![Pasted image 20240912091506.png](/img/user/z_attachments/Pasted%20image%2020240912091506.png)![Pasted image 20240912091514.png](/img/user/z_attachments/Pasted%20image%2020240912091514.png)
 
 ---
-5. Look at the other Feat(s) you already have: if there's an update in the new rules, you switch to the new version. This might increase some of your ability scores (for example the updated Grappler feat now also lets you to increase your Strength or Dexterity score by 1). If you don't like the updated version of a Feat, feel free to choose another one instead. If there's not an update of a Feat you have in the new rules, you keep it as is. 
+5. Look at the other Feat(s) you already have: if there's an update in the new rules, you switch to the new version. This might increase some of your ability scores (for example the updated Grappler feat now also lets you increase your Strength or Dexterity score by 1). If you don't like the updated version of a Feat, feel free to choose another one instead. If there's not an update of a Feat you have in the new rules, you keep it as is. 
 
-6. Look at your new class abilities and spells. Some spells have stayed the same, but some have changed a bit!
+6. Read the chapter of your class and familiarize yourself with the updated class abilities and spells. Some abilities and spells have stayed the same, but some have changed a bit!
 
 7. Create a new character sheet for yourself. You can find the official 2024 sheet [here](https://drive.google.com/file/d/1Z6j32y7x3W8jS9epHXsj7VC069S9nJVS/view?usp=drive_link), but feel free to look for a different one if that works better for you!
