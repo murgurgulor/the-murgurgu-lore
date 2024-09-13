@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/House Rules.md","permalink":"/the-northern-wilds/reference-material/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/house-rules/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 
@@ -70,13 +70,19 @@ When you want to move past an opponent but there’s no way around them, you can
 
 ---
 ### Offensive Maneuvers
+As part of the **Attack** action, you can take one of these maneuvers. If you can make more than one attack, you can replace one of your attacks with a maneuver. When you make a maneuver against an opponent, they get to make a **Strength** or **Dexterity saving throw** to avoid the effect. The **DC** for this saving throw is **8 + your Proficiency Bonus + your Strength modifier**.
+
 ##### Disarm
-As part of the **Attack** action, you can attempt to knock a weapon or other item out of your opponent's hand. You make an **Attack** roll vs. **DC (8+PB+Str/Dex mod)** of the creature. On a success, you don't deal damage but the opponent drops the item. You have **Disadvantage** on the Attack roll if you're smaller than the opponent or if the opponent is holding the item with two (or more) hands. You have **Advantage** on the Attack roll if you're larger than the opponent.
+On a failed saving throw, you don't deal damage but the opponent drops an item they're holding. They have **Advantage** on the saving throw if their size is larger than yours, or if they're holding the item with two (or more) hands. They have **Disadvantage** on the saving throw if their size is smaller than yours.
 
 ---
 ##### Grapple
-As part of the **Attack** action, you can try to Grapple your opponent if they're no more than one size larger than you and you have at least one free hand. They have to make a **Strength** or **Dexterity Saving Throw** vs. **your DC (8+PB+Str mod)**. On a success, the target gains the Grappled condition (it can’t move anymore and has **Disadvantage** on attacks that don’t target you). It can escape the Grapple by using its **Action** to make a **Str (Athletics)** or **Dex (Acrobatics)** roll vs. the same DC. While you’re grappling, you can move the target along with you but you move at half speed.
+You can only grapple an opponent that's no more than one size larger than you. On a failed saving throw, the target gains the **Grappled** condition. This means:
+- Their speed drops to 0;
+- They have **Disadvantage** on attacks that don’t target you;
+- While you’re grappling, you can move the target along with you, but you move at half your speed.
+They can escape the Grapple by using their **Action** to make a **Str (Athletics)** or **Dex (Acrobatics)** roll vs. the same DC.
 
 ---
 ##### Shove/Shove Aside
-As part of the **Attack** action you can attempt to shove your target, either knocking them prone or 5ft away from you, provided they're no more than one size larger than you. They have to make a **Strength** or **Dexterity Saving Throw** vs. **your DC (8+PB+Str mod)**. On a success, you either knock the target prone or 5ft away from you. If you choose to move the target to any space within your reach instead of straight back, they get **Advantage** on the saving throw.
+You can only shove an opponent that's no more than one size larger than you. On a failed saving throw, you don't deal damage but you knock them prone or 5ft away from you. You can also choose to move the opponent to any space within your reach instead of straight back, but they get **Advantage** on the saving throw.
