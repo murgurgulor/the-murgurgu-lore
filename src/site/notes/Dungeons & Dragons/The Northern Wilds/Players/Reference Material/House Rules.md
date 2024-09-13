@@ -61,15 +61,20 @@ If more detail is required to determine the number of targets, refer to the tabl
 # Combat Maneuvers
 
 ### Movement Maneuvers
-On your turn, as part of your movement you can use your **Action** or **Bonus Action** to force your movement through or onto an opponent. When you make these maneuvers, you have to make a **Strength (Athletics)** or **Dexterity (Acrobatics)** check to succeed. The **DC** for this check is **8 + the target's Proficiency Bonus + the target's Strength (for Overrun) or Dexterity (for Climb Onto and Tumble) modifier**.
+On your turn, as part of your movement you can use your **Action** or **Bonus Action** to force your movement through or onto an opponent. When you make these maneuvers, you have to make a **Strength (Athletics)** or **Dexterity (Acrobatics)** check to succeed. The **DC** for this check is **8 + the target's Proficiency Bonus + the target's Strength** (for Overrun) or **Dexterity** (for Climb Onto and Tumble) **modifier**.
 
 ##### Climb Onto Creature
-You can Climb onto a different Creature if it's at least one size larger than you are, if it has an appropriate anatomy that can be climbed, and if you have at least one hand free. On a success, you climb on the creature and can move about its body, but this counts as **Difficult Terrain**. Attacking the creature while on it gives you **Advantage** on your attack rolls. 
+You can Climb onto a different Creature if it's at least one size larger than you are, if it has an appropriate anatomy that can be climbed, and if you have at least one hand free. 
+On a success, you climb on the creature and can move about its body, but this counts as **Difficult Terrain**. 
+Attacking the creature while on it gives you **Advantage** on your attack rolls. 
 The creature can use their **Action** to try to shake you off on their turn, which you can attempt to avoid with either a **Strength** or **Dexterity Saving Throw** against the same **DC**.
 
 ---
 ##### Overrun/Tumble
-When you Overrun or Tumble, you move through an opponent's space rather than around. On a success, you can move through the target's space once this turn. You have **Advantage** on your roll if you're larger (Overrun) or smaller (Tumble) than the target, and **Disadvantage** for the reverse. You still provoke an **Opportunity Attack** if you move out of the target’s threat range.
+When you Overrun or Tumble, you move through an opponent's space rather than around. 
+On a success, you can move through the target's space once this turn. 
+You have **Advantage** on your roll if you're larger (Overrun) or smaller (Tumble) than the target, and **Disadvantage** for the reverse. 
+You still provoke an **Opportunity Attack** if you move out of the target’s threat range.
 
 ---
 ### Offensive Maneuvers
