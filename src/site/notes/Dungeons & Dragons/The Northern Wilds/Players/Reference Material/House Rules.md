@@ -83,8 +83,8 @@ As part of the **Attack** action, you can make one of these maneuvers against an
 
 ---
 ##### Disarm
-When you Disarm someone, you knock an opponent's weapon or item they're holding out of their hands. 
-On a failed saving throw, you don't deal damage but the opponent drops an item they're holding. The item drops to the ground, or you can immediately wield it yourself if you have a free hand available. 
+When you Disarm someone, you knock an opponent's weapon or other item they're holding out of their hands. 
+On a failed saving throw, you don't deal damage but the opponent drops the item you targeted. The item drops to the ground, or you can immediately wield it yourself if you have a free hand available. 
 They have **Advantage** on the saving throw if their size is larger than yours, or if they're holding the item with two (or more) hands. They have **Disadvantage** on the saving throw if their size is smaller than yours.
 
 ---
