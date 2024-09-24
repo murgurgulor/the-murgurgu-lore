@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/2024 Revision Conversion.md","permalink":"/the-northern-wilds/reference-material/2024-revision-conversion/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/2024-revision-conversion/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 Follow these steps to update your character to the 2024 revision!

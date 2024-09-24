@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Scenes and Imagery.md","permalink":"/the-northern-wilds/reference-material/scenes-and-imagery/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/scenes-and-imagery/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 # Scenes
@@ -39,6 +39,12 @@
 ![Council's Tower 2.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Caol%20Arrad/Council's%20Tower%202.jpg)
 
 ---
+## Session 3
+##### The Emerald Hall, Vello Cadhla's Mansion
+![3. The Emerald Hall.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/3.%20The%20Emerald%20Hall.webp)
+
+##### Port Hawis, with the mountains of the Western Hinterlands in the background
+![3. Glen Fior and Western Hinterlands.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/3.%20Glen%20Fior%20and%20Western%20Hinterlands.webp)
 
 # Landscapes
 
