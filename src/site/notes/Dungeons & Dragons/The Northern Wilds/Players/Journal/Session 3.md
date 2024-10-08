@@ -45,7 +45,7 @@ After this excitement, the ship approaches the Bulwark: the gigantic circular wa
 ##### The Emerald Hall, Vello Cadhla's Mansion
 ![3. The Emerald Hall.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/3.%20The%20Emerald%20Hall.webp)
 
-##### Port Hawis, with the mountains of the Western Hinterlands in the background
+##### Dun Ballantein on the cliffs, Port Hawis below. and the Western Hinterlands in the background
 ![3. Glen Fior and Western Hinterlands.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/3.%20Glen%20Fior%20and%20Western%20Hinterlands.webp)
 
 

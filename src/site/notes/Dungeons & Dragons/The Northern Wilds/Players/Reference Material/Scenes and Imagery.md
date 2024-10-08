@@ -46,6 +46,24 @@
 ##### Dun Ballantein on the cliffs, Port Hawis below. and the Western Hinterlands in the background
 ![3. Glen Fior and Western Hinterlands.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/3.%20Glen%20Fior%20and%20Western%20Hinterlands.webp)
 
+## Session 4
+##### Dun Ballantein
+![Dun Ballantein.png](/img/user/z_attachments/Dun%20Ballantein.png)
+
+##### The Ballachan Mountains
+![Ballachan Mountains.png](/img/user/z_attachments/Ballachan%20Mountains.png)
+
+##### Stronbeg
+![Stronbeg.png](/img/user/z_attachments/Stronbeg.png)
+
+##### Dreamwulf
+![Dreamwulf.jpg](/img/user/z_attachments/Dreamwulf.jpg)
+
+##### Goblin Mutant
+![Goblin Mutant.webp](/img/user/z_attachments/Goblin%20Mutant.webp)
+
+
+---
 # Landscapes
 
 ##### Northern Asainn
