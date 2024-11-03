@@ -4,6 +4,6 @@
 
 
 - Read up on your [[Dungeons & Dragons/The Northern Wilds/Players/Journal/Campaign Journal\|Campaign Journal]]
-- Get started with the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Campaign Starting Guide\|Campaign Starting Guide]]
+- Check out the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Notable Items\|Notable Items]] and [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Notable NPCs\|Notable NPCs]]
 - Keep in mind the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/House Rules\|House Rules]]
 - View some of the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Scenes and Imagery\|Scenes and Imagery]]
