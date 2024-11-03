@@ -40,11 +40,11 @@ After taking a break, the party continues on. They cleverly create illusions of 
 # Items gained
 - **Cold Iron Ore**, enough to make 10 pieces of ammunition, or half of what's needed to create a Light bladed weapon
 - **Scroll of Expeditious Retreat**
-	- Expeditious Retreat: 
-		**Casting Time**: Bonus Action
-		**Target**: Self
-		**Duration**: Concentration, up to 10 minutes
-		**Effect**: You take the Dash action, and until the spell ends you can take that action again as a Bonus Action.
+>[!sc]+ Expeditious Retreat, Level 1 spell
+>**Casting Time**: Bonus Action
+>**Target**: Self
+>**Duration**: Concentration, up to 10 minutes
+>**Effect**: You take the Dash action, and until the spell ends you can take that action again as a Bonus Action.
 
 ---
 # Scenes and Imagery
