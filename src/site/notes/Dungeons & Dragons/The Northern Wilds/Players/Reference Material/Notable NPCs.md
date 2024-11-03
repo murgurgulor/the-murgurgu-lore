@@ -17,3 +17,7 @@ A list of the NPCs you've met so far.
 **Vello Cadhla**: Young and jovical human man and one of Asainn's three councilors, from the province of Glen Fior. Very warm and welcoming.
 
 **Riqardo**: Laidback half-orc of unknown relevance to the rest of the story.
+
+**Fillegrin the Bold**: Pompous elven bard in colourful attire, who hopes to realize his dreams of writing an epic ballad in the Hinterlands
+
+**General Maeve Eswèin**: Tough human woman, general of the army along the Hinterlands border. Stationed in Dun Ballantein. Has an awkward sense of hum
