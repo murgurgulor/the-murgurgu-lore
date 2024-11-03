@@ -11,5 +11,6 @@
 - [[Dungeons & Dragons/The Northern Wilds/Players/Journal/Session 2\|Session 2]]: August 31, 2024
 - [[Dungeons & Dragons/The Northern Wilds/Players/Journal/Session 3\|Session 3]]: September 20, 2024
 - [[Dungeons & Dragons/The Northern Wilds/Players/Journal/Session 4\|Session 4]]: October 05, 2024
+- [[Dungeons & Dragons/The Northern Wilds/Players/Journal/Session 5\|Session 5]]: November 02, 2024
 
 { .block-language-dataview}

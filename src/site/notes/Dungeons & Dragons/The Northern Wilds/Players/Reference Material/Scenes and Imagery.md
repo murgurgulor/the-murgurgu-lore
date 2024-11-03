@@ -62,6 +62,20 @@
 ##### Goblin Mutant
 ![Goblin Mutant.webp](/img/user/z_attachments/Goblin%20Mutant.webp)
 
+---
+## Session 5
+##### Stronbeg Mines
+![../../../../z_attachments/The Northern Wilds/Scenes/4. Stronbeg Mines.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/4.%20Stronbeg%20Mines.webp)
+
+##### The Ancient Library
+![../../../../z_attachments/The Northern Wilds/Scenes/5. The Ancient Library.png](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/5.%20The%20Ancient%20Library.png)
+
+##### Goatfolk
+![../../../../z_attachments/The Northern Wilds/Scenes/5. Goatfolk.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/5.%20Goatfolk.jpg)
+
+##### Goblins!
+![../../../../z_attachments/The Northern Wilds/Scenes/5. Goblins.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/5.%20Goblins.webp)
+
 
 ---
 # Landscapes
