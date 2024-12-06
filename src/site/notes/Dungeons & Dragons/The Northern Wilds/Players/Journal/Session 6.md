@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/journal/session-6/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Journal/Session 6.md","permalink":"/the-northern-wilds/journal/session-6/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 ### Events

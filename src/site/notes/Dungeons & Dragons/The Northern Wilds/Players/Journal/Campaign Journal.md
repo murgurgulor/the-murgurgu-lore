@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/journal/campaign-journal/","pinned":true,"tags":["TTRPG/Campaigns/Northern-Wilds"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Journal/Campaign Journal.md","permalink":"/the-northern-wilds/journal/campaign-journal/","pinned":true,"tags":["TTRPG/Campaigns/Northern-Wilds"]}
 ---
 
 
