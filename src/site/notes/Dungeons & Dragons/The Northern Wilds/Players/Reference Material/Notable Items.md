@@ -48,7 +48,7 @@ A list of the (unusual) items you've obtained so far.
 >This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
 
 >[!sc]+ Hold Person, Level 2 spell
->**Casting Time**: Bonus Action
+>**Casting Time**: Action
 >**Range**: 60 ft.
 >**Duration**: Concentration, up to 1 minute
 >**Effect**: Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
