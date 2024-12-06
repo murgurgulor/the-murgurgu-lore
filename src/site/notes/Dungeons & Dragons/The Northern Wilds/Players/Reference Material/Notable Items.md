@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Notable Items.md","permalink":"/the-northern-wilds/reference-material/notable-items/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/notable-items/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 A list of the (unusual) items you've obtained so far.
@@ -11,7 +11,7 @@ A list of the (unusual) items you've obtained so far.
 
 ### Magic Items
 >[!sc]+ Greyscorn's Halberd
->**Attunement**: No
+>**Attunement**: No (Mariun)
 >This is a magical +1 Halberd with a dark oily blade. You have witnessed strange necrotic energy being sucked into the blade after killing a Goblin.
 
 >[!sc]+ Cloak of Protection
@@ -19,7 +19,7 @@ A list of the (unusual) items you've obtained so far.
 >You gain a +1 bonus to Armor Class and saving throws while you wear this cloak.
 
 >[!sc]+ Cape of the Mountebank
->**Attunement:** No
+>**Attunement:** No (Rowan)
 >While wearing this cape, you can use it to cast Dimension Door as a Magic action once per day. When you teleport with that spell, you leave behind a cloud of smoke which makes the area Lightly Obscured until the end of your next turn.
 >**Dimension Door**: You teleport to a location within 500 feet. You arrive exactly at the spot desired. It can be a place you can see, one you can visualise, or one you can describe by stating distance and direction. You can teleport one willing creature you touch with you. If you arrive in a space occupied by another creature or filled with objects, you take 4d6 Force damage and the teleportation failes.
 
