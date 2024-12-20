@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/travelling-options/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Travelling Options.md","permalink":"/the-northern-wilds/reference-material/travelling-options/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 ### Travel Roles

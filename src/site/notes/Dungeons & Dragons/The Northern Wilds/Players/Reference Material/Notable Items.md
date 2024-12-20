@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/notable-items/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Notable Items.md","permalink":"/the-northern-wilds/reference-material/notable-items/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 A list of the (unusual) items you've obtained so far.
