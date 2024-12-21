@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Undertaking a Perilous Journey.md","permalink":"/the-northern-wilds/reference-material/undertaking-a-perilous-journey/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/undertaking-a-perilous-journey/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 
@@ -23,9 +23,9 @@ If the land you're traveling in is unknown to you, there might be other landmark
 
 
 ## Preparing for a Perilous Journey
-It's assumed that you all make general preparations for your trip. You stock up on rations, water skins, camping supplies, etc. Everything you might need for general travel. If you want to prepare specific things, however, that is also possible. You might want to bring a cart to carry more supplies, or you might want to seek out an explorer or scholar to see if they can provide you with more in-depth knowledge on the dangers that you might encounter. You could also procure pack beasts or hirelings to aid in your travel, study the weather, et cetera.
+When you go on a Perilous Journey, you'll need to at least stock up on rations, water skins, camping supplies, etc. Everything you might need for general travel. If you're unable to make these basic preparations - either because you're in a hurry or because there's no settlement around to get them - the **Quartermaster** will have to make their **Travel Check** with Disadvantage. Likewise if you don't have basic tools for navigation, the **Wayfinder** makes their **Travel Check** with Disadvantage. 
 
-Some of these preparations might simply provide a narrative permission but not mechanically affect your journey. Others might give you Advantage on specific rolls related to the trip, or add landmarks to your map that were previously unknown to you. An appropriate ability check might be warranted for certain preparations.
+You can also prepare extra resources for travel, should you want or need them. You might want to bring a cart to carry more supplies, or you might want to seek out an explorer or scholar to see if they can provide you with more in-depth knowledge on the dangers that you might encounter. You could also procure pack beasts or hirelings to aid in your travel, study the weather, et cetera. Some of these preparations might simply provide a narrative permission but not mechanically affect your journey. Others might give you Advantage on specific rolls related to the trip, or add landmarks to your map that were previously unknown to you. An appropriate ability check might be warranted for certain preparations.
 
 
 ## Charting the Course
@@ -51,7 +51,7 @@ Whenever you arrive at the next point, you can redivide the roles amongst your p
 ### Determining Your Pace
 If you're in a crunch you might want to travel faster, sacrificing effectiveness for speed. Conversely, if you want to make sure things are going well and you have the time to do it, you can travel at a slower pace as well. 
 - If you travel at a **Normal Pace**, the **Travel Time** isn't adjusted and the **Travel Check** is made normally.
-- If you travel at a **Fast Pace**, the **Travel Time** goes down to 75% (rounded down) but your **Travel Check** is made with Disadvantage.
+- If you travel at a **Fast Pace**, the **Travel Time** decreases to 75% (rounded down) but your **Travel Check** is made with Disadvantage.
 - If you travel at a **Slow Pace**, the **Travel Time** increases to 150% (rounded down) but your **Travel Check** is made with Advantage.
 
 
@@ -112,8 +112,9 @@ If you get to choose an outcome, you can decide on it at any time during this pa
 ## Along the Way
 While you're undertaking your Perilous Journey, you might encounter dangers, strange phenomena, interesting landmarks, or magnificent secrets. These are divided in two categories: **Wandering Encounters** and **Discoveries**.
 
+
 ### Wandering Encounters
-Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** of each leg of the Pointcrawl between 1 and 6. When the party rolls their Travel Checks, the DM will roll a number of d6 equal to the **Travel Time** in days. For each d6 where the result is **equal to or below** the Encounter Chance, the party will have a **Wandering Encounter** on their way. A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it, so you can prepare to deal with it.
+Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** of each leg of the Pointcrawl between 1 and 7. When the party rolls their Travel Checks, the DM will roll a number of d8 equal to the **Travel Time** in days. For each d8 where the result is **equal to or below** the Encounter Chance, the party will have a **Wandering Encounter** on their way. A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it, so you can prepare to deal with it.
 
 If the **Travel Time** extends because the Wayfinder is not doing their job properly, the DM rolls for the extra days as well. 
 
@@ -156,7 +157,7 @@ Everyone looks at the applicable rolls available for their role and chooses one 
 After the rolls are made, the DM needs to gather all the information from the outcomes to determine how the trip will play out:
 - He first asks the Sentry if he knows what option he will choose. Seeing as a +4 boost won't make Zulom's failure a success, and knowing that the Scout already succeeded, he decides he wants to make a **Discovery**.
 - The **Travel Time** hasn't changed from the Wayfinder's success, so the DM knows he needs to roll 6 times for a **Wandering Encounter**: 4 times before the party reaches the **Assassin Vines**, and twice from there to the temple.
-- The Scout will definitely get the drop on a Wandering Encounter, but they can still choose whether they want to get an advantage or make a Discovery. In order to have the Scout make an informed decision, the DM now rolls 4d6 to see if there are any Wandering Encounters. The DM gets a 5-4-2-4. The **Encounter Chance** was 2, so the 3rd day of travel will have a **Wandering Encounter**.
+- The Scout will definitely get the drop on a Wandering Encounter, but they can still choose whether they want to get an advantage or make a Discovery. In order to have the Scout make an informed decision, the DM now rolls 4d8 to see if there are any Wandering Encounters. The DM gets a 5-7-2-4. The **Encounter Chance** was 2, so the 3rd day of travel will have a **Wandering Encounter**.
 - The DM tells the Scout that the party will face an encounter, and the Scout elects to get an advantage on dealing with it.
 - Finally, the DM asks Zulom how he wants his failure to go. Not wanting to give everyone Disadvantage, he elects to face an unexpected **Wandering Encounter**. As this is an unexpected encounter, the Scout does not get the drop on it!
 
