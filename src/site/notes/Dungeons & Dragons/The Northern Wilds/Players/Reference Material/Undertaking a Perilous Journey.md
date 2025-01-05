@@ -24,6 +24,8 @@ If the land you're traveling in is unknown to you, there might be other **Waypoi
 ### Resting
 Resting properly is difficult during a Perilous Journey. The constant looming threat of danger and often uncomfortable resting places prevent you from getting a good full rest. This means that during a Perilous Journey, you generally **don't get to take a Long Rest**. You can take Short Rests as usual, and for every night slept you regain Hit Points equal to **half your level (rounded down) in Hit Dice + your Constitution Modifier**, as well as recover 1 **Hit Die** to use in Short Rests later on. 
 
+For example, if Justin the Lvl 5 Fighter with 16 Con goes to bed with 14 Hit Points left, and 2 of his 5 Hit Dice remaining, he regains 2d10+3 HP upon waking and increases his Hit Dice pool to 3.
+
 If you're lucky, you make a **Discovery** along the way that provides a comfortable and well-hidden place to rest. In these areas it is possible to take a **Long Rest**. You can also mark the place on your map and return later, whenever you need another one.
 
 
