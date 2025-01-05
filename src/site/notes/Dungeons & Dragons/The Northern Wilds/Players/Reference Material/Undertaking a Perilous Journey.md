@@ -148,13 +148,13 @@ If the **Travel Time** extends because the Wayfinder is not doing their job prop
 ##### How will creatures react?
 If you encounter other creatures in a Wandering Encounter and it's not definite how they would react to you, the DM will roll on the **Reaction Table** to determine their attitude. If a PC greets those creatures, they can make a **Charisma** check with **DC 15** to add +1 to the **Reaction Roll**. If the check result is **<10**, there is a -1 penalty to the **Reaction Roll**.
 
-| 2d6  | Reaction                                                                      |
-| ---- | ----------------------------------------------------------------------------- |
-| 2    | As aggressively hostile as the situation allows                               |
-| 3-5  | More unfriendly and hostile than they'd expected to be in the given situation |
-| 6-8  | As hostile or friendly as they'd usually be in this situation                 |
-| 9-11 | More friendly and benign than you'd expect in this situation                  |
-| 12   | As friendly and helpful as their nature and the situation permits them to be  |
+| 2d6  | Reaction                                                                        |
+| ---- | ------------------------------------------------------------------------------- |
+| 2    | As aggressively hostile as the situation allows.                                |
+| 3-5  | More unfriendly and hostile than they're expected to be in the given situation. |
+| 6-8  | As hostile or friendly as they'd usually be in this situation.                  |
+| 9-11 | More friendly and benign than you'd expect in this situation.                   |
+| 12   | As friendly and helpful as their nature and the situation permits them to be.   |
 
 
 ### Discoveries
