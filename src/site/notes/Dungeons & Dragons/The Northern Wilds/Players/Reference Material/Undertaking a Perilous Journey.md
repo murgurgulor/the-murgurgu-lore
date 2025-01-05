@@ -126,7 +126,7 @@ If you get to choose an outcome, you make your choice before the travel starts.
 - **Resounding Success (DC+5)**: You keep the party on track, and also choose one of the following:
 	- You make a **Discovery**
 	- You find a shortcut on your current path, reducing your **Travel Time** by a quarter (rounded down).
-	- You find a safe way around any dangers ahead, if you know there is one
+	- You find a safe way around a dangerous **Waypoint** along your route, if you know there is one
 - **Failure**: The GM will choose one of the following:
 	- You lose your way and end up somewhere different than intended.
 	- You have to spend time and resources getting back on track, increasing your **Travel Time** by half as much (rounded up).
