@@ -121,12 +121,38 @@ Refer to the following table for which Travel Check each role can choose to make
 Refer to the below table to see what the outcome of your Travel Check is.
 If you get to choose an outcome, you make your choice before the travel starts.
 
-| Role              | Success                                                                                                                                                                                                                                                                                                             | Resounding Success (DC+5)                                                                                                                                                                                                                                                                                    | Failure                                                                                                                                                                                                                                                                                |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Wayfinder**     | You keep the party on track and arrive at the next point without getting lost or losing time.                                                                                                                                                                                                                       | You keep the party on track, and also choose one of the following:<br>- You make a **Discovery**<br>- You find a shortcut on your current path, reducing your **Travel Time** by a quarter (rounded down).<br>- You find a safe way around any dangers ahead, if you know there is one                       | The GM will choose one of the following:<br>- You lose your way and end up somewhere different than intended.<br>- You have to spend time and resources getting back on track, increasing your **Travel Time** by half as much (rounded up).<br>                                       |
-| **Scout**         | If there is a **Wandering Encounter** on the way, you safely spot it on time and your party can prepare accordingly.                                                                                                                                                                                                | You get the drop on any **Wandering Encounter** along the way, and also choose one of the following:<br>- You find a beneficial element of the terrain that gives you and your allies an advantage on dealing with one **Wandering Encounter** on your way.<br>- You make a **Discovery** along the way.<br> | You don't find anything, and if there's a **Wandering Encounter** up ahead you're all Surprised by it.<br>                                                                                                                                                                             |
-| **Quartermaster** | You find enough resources and proper campsites to keep everyone going.<br>                                                                                                                                                                                                                                          | You find enough resources to prepare a feast. Tell everyone what you're cooking, and any player who licks their lips and says "Yum!" gets **Advantage** on their next d20 roll.<br>                                                                                                                          | Choose one of the following:<br>- You don't find enough resources. Everyone is uncomfortable and gets **Disadvantage** on their next d20 roll.<br>- You find enough resources, but you have an unexpected **Wandering Encounter** doing so that your Scout didn't get the drop on.<br> |
-| **Sentry**        | Choose one of the following:<br>- You get the drop on any **Wandering Encounter** the Scout might have missed.<br>- You make a **Discovery**.<br>- You cover your trail, making sure no one can track you.<br>- You boost someone's morale: choose one ally and increase the result of their Travel Check by 5.<br> | Choose twice from the list for **Success**.<br>                                                                                                                                                                                                                                                              | You just wander along and don't help or hinder.<br>                                                                                                                                                                                                                                    |
+###### Wayfinder
+- **Succes:** You keep the party on track and arrive at the next point without getting lost or losing time.
+- **Resounding Success (DC+5)**: You keep the party on track, and also choose one of the following:
+	- You make a **Discovery**
+	- You find a shortcut on your current path, reducing your **Travel Time** by a quarter (rounded down).
+	- You find a safe way around any dangers ahead, if you know there is one
+- **Failure**: The GM will choose one of the following:
+	- You lose your way and end up somewhere different than intended.
+	- You have to spend time and resources getting back on track, increasing your **Travel Time** by half as much (rounded up).
+
+###### Scout
+- **Success**: If there is a **Wandering Encounter** on the way, you safely spot it on time and your party can prepare accordingly.
+- **Resounding Success (DC+5)**: You get the drop on any **Wandering Encounter** along the way, and also choose one of the following:
+	- You find a beneficial element of the terrain that gives you and your allies an advantage on dealing with one **Wandering Encounter** on your way.
+	- You make a **Discovery** along the way.
+- **Failure**: You don't find anything, and if there's a **Wandering Encounter** up ahead you're all Surprised by it.
+
+###### Quartermaster
+- **Success**: You find enough resources and proper campsites to keep everyone going.
+- **Resounding Success (DC+5)**: You find enough resources to prepare a feast. Tell everyone what you're cooking, and any player who licks their lips and says "Yum!" gets **Advantage** on their next d20 roll.
+- **Failure**: Choose one of the following:
+	- You don't find enough resources. Everyone is uncomfortable and gets **Disadvantage** on their next d20 roll.
+	- You find enough resources, but you have an unexpected **Wandering Encounter** doing so that your Scout didn't get the drop on.
+
+###### Sentry
+- **Success**: Choose one of the following:
+	- You get the drop on any **Wandering Encounter** the Scout might have missed.
+	- You make a **Discovery**.
+	- You cover your trail, making sure no one can track you.
+	- You boost someone's morale: choose one ally and increase the result of their Travel Check by 5.
+- **Resounding Success (DC+5)**: Choose twice from the list for **Success**.
+- **Failure**: You just wander along and don't help or hinder.
 
 
 ##### Using Spells or Class Abilities for Travel Checks
