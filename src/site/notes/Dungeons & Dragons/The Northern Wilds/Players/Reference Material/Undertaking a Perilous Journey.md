@@ -14,11 +14,11 @@ When you undertake a Perilous Journey you make preparations and take measures to
 # How do we Undertake a Perilous Journey?
 There are several ways to mechanically simulate traveling. One of the most well-known ones is the Hexcrawl. In a Hexcrawl, the environment you travel in is divided in 6-mile-wide hexagons. Each hexagon is a part of the environment and has a certain biome, landmarks and possible dangers. The party travels from Hex to Hex, deciding their path frequently and facing what comes in every Hex.
 
-A Pointcrawl is similar, but slightly different. Instead of moving from one Hex to another, you travel from one landmark or point of interest to the other. Unlike the Hexcrawl, the distance between these points is not always the same. Some points might be separated by half a day's travel, and others might be separated by a full week of traveling. Often, one or more routes can lead to the same goal destination but each route offers a choice: do you take the safer but slower route, or the route that is easier to navigate but that holds more dangers?
+A Pointcrawl is similar, but slightly different. Instead of moving from one Hex to another, you travel from one landmark or point of interest to the other. Unlike the Hexcrawl, the distance between these **Waypoints** is not always the same. Some points might be separated by half a day's travel, and others might be separated by a full week of traveling. Often, one or more routes can lead to the same goal destination but each route offers a choice: do you take the safer but slower route, or the route that is easier to navigate but that holds more dangers?
 
 To start a Pointcrawl, you need to know your current location and your goal destination. Your goal destination can be a specific place on the map, if you know of it, or a general direction ('The hidden temple is through the forest and then around 6 miles west of the jagged peaks'). When you've noted both the start and end of your journey, you can also choose what route to take if it seems there is more than one viable route.
 
-If the land you're traveling in is unknown to you, there might be other landmarks or points of interest along the route you're taking. When you're traveling, you will come across these points. This breaks up the travel sequence and either provides interesting features or hints of information, or they might provide dangers and challenges to overcome. Once you've come across such a point, you can mark it on your map and refer back to it later.
+If the land you're traveling in is unknown to you, there might be other **Waypoints** along the route you're taking. When you're traveling, you will come across these points. This breaks up the travel sequence and either provides interesting features or hints of information, or they might provide dangers and challenges to overcome. Once you've come across such a point, you can mark it on your map and refer back to it later.
 
 
 ### Resting
@@ -161,7 +161,7 @@ If you encounter other creatures in a Wandering Encounter and it's not definite 
 Even though a Perilous Journey might feel like you're constantly in danger, there is also beauty along the way. If a party member makes a **Discovery** as part of their Travel Check, they find a hidden gem along your route. This can be an interesting historical site, arcane ruins from a bygone age, or a peaceful place to rest. Whatever it is, it is in some way useful to the party.
 
 The different options for Discoveries are:
-- You spot an unknown **Point of Interest** in the distance. You figure out what it is and you can mark it on your map.
+- You spot an unknown **Waypoint** in the distance. You figure out what it is and you can mark it on your map.
 - You find a useful **Shortcut** to somewhere else
 - You come across a place where you can have a **Long Rest**
 - You come across a **Monument** - a special area, place, landmark - that's bristling with arcane energies that can bolster you
