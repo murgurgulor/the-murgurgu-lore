@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/osr/worlds-without-number-explained/","tags":["TTRPG/Worlds-Without-Number/SRD"]}
+{"dg-publish":true,"dg-path":"Worlds Without Number/Worlds Without Number Explained.md","permalink":"/worlds-without-number/worlds-without-number-explained/","tags":["TTRPG/Worlds-Without-Number/SRD"]}
 ---
 
 Worlds Without Number is an Old School Renaissance (OSR) game by Kevin Crawford. It's the fantasy adventure version of his earlier scifi game Stars Without Number. Recently he also released a cyberpunk version: Cities Without Number.
