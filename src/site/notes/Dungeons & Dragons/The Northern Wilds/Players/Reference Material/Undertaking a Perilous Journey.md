@@ -57,16 +57,16 @@ If you're in a crunch you might want to travel faster, sacrificing effectiveness
 
 ---
 ## Making Preparations
-When you go on a Perilous Journey, you'll need to at least stock up on rations, water skins, camping supplies, etc. Everything you might need for general travel. If you're unable to make these basic preparations - either because you're in a hurry or because there's no settlement around to get them - the **Quartermaster** will have to make their **Travel Check** with a **-2 penalty**. Likewise if you don't have basic tools for navigation, the **Wayfinder** makes their **Travel Check** with a **-2 penalty**. 
+When you go on a Perilous Journey, you'll need to at least stock up on rations, water skins, camping supplies, etc. Everything you might need for general travel. If you're unable to make these preparations - either because you're in a hurry or because there's no settlement around to get them - the **Quartermaster** will have to make their **Travel Check** with a **-2 penalty**. Likewise if you don't have tools for navigation, the **Wayfinder** makes their **Travel Check** with a **-2 penalty**. If you are lacking even any basic preparations at all, the penalty increases to **-5**.
 
-You can also prepare extra resources for travel, should you want or need them. You might want to bring a cart to carry more supplies, or you might want to seek out an explorer or scholar to see if they can provide you with more in-depth knowledge on the dangers that you might encounter. You could also procure pack beasts or hirelings to aid in your travel, study the weather, et cetera. Some of these preparations might simply provide a narrative permission but not mechanically affect your journey. Others might give you a bonus on specific rolls related to the trip, or add landmarks to your map that were previously unknown to you. Bonuses will range from **+2** for basic helpful items to **+5** for major helpful items.
+You can also prepare extra resources for travel, should you want or need them. You might want to bring a cart to carry more supplies, or you might want to seek out an explorer or scholar to see if they can provide you with more in-depth knowledge on the dangers that you might encounter. You could also procure pack beasts or hirelings to aid in your travel, study the weather, et cetera. Some of these preparations might simply provide a narrative permission but not mechanically affect your journey. Others might give you a bonus on specific rolls related to the trip, or add Waypoints to your map that were previously unknown to you. Bonuses will range from **+2** for basic helpful items to **+5** for major helpful items.
 
 An appropriate ability check might be warranted for certain preparations. 
 
 
 ---
 ## Dividing Travel Roles
-When you have prepared for your trip and charted the course, it's time to start your trip. You start from the starting point on your map, and travel along the route you've chosen towards the goal destination. Along the route, you most likely will come across other **Points of Interest**, either known or unknown to you.
+When you have prepared for your trip and charted the course, it's time to start your trip. You start from the starting point on your map, and travel along the route you've chosen towards the goal destination. Along the route, you most likely will come across other **Waypoints**, either known or unknown to you.
 
 For every trip between two Points on the Pointcrawl, the party needs to divide four different roles amongst each other.
 1. **Wayfinder**: The Wayfinder is the party member who is in charge of plotting the course, navigating, and prevent everyone from getting lost.
@@ -77,7 +77,7 @@ For every trip between two Points on the Pointcrawl, the party needs to divide f
 If there are more than four party members, a role can be taken up multiple times. In this case any rolls will be made with Advantage.
 If there are less than four party members, one of the roles will either not be taken up, or someone takes up two roles but rolls both of them with Disadvantage.
 
-Whenever you arrive at the next Point, you can redivide the roles amongst your party members if you wish.
+Whenever you arrive at the next Waypoint, you can redivide the roles amongst your party members if you wish.
 
 
 ---
