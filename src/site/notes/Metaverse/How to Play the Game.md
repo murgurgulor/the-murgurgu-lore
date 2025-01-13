@@ -218,4 +218,3 @@ Software are Metaverse items that your Avatar has obtained.
 - **Helm of Yeeting**: Single-use item that forcibly disconnects one user from the Metaverse.
 - **Steampunk Goggles**: In addition to making you look tragic, these goggles also allow you to detect the presence of any other Avatars through walls, provided the wall is no more than 1 foot thick.
 - **Polymorpher**: Once per game session, you can gain the ability to turn into a harmless sheep for once scene.
-- **Invisibility Protocol**: 
