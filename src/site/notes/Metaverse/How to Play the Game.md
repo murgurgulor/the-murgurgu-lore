@@ -3,7 +3,6 @@
 ---
 
 
-
 The game is a conversation. When you play your Hacker, you narrate their actions as the story develops. Your character can attempt to do all the things that an Avatar in the Metaverse would be able to do given the circumstances. This is called **Narrative Permission** to perform an action. When you narrate your Hacker taking a certain action for which they have **Narrative Permission** and there's no reason why they shouldn't simply fail or succeed, the GM adjudicates the result of the action and the conversation continues. If success or failure are not certain, however, a roll of the dice will decide the outcome: the **Action Roll**. After the GM adjudicates this resolution, the conversation continues again.
 
 ---
