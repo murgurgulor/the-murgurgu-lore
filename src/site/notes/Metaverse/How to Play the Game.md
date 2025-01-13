@@ -97,7 +97,7 @@ Below are some examples of actions for each combination of Approach and Aptitude
 **Forceful Mechanics**: Controlling a vehicle while plowing through barricades and obstacles; Manning a machine gun; Shortcircuiting a system to release electrical locks; Setting off alarms to create a diversion.
 **Clever Mechanics**: Wiring and setting traps; Circumventing a firewall without leaving a trace; Disabling a ticking bomb; Carefully lining up a single shot with a rifle.
 **Sneaky Mechanics**: Circumventing a firewall without leaving a trace; Taking up a sniper position; Planting a recording device on someone; Crafting smokebombs.
-**Bold Mechanics**: Causing a scene to create a diversion; Jumping over a cliff with a vehicle.
+**Bold Mechanics**: Shooting unexpectedly from the hip; Jumping over a cliff with a vehicle.
 
 
 ---
