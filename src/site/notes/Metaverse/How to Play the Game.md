@@ -37,7 +37,7 @@ You make sure you achieve your goal without anyone knowing it was you, or what y
 If you take a **Sneaky** Approach, you mitigate the Risk of **Revealing Things** (in other words: your actions remain hidden to others), but as a Consequence you might cause **Delay** - keeping your actions hidden is taking too much time.
 
 ### Bold
-The opposite of **Sneaky**. You achieve your goal with flair, haste and charisma. A Bold Approach leans on being seen and being flashy, not letting outward appearances get in your way but rather making them work for you. This Approach applies to situations where you don't care if you're seen to get your results, and maybe your brazenness will even work in your benefit!
+The opposite of **Sneaky**. You achieve your goal with flair, haste and charisma. A Bold Approach leans on being seen and being flashy, not letting outward appearances get in your way but rather making them work for you. This Approach applies to situations where you don't care if you're seen to get your results, and maybe your brazenness could even work in your benefit!
 
 If you take a **Bold** Approach, you mitigate the Risk of **Delay** (in other words: your actions are direct and you can expect a direct result), but as a Consequence you might **Reveal Things** - your true intentions or hidden agendas may be inconveniently revealed, or you may have announced your presence to an unwanted party.
 
@@ -97,7 +97,7 @@ Below are some examples of actions for each combination of Approach and Aptitude
 **Forceful Mechanics**: Controlling a vehicle while plowing through barricades and obstacles; Manning a machine gun; Shortcircuiting a system to release electrical locks; Setting off alarms to create a diversion.
 **Clever Mechanics**: Wiring and setting traps; Circumventing a firewall without leaving a trace; Disabling a ticking bomb; Carefully lining up a single shot with a rifle.
 **Sneaky Mechanics**: Circumventing a firewall without leaving a trace; Taking up a sniper position; Planting a recording device on someone; Crafting smokebombs.
-**Bold Mechanics**: Setting off alarms to create a diversion; Jumping over a cliff with a vehicle.
+**Bold Mechanics**: Causing a scene to create a diversion; Jumping over a cliff with a vehicle.
 
 
 ---
