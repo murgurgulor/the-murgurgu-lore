@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metaverse/how-to-play-the-game/","hide":true,"tags":["Metaverse/SRD"]}
+{"dg-publish":true,"permalink":"/metaverse/how-to-play-the-game/","tags":["Metaverse/SRD"]}
 ---
 
 
@@ -141,6 +141,77 @@ Refer to the below table for the probabilities of Successes for different size d
 | 5d6       | 13%     | 33%       | 33%       | 21%        |
 | 6d6       | 9%      | 26%       | 33%       | 32%        |
 
+
+
 ---
 # System Stress
-Computer is life. 
+Computer is life. Everything you do, see, hear and experience in the Metaverse goes through your computer. All of this fiddling in the Metaverse requires a lot of processing power from your system. Doing too much brings you in danger of overheating your computer, causing it to shut down.
+
+## Stress and your CPU
+**System Stress** represent the strain you put on your computer. It's accrued by a number of things, such as avoiding Avatar death, hacking the Metaverse, or overclocking your CPU. Your computer has a limited capacity of taking this Stress, which is represented by your **CPU Heat Track**. When you take System Stress, your CPU Heat Track gets filled up. When this Track is fully filled, your capacity for taking System Stress is gone. Any additional System Stress causes your computer to freeze and shut down. This means you have to wait for your CPU to cool down before you can reboot, and you might have to deal with your angry parents who demand to know why the power went out in the house. For the remainder of the current scene in the game, you're out. When the scene in which you overheated concludes and a new scene starts, you have managed to log back in and join your friends with an empty Heat track.
+
+Your **CPU Heat Track** is capable of taking **5 System Stress**.
+
+
+## Taking Stress
+There are several ways you can accrue **System Stress**:
+
+- *Overclocking*: Sometimes you really need a win. By **Overclocking your CPU** you can gain an edge on an Action Roll you're about to make. If you declare you're going to Overclock, you **Take +1d** on the roll but you also take **1 System Stress**.
+
+- *Game Over*: In order to simulate reality and to discourage PvP in the Metaverse, your Avatar only has one life. As soon as something happens to your Avatar that damages it - falling from a great height, getting hit by a car, take a hit from a knife or a gun - it's game over. This means your Avatar respawns at the nearest hub - you'll have to spend time to get back to where you died. You can avoid this Avatar death by quickly hacking into the Metaverse. By taking **1 Stress**, you can glitch out of harm's way and avoid Avatar death.
+
+- *Let Me Altavista That*: Sometimes you're stuck no knowing what to do. The internet can help! By loading up Netscape and surfing to Altavista, you can quickly find an answer to question. Opening your browser alongside the Metaverse will tax your system though, so you'll have to take **1 System Stress**. If you do so, phrase a question that you would type into a search engine. The GM will give you the answer, or otherwise a useful piece of advice regarding your question.
+
+
+## Reducing Stress
+There are several ways to reduce your **System Stress**.
+
+- *Taking it Easy*: You reduce your **System Stress** by 1 after every scene in which you haven't accrued any.
+
+- *Voluntary Lag*: You can reduce the processing speed of your computer to reduce System Stress. Whenever you make an Action Roll, you can choose to **Take -1d** on the roll to reduce System Stress by 1. You can do this multiple times on the same roll, but you can't reduce your roll below 0d6.
+
+- *LAN Party*: Through the world wide web, you can grant an ally access to your CPU. They can reduce their System Stress, but you increase yours by the same amount.
+
+- *Hack the Mainframe*: Once per game session, you can hack into the Metaverse mainframe to 'borrow' processing power. This reduces your System Stress by 3.
+
+
+---
+# Hacking
+As a Hacker, you're not limited to the Metaverse and your Avatar. With your specialized skills and experience, you're capable of hacking directly into the Metaverse to change it to your liking. 
+
+When your Hacker hacks the Metaverse, you're going 'behind the scenes' into the source code of the Metaverse. You can do several things while hacking the Metaverse:
+
+- *Search for information (Clever, Sneaky)*: Search the logs to find out who else visited a location, sneak a peek at private messages between players, trace bank account details from Avatars to their players.
+
+- *Change the environment (Bold, Forceful)*: You can recode locations in order to alter their appearance, qualities and lay-out.
+
+- *Change appearance (Sneaky)*: You can recode your Avatar to temporarily change their appearance.
+
+- *Locate IP (Clever)*: You can track a player's IP to their Avatar's current Metaverse location.
+
+- *Create items (Bold)*: Create temporary weapons, tools, vehicles or other objects your Avatar can use.
+
+- *Bypass Firewall (Forceful)*: Bypass a firewall and load your Avatar into a locked, known location.
+
+You don't have to roll for a Hack. If you pay the cost, you get the effect. The GM has the final say in to what extent a Hack is possible.
+
+
+## The Cost of Hacking
+Hacking the Metaverse severely taxes your computer system. Performing a Hack has a base cost of **3 System Stress**. However, because you're an experienced hacker, there are ways to reduce the cost. Each type of Hacking has associated Approaches. When you perform such a Hack, you reduce the **System Stress** for that hack by your score in that Approach.
+
+For example: you want to create a sports car. *Create Items* is associated with the **Bold** Approach. If your score in Bold is 2, you subtract this number from the base cost of **3 System Stress**. You can perform this Hack by taking **1 System Stress**.
+
+
+---
+# H4XX0R G34R
+Each Hacker gets to choose 1 specialized piece of hardware of the following list:
+
+ - **NEC Multisync A500 24" CRT Curved Monitor**: You have the finest of high-end CRT monitors, allowing you to see the Metaverse in intricate detail. **Take +1d** on every **Analysis** roll.
+- **IBM Model 'M' Triple-Deck Keyboard**: With your specialized keyboard - that takes up most of your desk - you can keybind every thing imaginable. For you, movement is not limited by WASD but by WASD€»¬´¶«¿~! **Take +1d** on every **Kinetics** roll.
+- **Micropoint Titanium Three-Button Performance Mouse**: You have equiped your high-end mouse with an incredibly smooth and sensitive titanium ball, giving you ultimate precision on where you direct your pointer. **Take +1d** on every **Mechanics** roll.
+- **Gateway 3000 PC Microphone**: You have purchased the ultimate microphone available, sending your voice crisp-clear into the Metaverse. **Take +1d** on every **Influence** roll.
+- **+4 MB RAM**: You have outfitted your system with a plethora of working memory, allowing you to handle extreme strains of data! Increase your total **System Stress** by **2**.
+- **Pentium 3 420MHz CPU**: Your processing speed is out of this world. Twice per game session, you can **Overclock** without taking Stress.
+- **Experimental HyperCO2oler**: You have built an experimental cooling system that hooks up to a CO2 tank and the water supply of your town. Once per session, you can activate your experimental cooling system: roll 1d6 and reduce your System Stress by the amount rolled. 
+- **128kbps Dial-up**: By stacking two 56kbps modems on top of each other you've somehow more than doubled your connection speed! As your lag nears zero, you can **act first** in any tense situation and you **Take +1d** on your first Action Roll in such a situation.
+- **Hacking Submodule**: By attaching a separate module to your PC to handle your hacking, you free up system space for other activities. Choose one type of Hacking: the Stress cost for any hacking of this type is reduced by 1 (minimum 1).
