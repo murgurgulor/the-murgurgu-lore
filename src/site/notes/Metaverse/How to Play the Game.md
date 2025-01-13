@@ -7,12 +7,12 @@ The game is a conversation. When you play your Hacker, you narrate their actions
 
 ---
 # Attributes
-There are two categories of Attributes that make up your Hacker: 4 **Approaches** and 4 **Aptitudes**. Each of these 8 Attributes has a score ranging from 0 to 2. When you make an **Action Roll**, you combine an **Approach** with an **Aptitude** and roll a dice pool of d6 equal to the cumulative score of the two.
+There are two categories of Attributes that make up your Hacker: 4 **Approaches** and 4 **Aptitudes**. Each of these 8 Attributes has a score ranging from 0 to 2, with an Attribute array in each category of 0-1-1-2. When you make an **Action Roll**, you combine an **Approach** with an **Aptitude** and roll a dice pool of d6 equal to the cumulative score of the two.
 
 ## Approaches
 Each Hacker has a personality that determines how they generally approach problems. These are divided into 4 **Approaches** that cover a wide range of avenues. With each Approach you might take, there's a specific **Risk** you attempt to mitigate, and a specific **Consequence** of taking that Approach.
 
-It's not uncommon for two Approaches to be applicable to a certain situation. In particular there can be a blurry line between **Forceful** and **Bold**, and **Clever** and **Sneaky**. If a situation arises where the GM states multiple Approaches could be applicable, the player chooses which one they use for their Action Roll. They can take their score in the Approach into account, as well as what Risk each Approach mitigates.
+It's not uncommon for two Approaches to be applicable to a certain situation. In particular there can be a blurry line between **Forceful** and **Bold**, and **Clever** and **Sneaky**. If a situation arises where the GM states multiple Approaches could be applicable, the player chooses which one they use for their Action Roll. They can take their score in the Approach into account, as well as what Risk each Approach mitigates. If you're unsure what Approach applies to you intended action, just narrate what you want to do and the GM will assign the Approach.
 
 The four Approaches are:
 - Forceful
@@ -24,22 +24,22 @@ The four Approaches are:
 ### Forceful
 You take a direct and straightforward approach to achieve your results. Your methods are generally unsophisticated and brutalist, and any collateral damage or side-effects from this approach are taken for granted. This Approach doesn't only apply to violence or shows of force, but also just taking the most simple and direct way to achieve your goal, regardless of the consequences.
 
-If you take a **Forceful** Approach, you mitigate the Risk of **Ineffectiveness**, but as a Consequence you might **Waste Resources** - things break, people take notice, you take longer than expected, etc.
+If you take a **Forceful** Approach, you mitigate the Risk of **Ineffectiveness** (in other words: your action has the desired impact), but as a Consequence you might cause **Overkill** - things break, you overtax yourself, people get annoyed.
 
 ### Clever
 The opposite of **Forceful**. You try to achieve your goal in a smart and genius way, making sure you achieve it without any additional issues, problems or collateral damage. This Approach applies to most forms of quick-thinking, detailed strategies, and anything where you account for all other factors and choose the optimal course of action.
 
-If you take a **Clever** Approach, you mitigate the Risk of **Wasting Resources**, but as a Consequence you might be **Ineffective**- you take too long, it's too complicated to execute, other elements start changing, etc.
+If you take a **Clever** Approach, you mitigate the Risk of **Overkill** (in other words: your action is precise and you mitigate any collateral effects), but as a Consequence you might be **Ineffective** - you don't get the exact desired impact or result.
 
 ### Sneaky
 You make sure you achieve your goal without anyone knowing it was you, or what your true intent is. This can be through misdirection, deceit, or simply nobody even knowing that you were there. This Approach applies to stealth, deception, and subterfuge, where the optimal outcome is no one realizing you even did anything.
 
-If you take a **Sneaky** Approach, you mitigate the Risk of **Revealing Things**, but as a Consequence you might cause **Confusion** - people get the wrong idea, coordination breaks down, etc.
+If you take a **Sneaky** Approach, you mitigate the Risk of **Revealing Things** (in other words: your actions remain hidden to others), but as a Consequence you might cause **Delay** - keeping your actions hidden is taking too much time.
 
 ### Bold
 The opposite of **Sneaky**. You achieve your goal with outward exuberance, charisma and performance. A Bold Approach leans on being seen and being flashy. You invoke the help or awe of others to aid you in your goals, or you make your presence undeniable. This Approach applies to diplomacy, charms, or simply grand displays of ability and performance.
 
-If you take a **Bold** Approach, you mitigate the Risk of **Confusion**, but as a Consequence you might **Reveal Things** - your true intentions or hidden agendas may be inconveniently revealed.
+If you take a **Bold** Approach, you mitigate the Risk of **Delay** (in other words: your actions are direct and you can expect a direct result), but as a Consequence you might **Reveal Things** - your true intentions or hidden agendas may be inconveniently revealed, or you may have announced your presence to an unwanted party.
 
 ---
 ## Aptitudes
@@ -148,29 +148,24 @@ Computer is life. Everything you do, see, hear and experience in the Metaverse g
 ## Stress and your CPU
 **System Stress** represent the strain you put on your computer. It's accrued by a number of things, such as avoiding Avatar death, hacking the Metaverse, or overclocking your CPU. Your computer has a limited capacity of taking this Stress, which is represented by your **CPU Heat Track**. When you take System Stress, your CPU Heat Track gets filled up. When this Track is fully filled, your capacity for taking System Stress is gone. Any additional System Stress causes your computer to freeze and shut down. This means you have to wait for your CPU to cool down before you can reboot, and you might have to deal with your angry parents who demand to know why the power went out in the house. For the remainder of the current scene in the game, you're out. When the scene in which you overheated concludes and a new scene starts, you have managed to log back in and join your friends with an empty Heat track.
 
-Your **CPU Heat Track** is capable of taking **5 System Stress**.
+Your **CPU Heat Track** is capable of taking **7 System Stress**.
 
 
 ## Taking Stress
 There are several ways you can accrue **System Stress**:
 
 - *Overclocking*: Sometimes you really need a win. By **Overclocking your CPU** you can gain an edge on an Action Roll you're about to make. If you declare you're going to Overclock, you **Take +1d** on the roll but you also take **1 System Stress**.
-
 - *Game Over*: In order to simulate reality and to discourage PvP in the Metaverse, your Avatar only has one life. As soon as something happens to your Avatar that damages it - falling from a great height, getting hit by a car, take a hit from a knife or a gun - it's game over. This means your Avatar respawns at the nearest hub - you'll have to spend time to get back to where you died. You can avoid this Avatar death by quickly hacking into the Metaverse. By taking **1 Stress**, you can glitch out of harm's way and avoid Avatar death.
-
 - *Let Me Altavista That*: Sometimes you're stuck no knowing what to do. The internet can help! By loading up Netscape and surfing to Altavista, you can quickly find an answer to question. Opening your browser alongside the Metaverse will tax your system though, so you'll have to take **1 System Stress**. If you do so, phrase a question that you would type into a search engine. The GM will give you the answer, or otherwise a useful piece of advice regarding your question.
+- *Failed Actions*: At the GM's discretion, a failed Action Roll might result in System Stress.
 
 
 ## Reducing Stress
-There are several ways to reduce your **System Stress**.
+There are three ways to reduce your **System Stress**.
 
 - *Taking it Easy*: You reduce your **System Stress** by 1 after every scene in which you haven't accrued any.
-
 - *Voluntary Lag*: You can reduce the processing speed of your computer to reduce System Stress. Whenever you make an Action Roll, you can choose to **Take -1d** on the roll to reduce System Stress by 1. You can do this multiple times on the same roll, but you can't reduce your roll below 0d6.
-
 - *LAN Party*: Through the world wide web, you can grant an ally access to your CPU. They can reduce their System Stress, but you increase yours by the same amount.
-
-- *Hack the Mainframe*: Once per game session, you can hack into the Metaverse mainframe to 'borrow' processing power. This reduces your System Stress by 3.
 
 
 ---
@@ -180,16 +175,11 @@ As a Hacker, you're not limited to the Metaverse and your Avatar. With your spec
 When your Hacker hacks the Metaverse, you're going 'behind the scenes' into the source code of the Metaverse. You can do several things while hacking the Metaverse:
 
 - *Search for information (Clever, Sneaky)*: Search the logs to find out who else visited a location, sneak a peek at private messages between players, trace bank account details from Avatars to their players.
-
 - *Change the environment (Bold, Forceful)*: You can recode locations in order to alter their appearance, qualities and lay-out.
-
 - *Change appearance (Sneaky)*: You can recode your Avatar to temporarily change their appearance.
-
 - *Locate IP (Clever)*: You can track a player's IP to their Avatar's current Metaverse location.
-
 - *Create items (Bold)*: Create temporary weapons, tools, vehicles or other objects your Avatar can use.
-
-- *Bypass Firewall (Forceful)*: Ram through a firewall and load your Avatar into a known but locked, known location.
+- *Bypass Firewall (Forceful)*: Ram through a firewall and load your Avatar into a known but locked location.
 
 You don't have to roll for a Hack. If you pay the cost, you get the effect. The GM has the final say in to what extent a Hack is possible.
 
@@ -201,9 +191,11 @@ For example: you want to create a sports car. *Create Items* is associated with 
 
 
 ---
-# H4XX0R G34R
-Each Hacker gets to choose 1 specialized piece of hardware of the following list:
+# Gear
+Finally, your Hacker gets to choose two pieces of Gear from Hardware, Software, or both.
 
+## Hardware
+Hardware are the real-life items that your Hacker has obtained.
  - **NEC Multisync A500 24" CRT Curved Monitor**: You have the finest of high-end CRT monitors, allowing you to see the Metaverse in intricate detail. **Take +1d** on every **Analysis** roll.
 - **IBM Model 'M' Triple-Deck Keyboard**: With your specialized keyboard - that takes up most of your desk - you can keybind every thing imaginable. For you, movement is not limited by WASD but by WASD€»¬´¶«¿~! **Take +1d** on every **Kinetics** roll.
 - **Micropoint Titanium Three-Button Performance Mouse**: You have equiped your high-end mouse with an incredibly smooth and sensitive titanium ball, giving you ultimate precision on where you direct your pointer. **Take +1d** on every **Mechanics** roll.
@@ -213,3 +205,17 @@ Each Hacker gets to choose 1 specialized piece of hardware of the following list
 - **Experimental HyperCO2oler**: You have built an experimental cooling system that hooks up to a CO2 tank and the water supply of your town. Once per session, you can activate your experimental cooling system: roll 1d6 and reduce your System Stress by the amount rolled. 
 - **128kbps Dial-up**: By stacking two 56kbps modems on top of each other you've somehow more than doubled your connection speed! As your lag nears zero, you can **act first** in any tense situation and you **Take +1d** on your first Action Roll in such a situation.
 - **Hacking Submodule**: By attaching a separate module to your PC to handle your hacking, you free up system space for other activities. Choose one type of Hacking: the Stress cost for any hacking of this type is reduced by 1 (minimum 1).
+
+
+## Software
+Software are Metaverse items that your Avatar has obtained.
+- **Rollerblades**/**Skateboard**: You move faster (and cooler) than unbladed Avatars.
+- **Jetpack**: Once per game session, you can gain the ability to fly for one scene.
+- **Colour Spray Can**: This silly item was won in a promotional Metaverse event. When used, the spray can sprays an emoji of your choice, filling the screen of other users and effectively blinding their Avatars. After three uses it disappears.
+- **Katana**: You can cut things. Additionally, when you attack with the Katana you **Take +1d** on the Action Roll if you say something in Japanese.
+- **Oversized Mallet**: You can whomp things. Additionally, when you attack with the Mallet you **Take +1d** on the Action Roll if you loudly yell "*IT'S CLOBBERING TIME!*"
+- **RBG**: A Ridiculously Big Gun. Once per scene you can blow a hole in an obstacle. This Gun unfortunately is too Ridiculously Big to be wielded effectively in a combat situation.
+- **Helm of Yeeting**: Single-use item that forcibly disconnects one user from the Metaverse.
+- **Steampunk Goggles**: In addition to making you look tragic, these goggles also allow you to detect the presence of any other Avatars through walls, provided the wall is no more than 1 foot thick.
+- **Polymorpher**: Once per game session, you can gain the ability to turn into a harmless sheep for once scene.
+- **Invisibility Protocol**: 
