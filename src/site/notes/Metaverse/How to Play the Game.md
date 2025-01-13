@@ -141,8 +141,6 @@ Refer to the below table for the probabilities of Successes for different size d
 | 5d6       | 13%     | 33%       | 33%       | 21%        |
 | 6d6       | 9%      | 26%       | 33%       | 32%        |
 
-
-
 ---
 # System Stress
 Computer is life. Everything you do, see, hear and experience in the Metaverse goes through your computer. All of this fiddling in the Metaverse requires a lot of processing power from your system. Doing too much brings you in danger of overheating your computer, causing it to shut down.
@@ -191,7 +189,7 @@ When your Hacker hacks the Metaverse, you're going 'behind the scenes' into the 
 
 - *Create items (Bold)*: Create temporary weapons, tools, vehicles or other objects your Avatar can use.
 
-- *Bypass Firewall (Forceful)*: Bypass a firewall and load your Avatar into a locked, known location.
+- *Bypass Firewall (Forceful)*: Ram through a firewall and load your Avatar into a known but locked, known location.
 
 You don't have to roll for a Hack. If you pay the cost, you get the effect. The GM has the final say in to what extent a Hack is possible.
 
