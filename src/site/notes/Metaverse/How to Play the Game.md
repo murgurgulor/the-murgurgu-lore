@@ -37,7 +37,7 @@ You make sure you achieve your goal without anyone knowing it was you, or what y
 If you take a **Sneaky** Approach, you mitigate the Risk of **Revealing Things** (in other words: your actions remain hidden to others), but as a Consequence you might cause **Delay** - keeping your actions hidden is taking too much time.
 
 ### Bold
-The opposite of **Sneaky**. You achieve your goal with flair, haste and charisma. A Bold Approach leans on being seen and being flashy, not letting outward appearances get in your way but rather making them work for you. This Approach applies to situations where you don't care if you're seen to get your results, and maybe your brazenness could even work in your benefit!
+The opposite of **Sneaky**. You throw any notion of mfj out of the window and show your intentions through your actions for everyone to see. You don't let outward appearances get in the way of your goals, and sometimes this exuberant display could even work in your advantage. You take the spotlight, and some might perceive you as being brazen or wild. 
 
 If you take a **Bold** Approach, you mitigate the Risk of **Delay** (in other words: your actions are direct and you can expect a direct result), but as a Consequence you might **Reveal Things** - your true intentions or hidden agendas may be inconveniently revealed, or you may have announced your presence to an unwanted party.
 
