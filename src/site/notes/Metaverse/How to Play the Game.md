@@ -82,7 +82,7 @@ Below are some examples of actions for each combination of Approach and Aptitude
 **Forceful Kinetics**: Breaking down a door; Getting rid of someone by knocking them out; Bodily forcing your way through a crowd.
 **Clever Kinetics**: Getting ahead of someone by taking a shortcut; Lining up a throw to hit something exactly where you want to; Jumping just as an explosion goes off to give you the extra boost needed to reach your destination.
 **Sneaky Kinetics**: Stealthing through the shadows unseen; Taking someone out by sneaking up behind them with chloroform; 
-**Bold Kinetics**: Swinging down a chandelier to kick someone in the face; Performing a haka to inspire or distract; Jumping just as an explosion goes off to give you the extra boost needed to reach your destination.
+**Bold Kinetics**: Swinging down a chandelier to kick someone in the face; Performing a haka to inspire or distract; Rushing in a room filled with dangers while shouting 'LEEEEROOOOOOOOY JEEEENKINNSSSS'.
 
 **Forceful Analysis**: Rummaging through a room, opening all cupboards and drawers, to find clues; Going through an entire building room by room to find someone.
 **Clever Analysis**: Observing a room to figure out what happened; Going to a high point to get an overview of the area; Recalling knowledge that applies to the current situation.
@@ -217,4 +217,4 @@ Software are Metaverse items that your Avatar has obtained.
 - **RBG**: A Ridiculously Big Gun. Once per scene you can blow a hole in an obstacle. This Gun unfortunately is too Ridiculously Big to be wielded effectively in a combat situation.
 - **Helm of Yeeting**: Single-use item that forcibly disconnects one user from the Metaverse.
 - **Steampunk Goggles**: In addition to making you look tragic, these goggles also allow you to detect the presence of any other Avatars through walls, provided the wall is no more than 1 foot thick.
-- **Polymorpher**: Once per game session, you can gain the ability to turn into a harmless sheep for once scene.
+- **Polymorpher**: Once per game session, you can gain the ability to turn into a harmless sheep for one scene.
