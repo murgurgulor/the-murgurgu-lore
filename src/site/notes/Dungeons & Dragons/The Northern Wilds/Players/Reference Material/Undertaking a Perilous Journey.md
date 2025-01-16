@@ -164,7 +164,7 @@ There might be spells or abilities that logically would mean an automatic succes
 
 
 ---
-## Along the Way
+## The Experiences We Had Along the Way
 While you're undertaking your Perilous Journey, you might encounter dangers, strange phenomena, interesting landmarks, or magnificent secrets. These are divided in two categories: **Wandering Encounters** and **Discoveries**.
 
 
