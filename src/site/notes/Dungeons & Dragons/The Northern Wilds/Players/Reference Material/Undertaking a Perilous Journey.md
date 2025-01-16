@@ -169,20 +169,9 @@ While you're undertaking your Perilous Journey, you might encounter dangers, str
 
 
 ### Wandering Encounters
-Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** of each leg of the Pointcrawl between 1 and 7. When the party rolls their Travel Checks, the DM will roll a number of d8 equal to the **Travel Time**. For each d8 where the result is **equal to or under** the Encounter Chance, the party will have a **Wandering Encounter** on their way. A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, so you can prepare to deal with it.
+Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** of each leg of the Pointcrawl between 1 and 5. When the party rolls their Travel Checks, the DM will roll a number of d6 equal to the **Travel Time**. For each d6 where the result is **equal to or under** the Encounter Chance, the party will have a **Wandering Encounter** on their way. A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, so you can prepare to deal with it.
 
 If the **Travel Time** extends because the Wayfinder is not doing their job properly, the DM rolls for the extra days as well. 
-
-##### How will creatures react?
-If you encounter other creatures in a Wandering Encounter and it's not definite how they would react to you, the DM will roll on the **Reaction Table** to determine their attitude. If a PC greets those creatures, they can make a **Charisma** check with **DC 15** to add +1 to the **Reaction Roll**. If the check result is **<10**, there is a -1 penalty to the **Reaction Roll**.
-
-| 2d6  | Reaction                                                                        |
-| ---- | ------------------------------------------------------------------------------- |
-| 2    | As aggressively hostile as the situation allows.                                |
-| 3-5  | More unfriendly and hostile than they're expected to be in the given situation. |
-| 6-8  | As hostile or friendly as they'd usually be in this situation.                  |
-| 9-11 | More friendly and benign than you'd expect in this situation.                   |
-| 12   | As friendly and helpful as their nature and the situation permits them to be.   |
 
 
 ### Discoveries
@@ -202,7 +191,7 @@ When you make a Discovery, the DM will either tell you what it is, or the DM can
 
 ---
 ## Arriving at your Destination?
-If all goes well, at the end of your Travel Time you arrive at your destination. However, there might be **Waypoints** along the route that the party is not aware of. If the route goes by such a Waypoint and you overcome whatever challenges lie there, you restart the procedure for the next leg of the trip.
+If all goes well, at the end of your Travel Time you arrive at your destination. However, there might be **Waypoints** along the route that the party is not aware of. If the route goes by such a **Waypoint** and you overcome whatever challenges lie there, you restart the procedure for the next leg of the trip. Some Waypoints hold no challenges but merely serve as a place to reassess your journey and maybe take a different approach or direction.
 
 
 
