@@ -16,9 +16,9 @@ The following rules are in addition to the Rules As Written (RAW)
 - A **Long Rest** only happens when you take a full night's rest in a **peaceful environment**.
 - If you take a full night's rest in a non-peaceful environment, you gain the following benefits:
 	- All the benefits from a **Short Rest**
-	- You recover Hit Points equal to **half your level (rounded) in Hit Dice + your Consitution modifier**
+	- You recover Hit Points equal to **1/2 your level (rounded down) in Hit Dice + your Consitution modifier**
 		- As a lvl 5 Fighter, you would heal 3d10+Con mod HP for free: Your Hit Point Die as a Fighter is a d10, half your level is 2,5 which rounded up is 3.
-	- You recover **1 Hit Die** for your pool.
+	- You recover **1/4 your level (rounded down) in Hit Die** for your pool.
 
 ---
 # Combat
