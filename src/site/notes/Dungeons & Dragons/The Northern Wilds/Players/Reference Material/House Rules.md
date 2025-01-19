@@ -13,34 +13,36 @@ The following rules are in addition to the Rules As Written (RAW)
 ---
 ### Rest and recovery
 - A **Short Rest** functions as usual, taking 30-60 minutes of in-game time.
-- A **Long Rest** only happens when you take a full day's rest (= light activities during the day, and a good night's sleep) in a peaceful environment.
-- In between these two, there's a **Medium Rest** which occurs after every night's sleep. After a Medium Rest you get the following:
-	- All the benefits from a Short Rest
-	- You recover a number of Hit Point Dice equal to half your level rounded up
-	- You heal Hit Points equal to a number of Hit Point Dice of half your level (rounded up) + Con modifier, without having to spend those Hit Point Dice. If you want more healing, you can spend more Hit Point Dice to heal up more (as in a Short Rest). 
-		- For example if you take a Medium Rest as a lvl 5 Fighter, you heal 3d10+Con mod HP for free: Your Hit Point Die as a Fighter is a d10, half your level is 2,5 which rounded up is 3.
+- A **Long Rest** only happens when you take a full night's rest in a **peaceful environment**.
+- If you take a full night's rest in a non-peaceful environment, you gain the following benefits:
+	- All the benefits from a **Short Rest**
+	- You recover Hit Points equal to **half your level (rounded) in Hit Dice + your Consitution modifier**
+		- As a lvl 5 Fighter, you would heal 3d10+Con mod HP for free: Your Hit Point Die as a Fighter is a d10, half your level is 2,5 which rounded up is 3.
+	- You recover **1 Hit Die** for your pool.
 
 ---
 # Combat
-- After Initiative is rolled for combat, you can choose to voluntarily lower your Initiative.
-- **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get Advantage on that attack. However, if you fail the ability check you suffer a negative consequence, such as Disadvantage on the attack roll or falling prone. This penalty is declared before the check is made.
-	- For example: A rogue wants to attack an evil wizard and asks if they can get Cinematic Advantage by swinging on a chandelier while they attack. The DM offers the player a Dexterity (Acrobatics) check DC 12 to pull this off, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with Advantage. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
+- **Staggered Side Initiative**: Initiative and Turn Order are arranged in the following way:
+	- At the start of combat, each player will roll an **Initiative Check**. The DC of this check is the enemies' Initiative Count, which is set to **10 + the highest Initiative modifier** of the enemies participating. 
+	- Everyone who makes their Initiative Check gets to act before the enemies in a **Group Turn**, where the characters can coordinate their actions and movements strategically. 
+	- After this Group Turn, all the enemies have their turn in the same fashion. 
+	- After the enemies have taken their Group Turn, the entire player party gets a Group Turn, then the enemies again, and so on.
+- **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get a **+2 Bonus** on that attack. However, if you fail the ability check you suffer a negative consequence, such as a **-2 Penalty** on the attack roll or falling prone. This penalty is declared before the check is made.
+	- For example: A rogue wants to attack an evil wizard and asks if they can get Cinematic Advantage by swinging on a chandelier while they attack. The DM offers the player a Dexterity (Acrobatics) check DC 12 to pull this off, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with a +2 bonus. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
 - **Retreat**: If combat is not going well, every player can discuss a possible Retreat on their turn. On any PC’s turn, any player can propose that all the characters retreat from the fight. If all players agree, they successfully retreat, carrying any fallen party members away with them. This comes at a cost to the story: the bad guys will be able to make a major advancement against your goals!
-- If you want to drink a healing potion, you can choose to use a Bonus Action or an Action to do so. If you use a Bonus Action, you roll for the healing as usual. If you use your Action, you gain the maximum amount of healing.
-- A number of Combat Maneuvers are available. You can find a summary of the maneuvers below.
-- If you Counterspell a Counterspell, something strange will happen...
+- **Bonus Action Potions**: Potions can be ingested as either a Bonus Action or an Action. If you use a Bonus Action and the potion calls for a roll, you roll as usual. If you use your Action, you take the maximum amount possible for the roll.
+- A number of **Combat Maneuvers** are available. You can find a summary of the maneuvers below.
 
 ---
 ## Zone-based Combat
-We won't use a gridded map to play out combat. Instead we'll use Zone-based Combat.
+We won't use a gridded map to play out combat. Instead we'll use **Zone-based Combat**.
 
 - If a combat area is large enough it might be divided into several zones. A small area is just a single zone.
+- A zone is assumed to be the equivalent of a 30 ft. diameter sphere. To determine how many zones beyond the one you're in an ability or attack can reach, divide the range by 30ft and round down. An attack with a range of 30 ft. can target enemies in your Zone and 1 Zone over. Attacks of 150 ft. can anywhere up to 5 Zones over.
 - On your turn, your character can move anywhere within a zone or move from one zone to an adjacent zone. If you have particularly low or high movement speed, you might be able to reach less or further. Difficult Terrain also factors in here on a case-by-case judgement.
 - We assume characters are not within threatening reach of an enemy unless they have attacked or were attacked by that enemy with a melee attack.
 - We assume characters move and act smartly. They will avoid obvious hazards or unneeded opportunity attacks.
-- Ranged attacks can hit someone within the same zone or in an adjacent zone. Particularly long range abilities (generally more than 60 feet) can target zones further away if the circumstances allow. 
-- If you were attacked by an enemy with a melee attack, we assume you're within 5 feet of that enemy and thus have Disadvantage on ranged attacks. 
-- Areas of Effect of spells/abilities target a number of creatures as determined in the section below.
+- Areas of Effect of spells/abilities target a number of creatures as would be logical, guided by the section below.
 - The DM will adjudicate specific situations as the come up in gameplay. The decision is based on what makes sense in the situation and will favor the character when possible.
 
 ### AoE Targets
