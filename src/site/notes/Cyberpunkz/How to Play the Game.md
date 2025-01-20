@@ -204,6 +204,59 @@ Even if you get put in Digital Detention, you can still help your friends! Digit
 
 
 ---
+# PvP
+Player-versus-Player gameplay is generally disallowed in the Metaverse, except in special designated PvP-zones. However, it is possible to challenge other players or NPCs to combat. If you propose a duel - either alone or as a group - and the other party accepts, you both get applied PvP-status and you can duke it out. If the opposing party refuses to PvP, you can still make them by hacking into their system and forcing them into PvP. This costs **1 System Stress** per Avatar you want to force into PvP.
+
+## Initiative
+Loading into PvP-mode takes time, and usually one group loads a bit faster than the others. At the start of PvP, every side rolls 1d6. The side with the highest number gets to go first. If one of your party has the **128kbps modem**, they get to act first even if the opposing party rolled higher.
+
+On the turn of your group, you can all take your actions in whatever order you want. During your group's turn, you can the following:
+- Move your Avatar
+- Take one Action with your Avatar
+
+Additionally, you can make 1 **Hack** per round - either on your group's turn or during the opponents' turn. This doesn't count against your Actions for your turn.
+
+## Actions 
+You can make the following Actions during your turn.
+- **Overcome an Obstacle**
+- **Create an Advantage**
+- **Attack**
+- **Defend**
+
+### Overcome an Obstacle 
+Anything that's in you or your allies' way can count as an Obstacle, and you can undertake an Action to Ovecome it. Think of barricading a door, climbing a hill, hi-jacking a car, etc. This is also any Action that doesn't fall into the other three categories.
+
+### Create an Advantage 
+You can help your friends out by doing something that creates an advantage for their Actions. Whenever your allies make proper use of your advantage, they **Take +1d** on their roll. Think of providing cover fire, setting up a ramp, creating a distraction.
+
+- If you have a **Full Success**, you create the advantage and it remains for the rest of the PvP 
+- If you have a **Partial Success**, you create the advantage and it remains until your next turn comes around
+- If you have a **Failure**, you either don't create the advantage or it doesn't work out the way you hoped
+
+### Attack
+If you want to attack an opposing Avatar, explain how you attack and roll the appropriate **Approach** and **Aptitude** (usually Kinetics or Mechanics). Depending on how versed your opponent's Avatar is in fighting, the Difficulty can range from **Regular** for regular Avatars to **Extreme** for highly combat-oriented Avatars.
+
+- If you have a **Full Success**, you lethally damage the Avatar. They'll despawn and are out of the PvP scene.
+- If you have a **Partial Success** on a Hard or Extreme Difficulty opponent, you don't damage them enough to take them out but you do reduce the Difficulty for consecutive attacks against this target (so if you attack an **Extreme** Avatar and score a Partial Success, any following attacks against the Avatar only require a **Hard** Difficulty).
+- If you have a **Failure**, you fail to damage the opponent.
+
+If the Avatar you face belongs to a Hacker, they might use their own **System Stress** to avoid their Avatar despawning!
+
+### Defend
+If you're the subject of an attack on the opponents' turn, explain how you attempt to avoid it and roll the appropriate **Approach** and **Aptitude**. Depending on the nature of the attack, the Difficulty can range from **Regular** for general weaponry to **Extreme** for wide-range explosives or Death Rays.
+
+- If you have a **Full Success**, you manage to escape harm.
+- If you have a **Partial Success** on a Hard or Extreme Difficulty attack, you get harmed but not enough to despawn you. You glitch momentarily though, and **Take -1d** on all action rolls until the end of your group's next turn.
+- If you have a **Failure**, you take the full brunt of the hit. This causes your Avatar to despawn and respawn at a hub. This means you're out of the scene. However, you can avoid this despawning by spending **1 System Stress** to use hacking to block the despawning. This hack doesn't count towards the 1 per round limitation.
+
+If you choose to spend your Action on your turn in **Full Defense**, you completely focus on avoiding harm. You **Take +2d** on any Defend rolls until the start of your next turn.
+
+
+## Ending PvP-mode
+PvP either ends when every Avatar in a group has despawned, or when a side has **Conceded**. If you Concede, you have to do so as a group. You immediately get out of PvP-mode and are protected from any other Avatar damage. However, this conceding means the whole Metaverse will know of your failure and awkward memes will be made of you. Anyone hostile to you will learn of it, and probably will use this to their advantage somehow.
+
+
+---
 # Gear
 Finally, your Hacker gets to choose two pieces of Gear from Hardware, Software, or both.
 
