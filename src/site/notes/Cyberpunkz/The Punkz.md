@@ -52,7 +52,7 @@ IRL, CK is under a lot of pressure from ambitious, working-class parents who wan
 | Bold     | 1     |     | Mechanics | 0     |
 
 **Unique Ability**: *But Wait, There's More!*
-You create a duplicate of your Avatar, which you can control just like your original one.
+You create a duplicate of your Avatar, which you can control just like your original one. These clones last until the end of the sce
 You can create more duplicates at the cost of **1 additional System Stress** per clone.
 
 
