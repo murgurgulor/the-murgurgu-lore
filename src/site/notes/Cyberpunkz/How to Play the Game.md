@@ -157,6 +157,7 @@ There are several ways you can accrue **System Stress**:
 - *Overclocking*: Sometimes you really need a win. By **Overclocking your CPU** you can gain an edge on an Action Roll you're about to make. If you declare you're going to Overclock, you **Take +1d** on the roll but you also take **1 System Stress**.
 - *Game Over*: In order to simulate reality and to discourage PvP in the Metaverse, your Avatar only has one life. As soon as something happens to your Avatar that damages it - falling from a great height, getting hit by a car, take a hit from a knife or a gun - it's game over. This means your Avatar respawns at the nearest hub - you'll have to spend time to get back to where you died. You can avoid this Avatar death by quickly hacking into the Metaverse. By taking **1 Stress**, you can glitch out of harm's way and avoid Avatar death.
 - *Let Me Altavista That*: Sometimes you're stuck no knowing what to do. The internet can help! By loading up Netscape and surfing to Altavista, you can quickly find an answer to question. Opening your browser alongside the Metaverse will tax your system though, so you'll have to take **1 System Stress**. If you do so, phrase a question that you would type into a search engine. The GM will give you the answer, or otherwise a useful piece of advice regarding your question.
+- *Hacking*: See below for more on that.
 - *Failed Actions*: At the GM's discretion, a failed Action Roll might result in System Stress.
 
 
@@ -165,7 +166,7 @@ There are three ways to reduce your **System Stress**.
 
 - *Taking it Easy*: You reduce your **System Stress** by 1 after every scene in which you haven't accrued any.
 - *Voluntary Lag*: You can reduce the processing speed of your computer to reduce System Stress. Whenever you make an Action Roll, you can choose to **Take -1d** on the roll to reduce System Stress by 1. You can do this multiple times on the same roll, but you can't reduce your roll below 0d6.
-- *LAN Party*: Through the world wide web, you can grant an ally access to your CPU. They can reduce their System Stress, but you increase yours by the same amount.
+- *LAN Party*: Through the world wide web, a willing ally can grant you access to their CPU. You can reduce your System Stress, but they increase theirs by the same amount.
 
 
 ---
@@ -214,7 +215,7 @@ On the turn of your group, you can all take your actions in whatever order you w
 - Move your Avatar
 - Take one Action with your Avatar
 
-Additionally, you can make 1 **Hack** per round - either on your group's turn or during the opponents' turn. This doesn't count against your Actions for your turn.
+Additionally, you can make 1 **Hack** per round - at any point you wish during either your group's turn or during the opponents' turn. This doesn't count against your Actions for your turn.
 
 ## Actions 
 You can make the following Actions during your turn.
