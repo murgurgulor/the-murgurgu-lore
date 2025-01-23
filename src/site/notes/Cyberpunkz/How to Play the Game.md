@@ -204,6 +204,10 @@ The Metaverse has build-in protection against unlawful hacking and cheating in t
 Even if you get put in Digital Detention, you can still help your friends! Digital Detention is a monotone monochrome class room, which doesn't require much from your CPU. While in Digital Detention, you can view what your allies are up to and support them by making Hacks. Making Hacks in Digital Detention reduces the Stress cost by 1. This means some Hacks might even be available without cost!
 
 
+# Your Unique Ability
+Every Hacker has their own, personal unique hacking ability. Each Unique Ability is a highly specialized and complex hack. A Unique Ability costs **3 System Stress** to activate. This cost can't be lessened by any items or circumstance.
+
+
 ---
 # PvP
 Player-versus-Player gameplay is generally disallowed in the Metaverse, except in special designated PvP-zones. However, it is possible to challenge other players or NPCs to combat. If you propose a duel - either alone or as a group - and the other party accepts, you both get applied PvP-status and you can duke it out. If the opposing party refuses to PvP, you can still make them by hacking into their system and forcing them into PvP. This costs **1 System Stress** per Avatar you want to force into PvP.
