@@ -13,6 +13,7 @@ The child of the corrupt chief of police, IRL they are powerless to stop the ev
 | Clever   | 1     |     | Analysis  | 1     |
 | Sneaky   | 2     |     | Influence | 0     |
 | Bold     | 0     |     | Mechanics | 1     |
+
 **Unique Ability**: *Now You See Me...*
 You turn invisible for the duration of the scene. 
 You can turn other Avatars invisible as well at the cost of **1 additional System Stress** per Avatar.
@@ -31,6 +32,7 @@ Pronounced ‘kisses’, xxx IRL lives with extremely conservative parents who w
 | Clever   | 1     |     | Analysis  | 1     |
 | Sneaky   | 1     |     | Influence | 2     |
 | Bold     | 2     |     | Mechanics | 1     |
+
 **Unique Ability**: *Charm Offensive*
 You take over control of someone's Avatar or an NPC for the duration of the scene. 
 You can control more Avatars or NPCs at the cost of **1 additional System Stress** per target.
