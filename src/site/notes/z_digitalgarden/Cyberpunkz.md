@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"cyberpunkz/cyberpunkz.md","dg-permalink":"cyberpunkz","permalink":"/cyberpunkz/","title":"Main","pinned":true,"tags":["DG"]}
+{"dg-publish":true,"dg-path":"Cyberpunkz/cyberpunkz.md","dg-permalink":"cyberpunkz","permalink":"/cyberpunkz/","title":"Main","pinned":true,"tags":["DG"]}
 ---
 
 
