@@ -143,7 +143,7 @@ If you get to choose an outcome, you make your choice before the travel starts.
 - **Resounding Success (DC+5)**: You find enough resources to prepare a feast. Tell everyone what you're cooking, and any player who licks their lips and says "Yum!" gets **Advantage** on their next d20 roll.
 - **Failure**: Choose one of the following:
 	- You don't find enough resources. Everyone is uncomfortable and gets **Disadvantage** on their next d20 roll.
-	- You find enough resources, but you have an unexpected **Wandering Encounter** doing so that your Scout didn't get the drop on.
+	- You find enough resources, but you face an unexpected **Wandering Encounter** that your Scout didn't get the drop on.
 
 ###### Sentry
 - **Success**: Choose one of the following:
