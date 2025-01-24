@@ -22,21 +22,32 @@ The following rules are in addition to the Rules As Written (RAW)
 
 ---
 # Combat
-- **Staggered Side Initiative**: Initiative and Turn Order are arranged in the following way:
-	- At the start of combat, each player rolls **Initiative**
-	- The DM determines the monsters' **Passive Initiative**, with a +5 modifier for Boss monsters and a -5 modifier for Minion monsters, ideally having no more than 2 Initiative counts for the monster's side.
-	- The DM shares the monsters' Initiative counts with the players, and groups the players according to their Initiative in relation to to monster's count. Any ties go to the players. This results in no more than 3 groups for the players (Before monsters, in between monster, after monsters).
-	- When a Group has their turn, the players/monsters who belong to the group can take their movement and actions simultaneously
-	- Example:
-		- The players roll their Initiative: 3, 7, 16, 21
-		- There are some regular monsters and some minions, both with a +2 initiative modifier. The regular monsters go at count 12, the minions at count 7
-		- The players with Initiative counts 21 and 16 go first, taking a simultaneous Group Turn
-		- The regular monsters go in a Group Turn
-		- The player with count 7 goes by themselves
-		- The minions go in a Group Turn
-		- The player with count 3 goes by themselves
-- **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get a **+2 Bonus** on that attack. However, if you fail the ability check you suffer a negative consequence, such as a **-2 Penalty** on the attack roll or falling prone. This penalty is declared before the check is made.
-	- For example: A rogue wants to attack an evil wizard and asks if they can get Cinematic Advantage by swinging on a chandelier while they attack. The DM offers the player a Dexterity (Acrobatics) check DC 12 to pull this off, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with a +2 bonus. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
+###### Staggered Side Initiative
+Initiative and Turn Order are arranged in the following way:
+- At the start of combat, each player rolls **Initiative**
+- The DM determines the monsters' **Passive Initiative**, with a +5 modifier for Boss monsters and a -5 modifier for Minion monsters, ideally having no more than 2 Initiative counts for the monster's side.
+- The DM shares the monsters' Initiative counts with the players, and groups the players according to their Initiative in relation to to monster's count. Any ties go to the players. This results in no more than 3 groups for the players (Before monsters, in between monster, after monsters).
+- When a Group has their turn, the players/monsters who belong to the group can take their movement and actions simultaneously
+
+**Example**
+Combat start and the players roll their initiatives, coming up with 3, 7, 16, 21
+There are some regular monsters and some minions, both with a +2 initiative modifier. The regular monsters get grouped and go at count 12, the minions get grouped and go at count 7. This results in the following turn order:
+
+| Turn Order | Participants     |
+| ---------- | ---------------- |
+| 1          | Player 16 and 21 |
+| 2          | Regular Monsters |
+| 3          | Player 7         |
+| 4          | Minions          |
+| 5          | Player 3         |
+
+###### Cinematic Advantage
+If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get a **+2 Bonus** on that attack. However, if you fail the ability check you suffer a negative consequence, such as a **-2 Penalty** on the attack roll or falling prone. This penalty is declared before the check is made.
+
+ **Example** 
+ A rogue wants to attack an evil wizard and asks if they can get Cinematic Advantage by swinging on a chandelier while they attack. The DM offers the player a Dexterity (Acrobatics) check DC 12 to pull this off, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with a +2 bonus. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
+
+###### Minor Tweaks
 - **Retreat**: If combat is not going well, every player can discuss a possible Retreat on their turn. On any PC’s turn, any player can propose that all the characters retreat from the fight. If all players agree, they successfully retreat, carrying any fallen party members away with them. This comes at a cost to the story: the bad guys will be able to make a major advancement against your goals!
 - **Bonus Action Potions**: Potions can be ingested as either a Bonus Action or an Action. If you use a Bonus Action and the potion calls for a roll, you roll as usual. If you use your Action, you take the maximum amount possible for the roll.
 - A number of **Combat Maneuvers** are available. You can find a summary of the maneuvers below.
