@@ -22,7 +22,7 @@ If the land you're traveling in is unknown to you, there might be other **Waypoi
 
 
 ### Resting
-Resting properly is difficult during a Perilous Journey. The constant looming threat of danger and often uncomfortable resting places prevent you from getting a good full rest. This means that during a Perilous Journey, you generally **don't get to take a Long Rest**. You can take Short Rests as usual, and for every night slept you regain Hit Points equal to **half your level (rounded down) in Hit Dice + your Constitution Modifier**, as well as recover **1/4 your level (rounded down) in** Hit Dice** to use in Short Rests later on. 
+Resting properly is difficult during a Perilous Journey. The constant looming threat of danger and often uncomfortable resting places prevent you from getting a good full rest. This means that during a Perilous Journey, you generally **don't get to take a Long Rest**. You can take Short Rests as usual, and for every night slept you regain Hit Points equal to **half your level (rounded down) in Hit Dice + your Constitution Modifier**, as well as recover **1/4 your level (rounded down) in Hit Dice** to use in Short Rests later on. 
 
 For example, if Justin the Lvl 5 Fighter with 16 Con goes to bed with 14 Hit Points left, and 2 of his 5 Hit Dice remaining, he regains 2d10+3 HP upon waking and increases his Hit Dice pool to 3.
 
@@ -169,7 +169,7 @@ While you're undertaking your Perilous Journey, you might encounter dangers, str
 
 
 ### Wandering Encounters
-Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** of each leg of the Pointcrawl between 1 and 5. When the party rolls their Travel Checks, the DM will roll a number of d6 equal to the **Travel Time**. For each d6 where the result is **equal to or under** the Encounter Chance, the party will have a **Wandering Encounter** on their way. A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, or you encounter tracks of one, so you can prepare to deal with it.
+Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** of each leg of the Pointcrawl between 1 and 5. When the party rolls their Travel Checks, the DM will roll a number of d6 equal to the **Travel Time**. For each d6 where the result is **equal to or under** the Encounter Chance, the party will have a **Wandering Encounter** on their way. A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, or you encounter tracks of one, so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how the **Wandering Encounter** reacts to you.
 
 If the **Travel Time** extends because the Wayfinder is not doing their job properly, the DM rolls for the extra days as well. 
 
@@ -233,7 +233,7 @@ After the rolls are made, the DM needs to gather all the information from the ou
 
 
 ##### 6. Undertake the Perilous Journey
-The DM has determined that the **Encounter Chance** for the Jungle Route is **2-in-8**, and has drawn up a Random Encounter Table for this terrain. They roll 4d8 and get 5-7-2-5. The third roll was low enough to prompt a Wandering Encounter.
+The DM has determined that the **Encounter Chance** for the Jungle Route is **2-in-6**, and has drawn up a Random Encounter Table for this terrain. They roll 4d6 and get 5-3-2-5. The third roll was low enough to prompt a Wandering Encounter.
 
 The DM then puts everything together:
 - The party sets out through the jungle in search of a temple
