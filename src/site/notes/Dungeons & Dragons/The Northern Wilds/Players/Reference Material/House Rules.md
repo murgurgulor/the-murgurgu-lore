@@ -23,10 +23,18 @@ The following rules are in addition to the Rules As Written (RAW)
 ---
 # Combat
 - **Staggered Side Initiative**: Initiative and Turn Order are arranged in the following way:
-	- At the start of combat, each player will roll an **Initiative Check**. The DC of this check is the enemies' Initiative Count, which is set to **10 + the highest Initiative modifier** of the enemies participating. 
-	- Everyone who makes their Initiative Check gets to act before the enemies in a **Group Turn**. Everyone participating in a Group Turn gets to take their movement and actions in whatever order they want, allowing the party to coordinate their strategy. 
-	- After this Group Turn, all the enemies have a Group Turn in the same fashion. 
-	- After the enemies have taken their Group Turn, the entire player party gets a Group Turn, then the enemies again, and so on.
+	- At the start of combat, each player rolls **Initiative**
+	- The DM determines the monsters' **Passive Initiative**, with a +5 modifier for Boss monsters and a -5 modifier for Minion monsters, ideally having no more than 2 Initiative counts for the monster's side.
+	- The DM shares the monsters' Initiative counts with the players, and groups the players according to their Initiative in relation to to monster's count. Any ties go to the players. This results in no more than 3 groups for the players (Before monsters, in between monster, after monsters).
+	- When a Group has their turn, the players/monsters who belong to the group can take their movement and actions simultaneously
+	- Example:
+		- The players roll their Initiative: 3, 7, 16, 21
+		- There are some regular monsters and some minions, both with a +2 initiative modifier. The regular monsters go at count 12, the minions at count 7
+		- The players with Initiative counts 21 and 16 go first, taking a simultaneous Group Turn
+		- The regular monsters go in a Group Turn
+		- The player with count 7 goes by themselves
+		- The minions go in a Group Turn
+		- The player with count 3 goes by themselves
 - **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get a **+2 Bonus** on that attack. However, if you fail the ability check you suffer a negative consequence, such as a **-2 Penalty** on the attack roll or falling prone. This penalty is declared before the check is made.
 	- For example: A rogue wants to attack an evil wizard and asks if they can get Cinematic Advantage by swinging on a chandelier while they attack. The DM offers the player a Dexterity (Acrobatics) check DC 12 to pull this off, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with a +2 bonus. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
 - **Retreat**: If combat is not going well, every player can discuss a possible Retreat on their turn. On any PC’s turn, any player can propose that all the characters retreat from the fight. If all players agree, they successfully retreat, carrying any fallen party members away with them. This comes at a cost to the story: the bad guys will be able to make a major advancement against your goals!
