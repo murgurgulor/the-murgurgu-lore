@@ -24,8 +24,8 @@ The following rules are in addition to the Rules As Written (RAW)
 # Combat
 - **Staggered Side Initiative**: Initiative and Turn Order are arranged in the following way:
 	- At the start of combat, each player will roll an **Initiative Check**. The DC of this check is the enemies' Initiative Count, which is set to **10 + the highest Initiative modifier** of the enemies participating. 
-	- Everyone who makes their Initiative Check gets to act before the enemies in a **Group Turn**, where the characters can coordinate their actions and movements strategically. 
-	- After this Group Turn, all the enemies have their turn in the same fashion. 
+	- Everyone who makes their Initiative Check gets to act before the enemies in a **Group Turn**. Everyone participating in a Group Turn gets to take their movement and actions in whatever order they want, allowing the party to coordinate their strategy. 
+	- After this Group Turn, all the enemies have a Group Turn in the same fashion. 
 	- After the enemies have taken their Group Turn, the entire player party gets a Group Turn, then the enemies again, and so on.
 - **Cinematic Advantage**: If you describe how you're using something in the environment to make a cool attack, you can ask for Cinematic Advantage. If you succeed on an appropriate ability check set by the DM, you get a **+2 Bonus** on that attack. However, if you fail the ability check you suffer a negative consequence, such as a **-2 Penalty** on the attack roll or falling prone. This penalty is declared before the check is made.
 	- For example: A rogue wants to attack an evil wizard and asks if they can get Cinematic Advantage by swinging on a chandelier while they attack. The DM offers the player a Dexterity (Acrobatics) check DC 12 to pull this off, with the risk of missing the target altogether and falling prone on a failure. If the rogue succeeds on this check, they roll their attack roll with a +2 bonus. If the check is failed, they don't get to make their attack and they fall prone near the wizard. The rogue can make an informed decision, based on their skill in Acrobatics, whether they want to take the risk or not.
