@@ -42,6 +42,7 @@ Depending on the result of your **Progress Roll**, you get **Progress Points**:
 | 10-14         | 1               |
 | 15-19         | 2               |
 | 20+           | 3               |
+
 How many Progress Points are needed for a project depends on whether it's a first/single stage Project, or a later stage in a larger Project.
 
 | Project Stage     | Progress Points Required for Completion |
@@ -61,7 +62,7 @@ This is quite a broad Project, so the DM proposes a multistage project with a sm
 - +1 on attack rolls when fighting with your companion (can be chosen multiple times)
 - You can use your companion's AC instead of your own
 - When one of you gets hit, you can choose to split the damage halfway between your and your companion
-- When you both need to make a saving throw, you can use the result of your companion's dice roll if it's higher than yours
+- When you both need to make a Strength or Dexterity saving throw, you can use the result of your companion's dice roll if it's higher than yours
 - When rolling Initiative, the companions get to choose on whose Initiative Count they both are placed
 
 At the end of the Downtime, they get to make a Progress Roll. The DM allows them to either roll STR or DEX for this check. As they're working together on this project, they decide that Mariun will make the roll and she'll get to make the roll with Advantage. Mariun rolls a total of 18, so they get 2 Progress Points. Not enough to complete the project, but they'll only need to roll for a 10 or higher on the next Downtime to finish this stage and choose one of the benefits.
