@@ -48,19 +48,19 @@
 
 ## Session 4
 ##### Dun Ballantein
-![Dun Ballantein.png](/img/user/z_attachments/Dun%20Ballantein.png)
+![Dun Ballantein.png](/img/user/z_attachments/The%20Northern%20Wilds/Dun%20Ballantein.png)
 
 ##### The Ballachan Mountains
-![Ballachan Mountains.png](/img/user/z_attachments/Ballachan%20Mountains.png)
+![Ballachan Mountains.png](/img/user/z_attachments/The%20Northern%20Wilds/Ballachan%20Mountains.png)
 
 ##### Stronbeg
-![Stronbeg.png](/img/user/z_attachments/Stronbeg.png)
+![Stronbeg.png](/img/user/z_attachments/The%20Northern%20Wilds/Stronbeg.png)
 
 ##### Dreamwulf
-![Dreamwulf.jpg](/img/user/z_attachments/Dreamwulf.jpg)
+![Dreamwulf.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Dreamwulf.jpg)
 
 ##### Goblin Mutant
-![Goblin Mutant.webp](/img/user/z_attachments/Goblin%20Mutant.webp)
+![Goblin Mutant.webp](/img/user/z_attachments/The%20Northern%20Wilds/Goblin%20Mutant.webp)
 
 ---
 ## Session 5
