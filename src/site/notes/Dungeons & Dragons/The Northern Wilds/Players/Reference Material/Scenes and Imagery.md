@@ -78,6 +78,23 @@
 
 
 ---
+# Session 7
+##### Robbis Freendruch
+![Robbis Freendruch.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Robbis%20Freendruch.webp)
+
+##### General Maeve Eswein
+![Maeve.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Maeve.jpg)
+
+##### Hinterlands Forest
+![Hinterlands Woods.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Hinterlands%20Woods.webp)
+
+##### Gnolls and Abyssal Hyenas
+![Gnolls.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Gnolls.webp)
+
+![Abyssal Hyenas.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Abyssal%20Hyenas.webp)
+
+
+---
 # Landscapes
 
 ##### Northern Asainn
