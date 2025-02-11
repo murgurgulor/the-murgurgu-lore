@@ -48,7 +48,7 @@ The players are responsible for mapping their progress through a Dungeon, unless
 ### Exploring Rooms of Interest
 When the party enters a Room of Interest, the DM describes what they immediately see. The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious.
 If the party decides to search and explore a Room of Interest, they may make another appropriate check. However, as the party is spending careful time executing this exploration, their Passive score in the appropriate skill acts as a bottom floor for the result. In other words: if a character spends time carefully searching a room (taking 1 Dungeon Turn in time) and they roll a check, any result on the die of 9 or less is considered to be a 10.
-This is the equivalent of older D&D's 'Take 10' 
+This is the equivalent of older D&D's 'Take 10' concept.
 
 ### Losing Direction in Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
