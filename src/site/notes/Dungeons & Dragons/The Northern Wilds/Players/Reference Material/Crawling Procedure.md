@@ -22,8 +22,8 @@ Time in a Dungeon is measured in **Dungeon Turns**. A Dungeon Turn is 10 minutes
 ---
 # Dungeon Composition
 A Dungeon consist of the following elements:
-- **Rooms of Interest**: These are areas that are of interest to the party, either because of their content or because of their lay-out. Rooms of Interest can be explored, searched, and otherwise interacted with. Two Rooms of Interest are either directly connected to each other, or connected by Passageways. Rooms of Interest are usually occupied by Inhabitants. 
-- **Passageways**: These connect Rooms of Interest, and can range from long hallways to collections of smallers rooms and areas that don't hold anything of interest to the party. They require time to traverse, and cursory exploration of these areas while traversing generally doesn't turn up anything useful or valuable. Wandering Encounters may occur in Passageways.
+- **Rooms of Interest**: These are areas that are of interest to the party, either because of their content or because of their lay-out. Rooms of Interest can be explored, searched, and otherwise interacted with. Two Rooms of Interest are either directly connected to each other, or connected by Passageways. Rooms of Interest are usually occupied by Inhabitants. Empty Rooms of Interest may still be home to a Wandering E
+- **Passageways**: These connect Rooms of Interest, and can range from long hallways to collections of smallers rooms and areas that don't hold anything of interest to the party. They require time to traverse, and cursory exploration of these areas while traversing doesn't turn up anything useful or valuable. Wandering Encounters may occur in Passageways.
 - **Inhabitants**: The creatures that call the Dungeon their home, and can be found lurking around. Some of them are keyed to a specific Location, others are Wandering around.
 
 ### Dynamic Dungeons
