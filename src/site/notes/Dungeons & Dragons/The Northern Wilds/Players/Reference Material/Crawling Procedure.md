@@ -22,7 +22,7 @@ Time in a Dungeon is measured in **Dungeon Turns**. A Dungeon Turn is 10 minutes
 ---
 # Dungeon Composition
 A Dungeon consist of the following elements:
-- **Rooms of Interest**: These are areas that are of interest to the party, either because of their content or because of their lay-out. Rooms of Interest can be explored, searched, and otherwise interacted with. Two Rooms of Interest are either directly connected to each other, or connected by Passageways. Rooms of Interest are usually occupied by Inhabitants. Empty Rooms of Interest may still be home to a Wandering E
+- **Rooms of Interest**: These are areas that are of interest to the party, either because of their content or because of their lay-out. Rooms of Interest can be explored, searched, and otherwise interacted with. Two Rooms of Interest are either directly connected to each other, or connected by Passageways. Rooms of Interest are usually occupied by Inhabitants. Empty Rooms of Interest may still be home to a Wandering Encounter.
 - **Passageways**: These connect Rooms of Interest, and can range from long hallways to collections of smallers rooms and areas that don't hold anything of interest to the party. They require time to traverse, and cursory exploration of these areas while traversing doesn't turn up anything useful or valuable. Wandering Encounters may occur in Passageways.
 - **Inhabitants**: The creatures that call the Dungeon their home, and can be found lurking around. Some of them are keyed to a specific Location, others are Wandering around.
 
@@ -45,7 +45,11 @@ Having an active light source means you can't surprise any Inhabitants, as the l
 ### Mapping
 The players are responsible for mapping their progress through a Dungeon, unless they have somehow procured an accurate map beforehand. The players should designate one of their own as the Mapper. 
 
-### Losing Direction
+### Exploring Rooms of Interest
+When the party enters a Room of Interest, the DM describes what they immediately see. The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious.
+If the party decides to search and explore a Room of Interest, they may make another appropriate check. However, as the party is spending careful time executing this exploration, their Passive score in the appropriate skill acts as a bottom floor for the result. In other words: if a character spends time carefully searching a room (taking 1 Dungeon Turn in time) and they roll a check, any result on the die of 9 or less is considered to be a 10.
+
+### Losing Direction in Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
 In difficult to navigate Passageways, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passageway, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Turn getting back on track (possible invoking more Wandering Encounters).
 If the party is explicitly moving at a Fast Pace, this check is made with Disadvantage.
