@@ -17,6 +17,7 @@ Time in a Dungeon is measured in **Dungeon Turns**. A Dungeon Turn is 10 minutes
 - Exploring and searching a Room of Interest takes 1 Dungeon Turn. Each player character can undertake one task during this Dungeon Turn.
 - The time required traveling through Passageways is measured in Dungeon Turns.
 - Wandering Encounters can occur once per Dungeon Turn. The chance of a Wandering Encounter occurring relies on the specific nature of the Dungeon, as well as whether or not the Inhabitants are alerted to any danger.
+- A combat encounter is assumed to take at least one Dungeon Turn to complete, including time to rest, regroup, clean weapons, bind wounds, and so on, afterwards.
 
 
 ---
