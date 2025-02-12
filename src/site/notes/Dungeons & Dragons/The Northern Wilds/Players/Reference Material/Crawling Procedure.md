@@ -5,6 +5,7 @@
 The following is a quick procedure to structure crawling through dungeons.
 
 >[!sc] Crawling Procedure
+>Time is measured in **Dungeon Turns**. One Dungeon Turn is 10 minutes. 
 >Every Dungeon Turn:
 >1. The DM checks for any **Wandering Encounter**.
 >2. The players state what actions they want to take (travel through **Passageways**, explore a **Room of Interest**, set up an ambush, etc.), rolling any dice if required.
