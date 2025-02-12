@@ -47,6 +47,7 @@ Having an active light source means you can't surprise any Inhabitants, as the l
 ### Mapping
 The players are responsible for mapping their progress through a Dungeon, unless they have somehow procured an accurate map beforehand. The players should designate one of their own as the Mapper. 
 
+---
 ### Exploring Rooms of Interest
 When the party enters a Room of Interest, the DM describes what they immediately see. The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious.
 If the party decides to search and explore a Room of Interest, they may make another appropriate check. However, as the party is spending careful time executing this exploration, their Passive score in the appropriate skill acts as a bottom floor for the result. In other words: if a character spends time carefully searching a room (taking 1 Dungeon Turn in time) and they roll a check, any result on the die of 9 or less is considered to be a 10.
