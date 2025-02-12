@@ -52,7 +52,7 @@ When the party enters a Room of Interest, the DM describes what they immediately
 If the party decides to search and explore a Room of Interest, they may make another appropriate check. However, as the party is spending careful time executing this exploration, their Passive score in the appropriate skill acts as a bottom floor for the result. In other words: if a character spends time carefully searching a room (taking 1 Dungeon Turn in time) and they roll a check, any result on the die of 9 or less is considered to be a 10.
 This is the equivalent of older D&D's 'Take 10' concept.
 
-### Losing Direction in Passageways
+### Traveling through Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
 In difficult to navigate Passageways, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passageway, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Turn getting back on track (possible invoking more Wandering Encounters).
 If the party is explicitly moving at a Fast Pace, this check is made with Disadvantage.
