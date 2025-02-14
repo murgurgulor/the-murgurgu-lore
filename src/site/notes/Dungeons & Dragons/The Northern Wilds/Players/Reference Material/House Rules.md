@@ -43,7 +43,7 @@ Depending on the result of your **Progress Roll**, you get **Progress Points**:
 | 15-19         | 2               |
 | 20+           | 3               |
 
-How many Progress Points are needed for a project depends on whether it's a first/single stage Project, or a later stage in a larger Project.
+How many Progress Points are needed for a project depends on whether it's a first/single stage Project, or a later stage in a larger Project. Particularly hard or lengthy projects might take more Progress Points at the DM's discretion. The following table is a general guide
 
 | Project Stage     | Progress Points Required for Completion |
 | ----------------- | --------------------------------------- |
