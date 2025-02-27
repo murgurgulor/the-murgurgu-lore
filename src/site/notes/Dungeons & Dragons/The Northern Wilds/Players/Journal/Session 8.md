@@ -27,6 +27,9 @@ The party decides to leave this repulsive dinner party for now and track back, t
 As the slaves run off to obey, Nun sets up an Alarm and the party continues and finds themselves back at the smithy. They wonder if their presence here has been noticed...
 
 ---
+![[]]
+
+---
 ### Items gained
 >[!tip]+ Alchemy Jug
 >This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. The jug sloshes when it is shaken, even if the jug is empty.
