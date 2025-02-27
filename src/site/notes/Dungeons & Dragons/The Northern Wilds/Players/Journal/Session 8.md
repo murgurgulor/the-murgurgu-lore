@@ -27,7 +27,7 @@ The party decides to leave this repulsive dinner party for now and track back, t
 As the slaves run off to obey, Nun sets up an Alarm and the party continues and finds themselves back at the smithy. They wonder if their presence here has been noticed...
 
 ---
-![[]]
+![Party Map.jpg](/img/user/z_attachments/The%20Northern%20Wilds/Point%20Crawls/Party%20Map.jpg)
 
 ---
 ### Items gained
