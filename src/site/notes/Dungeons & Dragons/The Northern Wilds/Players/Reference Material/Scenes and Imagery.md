@@ -93,6 +93,10 @@
 
 ![Abyssal Hyenas.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Abyssal%20Hyenas.webp)
 
+---
+# Session 8
+##### A Gnoll Caring for his Slave Friends
+![Yeenoghu.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Yeenoghu.webp)
 
 ---
 # Landscapes

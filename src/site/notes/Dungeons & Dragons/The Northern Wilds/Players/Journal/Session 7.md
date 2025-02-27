@@ -57,7 +57,6 @@ After 8 days of traveling, the party nears the **Felwarren**. The nature in this
 
 ![Abyssal Hyenas.webp](/img/user/z_attachments/The%20Northern%20Wilds/Scenes/Abyssal%20Hyenas.webp)
 
-
 ---
 
 </div></div>
