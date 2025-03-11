@@ -37,8 +37,9 @@ To achieve this, the DM has developed an **Adversary Roster** that lists which I
 ---
 # Navigating through Dungeons
 ### Pace
-Exploring a dungeon is by default considered to be a slow affair, to account for careful exploration, footing, and checking for traps and obstacles. 
-If desired, the party can explicitly state they want to travel at a Fast Pace which will cut the time spent traveling through Passageways down by 50% (rounded up).
+Exploring a dungeon is by default considered to be a slow affair, to account for careful exploration, footing, and checking for traps and obstacles. The average speed by which a party progresses is 300' per Dungeon Turn.
+
+If desired, the party can explicitly state they want to travel at a Fast Pace, progressing 3000' per Dungeon Turn instead. This can only be done in areas that they already know their way in, or which are straightforward. Any Stealth, Survival or Perception checks made while traveling at a fast pace are made with Disadvantage.
 
 ### Lighting
 Unless a Dungeon has its own source of illumination, characters will probably want to carry a source of light. Even characters with Darkvision will have a difficult time properly navigating and exploring a fully dark Dungeon.
@@ -50,19 +51,23 @@ The players are responsible for mapping their progress through a Dungeon, unless
 ---
 ### Exploring Rooms of Interest
 When the party enters a Room of Interest, the DM describes what they immediately see. The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious.
-If the party decides to search and explore a Room of Interest, they may make another appropriate check. However, as the party is spending careful time executing this exploration, their Passive score in the appropriate skill acts as a bottom floor for the result. In other words: if a character spends time carefully searching a room (taking 1 Dungeon Turn in time) and they roll a check, any result on the die of 9 or less is considered to be a 10.
-This is the equivalent of older D&D's 'Take 10' concept.
+
+If the party decides to search and explore a Room of Interest, they may make another appropriate check such as Perception or Investigation. However, if the party is spending careful time executing this exploration, they can choose to 'Take 10'. This means that instead of rolling a d20, the result of the check is decided as if the d20 roll was a 10. This usually means any interesting features are discovered, but any obscure features might be unnoticed. Whichever method is chosen, the time it takes to conduct the exploration is 1 Dungeon Turn.
+
+If the party is dedicated and they are willing to invest the time, they can also elect to 'Take 20'. This means that instead of rolling a d20, the result of the check is decided as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (20 Dungeon Turns, or 200 minutes).
 
 ### Traveling through Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
+
 In difficult to navigate Passageways, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passageway, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Turn getting back on track (possible invoking more Wandering Encounters).
+
 If the party is explicitly moving at a Fast Pace, this check is made with Disadvantage.
 
 ### Stealth
-If the environment allows for it, the party can elect to try and stay hidden from Inhabitants. As the pace with which a party explores a dungeon is generally slow this doesn't change the time they spend crawling.
+If the environment allows for it, the party can elect to try and stay hidden from Inhabitants. As the pace with which a party explores a dungeon is generally slow this doesn't change the time they spend crawling. If the party is moving at a Fast Pace, the Stealth check is made with Disadvantage.
+
 Stealthing is not possible when:
 - The party carries an active light source
-- The party explicitly moves through the Dungeon at a Fast Pace
 - The lay-out of the Dungeon does not allow for effective hiding (at the DM's discretion).
 
 ---
