@@ -39,11 +39,11 @@ To achieve this, the DM has developed an **Adversary Roster** that lists which I
 ### Pace
 Exploring a dungeon is by default considered to be a slow affair, to account for careful exploration, footing, and checking for traps and obstacles. The average speed by which a party progresses is 300' per Dungeon Turn.
 
-If desired, the party can explicitly state they want to travel at a Fast Pace, progressing 3000' per Dungeon Turn instead. This can only be done in areas that they already know their way in, or which are straightforward. Any Stealth, Survival or Perception checks made while traveling at a fast pace are made with Disadvantage.
+If desired, the party can move through the dungeon at a Fast Pace, progressing 3000' per Dungeon Turn instead. This can only be done in areas that have already been explored, or that have a straightforward lay-out. Any Stealth, Survival, or Perception checks made while traveling at a Fast Pace are made with Disadvantage.
 
 ### Lighting
 Unless a Dungeon has its own source of illumination, characters will probably want to carry a source of light. Even characters with Darkvision will have a difficult time properly navigating and exploring a fully dark Dungeon.
-Having an active light source means you can't surprise any Inhabitants, as the light gives you away from a distance.
+Having an active light source means you can't Stealth or surprise any Inhabitants, as the light gives you away from a distance.
 
 ### Mapping
 The players are responsible for mapping their progress through a Dungeon, unless they have somehow procured an accurate map beforehand. The players should designate one of their own as the Mapper. 
@@ -52,9 +52,12 @@ The players are responsible for mapping their progress through a Dungeon, unless
 ### Exploring Rooms of Interest
 When the party enters a Room of Interest, the DM describes what they immediately see. The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious.
 
-If the party decides to search and explore a Room of Interest, they may make another appropriate check such as Perception or Investigation. However, if the party is spending careful time executing this exploration, they can choose to 'Take 10'. This means that instead of rolling a d20, the result of the check is decided as if the d20 roll was a 10. This usually means any interesting features are discovered, but any obscure features might be unnoticed. Whichever method is chosen, the time it takes to conduct the exploration is 1 Dungeon Turn.
+If the party decides to search and explore a Room of Interest, they may make another appropriate check such as Perception or Investigation to see what they uncover. Exploring a room takes 1 Dungeon Turn.
 
-If the party is dedicated and they are willing to invest the time, they can also elect to 'Take 20'. This means that instead of rolling a d20, the result of the check is decided as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (20 Dungeon Turns, or 200 minutes).
+##### Taking 10 or 20
+If the party is not disturbed by a Wandering Encounter while they explore the room, they can choose to 'Take 10' on their check. This means that instead of rolling a d20, the result of the check is calculated as if the d20 roll was a 10. This usually means any interesting features are discovered, but any obscure features might be unnoticed. Taking 10 doesn't increase the time it takes to explore a room.
+
+If the party is dedicated and they are willing to invest the time, they can also elect to 'Take 20' on the check. This means that instead of rolling a d20, the result of the check is calculataed as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (20 Dungeon Turns, or 200 minutes).
 
 ### Traveling through Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
