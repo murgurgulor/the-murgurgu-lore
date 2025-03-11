@@ -52,12 +52,12 @@ The players are responsible for mapping their progress through a Dungeon, unless
 ### Exploring Rooms of Interest
 When the party enters a Room of Interest, the DM describes what they immediately see. The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious.
 
-If the party decides to search and explore a Room of Interest, they may make another appropriate check such as Perception or Investigation to see what they uncover. Exploring a room takes 1 Dungeon Turn.
+If the party decides to search and explore a Room of Interest, they may make another appropriate check such as Investigation, Perception, or Survival to see what they uncover. Exploring a room takes 1 Dungeon Turn.
 
 ##### Taking 10 or 20
-If the party is not disturbed by a Wandering Encounter while they explore the room, they can choose to 'Take 10' on their check. This means that instead of rolling a d20, the result of the check is calculated as if the d20 roll was a 10. This usually means any interesting features are discovered, but any obscure features might be unnoticed. Taking 10 doesn't increase the time it takes to explore a room.
+If the party is not disturbed by a Wandering Encounter while they explore the room, they can choose to '**Take 10**' on their check. This means that instead of rolling a d20, the result of the check is calculated as if the d20 roll was a 10. This usually means any interesting features are discovered, but any obscure features might be unnoticed. Taking 10 doesn't increase the time it takes to explore a room.
 
-If the party is dedicated and they are willing to invest the time, they can also elect to 'Take 20' on the check. This means that instead of rolling a d20, the result of the check is calculataed as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (ie. 20 Dungeon Turns, or 200 minutes).
+If the party is dedicated and they are willing to invest the time, they can also elect to '**Take 20**' on the check. This means that instead of rolling a d20, the result of the check is calculataed as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (ie. 20 Dungeon Turns, or 200 minutes).
 
 ### Traveling through Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
