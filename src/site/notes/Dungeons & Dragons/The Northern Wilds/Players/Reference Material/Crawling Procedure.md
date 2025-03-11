@@ -57,17 +57,17 @@ If the party decides to search and explore a Room of Interest, they may make ano
 ##### Taking 10 or 20
 If the party is not disturbed by a Wandering Encounter while they explore the room, they can choose to 'Take 10' on their check. This means that instead of rolling a d20, the result of the check is calculated as if the d20 roll was a 10. This usually means any interesting features are discovered, but any obscure features might be unnoticed. Taking 10 doesn't increase the time it takes to explore a room.
 
-If the party is dedicated and they are willing to invest the time, they can also elect to 'Take 20' on the check. This means that instead of rolling a d20, the result of the check is calculataed as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (20 Dungeon Turns, or 200 minutes).
+If the party is dedicated and they are willing to invest the time, they can also elect to 'Take 20' on the check. This means that instead of rolling a d20, the result of the check is calculataed as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (ie. 20 Dungeon Turns, or 200 minutes).
 
 ### Traveling through Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
 
-In difficult to navigate Passageways, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passageway, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Turn getting back on track (possible invoking more Wandering Encounters).
+In difficult to navigate Passageways, the party will need to elect a Wayfinder to find the right paths. When the party heads into a chaotic Passageway for the first time, the Wayfinder makes an appropriate ability check to see if they can keep their way. If they lose their way, the party has to spend 1 Dungeon Turn getting back on track (possible invoking more Wandering Encounters). After a Passageway has been traversed successfully, it's considered 'explored' and won't prompt any future checks. 
 
-If the party is explicitly moving at a Fast Pace, this check is made with Disadvantage.
+If the party is moving at a Fast Pace, this check is made with Disadvantage.
 
 ### Stealth
-If the environment allows for it, the party can elect to try and stay hidden from Inhabitants. As the pace with which a party explores a dungeon is generally slow this doesn't change the time they spend crawling. If the party is moving at a Fast Pace, the Stealth check is made with Disadvantage.
+If the environment allows for it, the party can try and stay hidden from Inhabitants. As the pace with which a party explores a dungeon is generally slow this doesn't change the time they spend crawling. If the party is moving at a Fast Pace, the Stealth check is made with Disadvantage.
 
 Stealthing is not possible when:
 - The party carries an active light source
