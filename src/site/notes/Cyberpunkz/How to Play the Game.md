@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/cyberpunkz/how-to-play-the-game/","tags":["Cyberpunkz/SRD"]}
 ---
 
-
-The game is a conversation. When you play your Hacker, you narrate their actions as the story develops. Your character can attempt to do all the things that an Avatar in the Cyberspace would be able to do given the circumstances. This is called **Narrative Permission** to perform an action. When you narrate your Hacker taking a certain action for which they have **Narrative Permission** and there's no reason why they shouldn't simply fail or succeed, the GM adjudicates the result of the action and the conversation continues. If success or failure are not certain, however, a roll of the dice will decide the outcome: the **Action Roll**. After the GM adjudicates this resolution, the conversation continues again.
+The game is a conversation. When you play your Hacker, you narrate their actions as the story develops. Your character can attempt to do all the things that an Avatar in the Cyberverse would be able to do given the circumstances. This is called **Narrative Permission** to perform an action. When you narrate your Hacker taking a certain action for which they have **Narrative Permission** and there's no reason why they shouldn't simply fail or succeed, the GM adjudicates the result of the action and the conversation continues. If success or failure are not certain, however, a roll of the dice will decide the outcome: the **Action Roll**. After the GM adjudicates this resolution, the conversation continues again.
 
 ---
 # Attributes
@@ -43,7 +42,7 @@ If you take a **Bold** Approach, you mitigate the Risk of **Delay** (in other wo
 
 ---
 ## Aptitudes
-Although Cyberspace fulfills a great role in society and humanity, at its core it is a digital environment. As your Hacker, you have a wealth of experience in computer related skills that help you navigate Cyberspace. Depending on how you've used your computer in the past, you have built up experience in 4 different **Aptitudes**.
+Although Cyberverse fulfills a great role in society and humanity, at its core it is a digital environment. As your Hacker, you have a wealth of experience in computer related skills that help you navigate Cyberverse. Depending on how you've used your computer in the past, you have built up experience in 4 different **Aptitudes**.
 
 Whenever your Hacker performs an action through their Avatar, a specific Aptitude most applies to what you're attempting to do.
 
@@ -55,14 +54,14 @@ The four Aptitudes are:
 
 ---
 ### Kinetics
-Aptitude in Kinetics means you're used to controlling avatars in one way or another. Maybe you've played a lot of platformers or fighting games such as **Super Mario Bros**, **Ray Man** or **Metal Gear Solid**. You are well versed in controlling your Cyberspace Avatar's bodily skills: jumping, climbing, sneaking, fighting, et cetera.
+Aptitude in Kinetics means you're used to controlling avatars in one way or another. Maybe you've played a lot of platformers or fighting games such as **Super Mario Bros**, **Ray Man** or **Metal Gear Solid**. You are well versed in controlling your Cyberverse Avatar's bodily skills: jumping, climbing, sneaking, fighting, et cetera.
 
 You use the Kinetics Aptitude when your Avatar does anything 'physical' with their 'body'.
 
 ### Analysis
 Aptitude in Analysis means you're used to analysing data that's presented to you. Maybe you have a great career in Big Data, or you spend all your free time in Excel spreadsheets or point-and-click puzzle games such as **Myst**. You are well versed in spotting details on your screen, logical reasoning, problem-solving and deduction.
 
-You use the Analysis Aptitude to perceive what Cyberspace presents to you, or when you try and understand how another player might be feeling.
+You use the Analysis Aptitude to perceive what Cyberverse presents to you, or when you try and understand how another player might be feeling.
 
 ### Influence
 Aptitude in Influence means you're unusually socially capable for a Hacker. Maybe you manage the IT department in a company, or maybe you work at a helpdesk, or maybe you play a lot of multiplayer games like **Everquest**, **Unreal Tournament** or **Call of Duty**. You are well versed in getting someone else on your side, or getting them to do something for you.
@@ -72,7 +71,7 @@ You use the Influence Aptitude whenever you interact socially with other players
 ### Mechanics
 Aptitude in Mechanics means you're experienced in fiddling around with hardware and like making sure everything fits on a detailed level. Maybe you repair computers for a living, or maybe you make sure every computer has an optimal software package. If you play videogames, you like to use external devices such as controllers, steering wheels or light guns.  You are well versed in understanding, handling, controlling and fiddling with components - either hard- or software.
 
-You use the Mechanics Aptitude whenever you interact with an object in Cyberspace, such as picking a lock, driving a car, firing a gun, et cetera.
+You use the Mechanics Aptitude whenever you interact with an object in Cyberverse, such as picking a lock, driving a car, firing a gun, et cetera.
 
 
 ---
@@ -141,12 +140,13 @@ Refer to the below table for the probabilities of Successes for different size d
 | 5d6       | 13%     | 33%       | 33%       | 21%        |
 | 6d6       | 9%      | 26%       | 33%       | 32%        |
 
+
 ---
 # System Stress
-Computer is life. Everything you do, see, hear and experience in Cyberspace goes through your computer. All of this fiddling in Cyberspace requires a lot of processing power from your system. Doing too much brings you in danger of overheating your computer, causing it to shut down.
+Computer is life. Everything you do, see, hear and experience in Cyberverse goes through your computer. All of this fiddling in Cyberverse requires a lot of processing power from your system. Doing too much brings you in danger of overheating your computer, causing it to shut down.
 
 ## Stress and your CPU
-**System Stress** represent the strain you put on your computer. It's accrued by a number of things, such as avoiding Avatar death, hacking Cyberspace, or overclocking your CPU. Your computer has a limited capacity of taking this Stress, which is represented by your **CPU Heat Track**. When you take System Stress, your CPU Heat Track gets filled up. When this Track is fully filled, your capacity for taking System Stress is gone. Any additional System Stress causes your computer to freeze and shut down. This means you have to wait for your CPU to cool down before you can reboot, and you might have to deal with your angry parents who demand to know why the power went out in the house. For the remainder of the current scene in the game, you're out. When the scene in which you overheated concludes and a new scene starts, you have managed to log back in and join your friends with an empty Heat track.
+**System Stress** represent the strain you put on your computer. It's accrued by a number of things, such as avoiding Avatar death, hacking Cyberverse, or overclocking your CPU. Your computer has a limited capacity of taking this Stress, which is represented by your **CPU Heat Track**. When you take System Stress, your CPU Heat Track gets filled up. When this Track is fully filled, your capacity for taking System Stress is gone. Any additional System Stress causes your computer to freeze and shut down. This means you have to wait for your CPU to cool down before you can reboot, and you might have to deal with your angry parents who demand to know why the power went out in the house. For the remainder of the current scene in the game, you're out. When the scene in which you overheated concludes and a new scene starts, you have managed to log back in and join your friends with an empty Heat track.
 
 Your **CPU Heat Track** is capable of taking **7 System Stress**.
 
@@ -155,8 +155,8 @@ Your **CPU Heat Track** is capable of taking **7 System Stress**.
 There are several ways you can accrue **System Stress**:
 
 - *Overclocking*: Sometimes you really need a win. By **Overclocking your CPU** you can gain an edge on an Action Roll you're about to make. If you declare you're going to Overclock, you **Take +1d** on the roll but you also take **1 System Stress**.
-- *Game Over*: In order to simulate reality and to discourage PvP in Cyberspace, your Avatar only has one life. As soon as something happens to your Avatar that damages it - falling from a great height, getting hit by a car, take a hit from a knife or a gun - it's game over. This means your Avatar respawns at the nearest hub - you'll have to spend time to get back to where you died. You can avoid this Avatar death by quickly hacking into Cyberspace. By taking **1 Stress**, you can glitch out of harm's way and avoid Avatar death.
-- *Let Me Altavista That*: Sometimes you're stuck no knowing what to do. The internet can help! By loading up Netscape and surfing to Altavista, you can quickly find an answer to question. Opening your browser alongside Cyberspace will tax your system though, so you'll have to take **1 System Stress**. If you do so, phrase a question that you would type into a search engine. The GM will give you the answer, or otherwise a useful piece of advice regarding your question.
+- *Game Over*: In order to simulate reality and to discourage PvP in Cyberverse, your Avatar only has one life. As soon as something happens to your Avatar that damages it - falling from a great height, getting hit by a car, take a hit from a knife or a gun - it's game over. This means your Avatar respawns at the nearest hub - you'll have to spend time to get back to where you died. You can avoid this Avatar death by quickly hacking into Cyberverse. By taking **1 Stress**, you can glitch out of harm's way and avoid Avatar death.
+- *Let Me Altavista That*: Sometimes you're stuck no knowing what to do. The internet can help! By loading up Netscape and surfing to Altavista, you can quickly find an answer to question. Opening your browser alongside Cyberverse will tax your system though, so you'll have to take **1 System Stress**. If you do so, phrase a question that you would type into a search engine. The GM will give you the answer, or otherwise a useful piece of advice regarding your question.
 - *Hacking*: See below for more on that.
 - *Failed Actions*: At the GM's discretion, a failed Action Roll might result in System Stress.
 
@@ -171,14 +171,14 @@ There are three ways to reduce your **System Stress**.
 
 ---
 # Hacking
-As a Hacker, you're not limited to Cyberspace and your Avatar. With your specialized skills and experience, you're capable of hacking directly into Cyberspace to change it to your liking. 
+As a Hacker, you're not limited to Cyberverse and your Avatar. With your specialized skills and experience, you're capable of hacking directly into Cyberverse to change it to your liking. 
 
-When your Hacker hacks Cyberspace, you're going 'behind the scenes' into the source code of Cyberspace. You can do several things while hacking Cyberspace:
+When your Hacker hacks Cyberverse, you're going 'behind the scenes' into the source code of Cyberverse. You can do several things while hacking Cyberverse:
 
 - *Search for information (Clever, Sneaky)*: Search the logs to find out who else visited a location, sneak a peek at private messages between players, trace bank account details from Avatars to their players.
 - *Change the environment (Bold, Forceful)*: You can recode locations in order to alter their appearance, qualities and lay-out.
 - *Change appearance (Sneaky)*: You can recode your Avatar to temporarily change their appearance.
-- *Locate IP (Clever)*: You can track a player's IP to their Avatar's current Cyberspace location.
+- *Locate IP (Clever)*: You can track a player's IP to their Avatar's current Cyberverse location.
 - *Create items (Bold)*: Create temporary weapons, tools, vehicles or other objects your Avatar can use.
 - *Bypass Firewall (Forceful)*: Ram through a firewall and load your Avatar into a known but locked location.
 
@@ -186,13 +186,13 @@ You don't have to roll for a Hack. If you pay the cost, you get the effect. The 
 
 
 ## The Cost of Hacking
-Hacking Cyberspace severely taxes your computer system. Performing a Hack has a base cost of **3 System Stress**. However, because you're an experienced hacker, there are ways to reduce the cost. Each type of Hacking has associated Approaches. When you perform such a Hack, you reduce the **System Stress** for that hack by your score in that Approach.
+Hacking Cyberverse severely taxes your computer system. Performing a Hack has a base cost of **3 System Stress**. However, because you're an experienced hacker, there are ways to reduce the cost. Each type of Hacking has associated Approaches. When you perform such a Hack, you reduce the **System Stress** for that hack by your score in that Approach.
 
 For example: you want to create a sports car. *Create Items* is associated with the **Bold** Approach. If your score in Bold is 2, you subtract this number from the base cost of **3 System Stress**. You can perform this Hack by taking **1 System Stress**.
 
 
 ## But Beware...
-Cyberspace has build-in protection against unlawful hacking and cheating in the form of the **Corporate Licensed Intervention for Para-Programming Intrusions.Exe**, or **C.L.I.P.P.I.E.**. If CLIPPIE catches you hacking enough times, you're put in **Digital Detention.
+Cyberverse has build-in protection against unlawful hacking and cheating in the form of the **Corporate Licensed Intervention for Para-Programming Intrusions.Exe**, or **C.L.I.P.P.I.E.**. If CLIPPIE catches you hacking enough times, you're put in **Digital Detention.
 
 - Every scene, the **first Hack made** (either by your allies or your opponents) is without risk of summoning CLIPPIE.
 - Every additional Hack that scene comes with a **cumulative 1-in-6** chance of summoning CLIPPIE.
@@ -204,13 +204,30 @@ Cyberspace has build-in protection against unlawful hacking and cheating in the 
 Even if you get put in Digital Detention, you can still help your friends! Digital Detention is a monotone monochrome class room, which doesn't require much from your CPU. While in Digital Detention, you can view what your allies are up to and support them by making Hacks. Making Hacks in Digital Detention reduces the Stress cost by 1. This means some Hacks might even be available without cost!
 
 
-# Your Unique Ability
-Every Hacker has their own, personal unique hacking ability. Each Unique Ability is a highly specialized and complex hack. A Unique Ability costs **3 System Stress** to activate. This cost can't be lessened by any items or circumstance.
+# Your Unique Hacks
+Every Hacker has their own, personal unique hacking ability. Each Unique Ability is a highly specialized and complex hack. A Unique Ability costs **3 System Stress** to activate. This cost can't be lessened by any items or circumstance. If you affect a different Cyberverse user with your Unique Hack, they can attempt to do it with some difficulty, having to spend **3 System Stress** to succeed.
+
+The Unique Hacks are:
+
+**H1r0**: You turn invisible for the duration of the scene. 
+You can turn other Avatars invisible as well at the cost of **1 additional System Stress** per Avatar.
+
+**xxx**: You take over control of someone's Avatar or an NPC for the duration of the scene. You can control them but you use your own attributes for rolls.
+You can control more Avatars or NPCs at the cost of **1 additional System Stress** per target.
+
+**Cereal Ki77er**: You create a duplicate of your Avatar, which you can control just like your original one.
+You can create more duplicates at the cost of **1 additional System Stress** per clone.
+
+**3nigma**: You teleport your Avatar to any perceivable or previously visited location in the current server. Any object in the direct path between your current destination and goal destination gets destroyed. 
+You can teleport more Avatars along at the cost of **1 additional System Stress** per Avatar.
+
+**Zero C00l**: You fire off a bunch of nonsense hacks but make them seem to originate from a different Avatar, drawing unwanted attention to the user. This can result in a variety of consequences.
+You can compromise more Avatars at the cost of **1 additional System Stress** per Avatar.
 
 
 ---
 # PvP
-Player-versus-Player gameplay is generally disallowed in Cyberspace, except in special designated PvP-zones. However, it is possible to challenge other players or NPCs to combat. If you propose a duel - either alone or as a group - and the other party accepts, you both get applied PvP-status and you can duke it out. If the opposing party refuses to PvP, you can still make them by hacking into their system and forcing them into PvP. This costs **1 System Stress** per Avatar you want to force into PvP.
+Player-versus-Player gameplay is generally disallowed in Cyberverse, except in special designated PvP-zones. However, it is possible to challenge other players or NPCs to combat. If you propose a duel - either alone or as a group - and the other party accepts, you both get applied PvP-status and you can duke it out. If the opposing party refuses to PvP, you can still make them by hacking into their system and forcing them into PvP. This costs **1 System Stress** per Avatar you want to force into PvP.
 
 ## Initiative
 Loading into PvP-mode takes time, and usually one group loads a bit faster than the others. At the start of PvP, every side rolls 1d6. The side with the highest number gets to go first. If one of your party has the **128kbps modem**, they get to act first even if the opposing party rolled higher.
@@ -232,20 +249,26 @@ You can make the following Actions during your turn.
 Anything that's in you or your allies' way can count as an Obstacle, and you can undertake an Action to Ovecome it. Think of barricading a door, climbing a hill, hi-jacking a car, etc. This is also any Action that doesn't fall into the other three categories.
 
 ### Create an Advantage 
-You can help your friends out by doing something that creates an advantage for their Actions. Whenever your allies make proper use of your advantage, they **Take +1d** on their roll. Think of providing cover fire, setting up a ramp, creating a distraction.
+You can help your friends out by doing something that creates an advantage for their Actions. Whenever your allies make proper use of your advantage, they **Take +1d** on their roll. Think of providing cover fire, setting up a ramp, creating a distraction. Any Advantage lasts until the start of your next turn.
 
-- If you have a **Full Success**, you create the advantage and it remains for the rest of the PvP 
-- If you have a **Partial Success**, you create the advantage and it remains until your next turn comes around
-- If you have a **Failure**, you either don't create the advantage or it doesn't work out the way you hoped
+- If you have a **Full Success**, you create an advantage only your allies can use.
+- If you have a **Partial Success**, you create an advantage that can be used by everyone.
+- If you have a **Failure**, you either don't create the advantage or it doesn't work out the way you hoped.
 
 ### Attack
 If you want to attack an opposing Avatar, explain how you attack and roll the appropriate **Approach** and **Aptitude** (usually Kinetics or Mechanics). Depending on how versed your opponent's Avatar is in fighting, the Difficulty can range from **Regular** for regular Avatars to **Extreme** for highly combat-oriented Avatars.
 
 - If you have a **Full Success**, you lethally damage the Avatar. They'll despawn and are out of the PvP scene.
-- If you have a **Partial Success** on a Hard or Extreme Difficulty opponent, you don't damage them enough to take them out but you do reduce the Difficulty for consecutive attacks against this target (so if you attack an **Extreme** Avatar and score a Partial Success, any following attacks against the Avatar only require a **Hard** Difficulty).
+- If you have a **Partial Success** on a Hard or Extreme Difficulty opponent, you don't damage them enough to take them out, but you do set up an advantage for future attacks. This is represented by the **DDoS Die**.
 - If you have a **Failure**, you fail to damage the opponent.
 
-If the Avatar you face belongs to a Hacker, they might use their own **System Stress** to avoid their Avatar despawning!
+If the Avatar you face belongs to a Hacker, they might use their own **System Stress** after being lethally hit to avoid their Avatar despawning!
+
+##### The DDoS Die 
+Ganging up and repeated strikes against a target makes it easier to attack them again, either by confusing their algorithm (for NPCs) or adding latency (for other Avatars). This increased strain is represented by the DDoS Die. Every enemy starts without a DDoS Die. Partial Successes on attacks and other effects can increase the DDoS Die by 1 each time. Any subsequent hostile maneuvers on that target then gain a bonus on the roll of a number of d6 equal to the number on the DDoS Die.
+
+Example: an attack on a target is a Partial Success. This increases the DDoS Die from 0 to 1. An ally then attacks the same target afterwards. When they roll their Action Roll, they add +1d6 to their pool from the DDoS Die. If they would also get a Partial Success as a result, the DDoS Die would increase to 2, giving +2d6 on any subsequent attacks on the target, etc.
+
 
 ### Defend
 If you're the subject of an attack on the opponents' turn, explain how you attempt to avoid it and roll the appropriate **Approach** and **Aptitude**. Depending on the nature of the attack, the Difficulty can range from **Regular** for general weaponry to **Extreme** for wide-range explosives or Death Rays.
@@ -258,7 +281,7 @@ If you choose to spend your Action on your turn in **Full Defense**, you complet
 
 
 ## Ending PvP-mode
-PvP either ends when every Avatar in a group has despawned, or when a side has **Conceded**. If you Concede, you have to do so as a group. You immediately get out of PvP-mode and are protected from any other Avatar damage. However, this conceding means the whole Cyberspace will know of your failure and awkward memes will be made of you. Anyone hostile to you will learn of it, and probably will use this to their advantage somehow.
+PvP either ends when every Avatar in a group has despawned, or when a side has **Conceded**. If you Concede, you have to do so as a group. You immediately get out of PvP-mode and are protected from any other Avatar damage. However, this conceding means the whole Cyberverse will know of your failure and awkward memes will be made of you. Anyone hostile to you will learn of it, and probably will use this to their advantage somehow.
 
 
 ---
@@ -267,10 +290,10 @@ Finally, your Hacker gets to choose two pieces of Gear from Hardware, Software, 
 
 ## Hardware
 Hardware are the real-life items that your Hacker has obtained.
- - **NEC Multisync A500 24" CRT Curved Monitor**: You have the finest of high-end CRT monitors, allowing you to see Cyberspace in intricate detail. **Take +1d** on every **Analysis** roll.
+ - **NEC Multisync A500 24" CRT Curved Monitor**: You have the finest of high-end CRT monitors, allowing you to see Cyberverse in intricate detail. **Take +1d** on every **Analysis** roll.
 - **IBM Model 'M' Triple-Deck Keyboard**: With your specialized keyboard - that takes up most of your desk - you can keybind every thing imaginable. For you, movement is not limited by WASD but by WASD€»¬´¶«¿~! **Take +1d** on every **Kinetics** roll.
 - **Micropoint Titanium Three-Button Performance Mouse**: You have equiped your high-end mouse with an incredibly smooth and sensitive titanium ball, giving you ultimate precision on where you direct your pointer. **Take +1d** on every **Mechanics** roll.
-- **Gateway 3000 PC Microphone**: You have purchased the ultimate microphone available, sending your voice crisp-clear into Cyberspace. **Take +1d** on every **Influence** roll.
+- **Gateway 3000 PC Microphone**: You have purchased the ultimate microphone available, sending your voice crisp-clear into Cyberverse. **Take +1d** on every **Influence** roll.
 - **+4 MB RAM**: You have outfitted your system with a plethora of working memory, allowing you to handle extreme strains of data! Increase your total **System Stress** by **2**.
 - **Pentium 3 420MHz CPU**: Your processing speed is out of this world. Twice per game session, you can **Overclock** without taking Stress.
 - **Experimental HyperCO2oler**: You have built an experimental cooling system that hooks up to a CO2 tank and the water supply of your town. Once per session, you can activate your experimental cooling system: roll 1d6 and reduce your System Stress by the amount rolled. 
@@ -279,13 +302,13 @@ Hardware are the real-life items that your Hacker has obtained.
 
 
 ## Software
-Software are Cyberspace items that your Avatar has obtained.
+Software are Cyberverse items that your Avatar has obtained.
 - **Rollerblades**/**Skateboard**: You move faster (and cooler) than unbladed Avatars.
 - **Jetpack**: Once per game session, you can gain the ability to fly for one scene.
-- **Colour Spray Can**: This silly item was won in a promotional Cyberspace event. When used, the spray can sprays an emoji of your choice, filling the screen of other users and effectively blinding their Avatars. After three uses it disappears.
+- **Colour Spray Can**: This silly item was won in a promotional Cyberverse event. When used, the spray can sprays an emoji of your choice, filling the screen of other users and effectively blinding their Avatars. After three uses it disappears.
 - **Katana**: You can cut things. Additionally, when you attack with the Katana you **Take +1d** on the Action Roll if you say something in Japanese.
 - **Oversized Mallet**: You can whomp things. Additionally, when you attack with the Mallet you **Take +1d** on the Action Roll if you loudly yell "*IT'S CLOBBERING TIME!*"
 - **RBG**: A Ridiculously Big Gun. Once per scene you can blow a hole in an obstacle. This Gun unfortunately is too Ridiculously Big to be wielded effectively in a combat situation.
-- **Helm of Yeeting**: Single-use item that forcibly disconnects one user from Cyberspace.
+- **Helm of Yeeting**: Single-use item that forcibly disconnects one user from Cyberverse.
 - **Steampunk Goggles**: In addition to making you look tragic, these goggles also allow you to detect the presence of any other Avatars through walls, provided the wall is no more than 1 foot thick.
 - **Polymorpher**: Once per game session, you can gain the ability to turn into a harmless sheep for one scene.

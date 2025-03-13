@@ -25,7 +25,7 @@ Time in a Dungeon is measured in **Dungeon Turns**. A Dungeon Turn is 10 minutes
 # Dungeon Composition
 A Dungeon consist of the following elements:
 - **Rooms of Interest**: These are areas that are of interest to the party, either because of their content or because of their lay-out. Rooms of Interest can be explored, searched, and otherwise interacted with. Two Rooms of Interest are either directly connected to each other, or connected by Passageways. Rooms of Interest are usually occupied by Inhabitants. Empty Rooms of Interest may still be home to a Wandering Encounter.
-- **Passageways**: These connect Rooms of Interest, and can range from long hallways to collections of smallers rooms and areas that don't hold anything of interest to the party. They require time to traverse, and cursory exploration of these areas while traversing doesn't turn up anything useful or valuable. Wandering Encounters may occur in Passageways.
+- **Passageways**: These connect Rooms of Interest, and can range from long hallways to collections of smaller rooms and areas that don't hold anything of interest to the party. They require time to traverse, and cursory exploration of these areas while traversing doesn't turn up anything useful or valuable. Wandering Encounters may occur in Passageways.
 - **Inhabitants**: The creatures that call the Dungeon their home, and can be found lurking around. Some of them are keyed to a specific Location, others are Wandering around.
 
 ### Dynamic Dungeons
@@ -37,9 +37,9 @@ To achieve this, the DM has developed an **Adversary Roster** that lists which I
 ---
 # Navigating through Dungeons
 ### Pace
-Exploring a dungeon is by default considered to be a slow affair, to account for careful exploration, footing, and checking for traps and obstacles. The average speed by which a party progresses is 300' per Dungeon Turn.
+Exploring a dungeon is by default considered to be a slow affair, to account for careful exploration, footing, and checking for traps and obstacles. The average speed by which a party progresses is 300' (100 meters) per Dungeon Turn.
 
-If desired, the party can move through the dungeon at a Fast Pace, progressing 3000' per Dungeon Turn instead. This can only be done in areas that have already been explored, or that have a straightforward lay-out. Any Stealth, Survival, or Perception checks made while traveling at a Fast Pace are made with Disadvantage.
+If desired, the party can move through the dungeon at a Fast Pace, progressing 3000' (1 kilometer) per Dungeon Turn instead. This can only be done in areas that have already been explored, or that have a straightforward lay-out. Any Stealth, Survival, or Perception checks made while traveling at a Fast Pace are made with Disadvantage.
 
 ### Lighting
 Unless a Dungeon has its own source of illumination, characters will probably want to carry a source of light. Even characters with Darkvision will have a difficult time properly navigating and exploring a fully dark Dungeon.
