@@ -140,7 +140,6 @@ Refer to the below table for the probabilities of Successes for different size d
 | 5d6       | 13%     | 33%       | 33%       | 21%        |
 | 6d6       | 9%      | 26%       | 33%       | 32%        |
 
-
 ---
 # System Stress
 Computer is life. Everything you do, see, hear and experience in Cyberverse goes through your computer. All of this fiddling in Cyberverse requires a lot of processing power from your system. Doing too much brings you in danger of overheating your computer, causing it to shut down.
@@ -158,6 +157,7 @@ There are several ways you can accrue **System Stress**:
 - *Game Over*: In order to simulate reality and to discourage PvP in Cyberverse, your Avatar only has one life. As soon as something happens to your Avatar that damages it - falling from a great height, getting hit by a car, take a hit from a knife or a gun - it's game over. This means your Avatar respawns at the nearest hub - you'll have to spend time to get back to where you died. You can avoid this Avatar death by quickly hacking into Cyberverse. By taking **1 Stress**, you can glitch out of harm's way and avoid Avatar death.
 - *Let Me Altavista That*: Sometimes you're stuck no knowing what to do. The internet can help! By loading up Netscape and surfing to Altavista, you can quickly find an answer to question. Opening your browser alongside Cyberverse will tax your system though, so you'll have to take **1 System Stress**. If you do so, phrase a question that you would type into a search engine. The GM will give you the answer, or otherwise a useful piece of advice regarding your question.
 - *Hacking*: See below for more on that.
+- *Fill the DDoS Pool*: See PvP.
 - *Failed Actions*: At the GM's discretion, a failed Action Roll might result in System Stress.
 
 
@@ -224,7 +224,6 @@ You can teleport more Avatars along at the cost of **1 additional System Stress*
 **Zero C00l**: You fire off a bunch of nonsense hacks but make them seem to originate from a different Avatar, drawing unwanted attention to the user. This can result in a variety of consequences.
 You can compromise more Avatars at the cost of **1 additional System Stress** per Avatar.
 
-
 ---
 # PvP
 Player-versus-Player gameplay is generally disallowed in Cyberverse, except in special designated PvP-zones. However, it is possible to challenge other players or NPCs to combat. If you propose a duel - either alone or as a group - and the other party accepts, you both get applied PvP-status and you can duke it out. If the opposing party refuses to PvP, you can still make them by hacking into their system and forcing them into PvP. This costs **1 System Stress** per Avatar you want to force into PvP.
@@ -252,23 +251,17 @@ Anything that's in you or your allies' way can count as an Obstacle, and you can
 You can help your friends out by doing something that creates an advantage for their Actions. Whenever your allies make proper use of your advantage, they **Take +1d** on their roll. Think of providing cover fire, setting up a ramp, creating a distraction. Any Advantage lasts until the start of your next turn.
 
 - If you have a **Full Success**, you create an advantage only your allies can use.
-- If you have a **Partial Success**, you create an advantage that can be used by everyone.
+- If you have a **Partial Success**, you create an advantage that can be used by everyone, or you don't create an advantage but add to the **DDoS Pool**.
 - If you have a **Failure**, you either don't create the advantage or it doesn't work out the way you hoped.
 
 ### Attack
 If you want to attack an opposing Avatar, explain how you attack and roll the appropriate **Approach** and **Aptitude** (usually Kinetics or Mechanics). Depending on how versed your opponent's Avatar is in fighting, the Difficulty can range from **Regular** for regular Avatars to **Extreme** for highly combat-oriented Avatars.
 
 - If you have a **Full Success**, you lethally damage the Avatar. They'll despawn and are out of the PvP scene.
-- If you have a **Partial Success** on a Hard or Extreme Difficulty opponent, you don't damage them enough to take them out, but you do set up an advantage for future attacks. This is represented by the **DDoS Die**.
+- If you have a **Partial Success** on a Hard or Extreme Difficulty opponent, you don't damage them enough to take them out, but you do set up an advantage for future attacks by adding to the **DDoS Pool**.
 - If you have a **Failure**, you fail to damage the opponent.
 
 If the Avatar you face belongs to a Hacker, they might use their own **System Stress** after being lethally hit to avoid their Avatar despawning!
-
-##### The DDoS Die 
-Ganging up and repeated strikes against a target makes it easier to attack them again, either by confusing their algorithm (for NPCs) or adding latency (for other Avatars). This increased strain is represented by the DDoS Die. Every enemy starts without a DDoS Die. Partial Successes on attacks and other effects can increase the DDoS Die by 1 each time. Any subsequent hostile maneuvers on that target then gain a bonus on the roll of a number of d6 equal to the number on the DDoS Die.
-
-Example: an attack on a target is a Partial Success. This increases the DDoS Die from 0 to 1. An ally then attacks the same target afterwards. When they roll their Action Roll, they add +1d6 to their pool from the DDoS Die. If they would also get a Partial Success as a result, the DDoS Die would increase to 2, giving +2d6 on any subsequent attacks on the target, etc.
-
 
 ### Defend
 If you're the subject of an attack on the opponents' turn, explain how you attempt to avoid it and roll the appropriate **Approach** and **Aptitude**. Depending on the nature of the attack, the Difficulty can range from **Regular** for general weaponry to **Extreme** for wide-range explosives or Death Rays.
@@ -279,10 +272,14 @@ If you're the subject of an attack on the opponents' turn, explain how you attem
 
 If you choose to spend your Action on your turn in **Full Defense**, you completely focus on avoiding harm. You **Take +2d** on any Defend rolls until the start of your next turn.
 
+## The DDoS Pool 
+Ganging up and repeated strikes against enemies makes it easier to attack them again, either by confusing their algorithm (for NPCs) or adding latency (for other Avatars). This increased strain is represented by the DDoS Pool. 
+
+Every PvP match starts with an empty DDoS Pool. Whenever you get a Partial Success on an attack - or on other hostile actions at the GM's discretion - a d6 is added to the DDoS Pool. You can also voluntarily add a d6 to the DDoS Pool by bombarding your enemies with nonsense hacks at the cost of **1 System Stress**. Whenever you or an ally takes an action in this PvP match, you can choose to draw on the DDoS Pool. When you do, you add all the d6 from the DDoS Pool to your action roll. Afterwards, the DDoS Pool is empty again. You can't partially draw from the DDoS Pool, it's all or nothing.
+
 
 ## Ending PvP-mode
 PvP either ends when every Avatar in a group has despawned, or when a side has **Conceded**. If you Concede, you have to do so as a group. You immediately get out of PvP-mode and are protected from any other Avatar damage. However, this conceding means the whole Cyberverse will know of your failure and awkward memes will be made of you. Anyone hostile to you will learn of it, and probably will use this to their advantage somehow.
-
 
 ---
 # Gear
