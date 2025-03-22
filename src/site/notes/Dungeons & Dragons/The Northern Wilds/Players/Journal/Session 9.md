@@ -32,3 +32,9 @@ Also level 6.
 - **Potion of Hill Giant Strength**: Increase Strengths to 21 for 1 hour
 - **Potion of Greater Healing**: Heal 4d4+4 Hit Points
 - **Keoghom's Elixer**: 5 doses, a stimulant that grants 2d8+2 temporary Hit Points and suppresses Exhaustion effects for 1 hour
+
+---
+### Current Objectives
+- Report back to General Eswèin with your findings in the Felwarren
+- Look for Ayla, a missing young girl from New Eismil
+- Make it back to Dun Ballantein to attach yourself to Vello Cadhla's retinue, when he makes his tour of the war effort
