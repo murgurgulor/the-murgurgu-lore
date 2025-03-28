@@ -131,6 +131,16 @@ If you get to choose an outcome, you make your choice before the travel starts.
 	- You lose your way and end up somewhere different than intended.
 	- You have to spend time and resources getting back on track, increasing your **Travel Time** by half as much (rounded up).
 
+>[!gm] Alternate
+>**Success**: You keep the party on track and arrive at the next Waypoint without getting lost or losing time.
+>
+>**Resounding Success**: As Success, but also choose one:
+>- You make sure you take obscure paths, reducing the chance of a hostile Wandering Encounter (the DM will reroll one hostile Wandering Encounter once, taking the result of reroll).
+>- You find a safe way around a Waypoint along your route.
+>- You find a shortcut and reduce your Travel Time by 1 day.
+>
+>**Failure**: You get lost and have to spend extra time getting back on track. This increases your Travel Time by 1 day. 
+
 ###### Scout
 - **Success**: If there is a **Wandering Encounter** on the way, you safely spot it on time and your party can prepare accordingly.
 - **Resounding Success (DC+5)**: You get the drop on any **Wandering Encounter** along the way, and also choose one of the following:
@@ -138,12 +148,32 @@ If you get to choose an outcome, you make your choice before the travel starts.
 	- You make a **Discovery** along the way.
 - **Failure**: You don't find anything, and if there's a **Wandering Encounter** up ahead you're all Surprised by it.
 
+>[!gm] Alternate
+>**Success**: The GM chooses or randomly decides one:
+>- You spot tracks from a nearby Wandering Encounter, and you can attempt to follow them stealthily if you want
+>- You notice a Wandering Encounter at a distance, but you leave a mark of your presence or passage - if you confront each other, neither side is Surprised.
+>
+>**Resounding Success**: Choose one:
+>- As Success, but you make a Discovery along the way
+>- Instead of the Success result: You notice the Wandering Encounter without them noticing you, giving you Surprise on dealing with them or safely letting you avoid them.
+>
+>**Failure**: You miss any tracks or signs of a Wandering Encounter, but they have noticed you and can Surprise you.
+
 ###### Quartermaster
 - **Success**: You find enough resources and proper campsites to keep everyone going.
 - **Resounding Success (DC+5)**: You find enough resources to prepare a feast. Tell everyone what you're cooking, and any player who licks their lips and says "Yum!" gets **Advantage** on their next d20 roll.
 - **Failure**: Choose one of the following:
 	- You don't find enough resources. Everyone is uncomfortable and gets **Disadvantage** on their next d20 roll.
 	- You find enough resources, but you face an unexpected **Wandering Encounter** that your Scout didn't get the drop on.
+
+>[!gm] Alternate
+>**Success**: You find enough resources and proper campsites to keep everyone going.
+>
+>**Resounding Success**: You find a good place to rest and enough resources to prepare a feast. Tell everyone what you're cooking, and any player who licks their lips and says "Yum!" gets **Inspiration**.
+>
+>**Failure**: Choose one:
+>- You have to spend a full day foraging, increasing your Travel Time by 1 day.
+>- You go hungry and deprived. Everyone makes a DC 10 Constitution save, and on a fail you gain 1 level of Exhaustion. The DC increases by 2 for every additional time you make this saving throw before a Long Rest.
 
 ###### Sentry
 - **Success**: Choose one of the following:
@@ -154,6 +184,17 @@ If you get to choose an outcome, you make your choice before the travel starts.
 - **Resounding Success (DC+5)**: Choose twice from the list for **Success**.
 - **Failure**: You just wander along and don't help or hinder.
 
+
+>[!gm] Alternate
+**Success**: Choose one of the following:
+>- You avoid being Surprised by any **Wandering Encounter** the Scout might have missed.
+>- You make a **Discovery**.
+>- You cover your trail, making sure no one can track you.
+>- You help someone in their task: choose one ally and increase the result of their Travel Check by 5.
+>- You keep everyone's spirits up. Choose one ally and give them **Inspiration**.
+>
+>**Resounding Success (DC+5)**: Choose twice from the list for **Success**, avoiding any duplicates.
+> **Failure**: You just wander along and don't help or hinder.
 
 ##### Using Spells or Class Abilities for Travel Checks
 Some spells or class abilities might be useful to aid in your Travel Check, but keep in mind that a Travel Check represents your efforts over one or more days. A spell like **Enhance Ability** might give you Advantage on an ability check, but the duration has a maximum of one hour. Casting Enhance Ability therefore won't really affect the way you perform your role that much. **Goodberry**, on the other hand, might provide some benefit as it assures enough sustenance for a day of the travel.
