@@ -68,14 +68,14 @@ An appropriate ability check might be warranted for certain preparations.
 ## Dividing Travel Roles
 When you have prepared for your trip and charted the course, it's time to start your trip. You start from the starting point on your map, and travel along the route you've chosen towards the goal destination. Along the route, you most likely will come across other **Waypoints**, either known or unknown to you.
 
-For every trip between two Points on the Pointcrawl, the party needs to divide four different roles amongst each other.
+For every trip between two Waypoints, the party needs to divide four different roles amongst each other.
 1. **Wayfinder**: The Wayfinder is the party member who is in charge of plotting the course, navigating, and prevent everyone from getting lost.
 2. **Scout**: The Scout is the party member who is in charge of going ahead to find safe passages, and who watches out for any dangers that may lie ahead.
 3. **Quartermaster**: The Quartermaster is the party member who is in charge of foraging, cooking, setting up camp, packing the bags, and generally making sure everyone is as comfortable as can be.
 4. **Sentry**: The Sentry is the party member who takes up the rear. They can do several things, including keeping an eye out for danger, covering the party's tracks, boosting morale, helping others out with their tasks, et cetera.
 
 If there are more than four party members, a role can be taken up multiple times. In this case any rolls will be made with Advantage.
-If there are less than four party members, one of the roles will either not be taken up, or someone takes up two roles but rolls both of them with Disadvantage.
+If there are less than four party members, one of the roles will either not be taken up - causing an automatic Failure, or someone takes up two roles but rolls both of them with Disadvantage.
 
 Whenever you arrive at the next Waypoint, you can redivide the roles amongst your party members if you wish.
 
@@ -84,7 +84,7 @@ Whenever you arrive at the next Waypoint, you can redivide the roles amongst you
 ## The Travel Check
 Once the roles have been divided, each party member chooses one skill check relating to their role to make a **Travel Check**. This check determines how well you perform your role during this part of the journey. The DC of this check is determined by the terrain you're traveling through. To keep things simple, the DC is the same for every role. Note that the DC does not relate to the dangers a route holds, it just relates to how easy or difficult the terrain is to travel through. You make one Travel Check per crawl between two points.
 
-If your Travel Check meets or beats this DC, you successfully did your part for this leg of the journey. If you fail the Travel Check, however, you fail in your role. This means an unwanted complication might your way, or the trip might take longer than anticipated.
+If your Travel Check meets or beats this DC, you successfully did your part for this leg of the journey. If you fail the Travel Check, however, you fail in your role. This means an unwanted complication might come your way, or the trip might take longer than anticipated.
 If your Travel Check beats the DC by 5 or more, you have a **Resounding Success**. This means that you exceed in your role and get an additional benefit. 
 
 
@@ -150,12 +150,12 @@ If you get to choose an outcome, you make your choice before the travel starts.
 
 >[!gm] Alternate
 >**Success**: The GM chooses or randomly decides one:
->- You spot tracks from a nearby Wandering Encounter, and you can attempt to follow them stealthily if you want
+>- You spot tracks from a nearby Wandering Encounter, and you can attempt to follow them if you want
 >- You notice a Wandering Encounter at a distance, but you leave a mark of your presence or passage - if you confront each other, neither side is Surprised.
 >
 >**Resounding Success**: Choose one:
 >- As Success, but you make a Discovery along the way
->- Instead of the Success result: You notice the Wandering Encounter without them noticing you, giving you Surprise on dealing with them or safely letting you avoid them.
+>- Instead of the Success result: You notice any Wandering Encounter without them noticing you, giving you Surprise on dealing with them or safely letting you avoid them.
 >
 >**Failure**: You miss any tracks or signs of a Wandering Encounter, but they have noticed you and can Surprise you.
 
@@ -194,6 +194,7 @@ If you get to choose an outcome, you make your choice before the travel starts.
 >- You keep everyone's spirits up. Choose one ally and give them **Inspiration**.
 >
 >**Resounding Success (DC+5)**: Choose twice from the list for **Success**, avoiding any duplicates.
+>
 > **Failure**: You just wander along and don't help or hinder.
 
 ##### Using Spells or Class Abilities for Travel Checks
@@ -210,7 +211,9 @@ While you're undertaking your Perilous Journey, you might encounter dangers, str
 
 
 ### Wandering Encounters
-Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** of each leg of the Pointcrawl between 1 and 5. When the party rolls their Travel Checks, the DM will roll a number of d6 equal to the **Travel Time**. For each d6 where the result is **equal to or under** the Encounter Chance, the party will have a **Wandering Encounter** on their way. A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, or you encounter tracks of one, so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how the **Wandering Encounter** reacts to you.
+Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** as 1-in-6, 1-in-8, 1-in-10 or 1-in-12. When the party rolls their Travel Checks, the DM will roll for each 6 hour period of the trip (so for 3 days travel that would be 12 rolls). For each 1 rolled, the party will have a **Wandering Encounter** on their way. 
+
+A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, or you encounter tracks of one, so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how the **Wandering Encounter** reacts to you.
 
 If the **Travel Time** extends because the Wayfinder is not doing their job properly, the DM rolls for the extra days as well. 
 
@@ -220,12 +223,10 @@ Even though a Perilous Journey might feel like you're constantly in danger, ther
 
 The different options for Discoveries are:
 - You spot an unknown **Waypoint** in the distance. You figure out what it is and you can mark it on your map.
-- You find a useful **Shortcut** to somewhere else
-- You come across a place where you can have a **Long Rest**
-- You come across a **Monument** - a special area, place, landmark - that's bristling with arcane energies that can bolster you
-- You come across a **Monument** - a special area, place, landmark - from a significant time of history, that may hold secrets and clues
-- You find a **small hoard of treasure**
-- You find a **major hoard of treasure**
+- You come across a place where you can have a **Long Rest**.
+- You come across (signs of) an Ancient Monument that's bristling with Arcane Powers to buff one of you.
+- You come across a secret or clue relevant to your situation, or an interesting part of history.
+- You find treasure, or a location where treasure could be found.
 
 When you make a Discovery, the DM will either tell you what it is, or the DM can ask you to roll on a random table to determine what type of Discovery it is.
 
