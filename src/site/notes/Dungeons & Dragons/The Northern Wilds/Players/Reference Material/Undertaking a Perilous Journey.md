@@ -140,6 +140,7 @@ If you get to choose an outcome, you make your choice before the travel starts.
 >- You find a shortcut and reduce your Travel Time by 1 day.
 >
 >**Failure**: You get lost and have to spend extra time getting back on track. This increases your Travel Time by 1 day. 
+>If you fail by 5 or more, you have to spend 2 days getting back on track.
 
 ###### Scout
 - **Success**: If there is a **Wandering Encounter** on the way, you safely spot it on time and your party can prepare accordingly.
@@ -211,7 +212,7 @@ While you're undertaking your Perilous Journey, you might encounter dangers, str
 
 
 ### Wandering Encounters
-Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** as 1-in-6, 1-in-8, 1-in-10 or 1-in-12. When the party rolls their Travel Checks, the DM will roll for each 6 hour period of the trip (so for 3 days travel that would be 12 rolls). For each 1 rolled, the party will have a **Wandering Encounter** on their way. 
+Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** as 1-in-6, 1-in-8, 1-in-10 or 1-in-12. When the party rolls their Travel Checks, the DM will roll for each 6-hour period of the trip (so for 3 days travel that would be 12 rolls). For each 1 rolled, the party will have a **Wandering Encounter** on their way. 
 
 A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, or you encounter tracks of one, so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how the **Wandering Encounter** reacts to you.
 
