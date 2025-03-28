@@ -52,7 +52,7 @@ If your party is relatively familiar with the environment already, the DM might 
 If you're in a crunch you might want to travel faster, sacrificing effectiveness for speed. Conversely, if you want to make sure things are going well and you have the time to do it, you can travel at a slower pace as well. 
 - If you travel at a **Normal Pace**, the **Travel Time** isn't adjusted and the **Travel Check** is made normally.
 - If you travel at a **Fast Pace**, the **Travel Time** reduces by a quarter (rounded down) but your **Travel Checks** are made with Disadvantage.
-- If you travel at a **Slow Pace**, the **Travel Time** increases by half as much (rounded up) but your **Travel Checks** are made with Advantage.
+- If you travel at a **Slow Pace**, the **Travel Time** increases by half as much (rounded up) but your **Travel Checks** are made with Advantage. If this is a path you've traveled before, you don't have to make a **Travel Check**.
 
 
 ---
@@ -193,9 +193,9 @@ If you get to choose an outcome, you make your choice before the travel starts.
 >- You help someone in their task: choose one ally and increase the result of their Travel Check by 5.
 >- You keep everyone's spirits up. Choose one ally and give them **Inspiration**.
 >
->**Resounding Success (DC+5)**: Choose twice from the list for **Success**, avoiding any duplicates.
+>**Resounding Success (DC+5)**: Choose twice from the list for **Success**, avoiding any duplicates. You can help or inspire twice, but they have to affect different allies.
 >
-> **Failure**: You just wander along and don't help or hinder.
+> **Failure**: You fail to keep morale up. One party member has to give up an Inspiration. If no one can or wants to, everyone takes Disadvantage on their next d20 roll.
 
 ##### Using Spells or Class Abilities for Travel Checks
 Some spells or class abilities might be useful to aid in your Travel Check, but keep in mind that a Travel Check represents your efforts over one or more days. A spell like **Enhance Ability** might give you Advantage on an ability check, but the duration has a maximum of one hour. Casting Enhance Ability therefore won't really affect the way you perform your role that much. **Goodberry**, on the other hand, might provide some benefit as it assures enough sustenance for a day of the travel.
