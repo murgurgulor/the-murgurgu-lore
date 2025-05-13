@@ -6,6 +6,8 @@ Worlds Without Number is an Old School Renaissance (OSR) game by Kevin Crawford.
 
 Hallmarks of OSR games is that the rules are generally easy to pick up, and that it's less heroic than high fantasy adventures like D&D. The focus is more on the players being people in a dangerous world trying to make their way through life, delving dungeons for treasures. The player characters are capable people, but no superheroes. A sprung trap or an unfortunate hostile encounter can very easily end your character's life, and the style emphasises using your smarts to overcome obstacles and avoid fights if you can.
 
+"*The answer is found in the game world, not on your character sheet*."
+
 ---
 # Your Characters
 Character generation is fairly straightforward, and unlike most OSR games WWN actually has quite a lot of player options to diversify the characters.
@@ -25,7 +27,7 @@ I will provide a few pregenerated characters for play for people who want them.
 The classic 6 attributes are used in WWN, and they range from 3 to 18.
 If you make your own character, you roll 3d6 six times and assign them however you want, and you can change one of them to 14.
 
-Attribute Modifiers are calculated differently than normal:
+Attribute Modifiers are calculated differently than in D&D:
 
 | Score | Modifier |
 | ----- | -------- |
@@ -72,12 +74,12 @@ The game works on the basic framework:
 - The Players describe what their characters do, possibly rolling dice
 - The GM adjudicates the outcomes and describes the effect
 
-The game uses different systems for **Skill Checks**, **Saving Throws** and **Combat**.
+The game uses three different resolution systems: **Skill Checks**, **Saving Throws** and **Combat**.
 Then we will touch on **Injuries and Healing**, **Magic**, and finally concluding with **Equipment and Encumbrance**.
 
 ---
 ## Skill Checks
-If you make a Skill Check, the GM will tell you what Skill to use and what Attribute goes along with it. You might be called for a Str/Exert check to see if you can lift a heavy boulder, or a Wis/Sneak check to see if you remain hidden while sneaking through a castle (my preference to use Wis for sneaking is personal, as I believe Dex only covers how quietly you walk and not necessarily how well you choose your movements).
+If you make a Skill Check, the GM will tell you what Skill to use and what Attribute goes along with it. You might be called for a Str/Exert check to see if you can lift a heavy boulder, or a Wis/Sneak check to see if you remain hidden while sneaking through a castle.
 
 If you make a Skill Check, you roll **2d6**, add your **Attribute Modifier** and your **Skill Level**. If you don't have any proficiency (so not even a Level-0) in the Skill, you get a -1 penalty instead.
 
@@ -103,7 +105,7 @@ You calculate your **Luck save** as: 16 - your PC's level.
 
 ---
 ## Combat
-Combat follows the known structure of rounds and turns. Each round takes around 6-10 seconds.
+Combat follows the known structure of rounds and turns. Each round takes around 10 seconds.
 
 ### Initiative
 Initiative is rolled **per side** in combat. Each side rolles **1d8** and adds the highest Dex modifier from their group, where any ties are won by the PCs. The side that gets highest gets to go first, in whatever order their members choose. After that the other side goes, and so on.

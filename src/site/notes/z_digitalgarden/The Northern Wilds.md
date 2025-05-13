@@ -3,7 +3,7 @@
 ---
 
 
-- Read up on your [[Dungeons & Dragons/The Northern Wilds/Players/Journal/Campaign Journal\|Campaign Journal]]
-- Check out the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Notable Items\|Notable Items]] and [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Notable NPCs\|Notable NPCs]]
-- Keep in mind the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/House Rules\|House Rules]]
-- View some of the [[Dungeons & Dragons/The Northern Wilds/Players/Reference Material/Scenes and Imagery\|Scenes and Imagery]]
+- Read up on your [[Dungeons & Dragons/The Northern Wilds/_Players/Journal/Campaign Journal\|Campaign Journal]]
+- Check out the [[Dungeons & Dragons/The Northern Wilds/_Players/Reference Material/Notable Items\|Notable Items]] and [[Dungeons & Dragons/The Northern Wilds/_Players/Reference Material/Notable NPCs\|Notable NPCs]]
+- Keep in mind the [[Dungeons & Dragons/The Northern Wilds/_Players/Reference Material/House Rules\|House Rules]]
+- View some of the [[Dungeons & Dragons/The Northern Wilds/_Players/Reference Material/Scenes and Imagery\|Scenes and Imagery]]
