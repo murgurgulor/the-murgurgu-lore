@@ -4,7 +4,7 @@
 
 Gaining levels through 'Milestones' means that the DM arbitrarily decides when you level up, on which the players don't have any influence. To counter this, levels can also be gained by accumulating experience points (**XP**). D&D's manuals only give strict guidelines on how much XP an monster encounter is worth, and kind of handwaves the non-combat ways of gaining experience. Luckily there's a little OSR supplement called **Feats of Exploration** that gives more of a framework on gaining XP.
 
-Throughout the gaming session, you can earn XP through your actions. These feats can be divided by category and difficulty. We distinguish 3 categories of difficulty: Easy, Challenging, and Hard. The difficulty assigned to an accomplished feat takes into account the effort it took your characters, the spending of resources, and the potential danger, threat or complications of the situation.
+Throughout the gaming session, you can earn XP through your actions. These feats can be divided by category and difficulty. We distinguish 3 categories of difficulty: Easy, Challenging, and Hard. The difficulty assigned to an accomplished feat takes into account the effort it took your characters, the spending of resources, and the potential danger, threat, or complications of the situation.
 
 When you perform an **Easy** feat, you gain 2% of the XP needed to level up.
 When you perform a **Challenging** feat, you gain 5% of the XP needed to level up.

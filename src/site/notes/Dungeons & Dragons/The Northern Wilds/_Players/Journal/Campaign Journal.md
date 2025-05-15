@@ -16,5 +16,7 @@
 - [[Dungeons & Dragons/The Northern Wilds/_Players/Journal/Session 7\|Session 7]]: January 31, 2025
 - [[Dungeons & Dragons/The Northern Wilds/_Players/Journal/Session 8\|Session 8]]: February 21, 2025
 - [[Dungeons & Dragons/The Northern Wilds/_Players/Journal/Session 9\|Session 9]]: March 14, 2025
+- [[Dungeons & Dragons/The Northern Wilds/_Players/Journal/Session 10\|Session 10]]: April 18, 2025
+- [[Dungeons & Dragons/The Northern Wilds/_Players/Journal/Session 11\|Session 11]]: May 02, 2025
 
 { .block-language-dataview}

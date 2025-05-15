@@ -4,12 +4,12 @@
 
 | Tome/Artefact                                                                                                                            | Found in                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/Egypt/Sword of Akmallah\|Sword of Akmallah]]                      | <ul><li>Egypt</li></ul>    |
 | [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/Egypt/Holy Sally\|Holy Sally]]                                    | <ul><li>Egypt</li></ul>    |
+| [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/Egypt/Sword of Akmallah\|Sword of Akmallah]]                      | <ul><li>Egypt</li></ul>    |
 | [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/Egypt/The Adornments of Nitocris\|The Adornments of Nitocris]]    | <ul><li>Egypt</li></ul>    |
 | [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/The Pnakotic Manuscripts\|The Pnakotic Manuscripts]]     | <ul><li>New York</li></ul> |
-| [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Life as a God\|Life as a God]]                           | <ul><li>New York</li></ul> |
 | [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Selections de Livre d'Ivon\|Selections de Livre d'Ivon]] | <ul><li>New York</li></ul> |
+| [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Life as a God\|Life as a God]]                           | <ul><li>New York</li></ul> |
 | [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Amongst the Stones\|Amongst the Stones]]                 | <ul><li>New York</li></ul> |
 | [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Africa's Dark Sects\|Africa's Dark Sects]]               | <ul><li>New York</li></ul> |
 | [[Call of Cthulhu/Masks of Nyarlathotep/Players/Tomes and Artefacts/New York/Ju-Ju Mask\|Ju-Ju Mask]]                                 | <ul><li>New York</li></ul> |
