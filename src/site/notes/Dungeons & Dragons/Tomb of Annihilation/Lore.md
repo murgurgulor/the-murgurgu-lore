@@ -21,13 +21,12 @@ Other notable members of the Order are:
 
 Finally, the Order has hired the help of some Chultan natives, led by **Lorsa**.
 
-##### Zhentarim
-The Zhentarim are an organization who like to dip their fingers in less-than-savoury jobs and projects in order to gain power. Poag has a bad history with them and is paranoid of encountering them here in Chult. They have unfortunately also been hired by Cassandra's great-uncle **Thaddeus Thassas** to look for **Cathas Thassas**.
+##### Zhentarim and Thaddeus Thassas
+The Zhentarim are an organization who like to dip their fingers in less-than-savoury jobs and projects in order to gain power. Poag has a bad history with them and is paranoid of encountering them here in Chult. They have unfortunately also been hired by Cassandra's great-uncle **Thaddeus Thassas** to look for **Cathas Thassas** - her resurrected great-great-grandfather. Cathas went into the jungles of Chult to look for the fabled **Ring of Winter**. This ring apparently grants immortality and powers over ice and cold. We have learned the location where his journal was found. He has a **Shield Guardian** in his service.
 
 ##### Independents
 Other NPCs we've encountered are:
 - **Hew Hackinstone**: Our guide with an Ahab-ish obsession with **Tinder**, the Red Dragon who bit off his arm.
-- **Cathas Thassas**: Cassandra's great-great-grandfather (resurrected) who went into the jungles of Chult to look for the fabled **Ring of Winter**. This ring apparently grants immortality and powers over ice and cold. We have learned the location where his journal was found. He has a **Shield Guardian** in his service.
 - **Kwilgok**: A Tortle dinosaur jockey who is generally chill and laid back.
 - **Pirates!**: A crew of pirates, led by **Cpt. Tiffany Cannonview**, harried us on our arrival. We managed to drive them off, but they're still sailing around somewhere, presumable.
 - **Volothamp Geddarm (Volo)**: Some guy who writes books about stuff.
