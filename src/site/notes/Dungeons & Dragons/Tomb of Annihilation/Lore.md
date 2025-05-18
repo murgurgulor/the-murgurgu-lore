@@ -21,7 +21,7 @@ Other notable members of the Order are:
 
 Finally, the Order has hired the help of some Chultan natives, led by **Lorsa**.
 
-##### Zhentarim and Thaddeus Thassas
+##### Thaddeus Thassas and the Zhentarim
 The Zhentarim are an organization who like to dip their fingers in less-than-savoury jobs and projects in order to gain power. Poag has a bad history with them and is paranoid of encountering them here in Chult. They have unfortunately also been hired by Cassandra's great-uncle **Thaddeus Thassas** to look for **Cathas Thassas** - her resurrected great-great-grandfather. Cathas went into the jungles of Chult to look for the fabled **Ring of Winter**. This ring apparently grants immortality and powers over ice and cold. We have learned the location where his journal was found. He has a **Shield Guardian** in his service.
 
 ##### Independents
