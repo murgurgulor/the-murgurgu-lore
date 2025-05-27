@@ -22,11 +22,9 @@ If the land you're traveling in is unknown to you, there might be other **Waypoi
 
 
 ### Resting
-Resting properly is difficult during a Perilous Journey. The constant looming threat of danger and often uncomfortable resting places prevent you from getting a good full rest. This means that during a Perilous Journey, you generally **don't get to take a Long Rest**. You can take Short Rests as usual, and for every night slept you regain Hit Points equal to **half your level (rounded down) in Hit Dice + your Constitution Modifier**, as well as recover **1/4 your level (rounded down) in Hit Dice** to use in Short Rests later on. 
+Resting properly is difficult during a Perilous Journey. The constant looming threat of danger and often uncomfortable resting places prevent you from getting a good full rest. This means that during a Perilous Journey, you generally **don't get to take a Long Rest**. You can take Short Rests as usual, and a night's rest counts as a Short Rest as well.
 
-For example, if Justin the Lvl 5 Fighter with 16 Con goes to bed with 14 Hit Points left, and 2 of his 5 Hit Dice remaining, he regains 2d10+3 HP upon waking and increases his Hit Dice pool to 3.
-
-If you're lucky, you make a **Discovery** along the way that provides a comfortable and well-hidden place to rest. In these areas it is possible to take a **Long Rest**. You can also mark the place on your map and return later, whenever you need another one.
+If you're lucky, you make a **Discovery** along the way that provides a comfortable and well-hidden place to rest. In these areas it is possible to take a **Long Rest**. You can also mark the place on your map and return later, whenever you need another one. Other discoveries might supply you with Hit Dice or other resources.
 
 
 ---
@@ -42,7 +40,7 @@ If you're lucky, you make a **Discovery** along the way that provides a comforta
 
 ---
 ## Charting the Course
-With your map, starting location, and goal destination, you can decide which route your party is going to take. The DM will tell you for each viable route through what terrain it generally is, what the **Travel DC** for the route is, as well as what the expected **Travel Time** is to reach your goal destination, and any other details that an experienced adventuring party would generally be assumed to know. 
+With your map, starting location, and goal destination, you can decide which route your party is going to take. The DM will tell you for each viable route through what terrain it generally is, what the **Travel DC** for the route is, as well as what the expected **Travel Time** (in days) is to reach your goal destination, and any other details that an experienced adventuring party would generally be assumed to know. 
 
 If your party is relatively familiar with the environment already, the DM might also let you know what the risk for **Wandering Encounters** is along the way. If the land is unknown to you, you can make an **Intelligence (Arcana/History/Nature)** check to learn this information. The skill proficiency you can apply to this check depends on the terrain you're traveling in.
 
@@ -208,11 +206,11 @@ There might be spells or abilities that logically would mean an automatic succes
 
 ---
 ## The Experiences We Had Along the Way
-While you're undertaking your Perilous Journey, you might encounter dangers, strange phenomena, interesting landmarks, or magnificent secrets. These are divided in two categories: **Wandering Encounters** and **Discoveries**.
+While you're undertaking your Perilous Journey, you might encounter dangers, strange phenomena, interesting landmarks, or magnificent secrets. These are divided in two categories: **Wandering Encounters** and **Discoveries**. 
 
 
 ### Wandering Encounters
-Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** as 1-in-6, 1-in-8, 1-in-10 or 1-in-12. When the party rolls their Travel Checks, the DM will roll for each 6-hour period of the trip (so for 3 days travel that would be 12 rolls). For each 1 rolled, the party will have a **Wandering Encounter** on their way. 
+Perilous Journeys are fraught with dangers and unexpected encounters, but how likely it is to encounter something unexpected can differ per area. The DM rates the **Encounter Chance** by the habitation in the area you're in. While you're traveling, the DM will roll an appropriate die for each 6-hour period ('**Watch'**) per day (so for 3 days travel that would be 12 rolls). For each 1 rolled, the party will have a **Wandering Encounter** on their way. 
 
 A **Wandering Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot a **Wandering Encounter** before you come upon it at a distance appropriate to the terrain, or you encounter tracks of one, so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how the **Wandering Encounter** reacts to you.
 
@@ -224,7 +222,7 @@ Even though a Perilous Journey might feel like you're constantly in danger, ther
 
 The different options for Discoveries are:
 - You spot an unknown **Waypoint** in the distance. You figure out what it is and you can mark it on your map.
-- You come across a place where you can have a **Long Rest**.
+- You come across a place where you can have a **Long Rest**, or you regain a resource.
 - You come across (signs of) an Ancient Monument that's bristling with Arcane Powers to buff one of you.
 - You come across a secret or clue relevant to your situation, or an interesting part of history.
 - You find treasure, or a location where treasure could be found.
