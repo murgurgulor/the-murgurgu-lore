@@ -13,13 +13,13 @@ The Order of the Gauntlet is a faction intent on destroying the scourge of undea
 
 Their second camp - **Camp Vengeance**, is poorly constructed and managed, causing disease to run rampant. One of their scouts recently discovered some ruins to the south - potentially the ruins of **Mbala** - where they are considering moving towards to set up camp.
 
-The Order of the Gauntlet's Chult division is led by **Niles Breakbone** (human). His seconds-in-command are **Ord Firebeard** (Gold Dwarf) and **Pern Sarvanna*** (human).
+The Order of the Gauntlet's Chult division is led by **Niles Breakbone** (human). His seconds-in-command are **Ord Firebeard** (Gold Dwarf) and **Pern Salhana*** (human).
 Other notable members of the Order are:
-- **Sister Thias** - who takes care of the sick and wounded
-- **Wulf Rider** - ranger who is at least somewhat competent in survivalling, but is somewhat deranged in his plans to burn the whole of Chult down to get rid of the undead
+- **Sister Cyas** - who takes care of the sick and wounded
+- **Wulf Rygor** - ranger who is at least somewhat competent in survivalling, but is somewhat deranged in his plans to burn the whole of Chult down to get rid of the undead
 - **Undril Silvertusk** - a half-orc cleric whom we transported to Camp Vengeance and who got us out of some pickles.
 
-Finally, the Order has hired the help of some Chultan natives, led by **Lorsa**.
+Finally, the Order has hired the help of some Chultan natives, led by **Lorsa Bilwatal**. She thought us about herbalism.
 
 ##### Thaddeus Thassas and the Zhentarim
 The Zhentarim are an organization who like to dip their fingers in less-than-savoury jobs and projects in order to gain power. Poag has a bad history with them and is paranoid of encountering them here in Chult. They have unfortunately also been hired by Cassandra's great-uncle **Thaddeus Thassas** to look for **Cathas Thassas** - her resurrected great-great-grandfather. Cathas went into the jungles of Chult to look for the fabled **Ring of Winter**. This ring apparently grants immortality and powers over ice and cold. We have learned the location where his journal was found. He has a **Shield Guardian** in his service.
@@ -58,8 +58,8 @@ We've learned of the following indigenous plants and beasts:
 - There are many types of **Grung** in the jungle, with different colours designating different socetial standing. You can extract poison from them.
 - **Scented Ferns** are used to create insect repellant, to ward off the disease-carrying flies
 - **Sinda Berries** can be used to cure or protect against poisons (requires 10 fresh berries)
-- **Zobu Mushrooms** are poisonous mushrooms that explode in a puff of poisonous spores when thrown. **Sinda Berries** protect against them
-- **Light Nuts** are strange coconuts that emit a light when shaken or rattled
+- **Zabou Mushrooms** are poisonous mushrooms that explode in a puff of poisonous spores when thrown. **Sinda Berries** protect against them
+- **Wukka Nuts** are strange coconuts that emit a light when shaken or rattled
 - **Dancing Monkey Fruit** is the party drug of the Chultan jungles
 
 ---
