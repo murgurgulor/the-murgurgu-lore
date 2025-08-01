@@ -66,6 +66,7 @@ Mezro is a ruin deep in the undead-infested jungles of Chult that was destroyed 
 
 We've heard that Mezro currently is home to a **psychic crocodile**, which is very exciting. Also, Artus Cimber is currently heading there for unknown reasons.
 
+
 ---
 ### Flora and Fauna
 We've learned of the following indigenous plants and beasts:
