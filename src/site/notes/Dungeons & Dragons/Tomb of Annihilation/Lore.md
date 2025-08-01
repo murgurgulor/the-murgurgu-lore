@@ -66,17 +66,23 @@ Mezro is a ruin deep in the undead-infested jungles of Chult that was destroyed 
 
 We've heard that Mezro currently is home to a **psychic crocodile**, which is very exciting. Also, Artus Cimber is currently heading there for unknown reasons.
 
+##### Tower Firefinger
+A tall lighthouse-like structure close to the **River Tiryki**, in the undead-infested lands around **Mezro**. A tribe of **Pterafolk** live near it, and carry unsuspecting people off to their nests.
+
 
 ---
-### Flora and Fauna
-We've learned of the following indigenous plants and beasts:
-- Chult's jungles are full of **dinosaurs**, some of them undead!
-- There are many types of **Grung** in the jungle, with different colours designating different socetial standing. You can extract poison from them.
+### Flora
 - **Scented Ferns** are used to create insect repellant, to ward off the disease-carrying flies
 - **Sinda Berries** can be used to cure or protect against poisons (requires 10 fresh berries)
 - **Zabou Mushrooms** are poisonous mushrooms that explode in a puff of poisonous spores when thrown. **Sinda Berries** protect against them
 - **Wukka Nuts** are strange coconuts that emit a light when shaken or rattled
 - **Dancing Monkey Fruit** is the party drug of the Chultan jungles
+- **Menga Leaves** can be used to brew a tea that lets you regain HP, with a max of 5 drinks per 24 hours
+
+### Fauna
+We've learned of the following indigenous plants and beasts:
+- Chult's jungles are full of **dinosaurs**, some of them undead!
+- There are many types of **Grung** in the jungle, with different colours designating different socetial standing. You can extract poison from them.
 - **Zorbos** are feral and bloodthirsty koalas with magical skin that changes into whatever material it touched most recently
 
 ---
