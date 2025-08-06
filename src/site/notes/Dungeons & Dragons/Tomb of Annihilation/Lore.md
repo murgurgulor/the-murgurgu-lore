@@ -16,7 +16,7 @@
 - Confront Thaddeus Thassas???
 - Rent/buy/charter a boat down River Tiryki towards Tower Firefinger
 
-### Factions and NPCs
+# Factions and NPCs
 ##### Merchant Prince Ekena-Afa
 **Ekena-Afa** is one of the merchant princes of Port Nyanzaru, and our de facto patron in investigating the Death Curse, as she has been resurrected in the past. She is interested in mapping out the unexplored jungles of Chult, aided by the Gnomish cartographer **Dieter Tittlethumb**. This is kept secret from another Merchant Prince - **Azir** - who has a monopoly on maps and geographical information.
 
@@ -58,7 +58,7 @@ Other NPCs we've encountered are:
 - **Flask of Wine** and **River Mist**, two illegal Tabaxi guides who were escorting the **Zhentarim**.
 
 ---
-### Locations
+# Locations
 ##### Port Nyanzaru
 The main hub and major city in Chult. It's ruled by 7 Merchant Princes, but there are also some **Beggar Princes** who hold some power over the poorer parts of town. The old part of town is hooked up to a portal - the **Old Gate** that leads to a planar maze of plants, supposedly created by **Ubtao**, that is rumoured to lead to other places in Chult.
 
@@ -107,7 +107,7 @@ We've learned of the following indigenous plants and beasts:
 - **Blue Monkey Mist** is a thick blue mist that travels across the land. Spending any time inhaling the mist can cause you to go insane!
 
 ---
-### Religion
+# Religion
 ##### Ubtao
 **Ubtao** is the primordial god of Chult, and its protector. Disappeared around 100 years ago, and no one really seems to know how or why. This seems to coincide with the destruction of **Mezro**, but any relation is conjecture.
 
