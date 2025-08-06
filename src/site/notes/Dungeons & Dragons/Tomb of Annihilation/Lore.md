@@ -4,6 +4,17 @@
 
 *From the Illustrated Journal of Poag MacHoan, a Nyanzaru Times Bestseller.*
 
+# Current Goals and Objectives
+- Report back to Ekena-Afa with our findings, and see what other information/aid we can get from her
+- Gather information on:
+	- Mystical Mazes, or The Lore of Ubtao
+	- The Mezro Undead, types and ways to handle them
+	- Tower Firefinger: what is it all about?
+	- Pterafolk and how to deal with them
+	- Artus Cimber, who is he and why?
+- Stock up on supplies (food, insect repellant, Holy Water?)
+- Rent/buy/charter a boat down River Tiryki towards Tower Firefinger
+
 ### Factions and NPCs
 ##### Merchant Prince Ekena-Afa
 **Ekena-Afa** is one of the merchant princes of Port Nyanzaru, and our de facto patron in investigating the Death Curse, as she has been resurrected in the past. She is interested in mapping out the unexplored jungles of Chult, aided by the Gnomish cartographer **Dieter Tittlethumb**. This is kept secret from another Merchant Prince - **Azir** - who has a monopoly on maps and geographical information.
@@ -71,6 +82,8 @@ A tall lighthouse-like structure close to the **River Tiryki**, in the undead-in
 
 
 ---
+# Nature
+
 ### Flora
 - **Scented Ferns** are used to create insect repellant, to ward off the disease-carrying flies
 - **Sinda Berries** can be used to cure or protect against poisons (requires 10 fresh berries)
@@ -83,7 +96,14 @@ A tall lighthouse-like structure close to the **River Tiryki**, in the undead-in
 We've learned of the following indigenous plants and beasts:
 - Chult's jungles are full of **dinosaurs**, some of them undead!
 - There are many types of **Grung** in the jungle, with different colours designating different socetial standing. You can extract poison from them.
+- **Jaculi** are giant chameleon-camouflaged constrictor snakes that can jump
+- **Almiraj** are unicorn rabbits, a species not native to Chult
+- **Kamadan** are leopard-snake hybrids 
+- **Chwinga** are small spriggan-like sprites who like magical stuff and appear to be generally altruistic in nature
 - **Zorbos** are feral and bloodthirsty koalas with magical skin that changes into whatever material it touched most recently
+
+### Other phenomena
+- **Blue Monkey Mist** is a thick blue mist that travels across the land. Spending any time inhaling the mist can cause you to go insane!
 
 ---
 ### Religion
