@@ -13,6 +13,7 @@
 	- Pterafolk and how to deal with them
 	- Artus Cimber, who is he and why?
 - Stock up on supplies (food, insect repellant, Holy Water?)
+- Confront Thaddeus Thassas???
 - Rent/buy/charter a boat down River Tiryki towards Tower Firefinger
 
 ### Factions and NPCs
