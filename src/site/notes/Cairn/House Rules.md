@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/cairn/house-rules/","tags":["TTRPG/Cairn/SRD"]}
 ---
 
+The following house rules are in addition to the core mechanics of Cairn. 
+
 # Doing Things
 In vanilla Cairn there are no strict rules as to resolving common activities. The following guidelines aid this process.
 If something is simply impossible to do, or if there’s no reason why you should fail, no dice are rolled and the action succeeds or fails respectively. 
