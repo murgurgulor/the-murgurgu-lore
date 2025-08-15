@@ -6,7 +6,7 @@
 In vanilla Cairn there are no strict rules as to resolving common activities. The following guidelines aid this process.
 If something is simply impossible to do, or if there’s no reason why you should fail, no dice are rolled and the action succeeds or fails respectively. 
 For actions that are in doubt, evaluate whether you have **Time**, **Gear**, and **Skill**.
-- Time is an aspect of the in-game fiction. If there's nothing going on that prevents you from taking as much time as you need to perform an action, you have Time.
+- Time is an aspect of the in-game fiction. If there's nothing going on that prevents you from taking as long as you need to perform an action, you have Time.
 - Gear is an aspect of your inventory. If you have the right tools to perform your action, or if you're not Encumbered by your inventory's weight (whichever is most relevant), you have Gear.
 - Skill is an aspect of your character. If your background, in-game experiences, or Attribute scores make it reasonable that you would be able to perform the action, you have Skill.
 
