@@ -38,7 +38,8 @@ Combat is measured in Rounds. Each Round lasts for roughly 10 seconds. At the st
 The GM determines the actions for the opponents. If prompted by the players, the GM will telegraph the opponents' intent ("*The large viking grabs his axe and is eyeing up Player 1*").
 
 ### Initiative Turns
-There are two Initiative Turns in which the actions resolve: a **Quick Turn** and a **Slow Turn**. All the actions in the Quick Turn resolve before moving on to the Slow Turn. After the players have declared their actions, it's determined who will act on the Quick Turn and who will act on the Slow Turn.
+There are two Initiative Turns in which the actions resolve: a **Quick Turn** and a **Slow Turn**. All the actions in the Quick Turn resolve before moving on to the Slow Turn. After all the actions of the Slow Turn have resolved, the current round ends and a new round begins.
+After the players have declared their actions, it's determined who will act on the Quick Turn and who will act on the Slow Turn.
 - If you have only declared one Quick Action, you go on the Quick Turn.
 - If you have declared two Quick Actions or a Slow Action, you go on the Slow Turn.
 
