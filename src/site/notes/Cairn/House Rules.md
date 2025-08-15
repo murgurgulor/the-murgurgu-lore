@@ -16,8 +16,8 @@ If you have two out of the three you can probably still do it, but you have to r
 ---
 # Boons and Banes
 Vanilla Cairn doesn't allow for beneficial or detrimental circumstances to modify your chances of succeeding on a Save. This adds the option.
-- If you have to make a Save but you're in a position of advantage, you gain a Boon to your Save: roll an additional d20 and keep the lowest result.
-- If you have to make a Save and you're in a position of disadvantage, you gain a Bane to your Save: roll an additional d20 and keep the highest result.
+- If you have to make a Save but you're in a position of advantage, you gain a **Boon** to your Save: roll an additional d20 and keep the lowest result.
+- If you have to make a Save and you're in a position of disadvantage, you gain a **Bane** to your Save: roll an additional d20 and keep the highest result.
 
 You can have multiple Boons or Banes. Each Boon cancels out a Bane, and you apply the net result to your Save.
 
