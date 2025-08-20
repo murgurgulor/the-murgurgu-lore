@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cairn/house-rules/","tags":["TTRPG/Cairn/SRD"]}
 ---
 
-The following house rules are in addition to the core mechanics of Cairn. 
+The following house rules are in addition to the core mechanics of Cairn.
 
 # Doing Things
 In vanilla Cairn there are no strict rules as to resolving common activities. The following guidelines aid this process.
@@ -36,31 +36,31 @@ Distance is abstracted. The distance between one character and another is denote
 - If you move during your turn, you shift your range by up to one. If you take two movements in your turn, you can shift your range by up to two.
 
 ## The Order of a Round
-Combat is measured in Rounds. Each Round lasts for roughly 10 seconds. At the start of the round, all the players declare what actions their character is planning to take. Each character can declare either one or two Quick Actions, or one Slow Action. What actions you declare determine your place in the Initiative.
+Combat is measured in Rounds. Each Round lasts for roughly 10 seconds. At the start of the round, all the players declare what actions their character is planning to take. Each character can declare either one or two Fast Actions, or one Slow Action. What actions you declare determine your place in the Initiative.
 The GM determines the actions for the opponents. If prompted by the players, the GM will telegraph the opponents' intent ("*The large viking grabs his axe and is eyeing up Player 1*").
 
 ### Initiative Turns
-There are two Initiative Turns in which the actions resolve: a **Quick Turn** and a **Slow Turn**. All the actions in the Quick Turn resolve before moving on to the Slow Turn. After all the actions of the Slow Turn have resolved, the current round ends and a new round begins.
-After the players have declared their actions, it's determined who will act on the Quick Turn and who will act on the Slow Turn.
-- If you have only declared one Quick Action, you go on the Quick Turn.
-- If you have declared two Quick Actions or a Slow Action, you go on the Slow Turn.
+There are two Initiative Turns in which the actions resolve: a **Fast Turn** and a **Slow Turn**. All the actions in the Fast Turn resolve before moving on to the Slow Turn. After all the actions of the Slow Turn have resolved, the current round ends and a new round begins.
+After the players have declared their actions, it's determined who will act on the Fast Turn and who will act on the Slow Turn.
+- If you have only declared one Fast Action, you go on the Fast Turn.
+- If you have declared two Fast Actions or a Slow Action, you go on the Slow Turn.
 
-#### Quick Actions
+#### Fast Actions
 - Move
 - Make a melee attack against an *Engaged* enemy
 - Make a ranged attack
 - Perform a Gambit
 - Use an At Hand item
 - Switch At Hand and Body items around
-- Defend: Get a Boon on Dexterity Saves made when you Deflect until your next turn
-- Hold: Wait with declaring a Quick Action until the Quick Turn has resolved
+- Focus: Get a Boon on one Save you make after using a Feat this round
+- Hold: Wait with declaring a Fast Action until the Fast Turn has resolved
 
 #### Slow Actions
 - Cast a Spell
 - Switch an At Hand or Body item with a Bag item
 - Flee
 - Parley
-- Hold: Declare and perform a Quick Action
+- Hold: Declare and perform a Fast Action
 
 ### Order of Action Resolution
 - If a character and an opponent are *Engaged* and both attack each other on the same Turn, the attacks are resolved in order of weapon type: **Light** (d6) > **Balanced** (d8) > **Heavy** (d10) > **Reach** > **Ranged**.
@@ -112,4 +112,4 @@ You can choose to tactically retreat from an encounter as a Slow Action. To make
 
 ## Detachments
 Large groups of similar combatants fighting together are treated as a single Detachment. Attacks against Detachments by individuals are always *Impaired*, unless it's *Blast* damage. Attacks against individuals are always *Enhanced* and deal *Blast* damage.
-When a Detachment has 0 HP, it is weakened to the point where the above Attack Modifiers do not apply anymore. Any excess damage is dealt to the Detachment's Strength, after which it must make a WIL Save. On a failed Save, the Detachment is routed and flees. When a Detachment's Strength is reduced to 0, it's utterly defeated.
+When a Detachment has 0 HP, any excess damage is dealt to the Detachment's Strength or Will (attacker's choice to either **Decimate** or **Demoralize**) after which it must make a WIL Save. On a failed Save, the Detachment is routed and flees. When a Detachment's Strength is reduced to 0, it's utterly defeated.
