@@ -5,11 +5,12 @@
 The following house rules are in addition to the core mechanics of Cairn.
 
 # Doing Things
-In vanilla Cairn there are no strict rules as to resolving common activities. The following guidelines aid this process.
+In Cairn there are no strict rules as to resolving common activities. The following guidelines aid this process.
 If something is simply impossible to do, or if there’s no reason why you should fail, no dice are rolled and the action succeeds or fails respectively. 
+
 For actions that are in doubt, evaluate whether you have **Time**, **Gear**, and **Skill**.
 - **Time** is an aspect of the in-game fiction. If there's nothing going on that prevents you from taking as long as you need to perform an action, you have Time.
-- **Gear** is an aspect of your inventory. If you have the right tools to perform your action, or if you're not Encumbered by your inventory's weight (whichever is most relevant), you have Gear.
+- **Gear** is an aspect of your inventory. If you have the right tools and/or resources to perform your action, or if you're not Encumbered by your inventory's weight (whichever is most relevant), you have Gear.
 - **Skill** is an aspect of your character. If your background, in-game experiences, or Attribute scores make it reasonable that you would be able to perform the action, you have Skill.
 
 If you have one or none of these factors, your action fails. If you have all three of these factors, your action succeeds.
@@ -17,7 +18,7 @@ If you have two out of the three you can probably still do it, but you have to r
 
 ---
 # Boons and Banes
-Vanilla Cairn doesn't allow for beneficial or detrimental circumstances to modify your chances of succeeding on a Save. This adds the option.
+Cairn doesn't allow for beneficial or detrimental circumstances to modify your chances of succeeding on a Save. This adds the option.
 - If you have to make a Save but you're in a position of advantage, you gain a **Boon** to your Save: roll an additional d20 and keep the lowest result.
 - If you have to make a Save and you're in a position of disadvantage, you gain a **Bane** to your Save: roll an additional d20 and keep the highest result.
 
@@ -25,7 +26,7 @@ You can have multiple Boons or Banes. Each Boon cancels out a Bane, and you appl
 
 ---
 # Combat
-The following is an expansion of Cairn's combat system.
+The following is an expansion and replacement of Cairn's combat system.
 
 ## Movement and Range
 Distance is abstracted. The distance between one character and another is denoted by one of the following ranges:
@@ -36,14 +37,20 @@ Distance is abstracted. The distance between one character and another is denote
 - If you move during your turn, you shift your range by up to one. If you take two movements in your turn, you can shift your range by up to two.
 
 ## The Order of a Round
-Combat is measured in Rounds. Each Round lasts for roughly 10 seconds. At the start of the round, all the players declare what actions their character is planning to take. Each character can declare either one or two Fast Actions, or one Slow Action. What actions you declare determine your place in the Initiative.
+Combat is measured in Rounds. Each Round lasts for roughly 10 seconds. At the start of the round, all the players declare what actions their character is planning to take. Each character can declare either:
+- A single Fast Action, or
+- Two Fast Actions, or
+- A single Slow Action
+What actions you declare determine your place in the Initiative.
 The GM determines the actions for the opponents. If prompted by the players, the GM will telegraph the opponents' intent ("*The large viking grabs his axe and is eyeing up Player 1*").
 
 ### Initiative Turns
 There are two Initiative Turns in which the actions resolve: a **Fast Turn** and a **Slow Turn**. All the actions in the Fast Turn resolve before moving on to the Slow Turn. After all the actions of the Slow Turn have resolved, the current round ends and a new round begins.
+
 After the players have declared their actions, it's determined who will act on the Fast Turn and who will act on the Slow Turn.
-- If you have only declared one Fast Action, you go on the Fast Turn.
-- If you have declared two Fast Actions or a Slow Action, you go on the Slow Turn.
+- If you have only declared one Fast Action, it gets resolved on the Fast Turn.
+- If you have declared two Fast Actions, they both get resolved on the Slow Turn.
+- If you have declared one Slow Action, it gets resolved on the Slow Turn.
 
 #### Fast Actions
 - Move
@@ -60,19 +67,21 @@ After the players have declared their actions, it's determined who will act on t
 - Switch an At Hand or Body item with a Bag item
 - Flee
 - Parley
-- Hold: Declare and perform a Fast Action
 
 ### Order of Action Resolution
-- If a character and an opponent are *Engaged* and both attack each other on the same Turn, the attacks are resolved in order of weapon type: **Light** (d6) > **Balanced** (d8) > **Heavy** (d10) > **Reach** > **Ranged**.
-- If either a character or their opponent has moved to *Engage*, and both attack each other on the same Turn, the attacks are resolved in the reverse order: **Ranged** > **Reach** > **Heavy** (d10) > **Balanced** (d8) > **Light** (d6)
+Actions that occur on the same Initiative Turn resolve basically simultaneously. In circumstances where one action would influence another (for example, the Ogre you attacked might die before having a chance to get its own attack in), keep the following guidelines:
+- If a character and an opponent start the turn *Engaged* and both attack, the attacks are resolved in order of weapon type: **Light** (d6) > **Balanced** (d8) > **Heavy** (d10) > **Reach** > **Ranged**.
+- If a character and their opponent start the turn at any other distance and they both attack, the attacks are resolved in the reverse order: **Ranged** > **Reach** > **Heavy** (d10) > **Balanced** (d8) > **Light** (d6)
 - If you are Dual Wielding two melee weapon of different types, you either only roll an attack with the fastest weapon on its count, or you roll for both weapons on the slowest weapon's count.
 - If multiple characters attack the same opponent in the same Turn, all attacks get resolved on the count of the slowest participant.
-- If you and an opponent take actions that would resolve at the same time, you go first if you pass a Dexterity Save
+- If you and an opponent take actions that would resolve at the same time, you go first if you pass a Dexterity Save.
 
 ## Attacks and Damage
 There are no 'to-hit' rolls: all attacks hit automatically. Roll your weapon's attack die to see how much damage you deal. You subtract the opponent's Armor before applying the damage to their HP. Any excess is applied to their Strength Attribute.
 
-If multiple characters attack the same opponent in the same Turn, roll all attack dice and keep the single highest one. The other participants get to choose whether they add +1 to the attack's damage, or whether they use their roll to perform a Gambit instead.
+If multiple characters attack the same opponent in the same Turn, roll all attack dice and keep the single highest one. The other participants get to choose whether they:
+- Add +1 to the attack's damage, or 
+- Use their roll to perform a **Gambit** instead.
 
 **Dual Wielding**: If you attack with two weapons at the same time, roll both Attack dice and keep the highest result.
 
