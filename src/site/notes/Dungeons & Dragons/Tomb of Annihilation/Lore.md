@@ -12,7 +12,7 @@
 - Make our way to Mezro, avoiding the Flaming Fists if possible, and find Artus Cimber.
 
 Sidequests:
-- Head to the Aaracokra settlement of Kir Salan as emissaries of the Temple of Gond, to establish a line of communication in order for the Gondians to get access to the Plane of Air, to make Air Planes.
+- Head to the Aaracokra settlement of Kir Sabal as emissaries of the Temple of Gond, to establish a line of communication in order for the Gondians to get access to the Plane of Air, to make Air Planes.
 - Head to the Albino Dwarves to re-open the Hrakhamar Mines and increase the production of Chultan Bronze.
 - I guess we should at one point help Hew avenge his family at the Wyrmheart Mines.
 
@@ -165,7 +165,7 @@ We've learned of the following indigenous plants and beasts:
 
 From the Temple of Crocodile and Man, it can be inferred that **Ubtao** and **Thard'har** were buddies who liked to ride on each other's back. This is in contrast to the official legend which claims animosity between the two.
 
-However, Ubtao isn't all labyrinths and piggybacks: the **Legend of the Aldani** tells the tale of fishermen in the Aldani Basin who fished fish from river Shoshenstar and who ended up selling the fish for profit. Ubtao frowned on this and turned the entire village into crab people.
+However, Ubtao isn't all labyrinths and piggybacks: the **Legend of the Aldani** tells the tale of fishermen in the Aldani Basin who fished fish from river Shoshenstar and sold the fish for profit. Ubtao frowned on this and turned the entire village into crab people.
 
 ### Thard'har
 Chultan God of the Albino Dwarves, often depicted as a crocodile.
