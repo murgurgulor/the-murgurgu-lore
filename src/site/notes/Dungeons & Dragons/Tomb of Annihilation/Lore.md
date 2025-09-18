@@ -13,7 +13,7 @@
 
 Sidequests:
 - Head to the Aaracokra settlement of Kir Salan as emissaries of the Temple of Gond, to establish a line of communication in order for the Gondians to get access to the Plane of Air, to make Air Planes.
-- Head to Rakhama Albino Dwarves to re-open the mines and increase the production of Chultan Bronze.
+- Head to the Albino Dwarves to re-open the Hrakhamar mines and increase the production of Chultan Bronze.
 - I guess we should at one point help Hew avenge his family at the Wyrmheart Mines.
 
 # Factions and NPCs
