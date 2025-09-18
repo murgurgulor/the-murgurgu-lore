@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/scenes-and-imagery/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Scenes and Imagery.md","permalink":"/the-northern-wilds/reference-material/scenes-and-imagery/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 # Scenes

@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/crawling-procedure/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Crawling Procedure.md","permalink":"/the-northern-wilds/reference-material/crawling-procedure/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 The following is a quick procedure to structure crawling through dungeons.
 
 >[!sc] Crawling Procedure
->Time is measured in **Dungeon Turns**. One Dungeon Turn is 10 minutes. 
->Every Dungeon Turn:
->1. The DM checks for any **Wandering Encounter**.
->2. The players state what actions they want to take (travel through **Passageways**, explore a **Room of Interest**, set up an ambush, etc.), rolling any dice if required.
->3. The DM describes what happens, and if a Wandering Encounter occurs it will be resolved.
->4. The Dungeon Turn ends, with the time elapsed being checked against spell or effect durations, light sources, et cetera.
+Time in a Dungeon is measured in **Dungeon Cycles**. A Dungeon Cycle is an undefined amount of time, but usually lasts between 5-10 minutes.
+>Every Dungeon Cycle:
+>1. The DM checks for any **Wandering Encounter** occuring in this Cycle.
+>2. The players declare what actions they want to take (travel through **Passageways**, explore a **Room of Interest**, set up an ambush, etc.).
+>3. The DM resolves everyone's actions simultaneously, with the players rolling dice if required. If a Wandering Encounter occurs it will be resolved at an appropriate time.
+>4. The Dungeon Cycle ends, with the time elapsed being checked against spell or effect durations, light sources, et cetera.
 
 ---
 # Time spent Crawling
-Time in a Dungeon is measured in **Dungeon Turns**. A Dungeon Turn is 10 minutes, so there are 6 Dungeon Turns in an hour.
+Time in a Dungeon is measured in **Dungeon Cycles**. A Dungeon Cycle is an undefined amount of time, but usually lasts between 5-10 minutes.
 - Exploring and searching a Room of Interest takes 1 Dungeon Turn. Each player character can undertake one task during this Dungeon Turn.
 - The time required traveling through Passageways is measured in Dungeon Turns.
 - Wandering Encounters can occur once per Dungeon Turn. The chance of a Wandering Encounter occurring relies on the specific nature of the Dungeon, as well as whether or not the Inhabitants are alerted to any danger.
@@ -50,14 +50,12 @@ The players are responsible for mapping their progress through a Dungeon, unless
 
 ---
 ### Exploring Rooms of Interest
-When the party enters a Room of Interest, the DM describes what they immediately see. The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious.
+When the party enters a Room of Interest, the DM describes what they immediately see (**Landmark** information). The DM might also call for a reactive roll - such as Perception or a Knowledge check - to see whether the characters immediately notice things less obvious. No time elapses gaining Landmark information: it's what you immediately perceive.
 
-If the party decides to search and explore a Room of Interest, they DM may call for an appropriate check such as Investigation, Perception, or Survival to see what they uncover. Exploring a room takes 1 Dungeon Turn.
+If the party decides to search and explore a Room of Interest, they state what areas they want to investigate. Any clues that were not immediately noticeable, but obvious to any experienced adventurer conducting a thorough search, will be revealed (**Hidden** information). Searching for Hidden information can cost you time (usually one Cycle), it might put you at risk, or both.
 
-##### Taking 10 or 20
-If the party is not disturbed by a Wandering Encounter while they explore the room, they can choose to '**Take 10**' on their check. This means that instead of rolling a d20, the result of the check is calculated as if the d20 roll was a 10. This usually means any interesting features are discovered, but any obscure features might be unnoticed. Taking 10 doesn't increase the time it takes to explore a room.
+Sometimes features are obscured so well that even a trained adventurer might not uncover it or miss it. Besides spending time and effort looking for it, there's also a risk of simply not uncovering it at all. An appropriate check will be called for, with this **Secret** information being revealed on a success, and remaining obscured on a fail.
 
-If the party is dedicated and they are willing to invest the time, they can also elect to '**Take 20**' on the check. This means that instead of rolling a d20, the result of the check is calculataed as if the d20 roll was a 20. This usually means you find all features in a room, but this also takes 20 times as long as normal (ie. 20 Dungeon Turns, or 200 minutes).
 
 ### Traveling through Passageways
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.

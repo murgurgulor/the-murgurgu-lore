@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/journal/session-10/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Journal/Session 10.md","permalink":"/the-northern-wilds/journal/session-10/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 The group decides to inspect the Teleportation Pad on this side, and Nun discerns that this one seems to be in better condition than the one they entered from. He also discerns a number of glyphs on the teleporter which probably coincide with other teleportation locations. Betsy attempts to comprehend the language, but finds out that the glyphs are names of locations unknown. One glyph, however, says 'City Center'. Luckily the group recognizes a glyph from the teleporter in the Felwarren - which is named **Meadhiar**. They also note down the name of their current location: **Gairbhauld, or Garvault**. Defying expectations, there is neither Garfield nor a Vault to be found here. They decide to take a Long Rest. Betsy tells a story about her encounter in a haunted mine with a comforting yet strange, chaotic entity that spoke in her mind and never left. Rowan considers the possibility of a brain parasite.

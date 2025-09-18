@@ -37,20 +37,14 @@ Distance is abstracted. The distance between one character and another is denote
 - If you move during your turn, you shift your range by up to one. If you take two movements in your turn, you can shift your range by up to two.
 
 ## The Order of a Round
-Combat is measured in Rounds. Each Round lasts for roughly 10 seconds. At the start of the round, all the players declare what actions their character is planning to take. Each character can declare either:
-- A single Fast Action, or
-- Two Fast Actions, or
-- A single Slow Action
-What actions you declare determine your place in the Initiative.
+Combat is measured in Rounds. Each Round lasts for roughly 10 seconds. At the start of the round, all the players declare whether they want to act on the Slow Turn or on the Fast Turn. 
 The GM determines the actions for the opponents. If prompted by the players, the GM will telegraph the opponents' intent ("*The large viking grabs his axe and is eyeing up Player 1*").
 
 ### Initiative Turns
 There are two Initiative Turns in which the actions resolve: a **Fast Turn** and a **Slow Turn**. All the actions in the Fast Turn resolve before moving on to the Slow Turn. After all the actions of the Slow Turn have resolved, the current round ends and a new round begins.
 
-After the players have declared their actions, it's determined who will act on the Fast Turn and who will act on the Slow Turn.
-- If you have only declared one Fast Action, it gets resolved on the Fast Turn.
-- If you have declared two Fast Actions, they both get resolved on the Slow Turn.
-- If you have declared one Slow Action, it gets resolved on the Slow Turn.
+If you have chosen to act on the Fast Turn, you can perform one Fast Action.
+If you have chosen to act on the Slow Turn, you can perform two Fast Actions, or one Slow Action.
 
 #### Fast Actions
 - Move
@@ -69,6 +63,8 @@ After the players have declared their actions, it's determined who will act on t
 - Parley
 
 ### Order of Action Resolution
+At the start of each of the Turns, the players who act on the turn make a DEX Save. Players who succeed on the DEX Save act before the opponents that act on the turn, and players who fail the DEX Save act after the opponents. If multiple players go at the same time, they can take their turns sequentially in an order they choose, or simultaneously.
+
 Actions that occur on the same Initiative Turn resolve basically simultaneously. In circumstances where one action would influence another (for example, the Ogre you attacked might die before having a chance to get its own attack in), keep the following guidelines:
 - If a character and an opponent start the turn *Engaged* and both attack, the attacks are resolved in order of weapon type: **Light** (d6) > **Balanced** (d8) > **Heavy** (d10) > **Reach** > **Ranged**.
 - If a character and their opponent start the turn at any other distance and they both attack, the attacks are resolved in the reverse order: **Ranged** > **Reach** > **Heavy** (d10) > **Balanced** (d8) > **Light** (d6)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Undertaking a Perilous Journey.md","permalink":"/the-northern-wilds/reference-material/undertaking-a-perilous-journey/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/procedures/undertaking-a-perilous-journey-1/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 

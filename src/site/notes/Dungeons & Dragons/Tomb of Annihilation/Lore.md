@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/tomb-of-annihilation/lore/","tags":["TTRPG/Campaigns/Tomb-of-Annihilation"]}
+{"dg-publish":true,"dg-path":"Tomb of Annihilation/Lore.md","permalink":"/tomb-of-annihilation/lore/","tags":["TTRPG/Campaigns/Tomb-of-Annihilation"]}
 ---
 
 *From the Illustrated Journal of Poag MacHoan, a Nyanzaru Times Bestseller.*
@@ -165,7 +165,7 @@ We've learned of the following indigenous plants and beasts:
 
 From the Temple of Crocodile and Man, it can be inferred that **Ubtao** and **Thard'har** were buddies who liked to ride on each other's back. This is in contrast to the official legend which claims animosity between the two.
 
-However, Ubtao isn't all labyrinths and piggybacks: the **Legend of the Aldani** tells the tale of fishermen in the Aldani Basin who fished fish from river Shoshenstar and sold the fish for profit. Ubtao frowned on this and turned the entire village into crab people.
+However, Ubtao isn't all labyrinths and piggybacks: the **Legend of the Aldani** tells the tale of fishermen in the Aldani Basin who fished fish from river Shoshenstar and sold the fish for profit. Ubtao frowned upon this and turned the entire village into crab people.
 
 ### Thard'har
 Chultan God of the Albino Dwarves, often depicted as a crocodile.
