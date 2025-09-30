@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Crawling Procedure.md","permalink":"/the-northern-wilds/reference-material/crawling-procedure/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/crawling-procedure/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 The following is a quick procedure to structure crawling through dungeons.
