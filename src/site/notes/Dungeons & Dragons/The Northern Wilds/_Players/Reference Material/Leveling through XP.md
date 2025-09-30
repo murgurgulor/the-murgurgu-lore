@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/reference-material/leveling-through-xp/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Reference Material/Leveling through XP.md","permalink":"/the-northern-wilds/reference-material/leveling-through-xp/","tags":["TTRPG/Campaigns/Northern-Wilds","SRD"]}
 ---
 
 Gaining levels through 'Milestones' means that the DM arbitrarily decides when you level up, on which the players don't have any influence. To counter this, levels can also be gained by accumulating experience points (**XP**). D&D's manuals only give strict guidelines on how much XP an monster encounter is worth, and kind of handwaves the non-combat ways of gaining experience. Luckily there's a little OSR supplement called **Feats of Exploration** that gives more of a framework on gaining XP.

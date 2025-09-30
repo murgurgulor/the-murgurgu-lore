@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dungeons-and-dragons/the-northern-wilds/players/journal/session-12/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
+{"dg-publish":true,"dg-path":"The Northern Wilds/Journal/Session 12.md","permalink":"/the-northern-wilds/journal/session-12/","tags":["TTRPG/Campaigns/Northern-Wilds","Journal"]}
 ---
 
 When the party arrives in the town of Aultdin, they are drawn to a commotion in the streets. An angry red-faced man is being restrained by two members of the Church of the Dragon (**Dracolytes**) as he is yelling furiously at a teen boy, accusing him of throwing away his future and being drawn in by bullshit. As the party rocks up to intervene, Vello intervenes first and asks what's going on. They learn that the man - **Eggart Brass** - started going off at the boy for getting a tattoo of the Church of the Dragon. Mariun recognizes the tattoo design on the boy as the same tattoos her sister's killers. 
