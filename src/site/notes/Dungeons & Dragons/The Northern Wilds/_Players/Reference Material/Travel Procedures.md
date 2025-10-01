@@ -4,45 +4,45 @@
 
 # Terms and Definitions
 ### Waypoints
-Whenever you go travelling in a specific region, it's useful to have (or make) a map. Distinct locations on the map are called **Waypoints**. Some are immediately known like big cities or famous landmarks, others require more effort to find. As your travel and explore, you discover more Waypoints and add them to your map.
+Whenever you go travelling in a specific region, it's useful to have (or make) a map. Distinct locations on the map are called **Waypoints**. Some are immediately known like big cities or famous landmarks, others require more effort to find. As you travel and explore, you discover more Waypoints and add them to your map.
 
-- Waypoints that are known to everyone in the area and present on any basic map are called **Landmark Waypoints**. These are always known and don't require any prior knowledge.
-- Waypoints that are not on every map but that can be found with a little research, or simply by passing by them on the route you are travelling, are called **Hidden Waypoints**.
-- Waypoints that are not known to everyone and require dedicated exploration or information to discover are called **Secret Waypoints**.
+-  Waypoints that are known to everyone in the area and present on any basic map are called **Landmark Waypoints**. These are always known and don't require any prior knowledge.
+-  Waypoints that are not on every map but that can be discovered with a little research, or simply by passing by them on the route you are travelling, are called **Hidden Waypoints**.
+-  Waypoints that are not known to everyone and require dedicated exploration or information to discover are called **Secret Waypoints**.
 
 Waypoints can be further categorized as:
-- **Steadings**: Villages, towns, cities, or other inhabited areas.
-- **Sites**: Areas, structures, or environments that can be explored.
-- **Scenery**: Environmental features that serve as a hub for different routes.
+-  **Steadings**: Villages, towns, cities, or other inhabited areas.
+-  **Sites**: Areas, structures, or environments that can be explored.
+-  **Scenery**: Environmental features that serve as a hub for different routes.
 
 ### Travelling
-There are two types of travel: a **Journey** and **Trailblazing**.
--  A **Journey** is a travel sequence between two known **Waypoints**. In order to make a Journey, you need to have the Waypoint of your destination on the map. A Journey isn't always a safe endeavour, it just means that you know where you're headed.
+There are two types of travel: a **Trekking** and **Trailblazing**.
+-  **Trekking** is a travel sequence between two known **Waypoints**. In order to make a Journey, you need to have the Waypoint of your destination on the map. A Journey isn't always a safe endeavour, it just means that you know where you're headed.
 -  **Trailblazing** is a travel sequence to an unknown destination. You can always go Trailblazing, but it's probably useful to have a vague idea of where you're headed ("There is a hidden temple around 30 miles east of Harrington.")
 
 
 ---
-# The Journey Procedure
-The Journey Procedure consists of one or more Journey Cycles. Each Journey Cycle consists of the following steps:
+# The Trekking Procedure
+The Trekking Procedure consists of one or more Trek Cycles. Each Trek Cycle consists of the following steps:
 1. Chart the Course
 2. Make preparations
 3. Determine the Pace
 4. Divide Travel Roles
-5. Make a Journey Check
-6. Make the Journey
+5. Make a Trek Check
+6. Make the Trek
 7. Arrive at the Destination
 
 
 ---
 ### 1. Chart the Course
-To start making a Journey, you need to know where you're going. Choose a Waypoint on your map as your destination. If there are multiple routes to your destination (through the forest, along the coast, over the mountains) the DM will tell you the length of each route, and how difficult each route is to traverse.
+To start making a Trek, you need to know where you're going. Choose a Waypoint on your map as your destination. If there are multiple routes to your destination (through the forest, along the coast, over the mountains) the DM will tell you the length of each route, and how difficult each route is to traverse.
 
-##### Journey Length
-The length of a Journey is divided in three abstracted categories: **Short**, **Medium**, or **Long**. What distance/travel time exactly constitutes a Short or Long Journey depends on the scale of the region and the scope of the game. If time is of the essence, the DM should provide a general guideline.
-The Journey Length determines how many people, obstacles, or events you will encounter along the way, as well as how many rests you can have during your travel.
+##### Trek Length
+The length of a Trek is divided in three abstracted categories: **Short**, **Medium**, or **Long**. What distance/travel time exactly constitutes a Short or Long Trek depends on the scale of the region and the scope of the game. If time is of the essence, the DM should provide a general guideline.
+The Trek Length determines how many people, obstacles, or events you will encounter along the way, as well as how many rests you can have during your travel.
 
-##### Journey Difficulty
-The difficulty of navigating, foraging, and moving along a certain route is given as the **Journey DC**. This is the DC that everyone's Journey Check is compared to. 
+##### Trek Difficulty
+The difficulty of navigating, foraging, and moving along a certain route is given as the **Trek DC**. This is the DC that everyone's Trek Check is compared to. 
 
 ##### Known Routes
 If you have traveled along a certain route before, or if the route is a well-established road along civilized areas, and the travel itself is not an interesting affair, you can skip from here ahead to **Step 7: Arriving at your Destination**.
@@ -50,45 +50,45 @@ If you have traveled along a certain route before, or if the route is a well-est
 
 ---
 ### 2. Make Preparations
-When you go on a Journey, you'll need to at least stock up on rations, water skins, camping supplies, etc. Everything you might need for general travel. If you're unable to make these preparations - either because you're in a hurry or because there's no settlement around to get them - the **Quartermaster** will have to make their **Travel Check** with a **-2 penalty**. Likewise if you don't have tools for navigation, the **Wayfinder** makes their **Travel Check** with a **-2 penalty**. If you are lacking even any basic preparations at all, the penalty increases to **-5**.
+When you go on a Trek, you'll need to at least stock up on rations, water skins, camping supplies, etc. Everything you might need for general travel. If you're unable to make these preparations - either because you're in a hurry or because there's no settlement around to get them - the **Quartermaster** will have to make their **Travel Check** with a **-2 penalty**. Likewise if you don't have tools for navigation, the **Wayfinder** makes their **Travel Check** with a **-2 penalty**. If you are lacking even any basic preparations at all, the penalty increases to **-5**.
 
-You can also prepare extra resources for travel, should you want or need them. You might want to bring a cart to carry more supplies, or you might want to seek out an explorer or scholar to see if they can provide you with more in-depth knowledge on the dangers that you might encounter. You could also procure pack beasts or hirelings to aid in your travel, study the weather, et cetera. Some of these preparations might simply provide a narrative permission but not mechanically affect your journey. Others might give you a bonus on specific rolls related to the trip, or add Waypoints to your map that were previously unknown to you. Bonuses will range from **+2** for basic helpful items to **+5** for major helpful items.
+You can also prepare extra resources for travel, should you want or need them. You might want to bring a cart to carry more supplies, or you might want to seek out an explorer or scholar to see if they can provide you with more in-depth knowledge on the dangers that you might encounter. You could also procure pack beasts or hirelings to aid in your travel, study the weather, et cetera. Some of these preparations might simply provide a narrative permission but not mechanically affect your Trek. Others might give you a bonus on specific rolls related to the trip, or add Waypoints to your map that were previously unknown to you. Bonuses will range from **+2** for basic helpful items to **+5** for major helpful items.
 
 An appropriate ability check might be warranted for certain preparations.
 
 
 ---
 ### 3. Determine Pace
-Most Journeys are made at a normal pace. A pace where you don't dawdle but leave enough time to properly navigate, scout, and make camp. Depending on the situation, you can elect to travel at a **Fast Pace** or **Slow Pace** instead.
+Most Treks are made at a normal pace. A pace where you don't dawdle but leave enough time to properly navigate, scout, and make camp. Depending on the situation, you can elect to travel at a **Fast Pace** or **Slow Pace** instead.
 
--  If you're pressed for time, you can travel at a Fast Pace. The DM will tell you honestly if traveling at a Fast Pace will allow you to reach your destination in time for whatever you want to be on time for. If you travel at a Fast Pace, you reduce the amount of Journey Encounters by 1, but all Journey Checks are made a Disadvantage.
--  If you're definitely not pressed for time, you can travel at a Slow Pace. If you travel at a Slow Pace, you make all Journey Checks with Advantage but you come across an extra Journey Encounter.
+-  If you're pressed for time, you can travel at a Fast Pace. The DM will tell you honestly if traveling at a Fast Pace will allow you to reach your destination in time for whatever you want to be on time for. If you travel at a Fast Pace, you reduce the amount of Trek Encounters by 1, but all Trek Checks are made a Disadvantage.
+-  If you're definitely not pressed for time, you can travel at a Slow Pace. If you travel at a Slow Pace, you make all Trek Checks with Advantage but you come across an extra Trek Encounter.
 
 
 ---
 ### 4. Divide Travel Roles
-When you have prepared for your Journey and charted the course, the party needs to divide four different roles amongst each other.
+When you have prepared for your Trek and charted the course, the party needs to divide four different roles amongst each other.
 
 1. **Wayfinder**: The Wayfinder is the party member who is in charge of plotting the course, navigating, and prevent everyone from getting lost.
 2. **Scout**: The Scout is the party member who is in charge of going ahead to find safe passages, and who watches out for any dangers that may lie ahead.
 3. **Quartermaster**: The Quartermaster is the party member who is in charge of foraging, cooking, setting up camp, packing the bags, and generally making sure everyone is as comfortable as can be.
 4. **Sentry**: The Sentry is the party member who takes up the rear. They can do several things, including keeping an eye out for danger, covering the party's tracks, boosting morale, helping others out with their tasks, et cetera.
 
-If there are more than four party members, a role can be taken up multiple times. In this case the **Journey Check** will be made with Advantage.  
+If there are more than four party members, a role can be taken up multiple times. In this case the **Trek Check** will be made with Advantage.  
 If there are less than four party members, one of the roles will either not be taken up - causing an automatic Failure, or someone takes up two roles but rolls both of them with Disadvantage.
 
 Whenever you arrive at the next Waypoint, you can redivide the roles amongst your party members if you wish.
 
 
 ---
-### 5. Make the Journey Check
-Once the roles have been divided, each party member chooses one skill check relating to their role to make a **Journey Check**. This check determines how well you perform your role during the Journey. The DC of this check is the previously established **Journey DC**. If your Journey Check meets or beats this DC, you successfully did your part for this leg of the journey. If you fail the check, however, you fail in your role. This means an unwanted complication might come your way, or the trip has taken its toll on you.  
+### 5. Make the Trek Check
+Once the roles have been divided, each party member chooses one skill check relating to their role to make a **Trek Check**. This check determines how well you perform your role during the Trek. The DC of this check is the previously established **Trek DC**. If your Trek Check meets or beats this DC, you successfully did your part for this leg of the Trek. If you fail the check, however, you fail in your role. This means an unwanted complication might come your way, or the trip has taken its toll on you.  
 
-If your Journey Check beats the DC by 5 or more, you have a **Resounding Success**. This means that you exceed in your role and get an additional benefit.
+If your Trek Check beats the DC by 5 or more, you have a **Resounding Success**. This means that you exceed in your role and get an additional benefit.
 
 
-##### Journey Checks by Travel Role
-Refer to the following table for which Journey Check each role can choose to make.
+##### Trek Checks by Travel Role
+Refer to the following table for which Trek Check each role can choose to make.
 
 |Role|Ability|Skill/Tool Proficiency|
 |---|---|---|
@@ -117,69 +117,69 @@ Refer to the following table for which Journey Check each role can choose to mak
 |||Survival|
 
 ##### Using Spells or Class Abilities for Travel Checks
-Some spells or class abilities might be useful to aid in your Journey Check, but keep in mind that a Journey Check represents your efforts over one or more days. A spell like **Enhance Ability** might give you Advantage on an ability check, but the duration has a maximum of one hour. Casting Enhance Ability therefore won't really affect the way you perform your role that much. **Goodberry**, on the other hand, might provide some benefit as it assures enough sustenance for a day of the travel.
+Some spells or class abilities might be useful to aid in your Trek Check, but keep in mind that a Trek Check represents your efforts over one or more days. A spell like **Enhance Ability** might give you Advantage on an ability check, but the duration has a maximum of one hour. Casting Enhance Ability therefore won't really affect the way you perform your role that much. **Goodberry**, on the other hand, might provide some benefit as it assures enough sustenance for a day of the travel.
 
 Whether or not a particular spell or class ability can aid you in your check is up to the DM. If a spell is used, you get a bonus equal to the spell's level for your Travel Check. You can choose to use a spell/ability after you find out whether you make your Travel Check or not.
 
-There might be spells or abilities that logically would mean an automatic success on a Journey Check. These will be judged on a case-by-case basis.
+There might be spells or abilities that logically would mean an automatic success on a Trek Check. These will be judged on a case-by-case basis.
 
 
-##### Journey Check Outcomes
+##### Trek Check Outcomes
 After the dice are rolled, check your outcome below. If you get to choose an outcome, you make your choice **before** the travel starts.
 
 ###### Wayfinder
 -  **Success**: You keep the party on track and arrive at the next Waypoint without getting lost or losing time.
 -  **Resounding Success (DC+5)**: As Success, and also choose one of the following:
-	-  You find an obscure path, reducing the number of **Journey Encounters** by 1.
-	-  You find an easy path, removing one level of **Exhaustion** from everyone at the end of the Journey.
--  **Failure**: You take a perilous path, increasing the number Journey Encounters by 1. 
-	-  If you fail by **5 or more**, you get fully lost. Everyone takes one level of **Exhaustion** at the end of the Journey.
+	-  You find an obscure path, reducing the number of **Trek Encounters** by 1.
+	-  You find an easy path, removing one level of **Exhaustion** from everyone at the end of the Trek.
+-  **Failure**: You take a perilous path, increasing the number Trek Encounters by 1. 
+	-  If you fail by **5 or more**, you get fully lost. Everyone takes one level of **Exhaustion** at the end of the Trek.
 
 ###### Scout
--  **Success**: You spot signs of any **Journey Encounters** along the way, and you can react to them appropriately. 
+-  **Success**: You spot signs of any **Trek Encounters** along the way, and you can react to them appropriately. 
 -  **Resounding Success (DC+5)**: As Success, and also choose one of the following:
 	-  You also make a **Discovery** along the way.
-	-  You automatically succeed in surprising or avoiding **one** of the Journey Encounters.
--  **Failure**: You miss any tracks or signs of a Journey Encounter, but they have noticed you and can **Surprise** you.
-	-  If you fail by **5 or more**, you also get lost and the party encounters an additional Journey Encounter while trying to find you.
+	-  You automatically succeed in surprising or avoiding **one** of the Trek Encounters.
+-  **Failure**: You miss any tracks or signs of a Trek Encounter, but they have noticed you and can **Surprise** you.
+	-  If you fail by **5 or more**, you also get lost and the party encounters an additional Trek Encounter while trying to find you.
 
 ###### Quartermaster
 -  **Success**: You find enough resources and proper campsites to keep everyone going as comfortable as the situation allows.
 -  **Resounding Success (DC+5)**: As Success, and also choose one of the following:
-	-  You find enough resources to prepare a feast. Tell everyone what you're cooking, and any player who licks their lips and says "*Yum!*" removes one level of **Exhaustion** at the end of the Journey.
+	-  You find enough resources to prepare a feast. Tell everyone what you're cooking, and any player who licks their lips and says "*Yum!*" removes one level of **Exhaustion** at the end of the Trek.
 	-  You find a good place to set up camp overnight. You can take an additional **Short Rest** during this trip.
 -  **Failure**: Choose one of the following, but if you fail by **5 or more**, both things happen:
-	-  You fail to find enough food and fresh water. At the end of the Journey, everyone has to make a **DC10 Constitution Save**. On a fail they gain 1 level of **Exhaustion**.
+	-  You fail to find enough food and fresh water. At the end of the Trek, everyone has to make a **DC10 Constitution Save**. On a fail they gain 1 level of **Exhaustion**.
 	-  You fail to find proper camp sites. You can take one less **Short Rest** during this trip.
 
 ###### Sentry
 -  **Success**: Choose one of the following:
-	-  You avoid being **Surprised** by any Journey Encounter the Scout might have missed.
+	-  You avoid being **Surprised** by any Trek Encounter the Scout might have missed.
 	-  You make a **Discovery**.
 	-  You cover your trail, making sure no one can track you.
-	-  You help someone: choose an ally and increase their Journey Check result by **5**.
-	-  You keep everyone’s spirits up. Choose one ally and give them **Inspiration** at the end of the Journey.
+	-  You help someone: choose an ally and increase their Trek Check result by **5**.
+	-  You keep everyone’s spirits up. Choose one ally and give them **Inspiration** at the end of the Trek.
 -  **Resounding Success (DC+5)**: Choose twice from the list for Success, avoiding any duplicates. You can choose to help or inspire an ally twice, but they would need to be different allies.
--  **Failure**: You fail to keep morale up. At the end of the Journey, one party member has to give up an **Inspiration** to lighten the mood. If no one has Inspiration to give up, everyone takes **Disadvantage** on their next d20 roll. 
-	-  If you fail by **5 or more**, you get in the way. Choose one ally and reduce their Journey Check result by 5.
+-  **Failure**: You fail to keep morale up. At the end of the Trek, one party member has to give up an **Inspiration** to lighten the mood. If no one has Inspiration to give up, everyone takes **Disadvantage** on their next d20 roll. 
+	-  If you fail by **5 or more**, you get in the way. Choose one ally and reduce their Trek Check result by 5.
 
 
 ---
-### 6. Undertake the Journey
-After the Journey Checks have been rolled and the outcomes have been determined, the Journey begins. The DM narrates the party making their way to their destination, incorporating the outcomes of the Journey Checks. Additionally, the DM will incorporate any **Journey Encounters** and **Discoveries**, and the party determines if and when they want to **Rest**.
+### 6. Undertake the Trek
+After the Trek Checks have been rolled and the outcomes have been determined, the Trek begins. The DM narrates the party making their way to their destination, incorporating the outcomes of the Trek Checks. Additionally, the DM will incorporate any **Trek Encounters** and **Discoveries**, and the party determines if and when they want to **Rest**.
 
-##### Journey Encounters
-Unless you're travelling through barren lands, you're likely to encounter people, monsters, obstacles, events, or other phenomena on your Journey. The base number of Journey Encounters is determined by the Journey Length, and is modified by the features of the region, your Pace and the outcome of the Journey Checks.
+##### Trek Encounters
+Unless you're travelling through barren lands, you're likely to encounter people, monsters, obstacles, events, or other phenomena on your Trek. The base number of Trek Encounters is determined by the Trek Length, and is modified by the features of the region, your Pace and the outcome of the Trek Checks.
 
--  A **Short Journey** has **1d2** base Journey Encounters
--  A **Medium Journey** has **1d2+1** base Journey Encounters
--  A **Long Journey** has **1d3+2** base Journey Encounters
+-  A **Short Trek** has **1d2** base Trek Encounters
+-  A **Medium Trek** has **1d2+1** base Trek Encounters
+-  A **Long Trek** has **1d3+2** base Trek Encounters
 
-A **Journey Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot an encounter before you come upon it, at a distance appropriate to the terrain, or they may encounter tracks of one so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how certain encounters may react to you.
+A **Trek Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot an encounter before you come upon it, at a distance appropriate to the terrain, or they may encounter tracks of one so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how certain encounters may react to you.
 
 
 ##### Discoveries
-Even though a Journey may be fraught with danger, there is also beauty along the way. If a party member makes a **Discovery** as part of their Journey Check, they find a hidden gem along your route. This can be an interesting historical site, arcane ruins from a bygone age, or a peaceful place to rest. Whatever it is, it is in some way useful to the party.
+Even though a Trek may be fraught with danger, there is also beauty along the way. If a party member makes a **Discovery** as part of their Trek Check, they find a hidden gem along your route. This can be an interesting historical site, arcane ruins from a bygone age, or a peaceful place to rest. Whatever it is, it is in some way useful to the party.
 
 Different examples of Discoveries are:
 - You spot an unknown **Waypoint** in the distance. You figure out what it is and you can mark it on your map.
@@ -192,19 +192,19 @@ When you make a Discovery, the DM will either tell you what it is, or the DM can
 
 
 ##### Resting
-Travelling and camping rarely make for peaceful nights. As such, you can't take a **Long Rest** on a Journey. An exception to this is if you find a **Safe Haven** as a Discovery.
-You can take a limited number of Short Rests during a Journey. This number is determined by the Journey Length and can be modified by the Journey Check of the Quartermaster.
+Travelling and camping rarely make for peaceful nights. As such, you can't take a **Long Rest** on a Trek. An exception to this is if you find a **Safe Haven** as a Discovery.
+You can take a limited number of Short Rests during a Trek. This number is determined by the Trek Length and can be modified by the Trek Check of the Quartermaster.
 
--  A **Short Journey** allows for **1 Short Rest**
--  A **Medium Journey** allows for **2 Short Rests**
--  A **Long Journey** allows for **3 Short Rests**
+-  A **Short Trek** allows for **1 Short Rest**
+-  A **Medium Trek** allows for **2 Short Rests**
+-  A **Long Trek** allows for **3 Short Rests**
 
-The party can indicate whether they want to take a Short Rest at any point during the Journey. Usually after a Journey Encounter or right before arrival.
+The party can indicate whether they want to take a Short Rest at any point during the Trek. Usually after a Trek Encounter or right before arrival.
 
 
 ---
 ### 7. Arriving at your Destination
-If all goes well, you arrive at your destination at the end of your Journey. However, there might be **Waypoints** along the route that you weren't aware of. If the route goes by such a **Waypoint** and you overcome whatever challenges lie there, you restart the procedure for the next leg of the trip. Some Waypoints hold no challenges but merely serve as a place to reassess your journey and maybe take a different approach or direction.
+If all goes well, you arrive at your destination at the end of your Trek. However, there might be **Waypoints** along the route that you weren't aware of. If the route goes by such a **Waypoint** and you overcome whatever challenges lie there, you restart the procedure for the next leg of the trip. Some Waypoints hold no challenges but merely serve as a place to reassess your journey and maybe take a different approach or direction.
 
 
 ---
