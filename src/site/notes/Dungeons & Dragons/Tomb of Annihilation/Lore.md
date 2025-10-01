@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Tomb of Annihilation/Lore.md","permalink":"/tomb-of-annihilation/lore/","tags":["TTRPG/Campaigns/Tomb-of-Annihilation"]}
+{"dg-publish":true,"permalink":"/dungeons-and-dragons/tomb-of-annihilation/lore/","tags":["TTRPG/Campaigns/Tomb-of-Annihilation"]}
 ---
 
 *From the Illustrated Journal of Poag MacHoan, a Nyanzaru Times Bestseller.*
