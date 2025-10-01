@@ -250,14 +250,14 @@ If a PC greets them, they can make a **Charisma DC 15** to add +1 to the roll. A
 
 | 1d6+1d4 | Discovery                                                                                                                                          |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2-3     | A New Waypoint                                                                                                                                     |
+| 2-3     | Monument of Power *OR* An Inspiring View (everyone gains Inspiration)                                                                              |
 | 4       | Safe Haven                                                                                                                                         |
 | 5       | Valley of Plenty (Choose to regain 1/2 lvl in HD, 1/2 lvl in Spell Slots, or full restoration of one ability that regains all uses on a Long Rest) |
 | 6       | Revelations (Discover a secret or information related to your quest or situation)                                                                  |
-| 7       | Treasure (Common quality)                                                                                                                          |
-| 8       | Monument of Power *OR* An Inspiring View (everyone gains Inspiration)                                                                              |
+| 7       | A New Waypoint                                                                                                                                     |
+| 8       | Treasure (Common) in the field                                                                                                                     |
 | 9       | Treasure (Uncommon), either in the field or in a Dungeon                                                                                           |
-| 10      | Treasure (Rare), either in a Dungeon or on a specific Waypoint                                                                                     |
+| 10      | Treasure (Rare), either in a Dungeon or on a treasure map                                                                                          |
 
 ##### Monument of Power Buffs
 
