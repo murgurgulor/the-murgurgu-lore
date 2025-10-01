@@ -169,7 +169,7 @@ After the dice are rolled, check your outcome below. If you get to choose an out
 After the Journey Checks have been rolled and the outcomes have been determined, the Journey begins. The DM narrates the party making their way to their destination, incorporating the outcomes of the Journey Checks. Additionally, the DM will incorporate any **Journey Encounters** and **Discoveries**, and the party determines if and when they want to **Rest**.
 
 ##### Journey Encounters
-Unless you're travelling through barren lands, you're likely to encounter people, monsters, obstacles, events, or other phenomena on your Journey. The base number of Journey Encounters is determined by the Journey Length, and modified by your Pace and the outcome of the Journey Checks.
+Unless you're travelling through barren lands, you're likely to encounter people, monsters, obstacles, events, or other phenomena on your Journey. The base number of Journey Encounters is determined by the Journey Length, and is modified by the features of the region, your Pace and the outcome of the Journey Checks.
 
 -  A **Short Journey** has **1d2** base Journey Encounters
 -  A **Medium Journey** has **1d2+1** base Journey Encounters
