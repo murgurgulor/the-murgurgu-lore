@@ -42,7 +42,7 @@ The length of a Trek is divided in three abstracted categories: **Short**, **Med
 The Trek Length determines how many people, obstacles, or events you will encounter along the way, as well as how many rests you can have during your travel.
 
 ##### Trek Difficulty
-The difficulty of navigating, foraging, and moving along a certain route is given as the **Trek DC**. This is the DC that everyone's Trek Check is compared to. 
+The difficulty of navigating, foraging, and moving along a certain route is given as the **Trek DC**. This is the DC that everyone's Trek Check is compared to.
 
 ##### Known Routes
 If you have traveled along a certain route before, or if the route is a well-established road along civilized areas, and the travel itself is not an interesting affair, you can skip from here ahead to **Step 7: Arriving at your Destination**.
@@ -169,11 +169,12 @@ After the dice are rolled, check your outcome below. If you get to choose an out
 After the Trek Checks have been rolled and the outcomes have been determined, the Trek begins. The DM narrates the party making their way to their destination, incorporating the outcomes of the Trek Checks. Additionally, the DM will incorporate any **Trek Encounters** and **Discoveries**, and the party determines if and when they want to **Rest**.
 
 ##### Trek Encounters
-Unless you're travelling through barren lands, you're likely to encounter people, monsters, obstacles, events, or other phenomena on your Trek. The base number of Trek Encounters is determined by the Trek Length, and is modified by the features of the region, your Pace and the outcome of the Trek Checks.
+Unless you're travelling through barren lands, you're likely to encounter people, monsters, obstacles, events, or other phenomena on your Trek. Specific regions or areas may have a higher number of Trek Encounters than others. The amount of Trek Encounters is determined by the Trek Length, the features of the region, your Pace, and the outcome of the Trek Checks.
 
 -  A **Short Trek** has **1d2** base Trek Encounters
 -  A **Medium Trek** has **1d2+1** base Trek Encounters
 -  A **Long Trek** has **1d3+2** base Trek Encounters
+-  Specific regional qualities can reduce or increase the number of Trek Encounters by -2 to +2
 
 A **Trek Encounter** can mean you have to face hostile creatures, but it can also mean you encounter friendly or mysterious beings, or a treacherous terrain that you need to traverse. The Scout and Sentry may spot an encounter before you come upon it, at a distance appropriate to the terrain, or they may encounter tracks of one so you can prepare to deal with it. The DM might roll on a **Reaction Table** to determine how certain encounters may react to you.
 
