@@ -208,6 +208,10 @@ If all goes well, you arrive at your destination at the end of your Journey. How
 
 
 ---
+# The Trailblazing Procedure
+TBA
+
+---
 # Additional Information
 ### Spot Distances
 From what distance you can spot something, or something can spot you, is determined by the terrain you're travelling in.
