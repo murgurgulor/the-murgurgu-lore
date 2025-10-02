@@ -210,7 +210,62 @@ If all goes well, you arrive at your destination at the end of your Trek. Howeve
 
 ---
 # The Trailblazing Procedure
-TBA
+Trailblazing differs from Trekking because the destination is not known. You're going out - usually in the wilderness - to find a place you've heard of or that you have vague directions to. The challenge lies in finding it, which more often than not relies on a fair bit of luck as well as skill. You often have to Trailblaze to find **Secret Waypoints**.
+
+The Trailblazing Procedure consists of one or more Trailblazing Cycles. Each Trailblazing Cycle consists of the following steps:
+1. Identify the Search Area
+2. Divide Roles
+3. Roll and resolve the Trailblazing Die
+4. Discover you destination, or start the Cycle again
+
+While in the Trailblazing Procedure, you can't take any rests or make any Discoveries.
+
+---
+### 1. The Search Area
+In order to find a hidden location, you need to have at least a general idea of where to start looking. The amount of information and guidance you have in determining the initial Search Area determines the starting size of the **Trailblazing Die**. You can gain this information from NPCs, crude maps, legends, books, or any other source of information.
+
+
+| Quality of intel                            | Trailblazing Die |
+| ------------------------------------------- | ---------------- |
+| Zero intel                                  | d4               |
+| General region/area                         | d6               |
+| Specific area                               | d8               |
+| Specific area with landmark                 | d10              |
+| Specific area with landmarks and directions | d12              |
+
+In addition to identifying your Search Area, you also need to go to a Waypoint to start Trailblazing from, usually requiring you to Trek there first.
+
+
+---
+### 2. Divide Roles
+When you've arrived at the Search Area, it's time to divide what everyone will be doing. Every Trailblazing Cycle, each party member can choose one of three roles to perform:
+
+-  **Trailblazer**: If you're a Trailblazer, you do the actual searching and navigating. If you take the Trailblazing action, you roll the Trailblazing Die. Multiple people can take the Trailblazing action, and all results of the dice are resolved.
+-  **Sentinel**: If you're the Sentinel, you keep an eye out for any dangers the Trailblazers might overlook. Any roll of 1 or 2 on the Trailblazing Dice is counted as a 3.
+-  **Forager**: If you're the Forager, you keep everyone else fed, watered, and as comfortable as possible. You remove one level of Exhaustion from everone at the end of the Cycle.
+
+
+---
+### 3. The Trailblazing Die
+Everyone who chose to be a Trailblazer rolls a Trailblazing Die. The results are resolved from lowest to highest.
+
+| Trailblazing Die | Outcome                                                                    |
+| ---------------- | -------------------------------------------------------------------------- |
+| 1                | Wandering Encounter or Hazard, and the party is Surprised                  |
+| 2                | Wandering Encounter or Hazard                                              |
+| 3                | Signs of a nearby Wandering Encounter or Hazard                            |
+| 4                | Overexertion, every Trailblazer takes one level of Exhaustion              |
+| 5                | Nothing of note happens                                                    |
+| 6                | Signs that you're getting close, increase the Trailblazing Die by one step |
+| 7+               | You've discovered the destination!                                         |
+
+---
+### 4. The End?
+If one of the Trailblazer discovered the location, the Trailblazing Procedure ends here. Otherwise the Cycle restarts with everyone dividing their roles.
+
+
+
+
 
 ---
 # Additional Information
