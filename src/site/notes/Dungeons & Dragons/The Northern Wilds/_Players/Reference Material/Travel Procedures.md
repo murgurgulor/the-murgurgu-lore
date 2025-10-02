@@ -16,7 +16,7 @@ Waypoints can be further categorized as:
 -  **Scenery**: Environmental features that serve as a hub for different routes.
 
 ### Travelling
-There are two types of travel: a **Trekking** and **Trailblazing**.
+There are two types of travel: [[Dungeons & Dragons/Procedures/Travel Procedures#The Journey Procedure\|Trekking]] and [[Dungeons & Dragons/The Northern Wilds/_Players/Reference Material/Travel Procedures#The Trailblazing Procedure\|Trailblazing]].
 -  **Trekking** is a travel sequence between two known **Waypoints**. In order to make a Journey, you need to have the Waypoint of your destination on the map. A Journey isn't always a safe endeavour, it just means that you know where you're headed.
 -  **Trailblazing** is a travel sequence to an unknown destination. You can always go Trailblazing, but it's probably useful to have a vague idea of where you're headed ("There is a hidden temple around 30 miles east of Harrington.")
 
