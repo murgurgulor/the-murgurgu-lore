@@ -254,21 +254,23 @@ When you've arrived at the Search Area, it's time to divide what everyone will b
 
 Everyone who chose to be a Trailblazer rolls a Trailblazing Die. The results are resolved from lowest to highest.
 
-|Trailblazing Die|Outcome|
-|---|---|
-|1|Wandering Encounter or Hazard, and the party is Surprised|
-|2|Wandering Encounter or Hazard|
-|3|Signs of a nearby Wandering Encounter or Hazard|
-|4|Overexertion, every Trailblazer takes one level of Exhaustion|
-|5|Nothing of note happens|
-|6|Signs that you're getting close, increase the Trailblazing Die by one step|
-|7+|You've discovered the destination!|
+| Trailblazing Die | Outcome                                                                                                                                                   |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                | Wandering Encounter or Hazard, and the party is Surprised                                                                                                 |
+| 2                | Wandering Encounter or Hazard                                                                                                                             |
+| 3                | Signs of a nearby Wandering Encounter or Hazard                                                                                                           |
+| 4                | Nothing of note happens                                                                                                                                   |
+| 5                | You feel like you're getting somewhere. You can choose to push yourself to increase the Trailblazing Die by one step, but you take 1 level of Exhaustion. |
+| 6                | Signs that you're getting close, increase the Trailblazing Die by one step                                                                                |
+| 7+               | You've discovered the destination!                                                                                                                        |
 
 ---
 
 ### 4. Rinse and Repeat
 
 If one of the Trailblazer discovered the location, the Trailblazing Procedure ends here. Otherwise the Cycle restarts with everyone dividing their roles.
+
+If you haven't found the location by the end of the 2nd Trailblazing Cycle, everyone takes 1 level of Exhaustion and after every unsuccessful Cycle thereafter.
 
 
 ---
