@@ -15,7 +15,7 @@ A Dungeon consist of the following elements:
 ### Dynamic Dungeons
 The Dungeon is a living environment. Some of the Inhabitants might be tied to specific Rooms, but they're by no means stationary. Dungeon Inhabitants *will* respond to external stimuli even if they occur outside of their keyed location, and take can actions according to their nature and skill in response to your meddling. 
 
-Each Dungeon will have an **Adversary Roster** that lists which Inhabitants are keyed to which Rooms, but also lists if/how they react to disturbances elsewhere. Naturally, if an Inhabitant leaves their keyed location, the party won't encounter them there anymore.
+Each Dungeon will have an **Adversary Roster** that lists which groups of Inhabitants (Adversary Groups) are keyed to which Rooms, but also lists if/how they react to disturbances elsewhere. Naturally, if an Inhabitant leaves their keyed location, the party won't encounter them there anymore.
 
 
 # The Dungeon Cycle
@@ -47,7 +47,9 @@ Time is not meticulously tracked in a Dungeon Cycle. The following guidelines wi
 # Wandering in the Dungeon
 ## Encounter Dice
 Whenever the party progresses through a Cycle, or if they do something to attract unwanted attention, the DM will roll the Encounter Dice to see if any Wandering Encounters happen upon the party. The Encounter Dice are a pool of d6, where the lowest result determines the outcome.
-Whenever the party does something especially reckless or noticeable, the DM will add one d6 to the pool. Whenever the party lays low and has a Short Rest, the DM removes one d6 from the pool. Alternatively, the DM can use the following descriptors to determine the Encounter Pool size:
+Whenever the party does something especially reckless or noticeable, the DM will add one d6 to the pool. Whenever the party lays low and has a Short Rest, the DM removes one d6 from the pool. 
+
+Alternatively, the DM can use the following descriptors to determine the Encounter Pool size:
 
 | Descriptor | Encounter Pool |
 | ---------- | -------------- |
@@ -61,7 +63,18 @@ The Encounter Dice outcomes are as follows:
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                | A Wandering Encounter occurs. If there's more than a single 1 rolled, the party is Surprised                                            |
 | 2-3              | Signs of a Wandering Encounter nearby, or an omen of bad things to come. May become encounters depending on the actions of the players. |
-| 4-6              | Quiet, or Environment Change if Pool >2                                                                                                 |
+| 4-6              | Quiet, or Environmental Effect if Pool >2                                                                                               |
+
+--- 
+##### Environmental Effects
+When a Dungeon is in high state of alertness, things are always shifting. Even on a high roll of the ED, *something* happens. These Environmental Effects are classified as:
+
+| d6 (optional) | Effect Type               | Environmental Effect                                                                                                                                                                                                                                |
+| ------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1             | **Attrition**             | The Dungeon takes an extra toll on the party, such as a trap going off, a hazard damaging them, or another resource needs to be spent to continue.                                                                                                  |
+| 2-3           | **Altered Circumstances** | This is a change that affects future Dungeon Cycles. A way forward may be blocked, or the way out is not available anymore. Other options include increasing the ED pool or other things that increase the difficulty (Adversary Groups may merge). |
+| 4-5           | **Minor Choice**          | There's some sort of obstacle that requires the party to make a choice between two or more costs, such as time, putting yourself in danger, drawing attention, or losing something valuable.                                                        |
+| 6             | **Flavour/Hint**          | Something about the environment draws the party's attention without doing them harm. What they learn may or may not end up being useful.                                                                                                            |
 
 ---
 ## Exploring Rooms
