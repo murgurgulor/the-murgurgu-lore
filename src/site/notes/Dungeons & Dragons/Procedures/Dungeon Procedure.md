@@ -61,7 +61,7 @@ The Encounter Dice outcomes are as follows:
 
 | Lowest result d6 | Result                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                | A Wandering Encounter occurs. If there's more than a single 1 rolled, the party is Surprised                                            |
+| 1                | A Wandering Encounter occurs. If there's more than a single 1 rolled, the party may be Surprised                                        |
 | 2-3              | Signs of a Wandering Encounter nearby, or an omen of bad things to come. May become encounters depending on the actions of the players. |
 | 4-6              | Quiet, or Environmental Effect if Pool >2                                                                                               |
 
