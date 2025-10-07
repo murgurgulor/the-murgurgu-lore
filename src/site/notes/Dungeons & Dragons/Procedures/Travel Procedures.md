@@ -246,7 +246,7 @@ When you've arrived at the Search Area, it's time to divide what everyone will b
 
 - **Trailblazer**: If you're a Trailblazer, you do the actual searching and navigating. If you take the Trailblazing action, you roll the Trailblazing Die. Multiple people can take the Trailblazing action, and all results of the dice are resolved.
 - **Sentinel**: If you're the Sentinel, you keep an eye out for any dangers the Trailblazers might overlook. Any roll of 1 or 2 on the Trailblazing Dice is counted as a 3.
-- **Forager**: If you're the Forager, you keep everyone else fed, watered, and as comfortable as possible. You remove one level of Exhaustion from everone at the end of the Cycle.
+- **Forager**: If you're the Forager, you keep everyone else fed, watered, and as comfortable as possible. You prevent people from taking Exhaustion at the end of a Trailblazing Cycle.
 
 ---
 
@@ -268,9 +268,7 @@ Everyone who chose to be a Trailblazer rolls a Trailblazing Die. The results are
 
 ### 4. Rinse and Repeat
 
-If one of the Trailblazer discovered the location, the Trailblazing Procedure ends here. Otherwise the Cycle restarts with everyone dividing their roles.
-
-If you haven't found the location by the end of the 2nd Trailblazing Cycle, everyone takes 1 level of Exhaustion and after every unsuccessful Cycle thereafter.
+After all Trailblazing Actions have been resolved, everyone takes Exhaustion from the efforts unless someone has taken up the role of Forager. If one of the Trailblazers discovered the location, the Trailblazing Procedure ends here. Otherwise the Cycle restarts with everyone dividing their roles.
 
 
 ---
