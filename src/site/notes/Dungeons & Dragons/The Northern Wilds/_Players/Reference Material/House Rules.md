@@ -11,6 +11,17 @@ The following rules are in addition to the Rules As Written (RAW)
 - If you don't have any Heroic Inspiration at the start of a session, you get one.
 - If you roll for Hit Points on level-up, you can also use Heroic Inspiration to gain Advantage on the HP roll if you still have Heroic Inspiration at that time.
 - If you have more than one source of Advantage, you get a +1 bonus on the roll for each source past the first. The reverse applies for multiple sources of Disadvantage.
+- Exhaustion now follows the following progression:
+
+| Exhaustion Level | Effect                                                                      |
+| ---------------- | --------------------------------------------------------------------------- |
+| 1                | -1 on all d20 rolls and your Save DCs                                       |
+| 2                | -2 on all d20 rolls and your Save DCs                                       |
+| 3                | -4 on all d20 rolls and your Save DCs                                       |
+| 4                | -7 on all d20 rolls and your Save DCs, speed halved                         |
+| 5                | -11 on all d20 rolls and your Save DCs, speed halved                        |
+| 6                | Fall Unconscious for 24 hours, after which you lose one level of Exhaustion |
+
 
 ---
 ### Rest and recovery
