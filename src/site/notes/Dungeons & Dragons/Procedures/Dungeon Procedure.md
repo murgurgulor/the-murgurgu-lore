@@ -20,16 +20,17 @@ Each Dungeon will have an **Adversary Roster** that lists which groups of Inhabi
 
 # The Dungeon Cycle
 The procedure in which the party slowly explores a Dungeon is broken down into Dungeon Cycles. A Dungeon Cycle is an indeterminate amount of time in which the characters move, explore, search, or recuperate. The Dungeon Cycle is structured as follows:
-1. The DM determines whether to roll the Encounter Dice, and notes the result.
-2. The DM describes the environment and rehashes the current situation, giving any pertinent information that is immediately noticeable to the characters.
-3. The players each declare which (one) action their characters will take during the cycle. Examples of common actions are: 
+
+1. The DM describes the environment and rehashes the current situation, giving any pertinent information that is immediately noticeable to the characters.
+2. The players each declare which (one) action their characters will take during the cycle. Examples of common actions are: 
 	- Moving through a Passageway
 	- Searching a Room (particularly large Rooms might require you to state a specific area to search)
 	- Keeping an eye out for dangers to avoid being Surprised by anything unexpected
 	- Overcome an obstacle in your way such as a locked door or a trap
 	- Casting a Ritual spell
 	- Fight bad guys
-4. Everyones' actions resolve simultaneously, including any possible result from the Encounter Dice, and the DM narrates the outcome.
+3. Everyones' actions resolve simultaneously
+4. The DM determines whether to roll the Encounter Dice, and resolves the outcome.
 5. Any resources are checked against their duration, the DM's tools and tables are updated, and the Cycle repeats.
 
 
