@@ -260,8 +260,8 @@ Everyone who chose to be a Trailblazer rolls a Trailblazing Die. The results are
 | 2                | Wandering Encounter or Hazard                                                                                                                             |
 | 3                | Signs of a nearby Wandering Encounter or Hazard                                                                                                           |
 | 4                | Nothing of note happens                                                                                                                                   |
-| 5                | You feel like you're getting somewhere. You can choose to push yourself to increase the Trailblazing Die by one step, but you take 1 level of Exhaustion. |
-| 6                | Signs that you're getting close, increase the Trailblazing Die by one step                                                                                |
+| 5                | You feel like you're getting somewhere: you can choose to push yourself to increase the Trailblazing Die by one step, but you take 1 level of Exhaustion. |
+| 6                | Signs that you're getting close: increase the Trailblazing Die by one step                                                                                |
 | 7+               | You've discovered the destination!                                                                                                                        |
 
 ---
