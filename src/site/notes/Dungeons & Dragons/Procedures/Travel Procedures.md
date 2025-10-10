@@ -166,7 +166,7 @@ After the dice are rolled, check your outcome below. If you get to choose an out
 
 
 ---
-### 6. Undertake the Trek
+### 6. Make the Trek
 After the Trek Checks have been rolled and the outcomes have been determined, the Trek begins. The DM narrates the party making their way to their destination, incorporating the outcomes of the Trek Checks. Additionally, the DM will incorporate any **Trek Encounters** and **Discoveries**, and the party determines if and when they want to **Rest**.
 
 ##### Trek Encounters
@@ -197,8 +197,8 @@ When you make a Discovery, the DM will either tell you what it is, or the DM can
 Travelling and camping rarely make for peaceful nights. As such, you can't take a **Long Rest** on a Trek. An exception to this is if you find a **Safe Haven** as a Discovery.
 You can take a limited number of Short Rests during a Trek. This number is determined by the Trek Length and can be modified by the Trek Check of the Quartermaster.
 
--  A **Short Trek** allows for **1 Short Rest**
--  A **Medium Trek** allows for **2 Short Rests**
+-  A **Short Trek** allows for **no Short Rest**
+-  A **Medium Trek** allows for **1 Short Rest**
 -  A **Long Trek** allows for **3 Short Rests**
 
 The party can indicate whether they want to take a Short Rest at any point during the Trek. Usually after a Trek Encounter or right before arrival.
