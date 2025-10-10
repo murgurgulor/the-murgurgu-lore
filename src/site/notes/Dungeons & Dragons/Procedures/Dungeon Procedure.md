@@ -47,25 +47,29 @@ Time is not meticulously tracked in a Dungeon Cycle. The following guidelines wi
 ---
 # Wandering in the Dungeon
 ## Encounter Dice
-Whenever the party stays in the same Room for more than one Cycle, traverses down a Passage, or if they do something that could attract unwanted attention, the DM will roll the Encounter Dice to see if any Wandering Encounters happen upon the party. The Encounter Dice are a pool of d6, where the lowest result determines the outcome.
-Whenever the party does something especially reckless or noticeable, the DM will add one d6 to the pool. Whenever the party lays low for a Short Rest in a safe location, the DM removes one d6 from the pool. 
+The Encounter Dice are a pool of d6 that gets rolled by the DM to determine if the Dungeon reacts to the characters' actions. The lowest number rolled determines the outcome. 
+Triggers for the DM to roll the Encounter Dice can be:
+- When the party stays in the same Room for more than one Cycle
+- When the party traverses down a Passage
+- When the party does something that could attract unwanted attention
+- When the party does something reckless
 
-Alternatively, the DM can use the following descriptors to determine the Encounter Pool size:
+Whenever the party does something especially disturbing or noticeable, the DM will add one d6 to the pool. Whenever the party lays low for a Short Rest in a safe location, the DM removes one d6 from the pool. Alternatively, the DM can use the following descriptors to determine the Encounter Pool size:
 
-| Descriptor | Encounter Pool |
-| ---------- | -------------- |
-| Calm       | 1d6            |
-| Alert      | 2d6            |
-| Alarmed    | 3d6            |
-| Crisis     | 4d6            |
+| Dungeon Status | Encounter Pool |
+| -------------- | -------------- |
+| Calm           | 1d6            |
+| Alert          | 2d6            |
+| Alarmed        | 3d6            |
+| Crisis         | 4d6            |
 The Encounter Dice outcomes are as follows:
 
-| Lowest result d6 | Result                                                                                                                                  |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                | A Wandering Encounter occurs. If there's more than a single 1 rolled, the party may be Surprised                                        |
-| 2                | Signs of a Wandering Encounter nearby, or an omen of bad things to come. May become encounters depending on the actions of the players. |
-| 3                | An Environmental Effect occurs (see below)                                                                                              |
-| 4-6              | Quiet                                                                                                                                   |
+| Lowest result d6 | Result                                                                                                                                                                                 |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                | A Wandering Encounter occurs. If applicable, the DM will check the party's passive Perception vs. enemy Stealth, with a -5 penalty for any character distracted with other activities. |
+| 2                | The party notices signs of a Wandering Encounter nearby, or an omen of bad things to come. The party can make attempts to get out of trouble before it hits.                           |
+| 3                | An Environmental Effect occurs (see below)                                                                                                                                             |
+| 4-6              | Quiet                                                                                                                                                                                  |
 
 --- 
 ##### Environmental Effects
