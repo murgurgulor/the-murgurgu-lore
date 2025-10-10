@@ -46,7 +46,7 @@ Time is not meticulously tracked in a Dungeon Cycle. The following guidelines wi
 ---
 # Wandering in the Dungeon
 ## Encounter Dice
-Whenever the party stays in the same location for more than one Cycle, or if they do something to attract unwanted attention, the DM will roll the Encounter Dice to see if any Wandering Encounters happen upon the party. The Encounter Dice are a pool of d6, where the lowest result determines the outcome.
+Whenever the party stays in the same Room for more than one Cycle, traverses down a Passage, or if they do something that could attract unwanted attention, the DM will roll the Encounter Dice to see if any Wandering Encounters happen upon the party. The Encounter Dice are a pool of d6, where the lowest result determines the outcome.
 Whenever the party does something especially reckless or noticeable, the DM will add one d6 to the pool. Whenever the party lays low for a Short Rest in a safe location, the DM removes one d6 from the pool. 
 
 Alternatively, the DM can use the following descriptors to determine the Encounter Pool size:
