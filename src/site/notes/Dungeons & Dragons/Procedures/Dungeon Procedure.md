@@ -20,7 +20,7 @@ Each Dungeon will have an **Adversary Roster** that lists which groups of Inhabi
 
 # The Dungeon Cycle
 The procedure in which the party slowly explores a Dungeon is broken down into Dungeon Cycles. A Dungeon Cycle is an indeterminate amount of time in which the characters move, explore, search, or recuperate. The Dungeon Cycle is structured as follows:
-1. The DM rolls the Encounter Dice and notes the result.
+1. The DM determines whether to roll the Encounter Dice, and notes the result.
 2. The DM describes the environment and rehashes the current situation, giving any pertinent information that is immediately noticeable to the characters.
 3. The players each declare which (one) action their characters will take during the cycle. Examples of common actions are: 
 	- Moving through a Passageway
@@ -46,8 +46,8 @@ Time is not meticulously tracked in a Dungeon Cycle. The following guidelines wi
 ---
 # Wandering in the Dungeon
 ## Encounter Dice
-Whenever the party progresses through a Cycle, or if they do something to attract unwanted attention, the DM will roll the Encounter Dice to see if any Wandering Encounters happen upon the party. The Encounter Dice are a pool of d6, where the lowest result determines the outcome.
-Whenever the party does something especially reckless or noticeable, the DM will add one d6 to the pool. Whenever the party lays low and has a Short Rest, the DM removes one d6 from the pool. 
+Whenever the party stays in the same location for more than one Cycle, or if they do something to attract unwanted attention, the DM will roll the Encounter Dice to see if any Wandering Encounters happen upon the party. The Encounter Dice are a pool of d6, where the lowest result determines the outcome.
+Whenever the party does something especially reckless or noticeable, the DM will add one d6 to the pool. Whenever the party lays low for a Short Rest in a safe location, the DM removes one d6 from the pool. 
 
 Alternatively, the DM can use the following descriptors to determine the Encounter Pool size:
 
@@ -63,8 +63,8 @@ The Encounter Dice outcomes are as follows:
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                | A Wandering Encounter occurs. If there's more than a single 1 rolled, the party may be Surprised                                        |
 | 2                | Signs of a Wandering Encounter nearby, or an omen of bad things to come. May become encounters depending on the actions of the players. |
-| 2+ED (3-6)       | An Environmental Effect occurs (see below)                                                                                              |
-| 4-6              | Quiet, or Environmental Effect if ED 2+                                                                                                 |
+| 3                | An Environmental Effect occurs (see below)                                                                                              |
+| 4-6              | Quiet                                                                                                                                   |
 
 --- 
 ##### Environmental Effects
