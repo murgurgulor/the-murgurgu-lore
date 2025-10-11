@@ -8,8 +8,8 @@ The following is a procedure for crawling through dungeons or dungeon-like envir
 ---
 # Dungeon Composition
 A Dungeon consist of the following elements:
-- **Rooms**: These are areas that are of interest to the party, either because of their content or because of their lay-out. Rooms can be explored, searched, and otherwise interacted with. Two Rooms are either directly connected to each other, or connected by **Passageways**. Rooms are usually occupied by **Inhabitants**. 
-- **Passageways**: These connect Rooms, and can range from long hallways to collections of smallers rooms and areas that don't hold anything of interest to the party. They require time to traverse, and cursory exploration of these areas while traversing generally don't turn up anything useful or valuable.
+- **Rooms**: These are areas that are of interest to the party, either because of their content or because of their lay-out. Rooms can be explored, searched, and otherwise interacted with. Two Rooms are either directly connected to each other, or connected by **Passages**. Rooms are usually occupied by **Inhabitants**. 
+- **Passages**: These connect Rooms, and can range from long hallways to collections of smallers rooms and areas that don't hold anything of interest to the party. They require time to traverse, and cursory exploration of these areas while traversing generally don't turn up anything useful or valuable.
 - **Inhabitants**: The creatures that call the Dungeon their home, and can be found lurking around. Some of them are keyed to a specific Location, others are Wandering around.
 
 ### Dynamic Dungeons
@@ -23,7 +23,7 @@ The procedure in which the party slowly explores a Dungeon is broken down into D
 
 1. The DM describes the environment and rehashes the current situation, giving any pertinent information that is immediately noticeable to the characters.
 2. The players each declare which (one) action their characters will take during the cycle. Examples of common actions are: 
-	- Moving through a Passageway
+	- Moving through a Passages
 	- Searching a Room (particularly large Rooms might require you to state a specific area to search)
 	- Keeping an eye out for dangers to avoid being Surprised by anything unexpected
 	- Overcome an obstacle in your way such as a locked door or a trap
@@ -101,8 +101,8 @@ Stealthing is not possible when:
 The players are responsible for mapping their progress through a Dungeon, unless they have somehow procured an accurate map beforehand. The players should designate one of their own as the Mapper. 
 
 ### Losing Direction
-Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passageways that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
-In difficult to navigate Passageways, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passageway, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Cycle getting back on track (possible invoking more Wandering Encounters).
+Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passages that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
+In difficult to navigate Passages, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passages, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Cycle getting back on track (possible invoking more Wandering Encounters).
 
 ## Lighting
 Unless a Dungeon has its own source of illumination, characters will probably want to carry a source of light. Even characters with Darkvision will have a difficult time properly navigating and exploring a fully dark Dungeon.
