@@ -23,7 +23,7 @@ The procedure in which the party slowly explores a Dungeon is broken down into D
 
 1. The DM describes the environment and rehashes the current situation, giving any pertinent information that is immediately noticeable to the characters.
 2. The players each declare which (one) action their characters will take during the cycle. Examples of common actions are: 
-	- Moving through a Passages
+	- Moving through a Passage
 	- Searching a Room (particularly large Rooms might require you to state a specific area to search)
 	- Keeping an eye out for dangers to avoid being Surprised by anything unexpected
 	- Overcome an obstacle in your way such as a locked door or a trap
@@ -102,7 +102,7 @@ The players are responsible for mapping their progress through a Dungeon, unless
 
 ### Losing Direction
 Some dungeons are straightforward and are difficult to get lost in, but some dungeons have Passages that are veritable mazes of interconnecting hallways, nooks, and crannies, that don't necessarily have to be relevant or make sense.
-In difficult to navigate Passages, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passages, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Cycle getting back on track (possible invoking more Wandering Encounters).
+In difficult to navigate Passages, the party will need to elect a Wayfinder to find the right paths. Every time they head into a chaotic Passage, they make an appropriate ability check to see if they can keep their way. If they lose their way, they have to spend 1 Dungeon Cycle getting back on track (possible invoking more Wandering Encounters).
 
 ## Lighting
 Unless a Dungeon has its own source of illumination, characters will probably want to carry a source of light. Even characters with Darkvision will have a difficult time properly navigating and exploring a fully dark Dungeon.
