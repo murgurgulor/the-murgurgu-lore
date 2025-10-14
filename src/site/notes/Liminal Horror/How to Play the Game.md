@@ -15,7 +15,7 @@ There are three ability scores: Strength (STR), Dexterity (DEX), and Control (CT
 During play, your Ability Scores may **decrease**, lowering your chance of successful Saves. When an ability score reaches 0, you're either dead (STR), paralyzed (DEX), or mentally broken (CTRL).
 
 ### Hit Protection
-HP stands for Hit Protection, and not Hit Points. HP represents you ability and capacity to **avoid** actual harm. When you take a physical or mental hit, damage gets deducted from HP first. If this doesn't bring your HP to 0, you've not taken any actual wounds.
+HP stands for Hit **Protection**, not Hit **Points**. HP represents your ability and capacity to **avoid** actual harm. When you take a physical or mental hit, damage gets deducted from HP first. If this doesn't bring your HP to 0, you've not taken any actual wounds.
 
 You determine your HP by rolling 1d6. HP is recovered quickly: a brief rest restores your HP back to full.
 
