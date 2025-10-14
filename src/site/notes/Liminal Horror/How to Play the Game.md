@@ -140,7 +140,7 @@ You can flee from a combat on your side's turn if:
 ### Stress and Fallout
 Stress is a metaphysical analogue to damage, and it represents how horror and terror affect your character. Stress functions identical to physical damage taken in combat, with the exception that it reduces your CTRL after your HP is depleted, instead of STR.
 
-When Stress reduces your CTRL, you immediately make a CTRL Save using the new score. On a fail, you are paralyzed with fear while whatever freaked you out is still around. If you survive this scene, roll on the Fallout table to see what effect this experience had on you.
+When Stress reduces your CTRL, you immediately make a CTRL Save using the new score. On a fail, you are paralyzed with fear while whatever freaked you out is still around. If you survive this scene, consult the Fallout table to see what effect this experience had on you based on the amount of CTRL lost.
 
 
 | CTRL Lost | Fallout                                                                                                                                                                                                                                                                                            |
