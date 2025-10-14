@@ -107,9 +107,9 @@ There are a few modifiers that affect your attack:
 - **Non-lethal**: Non-lethal weapons can never kill, but they can disable.
 
 ##### Taking Damage
-If you get hit with an attack, you deduct the result of the opponent's weapon die from your HP first. If this brings your HP below zero, any excess damage is applied from your STR score. This represents actual physical harm that you take. 
+If you get hit with an attack, you deduct the result of the opponent's weapon die from your HP first. If this brings your HP below zero, any excess damage is applied to your STR score. This represents actual physical harm that you take. 
 
-As soon as you take STR damage, you roll a STR Save using your new score. If you fail this Save, you take a **Wound**. A Wound is an injury that - depending on the severity - will hinder or impair your character going forward. A Wound also occupies an Inventory Slot, like Fatigue. If you survive this scene, roll on the Wounds table to see what effect this experience had on you.
+As soon as you take STR damage, you roll a STR Save using your new score. If you fail this Save, you take a **Wound**. A Wound is an injury that - depending on the severity - will hinder or impair your character going forward. A Wound also occupies an Inventory Slot, like Fatigue. Consult the Wounds table below to see what the effect is based on the amount of STR lost.
 If an attack reduces your STR to 0, you die.
 
 
