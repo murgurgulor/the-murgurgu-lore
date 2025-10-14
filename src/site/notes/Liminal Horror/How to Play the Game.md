@@ -7,8 +7,6 @@
 Liminal Horror is a game in the NSR (New School Revolution) genre: a genre that focuses on games where the character's background and circumstances are important to the game, the rules are light and secondary to the fiction, and players are required to solve problems with clever thinking rather than looking at their character sheet to see which ability will solve it for them. Liminal Horror's rules are based off Into the Odd. Other games that are based on Into the Odd are Cairn and Electric/Mythic Bastionland.
 
 # What is on the Character Sheet
-Your character is composed of the following elements:
-
 ### Ability Scores
 There are three ability scores: Strength (STR), Dexterity (DEX), and Control (CTRL). Each is ranked between 3 and 18, and you determine your starting score by rolling 3d6. Whenever you perform a risky action, you roll a Save for the appropriate ability score: Strength for actions that require force, brawn, or that test your vitality. Dexterity for actions that require speed, finesse, and accuracy. Control for actions that require willpower, charisma, and mental stability.
 
@@ -17,7 +15,7 @@ During play, your Ability Scores may **decrease**, lowering your chance of succe
 ### Hit Protection
 HP stands for Hit **Protection**, not Hit **Points**. HP represents your ability and capacity to **avoid** actual harm. When you take a physical or mental hit, damage gets deducted from HP first. If this doesn't bring your HP to 0, you've not taken any actual wounds.
 
-You determine your HP by rolling 1d6. HP is recovered quickly: a brief rest restores your HP back to full.
+You determine your max HP by rolling 1d6. HP is recovered quickly: a brief rest restores your HP back to full.
 
 ### Inventory
 Your Inventory is a key aspect of the game. The items you carry define the actions you can take. Everyone has 10 Inventory Slots. 1 Slot for each hand, 2 Slots on your body, and 6 Slots in a bag or rucksack. Items in your hands or on your body are readily available for use, items in your rucksack are not. 
@@ -32,15 +30,21 @@ Items come in 3 varieties:
 ##### Fatigue
 Certain aspects of the game can cause you to become Fatigued. Fatigue is a condition that takes up 1 Inventory Slot. You can't use that Slot for carrying items, and if you have to take Fatigue when you're at full Inventory, you have to drop something. Fatigue stacks, occupying another Slot for each addition.
 
-### Armor and Stability
-Armor represents physical gear that blocks damage from incoming attacks. When you get attacked, you deduct your Armor score from the damage before applying it to your HP.
+---
+![IONcGW.jpg](/img/user/z_attachments/IONcGW.jpg)
+---
 
-Stability represents mental warding that lowers stress and mental strain. When you have to take Stress, you deduct your Stability score before applying it to your HP.
+### Armor and Stability
+**Armor** represents physical gear that blocks damage from incoming attacks. When you get attacked, you deduct your Armor score from the damage before applying it to your HP.
+
+**Stability** represents mental warding that lowers stress and mental strain. When you have to take Stress, you deduct your Stability score before applying it to your HP.
 
 
 ---
 # The Rules of the Game
-The rules of Liminal Horror are straightforward. The GM describes the environment and your situation, and the player character react to it. Characters can do anything they can be reasonably assumed to be capable of. There are no rolls to see if you can do an activity, and there are no Knowledge- or Perception-type rolls. The GM gives any information a character would likely know/see with regards to their background or situation. Neither are there Persuasion-type rolls: you interact with an NPC as you would with a normal person, and they react according to their personality/motivations/beliefs.
+The rules of Liminal Horror are straightforward. The GM describes the environment and your situation, and the player character react to it. Characters can do anything they can be reasonably assumed to be capable of. There are no rolls to see if you can do an activity, only rolls to avoid harm when you do risky things.
+
+There are no Knowledge- or Perception-type rolls. The GM gives any information a character would likely know/see with regards to their background or situation. Neither are there Persuasion-type rolls: you interact with an NPC as you would with a normal person, and they react according to their personality/motivations/beliefs.
 
 
 ---
@@ -66,7 +70,7 @@ If two sides are in a contest, the individual that is **most at risk as a result
 ### Conditions
 There are a two Conditions of note that influence your character.
 
-- **Fatigue** can be gained in various ways, as a result of the narrative or failed Saves on strenuous activities. Each instance of Fatigue occupies one Inventory Slot. A full night's rest removes one Fatigue.
+- **Fatigue** can be gained in various ways, as a result of the narrative or of failed Saves on strenuous activities. Each instance of Fatigue occupies one Inventory Slot. A full night's rest removes one Fatigue.
 - **Deprived** is gained from being deprived of sufficient food, drink, and rest. When you're Deprived, you can't recover HP or Ability Score Damage. If you're Deprived for more than 24 hours, you gain one instance of Fatigue for every day you're Deprived thereafter.
 
 
@@ -90,40 +94,41 @@ Whenever you have your turn, you can:
 Everyone who acts on the same turn declares their actions **before** rolling any dice to resolve them. Resolution happens simultaneously.
 
 ##### Attacking
-There are no to-hit rolls in Liminal Horror, and there are no misses: only varying levels of effect. When you attack, roll the weapon die associated with the weapon and apply that number to your opponent. Weapon Dice range from d4 (for unarmed attacks) to d10 (for specialized weapons).
+There are no to-hit rolls in Liminal Horror, and there are no misses: only varying levels of effect. When you attack, roll the weapon die associated with the weapon and apply that number to your opponent. Weapon dice range from d4 (for unarmed attacks) to d10 (for specialized weapons).
 
 If more than one attacker targets the same opponent, roll all weapon dice and keep the single highest value.
 If you attack with dual weapons at the same time, roll both weapon dice and keep the single highest value. 
 
-There are a few conditions that can modify your attack:
+There are a few modifiers that affect your attack:
 - **Impaired**: If you make an attack from a position of weakness or disadvantage, your attack is Impaired. You always roll a d4 for an Impaired attack, regardless of the weapon you use.
 - **Enhanced**: If you make an attack from a position of advantage or power, your attack is Enhanced. You always roll a d12 for an Enhanced attack.
 - **+dx**: If there are two weapon dice noted with a + sign (like d6+d4, or d10+d10), roll all indicated dice and keep the single highest value.
-- **Blast**: Some weapons have the Blast tag. This means that an attack hits everything in a target area, rolling the weapon die separately for each affected individual
+- **Blast**: Some weapons have the Blast tag. This means that an attack hits everything in a target area, rolling the weapon die separately for each affected individual.
 - **Non-lethal**: Non-lethal weapons can never kill, but they can disable.
 
 ##### Taking Damage
-If you get hit with an attack, you deduct the result of your weapon die from your HP first. If this brings your HP below zero, and excess is reduced from your STR score. This represents actual physical harm that you take. 
-As soon as you take STR damage, you roll a STR Save using your new score. If you fail this Save, you take a Wound. A Wound is an injury that - depending on the severity - will hinder or impair your character going forward. A Wound also occupies an Inventory Slot, like Fatigue. If you survive this scene, roll on the Wounds table to see what effect this experience had on you.
+If you get hit with an attack, you deduct the result of your weapon die from your HP first. If this brings your HP below zero, any excess damage is reduced from your STR score. This represents actual physical harm that you take. 
+
+As soon as you take STR damage, you roll a STR Save using your new score. If you fail this Save, you take a **Wound**. A Wound is an injury that - depending on the severity - will hinder or impair your character going forward. A Wound also occupies an Inventory Slot, like Fatigue. If you survive this scene, roll on the Wounds table to see what effect this experience had on you.
 If an attack reduces your STR to 0, you die.
 
 
-| STR Lost | Wound                                                                                                                                                                                                                                                                                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-3      | Tis but a flesh wound. After it's been bandaged up, remove the Wound from your Inventory and roll 1d6: if the result is higher than your max HP, take the new result.                                                                                                                                                                                         |
-| 4-5      | You have a minor injury, such as sprained extremity, a deep cut, or a shot wound in a non-fatal area. You need proper medical attention and a day's rest. Afterwards, remove the Wound from your Inventory. Then roll 1d6 and add the result to your max HP                                                                                                   |
-| 6-7      | You have a lasting injury, such as a broken hand/foot, a stab wound, or a shot wound with the bullet still inside. You can barely move and act until you've received medical attention. When you do, roll 2d6: if the result is higher than your max HP, take the new result. You only recover the Wound after a week.                                        |
-| 8-9      | You receive a major wound, like a severed limb or a major arterial bleed. You die unless you receive medical attention within the hour. When you do, you come out stronger. Roll 3d6: if the result is higher than your STR, take the new result. You only recover the Wound after a week in a peaceful environment with dedicated medical attention.         |
-| 10+      | By rights you should be dead, but somehow you're pulling through. You're unconscious for 24 hours, after which you wake up if you've received proper medical attention. If the next Save you make for a Wound is a fail, you die horribly. If you pass, roll 3d6: if the result is higher than your max HP, take the new result. You never recover the Wound. |
+| STR Lost | Wound                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-3      | Tis but a flesh wound. After it's been bandaged up, remove the Wound from your Inventory and roll 1d6: if the result is higher than your max HP, take the new result.                                                                                                                                                                                                                     |
+| 4-5      | You have a minor injury, such as sprained extremity, a deep cut, or a shot wound in a non-fatal area. You need proper medical attention and a day's rest. Afterwards, remove the Wound from your Inventory. Then roll 1d6 and add the result to your max HP                                                                                                                               |
+| 6-7      | You have a lasting injury, such as a broken hand/foot, a stab wound, or a shot wound with the bullet still inside. You can barely move and act until you've received medical attention. When you do, roll 2d6: if the result is higher than your max HP, take the new result. You only recover the Wound after a week.                                                                    |
+| 8-9      | You receive a major wound, like a severed limb or a major arterial bleed. You die unless you receive medical attention within the hour. When you do, you come out stronger. Roll 3d6: if the result is higher than your STR, take the new result. You only recover the Wound after a week in a peaceful environment with dedicated medical attention.                                     |
+| 10+      | By rights you should be dead, but somehow you're pulling through. You immediately fall unconscious and remain so for 24 hours, after which you wake up if you've received proper medical attention. If the next Save you make for a Wound is a fail, you die horribly. If you pass, roll 3d6: if the result is higher than your max HP, take the new result. You never recover the Wound. |
 
 
-Non-lethal weapons target DEX instead of STR after depleting HP. You can still take Wounds from non-lethal weapons, but if your DEX is reduced to 0 you are not dead - just unable to move or act.
+Non-lethal weapons target DEX instead of STR after depleting HP. You can't take Wounds from non-lethal weapons, and if your DEX is reduced to 0 you are not dead - just unable to move or act.
 
-**Note**: Only damage you take from attacks gets funneled through your HP first. If you take damage from falling from a great height or an explosion, the damage is applied directly to your STR.
+**Note**: Only damage you take from attacks gets funneled through your HP first. If you take damage from falling from a great height or an explosion the damage is applied directly to your STR, triggering a Save against Wounds.
 
 ##### Healing
 Taking a quick rest for a few moments in a safe location restores all HP.
-Ability score damage and Wounds recover slower, requiring rest, time, and sometimes medical attention.
+Ability score damage and Wounds recover slower, requiring rest, time, and medical attention.
 
 ##### Fleeing
 You can flee from a combat on your side's turn if:
