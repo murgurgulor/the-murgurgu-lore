@@ -156,3 +156,38 @@ When Stress reduces your CTRL, you immediately make a CTRL Save using the new sc
 Whisper Cards are a mechanic to push characters to action. Whisper Cards can be gained by individual players from different actions and situations, such as gaining Fallout, encountering the horrible and terrible, or some failed Saves. When you take a Whisper Card, keep it secret from both the other players and the GM. 
 
 Each Whisper Card has two prompts. Choose one and act on it in the subsequent scenes. Some Whisper Cards might detail a more terrible fate that has befallen your character. Incorporate it, but keep the contents of the Whisper Card hidden until the end of the game!
+
+
+---
+# Voidcrawling
+Whenever your character or group moves through the horrible environment, unexpected events can happen. The procedure that is used to guide exploration and events is called the **Voidcrawling Procedure**. Each Voidcrawling Procedure consists of one or more Voidcrawl Cycles:
+
+1. The GM describes the environment and rehashes the current situation, giving any pertinent information that is immediately noticeable to the characters.
+2. The players each declare which (one) action their characters will take during the cycle. Examples of common actions are:
+    - Moving to a different area
+    - Searching an area (particularly large locations might require you to state a specific area to search)
+    - Keeping an eye out for dangers to avoid being surprised by anything unexpected
+    - Overcome an obstacle in your way such as a locked door or blocking debris
+3. Everyones' actions resolve simultaneously
+4. The GM determines whether to roll the Encounter Die, and resolves the outcome.
+5. Any resources are checked against their duration, the GM's tools and tables are updated, and the Cycle repeats.
+
+---
+### Encounter Die
+The Encounter Die is a d6 that gets rolled by the GM to determine what unexpected event, if any, befalls the characters. Triggers for the GM to roll the Encounter Die can be:
+- When the group stays in the same (unsafe) location for more than one Cycle
+- When the group takes a rest in an unsafe location
+- When the group travels to a different or new location
+- When the group does something that could attract unwanted attention
+- When the group does something reckless
+
+The Encounter Die outcomes are as follows:
+
+| d6  | Outcome     | Explanation                                                                                                                |
+| --- | ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Encounter   | The group is presented with a Wandering Encounter.                                                                         |
+| 2   | Sign        | The group finds a clue or sign to someone - or something - nearby.                                                         |
+| 3   | Environment | The environment shifts. Passages may be blocked, new factions may arrive, or a resource becomes sparse..                   |
+| 4   | Loss        | Something breaks, fails, or otherwise becomes unusable.                                                                    |
+| 5   | Exhaustion  | Everyone gets tired, hungry, and thirsty. The group has to choose to rest for a Cycle, consume a ration, or add a Fatigue. |
+| 6   | Quiet       | You're safe and left alone... for now...                                                                                   |
