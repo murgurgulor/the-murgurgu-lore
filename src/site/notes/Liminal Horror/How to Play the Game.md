@@ -90,7 +90,7 @@ If one side surprises the other, that side always gets to go first.
 ##### Your Turn
 Whenever you have your turn, you can:
 - Move
-- Take an Action (attacking, making a maneuver, move more, et cetera).
+- Take an Action (attacking, making a maneuver, switching At Hand/Body items with Pack items, move more, et cetera).
 Everyone who acts on the same turn declares their actions **before** rolling any dice to resolve them. Resolution happens simultaneously.
 
 ##### Attacking
