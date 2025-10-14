@@ -187,7 +187,7 @@ The Encounter Die outcomes are as follows:
 | --- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Encounter   | The group is presented with a Wandering Encounter.                                                                                |
 | 2   | Sign        | The group finds a clue or sign to someone - or something - nearby.                                                                |
-| 3   | Environment | The environment shifts. Passages may be blocked, new factions may arrive, or a resource becomes sparse..                          |
+| 3   | Environment | The environment shifts. Passages may be blocked, factions may move, or a resource may falter.                                     |
 | 4   | Loss        | Something breaks, fails, or otherwise becomes unusable.                                                                           |
 | 5   | Exhaustion  | Everyone gets tired, hungry, and thirsty. The group has to choose to either rest for a Cycle, consume a ration, or add a Fatigue. |
 | 6   | Quiet       | You're safe and left alone... for now...                                                                                          |
