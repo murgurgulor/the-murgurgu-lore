@@ -169,19 +169,19 @@ Whenever your character or group moves through the horrible environment, unexpec
     - Keeping an eye out for dangers to avoid being surprised by anything unexpected
     - Overcome an obstacle in your way such as a locked door or blocking debris
 3. Everyones' actions resolve simultaneously
-4. The GM determines whether to roll the Encounter Die, and resolves the outcome.
+4. The GM determines whether to roll the Event Die, and resolves the outcome.
 5. Any resources are checked against their duration, the GM's tools and tables are updated, and the Cycle repeats.
 
 ---
-### Encounter Die
-The Encounter Die is a d6 that gets rolled by the GM to determine what unexpected event, if any, befalls the characters. Triggers for the GM to roll the Encounter Die can be:
+### Event Die
+The Event Die is a d6 that gets rolled by the GM to determine what unexpected event, if any, befalls the characters. Triggers for the GM to roll the Event Die can be:
 - When the group stays in the same (unsafe) location for more than one Cycle
 - When the group takes a rest in an unsafe location
 - When the group travels to a different or new location
 - When the group does something that could attract unwanted attention
 - When the group does something reckless
 
-The Encounter Die outcomes are as follows:
+The Event Die outcomes are as follows:
 
 | d6  | Outcome     | Explanation                                                                                                                       |
 | --- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- |
