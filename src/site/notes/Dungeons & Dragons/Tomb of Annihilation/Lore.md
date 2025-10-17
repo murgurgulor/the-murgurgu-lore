@@ -6,7 +6,7 @@
 
 # Current Goals and Objectives
 
-**Expedition Day**: 19
+**Expedition Day**: 21
 
 - Find Artus Cimber in the residential district of Mezro
 - Wrestle the Psychic Crocodile
