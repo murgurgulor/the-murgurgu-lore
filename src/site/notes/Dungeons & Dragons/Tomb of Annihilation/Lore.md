@@ -8,11 +8,12 @@
 
 **Expedition Day**: 19
 
-- Surveil the surrounding area from the top of Firefinger and plot the safest course.
-- Make our way to Mezro, avoiding the Flaming Fists if possible, and find Artus Cimber.
+- Find Artus Cimber in the residential district of Mezro
+- Wrestle the Psychic Crocodile
 
 Sidequests:
 - Head to the Aaracokra settlement of Kir Sabal as emissaries of the Temple of Gond, to establish a line of communication in order for the Gondians to get access to the Plane of Air, to make Air Planes.
+- Figure out why a Night Hag is after Poag.
 - Head to the Albino Dwarves to re-open the Hrakhamar Mines and increase the production of Chultan Bronze.
 - I guess we should at one point help Hew avenge his family at the Wyrmheart Mines.
 
@@ -60,7 +61,11 @@ Poag had the Zhentarim convinced he was elite agent **Diognesis Thumbskin**, but
 ### The Flaming Fist
 The Flaming Fist are a band of mercenaries that was hired by Port Nyanzaru in the Amnian Independence War, 11 years ago. In return they got a base in Fort Beluaran. Additionally, they lay a claim to all treasures found in the jungle. If you want to hunt for treasure in the jungle, you need a charter from the Flaming Fist and share part of the loot, or they will (forcefully) take everything.
 
-There is currently a detachment of the Flaming Fist stationed in/near **Mezro**.
+There is currently a detachment of the Flaming Fist stationed in/near **Mezro**. They patrol the waters and have their base in the North West area of the city.
+
+### The Children of the Crocodile
+A cult devoted to a/the Psychic Crocodile has gathered in Mezro. Its followers are from all walks of life across the land, and they have been summoned to the Crocodile through visions. They're led by **Emberon Coalskuttle**. They have received visions that there is a new God coming to the realms.
+
 
 ### Individuals of Note
 ##### Hew Hackinstone
@@ -74,7 +79,7 @@ Hew can't read maps, but he is knowledgeable about quantum mechanics.
 In a daring game of Fortune's Favor, Cassandra managed to evict Cathas' soul from the ring. Instead of heading to Tymora, however, his soul was pulled towards the center of Chult.
 
 ##### Artus Cimber
-We found Artus Cimber encased in a dome of ice, wearing the fabled **Ring of Winter** which grants protection against death. We woke him up from what seemed a century-long slumber. After we told him what's what, he was confused about the falling of **Mezro** and **Ras Nsi**'s actions. Before answering any of our deepest questions he summoned an ice bird and flew off to Mezro.
+We found Artus Cimber encased in a dome of ice, wearing the fabled **Ring of Winter** which grants protection against death. We woke him up from what seemed a century-long slumber. After we told him what's what, he was confused about the falling of **Mezro** and **Ras Nsi**'s actions. Before answering any of our deepest questions he summoned an ice bird and flew off to Mezro. There he is rumoured to be residing in the residential district.
 
 
 ### Independents
@@ -112,9 +117,9 @@ Mezro is a ruin deep in the undead-infested jungles of Chult that was destroyed 
 After a thousand years in the jungle, Ras Nsi couldn't wait any longer and decided to lay siege on Mezro with his now gigantic undead army. In the battles that followed, Ras Nsi was slain and Mezro was laid to waste. It's said that **Artus Cimber** also fought Ras Nsi. 
 Without their leader, Ras Nsi's undead started roaming the jungles around Mezro. This was around 100 years ago. Ras Nsi's undead are marked by a blue triangle on their head.
 
-We've also heard that Mezro currently is home to a **psychic crocodile**, which is very exciting.
-Artus Cimber is currently heading there for unknown reasons.
-The Flaming Fist have an outpost near Mezro.
+Mezro is split up into four districts. The South East district is home to the Cult of the Crocodile, and the Flaming Fist has a base of operation in the North West district. Artus Cimber is rumoured to be in the South West district. Also, the city is flooded.
+
+There are signs that Frost Giants and Winter Wolves are roaming in the area around Mezro.
 
 ### Mbala
 A ruin down the river Shoshenstar. Starvation emptied the city and now it's supposedly haunted - but no one has really visited in decades.
@@ -144,7 +149,7 @@ A settlement of the Aarakocra, south east of Mezro.
 
 ### Fauna
 We've learned of the following indigenous plants and beasts:
-- Chult's jungles are full of **dinosaurs**, some of them undead!
+- Chult's jungles are full of **dinosaurs**, some of them undead! Areas with undead habitation have a denser vegitation.
 - There are many types of **Grung** in the jungle, with different colours designating different socetial standing. You can extract poison from them.
 - **Jaculi** are giant chameleon-camouflaged constrictor snakes that can jump
 - **Almiraj** are unicorn rabbits, a species not native to Chult
@@ -160,12 +165,17 @@ We've learned of the following indigenous plants and beasts:
 ---
 # Religion
 
+### The New God
+According to visions granted by the Psychic Crocodile in Mezro, a new god is coming to town.
+
 ### Ubtao
 **Ubtao** is the primordial god of Chult, and its protector. He disappeared around 100 years ago, and no one really seems to know how or why. This seems to coincide with the destruction of **Mezro**, but any relation is conjecture. Ubtao is the god of mazes, and their believers walk Ubtao's Maze of Life. 
 
 From the Temple of Crocodile and Man, it can be inferred that **Ubtao** and **Thard'har** were buddies who liked to ride on each other's back. This is in contrast to the official legend which claims animosity between the two.
 
 However, Ubtao isn't all labyrinths and piggybacks: the **Legend of the Aldani** tells the tale of fishermen in the Aldani Basin who fished fish from river Shoshenstar and sold the fish for profit. Ubtao frowned upon this and turned the entire village into crab people.
+
+There are statues of Ubtao, depicted as a giant Chultan native with feathered wings and a T-rex head, across Chult. If you trace the maze on its stomach with your finger, you get a prize.
 
 ### Thard'har
 Chultan God of the Albino Dwarves, often depicted as a crocodile.
