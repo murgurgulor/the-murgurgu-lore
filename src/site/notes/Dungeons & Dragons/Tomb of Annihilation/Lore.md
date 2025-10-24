@@ -23,14 +23,14 @@ Sidequests:
 # Threads of Visions
 While wrestling the Psychic Crocodile, Mo received a number of visions.
 
-### The Snake City
+### The Serpentine City
 A vision of a city overgrown with vines and surrounded by cliffs. Snakes crawl the streets. This does not match any geographical location or description of any of the cities in Chult we know.
 
 ### The Black Obelisk
 A vision of a black obelisk covered in vines. Possibly a crystal containing great arcane energies and/or souls.
 
 ### The Crystal Cylinder
-A vision of a large crystal cylinder supported on struts of adamantine. Faces float by inside the crystal - pos. We surmise this is some sort of (man-made) machine.
+A vision of a large crystal cylinder supported on struts of adamantine. Faces float by inside the crystal - possibly souls. We surmise this is some sort of (man-made) machine.
 
 ### The Many-Eyed God
 A vision of a gigantic being of black flesh and countless eyes. In the space behind, countless dead titans float by - one of which we identified as Tymora. This may relate to the Children of the Crocodile's mentions of a new God coming to town.
