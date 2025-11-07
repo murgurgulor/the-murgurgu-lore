@@ -147,7 +147,7 @@ When Stress reduces your CTRL, you immediately make a CTRL Save using the new sc
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-3       | You are rattled and shaken, making you more wary for the future. Roll 1d6: if it's higher than your max HP, take the new result.                                                                                                                                                                   |
 | 4-5       | The shock causes you to focus on little else than survival. You're **Deprived** until you rest in a safe location for a few hours. Afterwards, rolls 1d6 and add the number to your max HP.                                                                                                        |
-| 6-7       | You've dropped and broken all your items, but this experience has hardened your mind. Gain +1 Stability (Max 3).                                                                                                                                                                                   |
+| 6-7       | You are paralyzed with fear. You've dropped and broken all your items and can't move willingly. If you survive this scene, the experience has hardened your mind. Gain +1 Stability (Max 3).                                                                                                       |
 | 8-9       | Your experience has caused you to become increasingly paranoid of your allies. Until they manage to keep you calm for a day and convince you otherwise, you don't trust them anymore. When you are sufficiently calmed down, roll 3d6: if it's higher than your current CTRL, take the new result. |
 | 10+       | Your mind is shattered, but you're still hanging on by a thread. If your next Save against Fallout is a fail, you go permanently insane. If you pass you've gained an unnatural insight in the world: roll 1d6 and add the result to your CTRL.                                                    |
 
@@ -162,6 +162,7 @@ Each Whisper Card has two prompts. Choose one and act on it in the subsequent sc
 # Voidcrawling
 Whenever your character or group moves through the horrible environment, unexpected events can happen. The procedure that is used to guide exploration and events is called the **Voidcrawling Procedure**. Each Voidcrawling Procedure consists of one or more Voidcrawl Cycles:
 
+### The Voidcrawl Cycle
 1. The GM describes the environment and rehashes the current situation, giving any pertinent information that is immediately noticeable to the characters.
 2. The players each declare which (one) action their characters will take during the cycle. Examples of common actions are:
     - Moving to a different area
@@ -169,25 +170,52 @@ Whenever your character or group moves through the horrible environment, unexpec
     - Keeping an eye out for dangers to avoid being surprised by anything unexpected
     - Overcome an obstacle in your way such as a locked door or blocking debris
 3. Everyones' actions resolve simultaneously
-4. The GM determines whether to roll the Event Die, and resolves the outcome.
+4. The GM determines whether to Tick the **Voidclock**, and resolves any .
 5. Any resources are checked against their duration, the GM's tools and tables are updated, and the Cycle repeats.
 
 ---
-### Event Die
-The Event Die is a d6 that gets rolled by the GM to determine what unexpected event, if any, befalls the characters. Triggers for the GM to roll the Event Die can be:
-- When the group stays in the same (unsafe) location for more than one Cycle
-- When the group takes a rest in an unsafe location
-- When the group travels to a different or new location
-- When the group does something that could attract unwanted attention
-- When the group does something reckless
+### The Voidclock
+When crawling in a dangerous place, the **Voidclock** determines when wandering encounters and altered circumstances will befall the party.
 
-The Event Die outcomes are as follows:
+The Voidclock starts at **20**. Each time the Clock Ticks, the GM rolls the **Void Die** and subtracts the amount from the Clock. If the Void Die rolls its maximum, it explodes: roll again immediately and Tick the Clock further.
 
-| d6  | Outcome     | Explanation                                                                                                                       |
-| --- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Encounter   | The group is presented with a Wandering Encounter.                                                                                |
-| 2   | Sign        | The group finds a clue or sign to someone - or something - nearby.                                                                |
-| 3   | Environment | The environment shifts. Passages may be blocked, factions may move, or a resource may falter.                                     |
-| 4   | Loss        | Something breaks, fails, or otherwise becomes unusable.                                                                           |
-| 5   | Exhaustion  | Everyone gets tired, hungry, and thirsty. The group has to choose to either rest for a Cycle, consume a ration, or add a Fatigue. |
-| 6   | Quiet       | You're safe and left alone... for now...                                                                                          |
+The Clock Ticks when:
+- Characters travel to a new location
+- Characters traverse a sequence of previously explored locations
+- Characters linger in an unsafe location
+- Characters rest in an unsafe location
+- Characters make a disturbance or cause a ruckus
+
+Events transpire as the Clock Ticks down:
+
+| Voidclock Count             | Event                     |
+| --------------------------- | ------------------------- |
+| When it first goes below 10 | **Altered Circumstances** |
+| 1-3                         | **Sign or Omen**          |
+| 0                           | **Wandering Encounter**   |
+
+**Altered Circumstances** include: 
+- the **Environment** changing in a meaningful way (passages get blocked/opened, what was once safe is not safe anymore)
+- a **Choice** needing to be made (take a longer safer route, or a short but dangerous route)
+- an unfortunate **Setback** befalls the party (Fatigue and hunger strike requiring a rest, or the Void wages attrition)
+
+A **Sign or Omen** preludes the Wandering Encounter. Roll on the Encounter table and telegraph the impending event. Characters can respond to it and, if clever, may be able to avoid it.
+
+The **Wandering Encounter** occurs at a distance appropriate to the situation and environment. If there hasn't been a Sign or Omen, the party may be Surprised.
+
+
+##### Alerting the Void
+The **Void Die** starts as a **d6**. Whenever the party alerts the environment or does something reckless, the Void Die steps up - to a max of **d12**. Laying low for a prolonged period of time - usually outside of the Void itself - causes the Void Die to step down. 
+
+Alternatively use below descriptors to determine the Void Die Size:
+
+| Descriptor | Void Die |
+| ---------- | -------- |
+| Calm       | d6       |
+| Alert      | d8       |
+| Alarmed    | d10      |
+| Crisis     | d12      |
+
+---
+### Resting in the Void
+Whenever the characters want to rest to regain their HP, they have to rest for a Cycle and consume a Ration. Resting in an unsafe location Ticks the Clock. If a Wandering Encounter happens during a rest, no rest is had.
