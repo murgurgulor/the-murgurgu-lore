@@ -43,7 +43,7 @@ Events transpire as the Clock Ticks down:
 **Altered Circumstances** include: 
 - the **Environment** changing in a meaningful way (passages get blocked/opened, what was once safe is not safe anymore)
 - a **Choice** needing to be made (take a longer safer route, or a short but dangerous route)
-- an unfortunate **Setback** befalls the party (Fatigue and hunger strike requiring a rest, or the Void wages attrition)
+- an unfortunate **Setback** befalls the party (a resource is lost, or the Void wages attrition)
 
 A **Sign or Omen** preludes the Wandering Encounter. Roll on the Encounter table and telegraph the impending event. Characters can respond to it and, if clever, may be able to avoid it.
 
