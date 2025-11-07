@@ -188,11 +188,11 @@ The Clock Ticks when:
 
 Events transpire as the Clock Ticks down:
 
-| Voidclock Count             | Event                     |
-| --------------------------- | ------------------------- |
-| When it first goes below 10 | **Altered Circumstances** |
-| 1-3                         | **Sign or Omen**          |
-| 0                           | **Wandering Encounter**   |
+| Voidclock Count | Event                     |
+| --------------- | ------------------------- |
+| 7-10            | **Altered Circumstances** |
+| 1-3             | **Sign or Omen**          |
+| 0               | **Wandering Encounter**   |
 
 **Altered Circumstances** include: 
 - the **Environment** changing in a meaningful way (passages get blocked/opened, what was once safe is not safe anymore)
@@ -201,7 +201,7 @@ Events transpire as the Clock Ticks down:
 
 A **Sign or Omen** preludes the Wandering Encounter. Roll on the Encounter table and telegraph the impending event. Characters can respond to it and, if clever, may be able to avoid it.
 
-The **Wandering Encounter** occurs at a distance appropriate to the situation and environment. If there hasn't been a Sign or Omen, the party may be Surprised.
+The **Wandering Encounter** occurs at a distance appropriate to the situation and environment. If there hasn't been a Sign or Omen, the party may be Surprised. After the Encounter has resolved, the Voidclock resets to 20.
 
 
 ##### Alerting the Void
