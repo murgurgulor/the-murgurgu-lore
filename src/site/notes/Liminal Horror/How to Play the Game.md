@@ -170,7 +170,7 @@ Whenever your character or group moves through the horrible environment, unexpec
     - Keeping an eye out for dangers to avoid being surprised by anything unexpected
     - Overcome an obstacle in your way such as a locked door or blocking debris
 3. Everyones' actions resolve simultaneously
-4. The GM determines whether to Tick the **Voidclock**, and resolves any .
+4. The GM determines whether to Tick the **Voidclock**, and resolves any Events.
 5. Any resources are checked against their duration, the GM's tools and tables are updated, and the Cycle repeats.
 
 ---
