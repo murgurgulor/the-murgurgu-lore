@@ -3,7 +3,6 @@
 ---
 
 
-
 # Voidcrawling
 
 Whenever your character or group moves through a horrible environment, unexpected events can happen. The procedure that is used to guide exploration and events is called the **Voidcrawling Procedure**. Each Voidcrawling Procedure consists of one or more **Voidcrawl Cycles**. Actions made in the Cycle might Tick the **Voidclock**.
@@ -17,7 +16,7 @@ Whenever your character or group moves through a horrible environment, unexpecte
     - Keeping an eye out for dangers to avoid being surprised by anything unexpected
     - Overcome an obstacle in your way such as a locked door or blocking debris
 3. Everyones' actions resolve simultaneously
-4. The GM determines whether to Tick the **Voidclock**, and resolves any .
+4. The GM determines whether to Tick the **Voidclock**, and resolves any Events.
 5. Any resources are checked against their duration, the GM's tools and tables are updated, and the Cycle repeats.
 
 ---
@@ -35,11 +34,11 @@ The Clock Ticks when:
 
 Events transpire as the Clock Ticks down:
 
-| Voidclock Count             | Event                     |
-| --------------------------- | ------------------------- |
-| When it first goes below 10 | **Altered Circumstances** |
-| 1-3                         | **Sign or Omen**          |
-| 0                           | **Wandering Encounter**   |
+| Voidclock Count | Event                     |
+| --------------- | ------------------------- |
+| 7-10            | **Altered Circumstances** |
+| 1-3             | **Sign or Omen**          |
+| 0               | **Wandering Encounter**   |
 
 **Altered Circumstances** include: 
 - the **Environment** changing in a meaningful way (passages get blocked/opened, what was once safe is not safe anymore)
@@ -48,7 +47,7 @@ Events transpire as the Clock Ticks down:
 
 A **Sign or Omen** preludes the Wandering Encounter. Roll on the Encounter table and telegraph the impending event. Characters can respond to it and, if clever, may be able to avoid it.
 
-The **Wandering Encounter** occurs at a distance appropriate to the situation and environment. If there hasn't been a Sign or Omen, the party may be Surprised.
+The **Wandering Encounter** occurs at a distance appropriate to the situation and environment. If there hasn't been a Sign or Omen, the party may be Surprised. After the Encounter has resolved, the Voidclock resets to 20.
 
 
 ##### Alerting the Void
