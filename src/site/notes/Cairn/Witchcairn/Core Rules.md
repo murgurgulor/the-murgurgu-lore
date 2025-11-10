@@ -60,7 +60,7 @@ Whenever you want to take an action, you - and the GM - should keep in mind the 
 4. **Risk** - What's at risk with this action? If there is no risk, there is no roll.
 5. **Impact** - The consequences of the action, honoring the intent, cost, and risks.
 
-This sequence of events can be shorted to **ILCRI**. You can easily remember this with the following mnemonic: 'Intent, Leverage, Cost, Risk, Impact.'
+This sequence of events can be shorted to **ILCRI**. You can easily remember this with the following mnemonic: '*Intent, Leverage, Cost, Risk, Impact.*'
 
 ### Saves
 The main roll in the game is the Save. You don't make a Save to see if you can do something, you make a Save **to avoid risk or harm** when you do something. If you take an action that doesn't have any risk involved, you don't need to roll a Save - you can just do it. Saves are made with one of the three attributes: VIG, CLA, or SPI.
@@ -159,6 +159,9 @@ The Gambits are:
 - **Expose**: Negate the opponent's sources of Armor for the round.
 - **Dismount**: Dismount a mounted opponent.
 - **Something else** that would reasonably fit in the above list.
+
+**Example**:
+Characters Yan and Yokel both declare to attack the same creature. Yan is wielding two daggers, Yokel a longsword and shield. When their action resolves, Yan rolls 1d6 twice and Yokel rolls 1d8 and 1d4. They come up with 2, 4, 5, 4 respectively. Yan and Yokel decide to take Yokel's 5 for damage, and to expend both 4's to perform two Gambits. They can't choose the same Gambit twice, so one Gambit will be Bolster to increase the attack's damage to 6. The other Gambit will attempt to Repel the creature away, but it gets a VIG Save to avoid the effect.
 
 ### Feats
 Every character can perform the following 3 Feats in combat. You can only apply one Feat per character per attack. After you perform a Feat, roll the appropriate Save. On a failed Save you can't perform anymore Feats until you've had a rest that recovered your Guard.
