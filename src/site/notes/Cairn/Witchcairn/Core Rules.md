@@ -160,7 +160,7 @@ The Gambits are:
 - **Dismount**: Dismount a mounted opponent.
 - **Something else** that would reasonably fit in the above list.
 
-**Example**:
+**Example**
 Characters Yan and Yokel both declare to attack the same creature. Yan is wielding two daggers, Yokel a longsword and shield. When their action resolves, Yan rolls 1d6 twice and Yokel rolls 1d8 and 1d4. They come up with 2, 4, 5, 4 respectively. Yan and Yokel decide to take Yokel's 5 for damage, and to expend both 4's to perform two Gambits. They can't choose the same Gambit twice, so one Gambit will be Bolster to increase the attack's damage to 6. The other Gambit will attempt to Repel the creature away, but it gets a VIG Save to avoid the effect.
 
 ### Feats
@@ -233,10 +233,9 @@ All Attribute Damage is fully recovered after a full week's dedicated rest.
 
 ### Armor
 - **Shield**: +1 Armor, At Hand slot, can be used to Shield Bash for d4, but you lose the Armor value until your next turn.
-- **Helmet**: +1 Armor, Body slot
-- **Gambeson**: +1 Armor, Body slot
-- **Chain Shirt**: +1 Armor, Body slot, Bulky
-- **Chain Mail**: +2 Armor, Body slot, Bulky
+- **Light Armor** (Gambeson, Chain Shirt): +1 Armor, Body slot
+- **Heavy Armor** (Chain Mail, Breastplate): +2 Armor, *Bulky*, Body slot
+- **Plate Mail**: +3 Armor, *Bulky*, Body slot. Difficult to move around in.
 
 
 ---
