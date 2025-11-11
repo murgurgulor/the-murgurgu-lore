@@ -333,7 +333,7 @@ If you try to channel a Runestone in a particularly tense or dangerous situation
 
 ### Magical Effects
 The effects of magic are broad and difficult to define. In general, keep in mind the following types of effects you can achieve with magic:
-- Create a unique circumstance to fix an issue or solve a pro
+- Create a unique circumstance to fix an issue or solve a problem
 - Bypass a situation that could normally require you to make a Save
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder of aid actions of others
