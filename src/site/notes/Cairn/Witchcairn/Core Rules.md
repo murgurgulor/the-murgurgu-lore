@@ -322,7 +322,7 @@ Magic is contained in **Runestones**. Runestones are stones veined with a rare s
 
 When you wield a Runestone, you can focus your energy on visualizing an intended effect on the physical world that could be described with the Ur-Runes on the stone. The GM will tell you to what extent your effect is achievable.
 
-For example:
+**Example**
 If you wield a Runestone with the runes '*Expanding Mind*', one application could be to temporarily enhance someone's cognitive capacities in order to solve a difficult problem. A different application could be to enlarge an opponent's brain in their skull to hurt them. A third application could be to establish some form of telepathy between several people and create a temporary hivemind.
 
 ### Channeling Runestones
