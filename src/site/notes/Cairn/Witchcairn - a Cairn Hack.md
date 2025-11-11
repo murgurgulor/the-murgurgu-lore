@@ -287,7 +287,7 @@ Balanced Weapons have a d8 as their attack die.
 Examples of Balanced Weapons are longsword, spears, maces, battleaxes, etc.
 
 **Great Weapons** (*d10*)
-Great Weapons are weapons that require both hands to wield. They are a large size and have a large reach, but that may become a hindrance in restricted spaces.
+Great Weapons are weapons that require both hands to wield. They are a large size and have a wide reach, but that may become a hindrance in restricted spaces.
 Great Weapons have a d10 as their attack die. They are *Bulky* and have *Reach*, but attacks with Great Weapons in confined spaces are *Impaired*.
 Examples of Great Weapons are greatswords, glaives, halberds, longspears, etc.
 
@@ -318,6 +318,7 @@ Ranged Weapons can target anyone you can see, but attacks against *Distant* targ
 
 ---
 # Magic
+### Runestones
 Magic is contained in **Runestones**. Runestones are stones veined with a rare star metal that acts as a conduit between the wielder's intent and the physical reality. Each Runestone is inscribed with two runes of the Ur-language. These Runes are difficult to directly translate and can have many different meanings based on the circumstances and intent.
 
 When you wield a Runestone, you can focus your energy on visualizing an intended effect on the physical world that could be described with the Ur-Runes on the stone. The GM will tell you to what extent your effect is achievable.
@@ -340,10 +341,11 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 - Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or *Nearby*
 	- Or: deal direct attribute damage (*d4*) if the target fails a Save
 
+
 ### Extra Effort
 If you want to achieve an effect that's greater than listed above - such as affecting more than one target, covering a larger area or range, enhancing the overall effect, or any combination thereof - you will have to put in extra **Effort**. 
 
-Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand.
+Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because if the intentions of the two persons do not align properly, it can backfire. The aiding person needs to pass a SPI Save in order to avoid a negative side-effect from misaligned intentio
 
 For each Effort you put in, roll a d6. For each die that comes up as a 1-3 you take an additional instance of **Strain** after the magical effect has passed. Additionally, if one or more of the dice comes up as a 1, the Runestone is tapped out and can't be used again until it is recharged. Each Runestone has a specific recharge ritual related to the Runes it holds.
 
