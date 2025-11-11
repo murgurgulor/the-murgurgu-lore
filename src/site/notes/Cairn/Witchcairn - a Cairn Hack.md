@@ -288,7 +288,7 @@ Examples of Balanced Weapons are longsword, spears, maces, battleaxes, etc.
 
 **Great Weapons** (*d10*)
 Great Weapons are weapons that require both hands to wield. They are a large size and have a large reach, but that may become a hindrance in restricted spaces.
-Great Weapons have a d10 as their attack die. They are *Bulky* and have *Reach*, but attacks with Great Weapons in confined spaces they are *Impaired*.
+Great Weapons have a d10 as their attack die. They are *Bulky* and have *Reach*, but attacks with Great Weapons in confined spaces are *Impaired*.
 Examples of Great Weapons are greatswords, glaives, halberds, longspears, etc.
 
 **Special**
@@ -333,6 +333,7 @@ If you try to channel a Runestone in a particularly tense or dangerous situation
 
 ### Magical Effects
 The effects of magic are broad and difficult to define. In general, keep in mind the following types of effects you can achieve with magic:
+- Create a unique circumstance to fix an issue or solve a pro
 - Bypass a situation that could normally require you to make a Save
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder of aid actions of others
