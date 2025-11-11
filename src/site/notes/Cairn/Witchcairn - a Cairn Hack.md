@@ -338,12 +338,12 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder of aid actions of others
 - Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or *Nearby*
-	- Or: deal direct attribute damage (*1d4*) if the target fails a Save
+	- Or: deal direct attribute damage (*d4*) if the target fails a Save
 
 ### Extra Effort
 If you want to achieve an effect that's greater than listed above - such as affecting more than one target, covering a larger area or range, enhancing the overall effect, or any combination thereof - you will have to put in extra **Effort**. 
 
-Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort).
+Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they have empty Inventory Slots and they hold your h
 
 For each Effort you put in, roll a d6. For each die that comes up as a 1-3 you take an additional instance of **Strain** after the magical effect has passed. Additionally, if one or more of the dice comes up as a 1, the Runestone is tapped out and can't be used again until it is recharged. Each Runestone has a specific recharge ritual related to the Runes it holds.
 
