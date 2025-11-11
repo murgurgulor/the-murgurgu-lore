@@ -288,7 +288,7 @@ Examples of Balanced Weapons are longsword, spears, maces, battleaxes, etc.
 
 **Great Weapons** (*d10*)
 Great Weapons are weapons that require both hands to wield. They are a large size and have a large reach, but that may become a hindrance in restricted spaces.
-Great Weapons have a d10 as their attack die. They are *Bulky* and have *Reach*, but in confined spaces they are *Impaired*.
+Great Weapons have a d10 as their attack die. They are *Bulky* and have *Reach*, but attacks with Great Weapons in confined spaces they are *Impaired*.
 Examples of Great Weapons are greatswords, glaives, halberds, longspears, etc.
 
 **Special**
