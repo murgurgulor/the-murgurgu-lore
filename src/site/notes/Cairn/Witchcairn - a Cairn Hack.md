@@ -65,7 +65,12 @@ Armor from body pieces only functions if it is worn on a *Body* slot.
 # The Rules of the Game
 The rules of the game are straightforward. The GM describes the environment and your situation, and the player characters react to it. Characters can do anything they can be reasonably assumed to be capable of, keeping in mind their background and prior achievements. 
 
-There are no rolls to see if you can do an activity. The intention is that the action is always moving forward and that it must present interesting choices. Failing to do something neither moves action forward nor presents an interesting choice. Therefore, you can do any action your character could reasonably do, but you might need to roll the dice to see if you can avoid harm when you do risky things.
+The core tenets of the game are:
+1. The action is always moving forward
+2. When moving forward, the players are presented with interesting choices
+3. Each choice has an impact on the action
+
+Following the core tenets, there are no rolls to see if you can do an activity. Failing to do something neither moves action forward nor presents an interesting choice nor has any impact on the action. Therefore, you can do any action your character could reasonably do, but you might need to roll the dice to see if you can avoid harm when you do risky things.
 
 There are no Knowledge- or Perception-type rolls. The GM gives any information a character would likely know/see with regards to their background or situation. Neither are there Persuasion-type rolls: you interact with an NPC as you would with a normal person, and they react according to their personality/motivations/beliefs.
 
