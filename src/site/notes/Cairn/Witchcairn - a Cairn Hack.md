@@ -221,14 +221,14 @@ The Feats are:
 	- Your attack gains the *Blast* property
 	- You leave a specific physical mark on your enemy, if this attack Wounds your opponent 
 - **Focus** (*CLA Save*): You declare to Focus *after you've rolled your attack dice, but before damage is applied*. When you Focus, you can perform a Gambit against your opponent without expending an attack die. 
-- **Deflect** (*SPI Save*): You declare to Deflect *when you or an ally at arm's length are hit with an attack*. When you Deflect, you can choose to discard one of the attacker's attack dice. 
+- **Fend** (*SPI Save*): You declare to Fend *when you or an ally at arm's length are hit with an attack*. When you Fend, you can choose to discard one of the attacker's attack dice. 
 
 
 ---
 # Getting Hurt
 When enemies attack you, follow this procedure:
 - Consider the attack dice rolled by the opponents
-- Choose whether you (or one of your ally's) wants to **Deflect**
+- Choose whether you (or one of your ally's) wants to **Fend**
 - Deduct your Armor value from the damage.
 - Apply the remaining damage to your Guard. 
 	- If you have at least 1 GD remaining, you have evaded the attack.
