@@ -229,7 +229,7 @@ The Feats are:
 When enemies attack you, follow this procedure:
 - Consider the attack dice rolled by the opponents
 - Choose whether you (or one of your ally's) wants to **Fend**
-- Deduct your Armor value from the damage.
+- Deduct your Armor value from the highest value remaining.
 - Apply the remaining damage to your Guard. 
 	- If you have at least 1 GD remaining, you have evaded the attack.
 	- If this brings your GD exactly to 0, you take a **Scar**.
