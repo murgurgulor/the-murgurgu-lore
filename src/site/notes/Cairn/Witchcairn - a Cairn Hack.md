@@ -58,6 +58,11 @@ Strain is a condition that represents fatigue and stress. It occupies 1 Inventor
 
 Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. You remove one instance of Strain after a full night's rest.
 
+---
+![Pasted image 20251112090420.png](/img/user/z_attachments/Pasted%20image%2020251112090420.png)
+*Example of an instance of Strain occupying your Inventory Slot.*
+
+---
 
 ### Armor
 Armor represents physical gear that blocks damage from incoming attacks. When you get attacked with a physical attack, you deduct your Armor value from the damage before applying it to your GD.
