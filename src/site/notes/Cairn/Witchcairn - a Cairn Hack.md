@@ -61,7 +61,7 @@ Strain is a condition that represents fatigue and stress. It occupies 1 Inventor
 
 Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. 
 
-You remove all Strain after a full night's rest, or only one instance of Strain if your night's rest was interrupted with light activities (keeping watch, investigating a sound). You don't remove any Strain if your night was rudely interrupted by cumbersome activities like fighting or fle
+You remove all Strain after a full night's rest, or only one instance of Strain if your night's rest was interrupted with light activities (keeping watch, investigating a sound). You don't remove any Strain if your night was rudely interrupted by cumbersome activities like fighting or fleeing.
 
 ---
 ![Pasted image 20251112090420.png](/img/user/z_attachments/Pasted%20image%2020251112090420.png)
@@ -183,6 +183,8 @@ You can make a melee attack against an opponent if you are *Engaged* with them, 
 You can make ranged attacks against opponents that are *Nearby* or *Far Away* without a problem. A ranged attack against a *Distant* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
 
 Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 ticks of usage. After combat, roll a d6. If you roll a 1-3, you cross off one of the ticks. When all three ticks are crossed off, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight.
+
+You can also stock up on more ammo by buying separate Quivers. Each additional Quiver occupies an item slot and has 3 usage ticks. An extra Quiver needs to be on a *Body* slot in order to 
 
 ---
 ![Pasted image 20251112085958.png](/img/user/z_attachments/Pasted%20image%2020251112085958.png)![Pasted image 20251112085912.png](/img/user/z_attachments/Pasted%20image%2020251112085912.png)
