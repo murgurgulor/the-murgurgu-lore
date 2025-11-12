@@ -184,7 +184,7 @@ You can make ranged attacks against opponents that are *Nearby* or *Far Away* wi
 
 Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 ticks of usage. After combat, roll a d6. If you roll a 1-3, you cross off one of the ticks. When all three ticks are crossed off, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight.
 
-You can also stock up on more ammo by buying separate Quivers. Each additional Quiver occupies an item slot and has 3 usage ticks. An extra Quiver needs to be on a *Body* slot in order to 
+You can also stock up on more ammo by buying separate Quivers. Each additional Quiver occupies an item slot and has 3 usage ticks. An extra Quiver needs to be on a *Body* slot in order to use.
 
 ---
 ![Pasted image 20251112085958.png](/img/user/z_attachments/Pasted%20image%2020251112085958.png)![Pasted image 20251112085912.png](/img/user/z_attachments/Pasted%20image%2020251112085912.png)
@@ -219,7 +219,9 @@ When you perform a Gambit, the target of the Gambit must be the target of the at
 
 Targets get to make a **VIG Save** to avoid the effect of a Gambit - with the exception of the *Bolster* and *Move* Gambit. If you expend an 8+ die for the Gambit, you can deny the target their Save.
 
-If multiple characters perform a Gambit against the same target at the same time, they can't perform the same Gambit. 
+If multiple characters perform a Gambit against the same target at the same time, they can't perform the same Gambit, with the exception of *Bolster* and *Move*. 
+
+If one character performs multiple Gambits that grant a Save, the opponent only gets to roll one VIG Save for an all-or-nothing
 
 Gambits can never do something that would outright end combat, they only give a temporary advantage.
 
