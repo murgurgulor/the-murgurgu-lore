@@ -182,13 +182,13 @@ You can make a melee attack against an opponent if you are *Engaged* with them, 
 ##### Ranged Attacks
 You can make ranged attacks against opponents that are *Nearby* or *Far Away* without a problem. A ranged attack against a *Distant* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
 
-Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 ticks of usage. After combat, roll a d6. If you roll a 1-3, you cross off one of the ticks. When all three ticks are crossed off, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight.
+Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 usage dots. After combat, roll a d6. If you roll a 1-3, you mark one of the dots. When all three dots are marked, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight.
 
-You can also stock up on more ammo by buying separate Quivers. Each additional Quiver occupies an item slot and has 3 usage ticks. An extra Quiver needs to be on a *Body* slot in order to use.
+You can also stock up on more ammo by buying separate Quivers. Each additional Quiver occupies an item slot and has 3 usage dots. An extra Quiver needs to be on a *Body* slot in order to use.
 
 ---
 ![Pasted image 20251112085958.png](/img/user/z_attachments/Pasted%20image%2020251112085958.png)![Pasted image 20251112085912.png](/img/user/z_attachments/Pasted%20image%2020251112085912.png)
-*An example of a Bow item card and a separate Quiver item card, with usage ticks*
+*An example of a Bow item card and a separate Quiver item card, with usage dots*
 
 ---
 
@@ -436,7 +436,7 @@ If the party wants to recover their GD and Feats while in a dungeon, they need t
 ##### Light in a Dungeon
 If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
 
-A regular Torch lasts for an hour, and can be lit 3 times. Barring any unfortunate Setbacks, this means one Torch should last 18 Cycles.
+A regular Torch can last for 3 hours, unless unfortunate Setbacks cause them to falter earlier. Every 6 Dungeon Cycles, mark one usage dot on the Torch. You also mark one usage dot whenever you have to relight an extinguished Torch.
 
 
 ---
