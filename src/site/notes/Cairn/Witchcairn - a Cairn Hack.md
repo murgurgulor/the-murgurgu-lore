@@ -169,6 +169,12 @@ You can make ranged attacks against opponents that are *Nearby* or *Far Away* wi
 
 Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 ticks of usage. After combat, roll a d6. If you roll a 1-3, you cross off one of the ticks. When all three ticks are crossed off, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight.
 
+---
+![Pasted image 20251112085707.png](/img/user/z_attachments/Pasted%20image%2020251112085707.png)
+*An example of a Bow item card with usage ticks*
+
+---
+
 You can choose to carry an addition Quiver. This takes up one Inventory Slot and also contains 3 ticks worth of usage. The Quiver needs to be worn on a *Body* slot to be used.
 
 
