@@ -413,9 +413,9 @@ The GM rolls the Event Die when the party draws attention to themselves, such as
 - Characters rest in an unsafe location
 - Characters make a disturbance or cause a ruckus
 
-The Event Die starts as a d12. If the party's actions creates unrest and disturbances in the dungeon, the Event Die steps down (so from d12 to d10, or from d8 to d6). Additionally, the Event Die steps down every time the party encounters a Wandering Encounter. Laying low in a safe location can result in the Event Die stepping up again.
+The Event Die starts as a *d12*. If the party's actions creates unrest and disturbances in the dungeon, the Event Die steps down (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. Additionally, the Event Die steps down every time the party encounters a Wandering Encounter. Laying low in a safe location can result in the Event Die stepping up again to a maximum of *d12*.
 
-On a result of 1-3, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
+On a result of 1-3 on the Event Di, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
 
 | Event Die | Outcome                                                                                                                                                                                        |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -425,7 +425,7 @@ On a result of 1-3, something happens in response to the party's presence. A res
 | 4+        | It is quiet, for now...                                                                                                                                                                        |
 
 ### Resting in a Dungeon
-If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle and each consume one Ration. If they rest in an unsafe location in the dungeon, the GM will roll the Event Dice.
+If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle and each consume one Ration. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die.
 
 ### Light in a Dungeon
 If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
