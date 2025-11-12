@@ -120,7 +120,7 @@ After checking these factors, the GM decides:
 ### Conditions
 There are three Conditions that influence your character's capacities:
 - **Exposed**: You are Exposed if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
-- **Strain**: Strain can be gained in various ways, such as failed Saves, strenuous activities, casting magic spells, or staying up too late. Each instance of Strain occupies one Inventory Slot. A full night's rest removes one instance of Strain.
+- **Strain**: Strain can be gained in various ways, such as failed Saves, strenuous activities, casting magic spells, or staying up too late. Each instance of Strain occupies one Inventory Slot. A full night's rest removes all Strain, a night's rest interrupted by light activities such as keeping watch removes only one Strain.
 - **Deprived**: You're Deprived if you haven't had sufficient food, drink, or rest for 24 hours. When you're Deprived, you can't recover your Guard in a short rest. If you are Deprived for more than 24 hours, you take one instance of Strain for every day you're Deprived thereafter. As soon as you cure the source of your deprivation, you lose the condition.
 
 ---
@@ -332,7 +332,7 @@ Ranged Weapons can target anyone you can see, but attacks against *Distant* targ
 
 **Two-handed (*Bulky*) Ranged Weapons**
 - Bow: d6 attack die. Quiver(3) included in the Item.
-- Crossbow: d8 attack die, and has to be reloaded as an action after each attack. Bolts included in the Item.
+- Crossbow: d8 attack die, and has to be reloaded as an action after each attack. Bolts(3) included in the Item.
 
 
 ### Armor
