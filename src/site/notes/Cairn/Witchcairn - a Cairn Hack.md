@@ -443,7 +443,7 @@ A regular Torch has 3 usage dots and can last for 3 hours, unless unfortunate Se
 ### Wilderness Travel
 When traveling, time is measured in **Watches**. There are three Watches to a day, each around 8 hours long.
 - The **Morning Watch** is from around an hour before **Sunrise** until lunch.
-- The **Afternoon Watch** is from lunch until after **Sunset**.
+- The **Afternoon Watch** is from lunch until an hour or two after **Sunset**.
 - The **Night Watch** is during the dark hours.
 
 Usually two Watches in the day are spent with activities, and one Watch is spent Making Camp and resting. If you go three Watches without resting, you become **Deprived** and take **Strain**.
