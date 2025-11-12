@@ -11,6 +11,9 @@ This is a custom ruleset with elements taken from the following 'Marked by the O
 
 ---
 # What's on the Character Sheet
+![Pasted image 20251112101401.png](/img/user/z_attachments/Pasted%20image%2020251112101401.png)
+
+---
 ### Attributes
 There are three attributes: **Vigour** (VIG), **Clarity** (CLA), and **Spirit** (SPI).
 - **Vigour** encompasses your physical strength, fortitude, and stamina. If you take physical damage, it lowers your Vigour.
@@ -373,7 +376,7 @@ If you want to achieve an effect that's greater than listed above - such as affe
 
 Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
 
-For each Effort you put in, roll a d6. For each die that comes up as a 1-3 you take an additional instance of **Strain** after the magical effect has passed. Additionally, if one or more of the dice comes up as a 1, the Runestone is tapped out and can't be used again until it is recharged. Each Runestone has a specific recharge ritual related to the Runes it holds.
+After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, the Runestone is tapped out and can't be used again until it is recharged. Each Runestone has a specific recharge ritual related to the Runes it holds.
 
 
 ### Random Runestones
@@ -385,7 +388,6 @@ If you happen to find a random Runestone, the Ur-Runes inscribed are randomly de
 # Optional Reading
 
 ## Procedures
-
 ### Dungeon Crawling
 When the player characters move through a dungeon, or a dungeon-like environment, they follow of cyclical process of exploring and searching: the **Dungeon Cycle**. A Dungeon Cycle takes an unspecified amount of time, but for purposes of time-keeping for effect durations is considered to last for 10 minutes.
 
@@ -415,7 +417,7 @@ The GM rolls the Event Die when the party draws attention to themselves, such as
 
 The Event Die starts as a *d12*. If the party's actions creates unrest and disturbances in the dungeon, the Event Die steps down (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. Additionally, the Event Die steps down every time the party encounters a Wandering Encounter. Laying low in a safe location can result in the Event Die stepping up again to a maximum of *d12*.
 
-On a result of 1-3 on the Event Di, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
+On a result of 1-3 on the Event Die, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
 
 | Event Die | Outcome                                                                                                                                                                                        |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
