@@ -47,6 +47,11 @@ Items come in 3 varieties:
 - **Bulky** items occupy 2 slots
 - **Petty** items occupy no slots, but a bunch of them can be bundled to occupy 1 slot. For example: 3 uses of Rations occupies one slot.
 
+---
+![Pasted image 20251112090234.png](/img/user/z_attachments/Pasted%20image%2020251112090234.png)![Pasted image 20251112090311.png](/img/user/z_attachments/Pasted%20image%2020251112090311.png)
+*Examples of item cards with multiple uses.*
+
+---
 
 ### Strain
 Strain is a condition that represents fatigue and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
