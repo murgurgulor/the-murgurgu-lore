@@ -161,10 +161,16 @@ If your attack didn't deplete your enemy's Guard, you didn't wound your enemy. I
 
 Attack dice range from d4 for unarmed or *Impaired* attacks to d10 for big two-handed weapons.
 
-Observe the following rules:
-- You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
-- Ranged Attacks made against targets that are *Distant* are *Impaired*.
-- Ammunition is not tracked, unless otherwise specified.
+##### Melee Attacks
+You can make a melee attack against an opponent if you are *Engaged* with them, or if they are *Nearby* and your weapon has the *Reach* property. You can dual wield two Light weapons, or one Balanced weapon and a Light weapon, rolling both attack dice if you do so.
+
+##### Ranged Attacks
+You can make ranged attacks against opponents that are *Nearby* or *Far Away* without a problem. A ranged attack against a *Distant* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
+
+Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 ticks of usage. After combat, roll a d6. If you roll a 1-3, you cross off one of the ticks. When all three ticks are crossed off, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight.
+
+You can choose to carry an addition Quiver. This takes up one Inventory Slot and also contains 3 ticks worth of usage. The Quiver needs to be worn on a *Body* slot to be used.
+
 
 ##### Multiple Attack Dice
 If you attack an opponent with more than one weapon, or if more than one character attacks the same opponent, multiple attack dice get rolled.
@@ -359,3 +365,55 @@ For each Effort you put in, roll a d6. For each die that comes up as a 1-3 you t
 If you happen to find a random Runestone, the Ur-Runes inscribed are randomly determined according to the spell generation methods of the TTRPG *Maze Rats*:
 
 ![Pasted image 20250910092446.png](/img/user/z_attachments/Pasted%20image%2020250910092446.png)
+
+---
+# Optional Reading
+
+## Procedures
+
+### Dungeon Crawling
+When the player characters move through a dungeon, or a dungeon-like environment, they follow of cyclical process of exploring and searching: the **Dungeon Cycle**. A Dungeon Cycle takes an unspecified amount of time, but for purposes of time-keeping for effect durations is considered to last for 10 minutes.
+
+Each Dungeon Cycle, the characters can move, explore, search, or rest in the dungeon, with the following sequence of play:
+
+1. The GM describes the current environment and rehashes the party's situation, giving any pertinent information that is immediately noticeable to the characters.
+2. The players each declare what activity their characters will be doing during the Cycle. Examples of common activities are:
+	- Moving through a long passage or hall
+	- Searching a room for secrets (particularly large rooms may require you to state a specific area to search)
+	- Traversing a series of previously explored rooms
+	- Keep an eye out for danger
+	- Overcome an obstacle, such as a locked door or a trap
+	- Fight monsters or bad guys
+3. Once everyone has declared their activity, all activities resolve simultaneously.
+4. The GM determines whether there is a trigger to roll the Event Dice on this Cycle, and resolves the outcome.
+5. Any resources are checked against their duration and inventory is updated, and the Cycle repeats.
+
+### The Event Dice
+When the characters move through the Dungeon, they might attract attention or cause the dungeon to change in some way. The Event Dice is a tool for the GM to determine when and how these dynamics change.
+
+The GM rolls one or more Event Dice when the party draws attention to themselves, such as:
+- Characters travel to a new location
+- Characters traverse a sequence of previously explored locations
+- Characters linger in an unsafe location
+- Characters rest in an unsafe location
+- Characters make a disturbance or cause a ruckus
+
+The Event Dice starts as 1d6. If the party's actions creates unrest and disturbances in the dungeon, additional d6s may be added to the pool. If the party lays lows for a while, d6s may be removed from the pool.
+
+When the Event Dice are rolled, the single lowest number rolled determines the outcome.
+
+
+| Event Dice | Outcome                                                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | A Wandering Encounter occurs.                                                                                                                                                                  |
+| 2          | Signs or Omens of a nearby Encounter or danger. If the party doesn't react to the signs, they will encounter problems.                                                                         |
+| 3          | Altered Circumstances indirectly hinder the party, such as the Environment of the dungeon changing, a Choice between to unwanted scenarios, or a Setback causes a resource to falter or break. |
+| 4-6        | It is quiet, for now...                                                                                                                                                                        |
+
+### Resting in a Dungeon
+If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle and each consume one Ration. If they rest in an unsafe location in the dungeon, the GM will roll the Event Dice.
+
+### Light in a Dungeon
+If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
+
+A regular Torch lasts for an hour, and can be lit 3 times. Barring any unfortunate Setbacks, this means one Torch should last 18 Cycles.
