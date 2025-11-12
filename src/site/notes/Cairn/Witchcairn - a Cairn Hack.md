@@ -221,7 +221,7 @@ Targets get to make a **VIG Save** to avoid the effect of a Gambit - with the ex
 
 If multiple characters perform a Gambit against the same target at the same time, they can't perform the same Gambit, with the exception of *Bolster* and *Move*. 
 
-If one character performs multiple Gambits that grant a Save, the opponent only gets to roll one VIG Save for an all-or-nothing
+If one character performs multiple Gambits that grant a Save, the opponent only gets to roll one VIG Save for an all-or-nothing result.
 
 Gambits can never do something that would outright end combat, they only give a temporary advantage.
 
@@ -294,11 +294,9 @@ When an attack in combat reduces your GD to exactly 0, you take a Scar. The amou
 | 12 GD   | **Doomed**: Death seemed ever so close, but somehow you survived. You are out of action until you've had a day to recover. Afterwards, your next VIG Save from a Wound determines your fate. If it is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max GD, take the new result. |
 
 ### Recovering
-To recover your GD, you need to rest for around 10 minutes and consume a Ration. Afterwards, your GD is fully recovered. 
+To recover your GD, you need to rest for around 10 minutes in a safe environment. Afterwards, your GD is fully recovered and you can perform Feats again, if you've taxed yourself earlier. 
 
-The ability to perform Feats again is regained after a short break.
-
-Attribute Damage is recovered at one point per night's rest. If multiple attributes are damaged, choose which one to recover a point in each day.
+Attribute Damage is recovered at one point per full night's rest. If multiple attributes are damaged, choose which one to recover a point in each day.
 
 All Attribute Damage is fully recovered after a full week's dedicated rest.
 
