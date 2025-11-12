@@ -350,6 +350,8 @@ When you wield a Runestone, you can focus your energy on visualizing an intended
 **Example**
 If you wield a Runestone with the runes '*Expanding Mind*', one application could be to temporarily enhance someone's cognitive capacities in order to solve a difficult problem. A different application could be to enlarge an opponent's brain in their skull to hurt them. A third application could be to establish some form of telepathy between several people and create a temporary hivemind.
 
+![Pasted image 20251112090636.png](/img/user/z_attachments/Pasted%20image%2020251112090636.png)
+
 ### Channeling Runestones
 Channeling your energy through a Runestone requires freedom of body and mind. You can only use a Runestone if you have **at least one empty Inventory Slot**. After you've used the Runestone, you take one **Strain** from the mental efforts.
 
@@ -398,30 +400,29 @@ Each Dungeon Cycle, the characters can move, explore, search, or rest in the dun
 	- Overcome an obstacle, such as a locked door or a trap
 	- Fight monsters or bad guys
 3. Once everyone has declared their activity, all activities resolve simultaneously.
-4. The GM determines whether there is a trigger to roll the Event Dice on this Cycle, and resolves the outcome.
+4. The GM determines whether there is a trigger to roll the Event Die on this Cycle, and resolves the outcome.
 5. Any resources are checked against their duration and inventory is updated, and the Cycle repeats.
 
-### The Event Dice
-When the characters move through the Dungeon, they might attract attention or cause the dungeon to change in some way. The Event Dice is a tool for the GM to determine when and how these dynamics change.
+### The Event Die
+When the characters move through the Dungeon, they might attract attention or cause the dungeon to change in some way. The Event Die is a tool for the GM to determine when and how these dynamics change.
 
-The GM rolls one or more Event Dice when the party draws attention to themselves, such as:
+The GM rolls the Event Die when the party draws attention to themselves, such as:
 - Characters travel to a new location
 - Characters traverse a sequence of previously explored locations
 - Characters linger in an unsafe location
 - Characters rest in an unsafe location
 - Characters make a disturbance or cause a ruckus
 
-The Event Dice starts as 1d6. If the party's actions creates unrest and disturbances in the dungeon, additional d6s may be added to the pool. If the party lays lows for a while, d6s may be removed from the pool.
+The Event Die starts as a d12. If the party's actions creates unrest and disturbances in the dungeon, the Event Die steps down (so from d12 to d10, or from d8 to d6). Additionally, the Event Die steps down every time the party encounters a Wandering Encounter. Laying low in a safe location can result in the Event Die stepping up again.
 
-When the Event Dice are rolled, the single lowest number rolled determines the outcome.
+On a result of 1-3, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
 
-
-| Event Dice | Outcome                                                                                                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1          | A Wandering Encounter occurs.                                                                                                                                                                  |
-| 2          | Signs or Omens of a nearby Encounter or danger. If the party doesn't react to the signs, they will encounter problems.                                                                         |
-| 3          | Altered Circumstances indirectly hinder the party, such as the Environment of the dungeon changing, a Choice between to unwanted scenarios, or a Setback causes a resource to falter or break. |
-| 4-6        | It is quiet, for now...                                                                                                                                                                        |
+| Event Die | Outcome                                                                                                                                                                                        |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1         | A Wandering Encounter occurs.                                                                                                                                                                  |
+| 2         | Signs or Omens of a nearby Encounter or danger. If the party doesn't react to the signs, they will encounter problems.                                                                         |
+| 3         | Altered Circumstances indirectly hinder the party, such as the Environment of the dungeon changing, a Choice between to unwanted scenarios, or a Setback causes a resource to falter or break. |
+| 4+        | It is quiet, for now...                                                                                                                                                                        |
 
 ### Resting in a Dungeon
 If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle and each consume one Ration. If they rest in an unsafe location in the dungeon, the GM will roll the Event Dice.
