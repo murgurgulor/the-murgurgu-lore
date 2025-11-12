@@ -450,7 +450,7 @@ Usually two Watches in the day are spent with activities, and one Watch is spent
 
 ---
 ##### Pointcrawling
-The time it takes to travel between your current location and the destination on your map is measured in Watches: The amount of Watches you have to spend traveling to arrive. This time is a composite of distance, terrain type, availability of roads, and circumstancial factors like the weather. You can also spend Watches doing something else than traveling, but then you won't progress to your destination.
+The time it takes to travel between your current location and the destination on your map is measured in the amount of Watches you have to spend traveling to arrive. This time is a composite of distance, terrain type, availability of roads, and circumstancial factors like the weather. You can also spend Watches doing something else than traveling, but then you won't progress to your destination.
 
 Each Watch, the following sequence of events happens:
 1. The GM describes the current environment and rehashes the party's situation, giving any pertinent information that is immediately noticeable to the characters.
@@ -464,6 +464,8 @@ Each Watch, the following sequence of events happens:
 5. At the end of the Watch, any resources are checked against their duration and inventory is updated. If the party hasn't reached their destination, the sequence begins anew.
 
 **Example**: If the party starts out at Auchentyr and travels to the Wood Lodge, which is 4 Watches away, the party would Travel for the Morning and Afternoon Watch on day one and then decide to Make Camp during the Night Watch. The next day, they would have 2 Watches of Travel remaining before they would arrive at the Wood Lodge in the evening. However, if the party would experience an unexpected obstacle along the way, get lost, or get stuck in bad weather, they might not make enough progress and lose a Watch of Travel, which might require spending another Night Watch Making Camp, etc etc.
+
+If someone tells you something is 'x days traveling away', multiply the given number of days by 2 to get the amount of Watches you need to Travel to get there (barring any unforeseen circumstances).
 
 ---
 ##### Wilderness Actions
