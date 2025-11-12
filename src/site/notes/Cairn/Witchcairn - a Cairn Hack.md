@@ -405,7 +405,7 @@ Each Dungeon Cycle, the characters can move, explore, search, or rest in the dun
 4. The GM determines whether there is a trigger to roll the Event Die on this Cycle, and resolves the outcome.
 5. Any resources are checked against their duration and inventory is updated, and the Cycle repeats.
 
-### The Event Die
+##### The Event Die
 When the characters move through the Dungeon, they might attract attention or cause the dungeon to change in some way. The Event Die is a tool for the GM to determine when and how these dynamics change.
 
 The GM rolls the Event Die when the party draws attention to themselves, such as:
@@ -426,10 +426,14 @@ On a result of 1-3 on the Event Die, something happens in response to the party'
 | 3         | Altered Circumstances indirectly hinder the party, such as the Environment of the dungeon changing, a Choice between to unwanted scenarios, or a Setback causes a resource to falter or break. |
 | 4+        | It is quiet, for now...                                                                                                                                                                        |
 
-### Resting in a Dungeon
+##### Resting in a Dungeon
 If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle and each consume one Ration. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die.
 
-### Light in a Dungeon
+##### Light in a Dungeon
 If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
 
 A regular Torch lasts for an hour, and can be lit 3 times. Barring any unfortunate Setbacks, this means one Torch should last 18 Cycles.
+
+
+---
+### Wilderness Travel
