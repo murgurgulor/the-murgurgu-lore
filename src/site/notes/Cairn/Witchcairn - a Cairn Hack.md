@@ -441,3 +441,51 @@ A regular Torch has 3 usage dots and can last for 3 hours, unless unfortunate Se
 
 ---
 ### Wilderness Travel
+When traveling, time is measured in **Watches**. There are three Watches to a day, each around 8 hours long.
+- The **Morning Watch** is from around an hour before **Sunrise** until lunch.
+- The **Afternoon Watch** is from lunch to after **Sunset** and dinner.
+- The **Night Watch** is during the dark hours.
+
+Usually two Watches in the day are spent with activities, and one Watch is spent Making Camp and resting. If you go three Watches without resting, you become **Deprived** and take **Strain**.
+
+---
+##### Pointcrawling
+The time it takes to travel between your current location and the destination on your map is measured in Watches: The amount of Watches you have to spend traveling to arrive. This time is a composite of distance, terrain type, availability of roads, and circumstancial factors like the weather. You can also spend Watches doing something else than traveling, but then you won't progress to your destination.
+
+Each Watch, the following sequence of events happens:
+1. The GM describes the current environment and rehashes the party's situation, giving any pertinent information that is immediately noticeable to the characters.
+2. At **Sunrise** and **Sunset** (so, during the Morning Watch and Afternoon Watch), the GM rolls the Wilderness Event Die to see what unexpected events will transpire in the coming 12 hours. If the party elects to travel during the Night Watch, an additional Event Die is rolled.
+3. The players each declare what Wilderness Action their characters will be doing during the Watch. Wilderness Actions are:
+	- Travel
+	- Explore the current area
+	- Forage for food and other supplies
+	- Make Camp
+4. The GM narrates the Watch's happenings, and incorporates the result of the Wilderness Event Die to which the player characters can respond.
+5. At the end of the Watch, any resources are checked against their duration and inventory is updated. If the party hasn't reached their destination, the sequence begins anew.
+
+**Example**: If the party starts out at Auchentyr and travels to the Wood Lodge, which is 4 Watches away, the party would Travel for the Morning and Afternoon Watch on day one and then decide to Make Camp during the Night Watch. The next day, they would have 2 Watches of Travel remaining before they would arrive at the Wood Lodge in the evening. However, if the party would experience an unexpected obstacle along the way, get lost, or get stuck in bad weather, they might not make enough progress and lose a Watch of Travel, which might require spending another Night Watch Making Camp, etc etc.
+
+---
+##### Wilderness Actions
+During each Watch, each characters declares which Wilderness Action they will take. Only the Travel action actually covers ground, at the end of the other actions you remain in your current location.
+
+- **Travel**: A Wilderness Action usually taken as a group. When you travel, you move closer to your destination. Depending on the terrain, you might need to roll to see if you get lost. If you get lost, you need to spend another Watch traveling to get back on track. Other factors can also limit your progress, such as inclement weather or unexpected blocks or overgrowths. While you Travel, any obvious locations, features, and terrain of nearby areas are revealed according to their distance.
+	- Traveling during the Night Watch comes with added risk of encountering dangers, allows for less progress, and requires proper light sources to do. It is possible, but not without risk and cost!
+- **Explore**: A character who Explores spends the Watch searching around in a large area, looking for hidden locations or scouting out dangers ahead. You don't move from your current location and have to spend a Watch to Travel to proceed along your way.
+- **Forage**: A character who Forages spends the Watch hunting, fishing, or otherwise finding supplies. They find 1d4 Rations (3 uses each), but for each additional character foraging the die steps up in size to a maximum of 1d12. Depending on the situation, you might find some homesteads or small villages to resupply in.
+- **Make Camp**: When you make camp, you get ready to take a rest. Everyone has to consume a **Ration** to get the benefits from the rest. If you go for 3 Watches without Making Camp, you become **Deprived**. It's generally advised to set a sentry schedule while sleeping in the wild. At the end of the Watch, everyone who has had a full night's rest removes all **Strain**. A night with light interruptions, such as standing guard for a period of time, only allows you to remove one **Strain**.
+
+
+---
+##### The Wilderness Event Die
+When the characters travel through the wilderness, they might come across unexpected obstacles, natural phenomena, or wilderness inhabitants. The GM rolls the Wilderness Event Die - a d6 - wat **Sunrise** and **Sunset**. The results of the Die occur somewhere in the 12 hours thereafter. If the party decides to Travel, Explore, or Forage during the Night Watch, an additional Event Die is rolled.
+
+| Wilderness Event Die | Outcome                                                                                                                                 |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                    | A Wandering Encounter occurs.                                                                                                           |
+| 2                    | Signs or Omens of a nearby Encounter, special Feature or Locality, or Information about the area.                                       |
+| 3                    | The Weather changes. If it turns bad, the party might need to hunker down or risk **Strain**.                                           |
+| 4                    | The party Struggles. Either there's an obstacle that needs to be overcome or traveled around, or they meet with an unfortunate setback. |
+| 5+                   | Safe and easy travels.                                                                                                                  |
+
+---
