@@ -59,7 +59,9 @@ Items come in 3 varieties:
 ### Strain
 Strain is a condition that represents fatigue and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
 
-Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. You remove all Strain after a full night's rest, or only one instance of Strain if your night's rest was interrupted with light activities (keeping watch, investigating a sound).
+Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. 
+
+You remove all Strain after a full night's rest, or only one instance of Strain if your night's rest was interrupted with light activities (keeping watch, investigating a sound). You don't remove any Strain if your night was rudely interrupted by cumbersome activities like fighting or fle
 
 ---
 ![Pasted image 20251112090420.png](/img/user/z_attachments/Pasted%20image%2020251112090420.png)
