@@ -431,7 +431,7 @@ On a result of 1-3 on the Event Die, something happens in response to the party'
 | 4+        | It is quiet, for now...                                                                                                                                                                        |
 
 ##### Resting in a Dungeon
-If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle and each consume one Ration. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die.
+If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die.
 
 ##### Light in a Dungeon
 If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
