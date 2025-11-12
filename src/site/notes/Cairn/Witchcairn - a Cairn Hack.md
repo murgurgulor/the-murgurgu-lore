@@ -436,7 +436,7 @@ If the party wants to recover their GD and Feats while in a dungeon, they need t
 ##### Light in a Dungeon
 If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
 
-A regular Torch can last for 3 hours, unless unfortunate Setbacks cause them to falter earlier. Every 6 Dungeon Cycles, mark one usage dot on the Torch. You also mark one usage dot whenever you have to relight an extinguished Torch.
+A regular Torch has 3 usage dots and can last for 3 hours, unless unfortunate Setbacks cause them to falter earlier. Every 6 Dungeon Cycles of use, mark one usage dot on the Torch. You also mark one usage dot whenever you have to relight an extinguished Torch.
 
 
 ---
