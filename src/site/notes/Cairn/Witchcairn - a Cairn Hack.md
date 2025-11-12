@@ -331,8 +331,8 @@ Ranged Weapons can target anyone you can see, but attacks against *Distant* targ
 - Javelin: d6 attack die, considered a Balanced Weapon for purposes of dual wielding.
 
 **Two-handed (*Bulky*) Ranged Weapons**
-- Bow: d6 attack die
-- Crossbow: d8 attack die, and has to be reloaded as an action after each attack.
+- Bow: d6 attack die. Quiver(3) included in the Item.
+- Crossbow: d8 attack die, and has to be reloaded as an action after each attack. Bolts included in the Item.
 
 
 ### Armor
