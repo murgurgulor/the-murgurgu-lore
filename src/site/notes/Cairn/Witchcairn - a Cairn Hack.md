@@ -419,7 +419,7 @@ The GM rolls the Dungeon Event Die when the party draws attention to themselves,
 - They rest in an unsafe location
 - They make a disturbance or otheriwse cause a ruckus
 
-The Dungeon Event Die starts as a *d12*. If the party's actions creates unusual unrest or disturbances in the dungeon, the die steps down in size (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. 
+The Dungeon Event Die starts as a *d12*. If the party's actions creates unusual unrest or disturbances in the dungeon, the die steps down in size (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. When the Event Die is a *d4*. it might be a good idea for the party to leave and come back when things have cooled down - if they can.
 Laying low in a safe location for a few Cycles can result in the Event Die stepping up again to a maximum of *d12*.
 
 On a result of 1-3 on the Dungeon Event Die, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
