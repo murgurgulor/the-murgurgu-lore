@@ -157,26 +157,27 @@ Combat is split up in rounds of roughly 10 seconds. Each round, every group of p
 ### Distance and Range
 Everyone's distance to each other in combat is expressed in relative terms.
 - **Engaged**: At arm's length. You need to be *Engaged* with an opponent in order to make a Melee Attack against them. You can't make a Ranged Attack if you start your turn *Engaged* with an enemy.
-- **Nearby**: Within movement's distance. '*Across the room*.' You can make a Melee Attack against a *Nearby* target if your weapon has *Reach*.
-- **Far Away**: More than a single movement away. '*Across the field*.'
+- **Nearby**: Within movement's distance. '*Across the room*.' You can make a Melee Attack against a *Nearby* target if your weapon has *Reach*, or you can make a Ranged Attack.
+- **Far Away**: More than a single movement away. '*Across the field*.' You can only target opponents with a Ranged Attack.
 - **Distant**: So far away that you can't make out details. Ranged Attacks at *Distant* targets are *Impaired*.
 
-Using your movement in your turn can shift your relative distance up or down one category (so from being *Nearby* a monster to being *Engaged* with the monster for example, or moving from being *Far Away* from the main group of antagonists to being *Distant*). Using your action for extra movement allows you to shift an additional step.
+If you move during your turn, you can shift your relative distance up or down one category (moving towards a *Nearby* monster to *Engage* it, fleeing to get *Distant* from a *Far Away* archer). 
+Using your turn's action for extra movement allows you to shift an additional step.
 
 
 ### Turn Order
-Combat rounds are around 10 seconds long, and every character on the same side takes their actions simultaneously. When it's your side's turn, everyone needs to declare what their character is going to do before any dice are rolled. After everyone has declared their actions, they all get resolved simultaneously.
+Combat rounds are around 10 seconds long, and every character on the same side of the fight takes their actions simultaneously. When it's your side's turn, everyone needs to declare what their character is going to do before any dice are rolled. You're free to talk tactics and discuss schemes. After everyone has declared their actions, the results get resolved and all the dice get rolled at the same time.
 
-In a round, the player characters get to act first, followed by the opposing side(s).
+In a round, the player characters have their turn before the opposing side(s).
 
-If one of the sides surprises the other, they get to act before the other side gets to act. 
+If one of the sides is surprised by the other before combat, they don't get to have their turn in the first round.
 If neither side is surprised, each player character needs to pass a CLA Save in order to act in the **first** round of combat.
 
 
 ### Your Turn
-When your side has its turn, you can declare movement and an action. You take your movement either **before** or **after** your action, you can't split it up around your action.
+When your side has its turn, you can declare whether you want to move and specify if you want to take an action. You move either **before** or **after** your action, you can't split it up around your action.
 
-Switching an *At Hand* and *Body* item around doesn't count as an action and can be done freely.
+Switching one *At Hand* and *Body* item around doesn't count as an action and can be done freely at any point.
 
 Actions include:
 - Making an attack and/or performing a Gambit
@@ -188,7 +189,7 @@ Actions include:
 - Parley
 - Anything else that would reasonably fit in this list
 
-You can also specify holding a specific action until a specific trigger occurs in the enemy's turn. You need to specify your action and the trigger on which you will unleash that action. You can't hold your action if you have moved in your turn, and you can't move thereafter.
+You can also specify holding a specific action until a specific trigger occurs in the enemy's turn. You need to specify your action and the trigger on which you will unleash that action. You can only hold your action if you don't move in your turn.
 
 
 ### Attacking
@@ -204,9 +205,9 @@ You can make a melee attack against an opponent if you are *Engaged* with them, 
 ##### Ranged Attacks
 You can make ranged attacks against opponents that are *Nearby* or *Far Away* without a problem. A ranged attack against a *Distant* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
 
-Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 usage dots. After combat, roll a d6. If you roll a 1-3, you mark one of the dots. When all three dots are marked, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight.
+Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 usage dots. After combat, roll a d6. If you roll a 1-3, you mark one of the dots. When all three dots are marked, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight. If you are unable to retrieve arrows after a fight - when fleeing for example - you always mark a usage dot.
 
-You can also stock up on more ammo by buying separate Quivers. Each additional Quiver occupies an item slot and has 3 usage dots. An extra Quiver needs to be on a *Body* slot in order to use.
+You can stock up on more ammo by buying additional Quivers. Each additional Quiver occupies an item slot and has 3 usage dots. An extra Quiver needs to be on a *Body* slot in order to be used.
 
 ---
 ![Pasted image 20251112085958.png](/img/user/z_attachments/Pasted%20image%2020251112085958.png)![Pasted image 20251112085912.png](/img/user/z_attachments/Pasted%20image%2020251112085912.png)
@@ -220,12 +221,12 @@ If you attack an opponent with more than one weapon, or if more than one charact
 In these situations, everyone rolls all applicable attack dice for their attack. After rolling, characters may expend any dice of 4 or higher to perform a **Gambit** (see below). Afterwards, only the **single highest remaining value** is applied as damage.
 
 **Example**
-Yan is wielding two daggers. Each dagger has a d6 attack die. When Yan attacks an enemy with both his daggers, he rolls 1d6 twice and applies the highest number rolled as damage.
+Yan is wielding two daggers. Each dagger has a d6 attack die. When Yan attacks an enemy with both his daggers, he rolls a d6 twice and applies the highest of the two as damage.
 
-Yokel is wielding a longsword and a shield. The longsword has a d8 attack die, the shield a d4. When Yokel attacks an enemy with his sword and a shield bash, he roll 1d8 and 1d4 and applies the highest number rolled as damage.
+Yokel is wielding a longsword and a shield. The longsword has a d8 attack die, the shield a d4. When Yokel attacks an enemy with his sword and a shield bash, he rolls 1d8 and 1d4 and applies the highest number rolled as damage.
 
-##### Attack Dice Modifiers
-There are several modifiers that affect your attack dice:
+##### Attack Modifiers
+There are several modifiers that affect your attacks:
 - **Impaired**: If you make an attack from a position of weakness or disadvantage, your attack is *Impaired*. When your attack is *Impaired*, you roll only a **single d4** for this attack, regardless of the weapons you use. Ranged Attacks made against *Distant* enemies are always *Impaired*, and attacks made with *Reach* weapons in confined spaces may also be *Impaired*.
 - **Bonus Dice**: If a particular circumstance works in your benefit, you can get a bonus attack die on your attack. Usually this is *+d8*, which means you roll a d8 in addition to your normal attack dice and - as usual - keep the single highest value. You can also use this bonus die for a Gambit. Depending on the circumstances, you might get to roll a bigger die for bonus damage. The **Frenzy** Feat can give you a *+d12* bonus die, for example.
 - **Blast**: A Blast attack affects multiple targets close together. Roll the attack dice for each target separately. If it's unsure how many targets a Blast would affect, roll the relevant attack die to determine the number of targets.
