@@ -38,7 +38,7 @@ Each Background gives you:
 
 
 ### Guard
-**Guard** (GD) represents your ability and capacity to avoid actual harm. When you are attacked and you are in a position where you could defend yourself to avoid harm, damage gets taken off your Guard before it lowers the appropriate Quality. If this means the damage is fully absorbed by your Guard and no Quality damage has been taken, you've not taken any actual wounds: you've managed to protect yourself against it.
+**Guard** (GD) represents your ability and capacity to avoid actual harm. When you are attacked and you are in a position where you could defend yourself to avoid harm, damage gets taken off your Guard before it lowers the appropriate Quality. If this means the damage is fully absorbed by your Guard and no Quality Loss has been taken, you've not taken any actual wounds: you've managed to protect yourself against it.
 
 You determine your max GD by rolling 1d6. GD is recovered quickly: resting for a short time restores it back to full. 
 
@@ -159,7 +159,7 @@ Combat rounds are around 10 seconds long, and every character on the same side t
 In a round, the player characters get to act first, followed by the opposing side(s).
 
 If one of the sides surprises the other, they get to act before the other side gets to act. 
-If neither side is surprised, each player character needs to pass a CLA Save in order to act in the first round of combat.
+If neither side is surprised, each player character needs to pass a CLA Save in order to act in the **first** round of combat.
 
 
 ### Your Turn
@@ -307,9 +307,9 @@ When an attack in combat reduces your GD to exactly 0, you take a Scar. The amou
 ### Recovering
 To recover your GD, you need to rest for around 10 minutes in a safe environment. Afterwards, your GD is fully recovered and you can perform Feats again, if you've taxed yourself earlier. 
 
-Quality Damage is recovered at one point per full night's rest. If multiple Qualities are damaged, choose which one to recover a point in each day.
+Quality Loss is recovered at one point per full night's rest. If multiple Qualities are reduced, choose which one to recover a point in each day.
 
-All Quality Damage is fully recovered after a full week's dedicated rest.
+All Quality Loss is fully recovered after a full week's dedicated rest.
 
 
 ---
@@ -383,7 +383,7 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder of aid actions of others
 - Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or *Nearby*
-	- Or: deal direct Quality damage (*d4*) if the target fails a Save
+	- Or: deal direct Quality Loss (*d4*) if the target fails a Save
 
 
 ### Extra Effort
