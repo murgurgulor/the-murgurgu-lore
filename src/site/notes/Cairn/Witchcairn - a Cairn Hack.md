@@ -324,7 +324,7 @@ When an attack in combat reduces your GD to exactly 0, you take a Scar. The amou
 | 12 GD   | **Doomed**: Death seemed ever so close, but somehow you survived. You are out of action until you've had a day to recover. Afterwards, your next VIG Save from a Wound determines your fate. If it is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max GD, take the new result. |
 
 ### Recovering
-To recover your GD, you need to rest for around 10 minutes in a safe environment. Afterwards, your GD is fully recovered and you can perform Feats again, if you've taxed yourself earlier. 
+If you rest in a safe environment for at least 10 minutes and you are not **Deprived**, you recover your GD fully and remove any Feat Fatigue.
 
 Quality Loss is recovered at one point per full night's rest. If multiple Qualities are reduced, choose which one to recover a point in each day.
 
