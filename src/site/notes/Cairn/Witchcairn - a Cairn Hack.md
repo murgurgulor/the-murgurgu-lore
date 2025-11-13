@@ -283,7 +283,7 @@ When enemies attack you, follow this procedure:
 	- If you fail, you are **Mortally Wounded** - you're down and dying, and if untended to you die within the hour. An ally taking time to bandage you up will stabilize you and bring your from Mortally Wounded to simply Wounded.
 - If damage reduces your Vigour to 0, you die. 
 
-Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, is applied directly to your Vigour but does not per se trigger a VIG Save.
+Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, is applied directly to your Vigour but does not per se trigger a VIG Save to avoid being Mortally Wounde.
 
 
 ### Scars
