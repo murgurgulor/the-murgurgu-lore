@@ -92,8 +92,9 @@ The rules of the game are straightforward. The GM describes the environment and 
 
 The core tenets of the game are:
 1. The action is always moving forward
-2. When moving forward, the players are presented with interesting choices
-3. Each choice has an impact on the action
+2. When moving forward, players are presented with all relevant and pertinent information
+3. With this information, the players can make interesting choices
+4. Each choice has an impact on the action
 
 Following the core tenets, there are no rolls to see if you can do an activity. Failing to do something neither moves action forward nor presents an interesting choice nor has any impact on the action. Therefore, you can do any action your character could reasonably do, but you might need to roll the dice to see if you can avoid harm when you do risky things.
 
