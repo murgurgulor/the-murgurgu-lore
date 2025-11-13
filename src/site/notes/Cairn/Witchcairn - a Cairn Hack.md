@@ -81,11 +81,12 @@ Furthermore: if you are Deprived for more than 24 hours, you take one instance o
 As soon as you cure the source of your deprivation, you lose the condition.
 
 ##### Strain
-Strain is a condition that represents fatigue and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
+**Strain** is a condition that represents fatigue and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
 
 Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. 
 
-You remove all Strain after a full night's rest, or only one instance of Strain if your night's rest was interrupted with light activities (keeping watch, investigating a sound). You don't remove any Strain if your night was rudely interrupted by cumbersome activities like fighting or fleeing.
+You remove all Strain after you've had a full night's rest. If your night's rest was interrupted with light activity like keeping watch, you remove only one instance of Strain. 
+You don't remove any Strain if your night was rudely interrupted by cumbersome activities like fighting or fleeing.
 
 ---
 ![Pasted image 20251112090420.png](/img/user/z_attachments/Pasted%20image%2020251112090420.png)
