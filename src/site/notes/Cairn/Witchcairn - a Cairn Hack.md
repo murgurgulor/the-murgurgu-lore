@@ -395,7 +395,7 @@ If you wield a Runestone with the runes '*Expanding Mind*', one application coul
 ### Channeling Runestones
 Channeling your energy through a Runestone requires freedom of body and mind. You can only use a Runestone if you have **at least one empty Inventory Slot**. After you've used the Runestone, you take one **Strain** from the mental efforts.
 
-If you try to channel a Runestone in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic.
+If you try to channel a Runestone in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic in addition to the intended effect.
 
 
 ### Magical Effects
@@ -411,7 +411,7 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 ### Extra Effort
 If you want to achieve an effect that's greater than listed above - such as affecting more than one target, covering a larger area or range, enhancing the overall effect, or any combination thereof - you will have to put in extra **Effort**. 
 
-Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
+Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person always needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
 
 After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, the Runestone is tapped out and can't be used again until it is recharged. Each Runestone has a specific recharge ritual related to the Runes it holds.
 
