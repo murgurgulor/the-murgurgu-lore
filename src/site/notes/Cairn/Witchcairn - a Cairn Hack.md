@@ -73,6 +73,9 @@ There are three Conditions that influence your character's capacities: **Exposed
 ##### Exposed 
 You are **Exposed** if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
 
+##### Feat Fatigue
+In combat, you can perform special maneuvers called Feats that can demand a lot of your energy. If you suffer **Feat Fatigue**, you've overtaxed yourself and can't perform any more Feats. You lose Feat Fatigue after a short rest.
+
 ##### Deprived
 You're **Deprived** if you haven't had sufficient food, drink, or rest for 24 hours. When you're Deprived, you can't recover your Guard in a short rest, nor can you recover any Quality Loss. 
 
@@ -272,7 +275,7 @@ Yan couldn't have chosen to also *Repel* the creature, but Yokel could have chos
 ### Feats
 Every character can perform the following 3 Feats in combat. A Feat is a special maneuver that you make on your attack or as a response to someone else's attack. You can only apply one Feat per character per attack. 
 
-After you perform a Feat, roll the associated Save. If you fail this Save, you have taxed yourself. You can't perform any more Feats until you've had a rest.
+After you perform a Feat, roll the associated Save. If you fail this Save, you have **Feat Fatigue**: you can't perform any more Feats until you've had a rest.
 
 The Feats are:
 - **Frenzy** (*VIG Save*): You declare to Frenzy *when you declare your attack, before the attack dice have been rolled*. When you Frenzy, choose one effect on your attack:
@@ -286,8 +289,8 @@ The Feats are:
 ---
 # Getting Hurt
 When enemies attack you, follow this procedure:
-- Consider the attack dice rolled by the opponents
-- Choose whether you (or one of your ally's) wants to **Fend**
+- Consider the attack dice rolled by the opponents: the GM will tell you if it expends any dice for Gambits, and what the damage will be.
+- Choose whether you (or one of your ally's) wants to **Fend**.
 - Deduct your Armor value from the single highest value die remaining.
 - Apply the remaining damage to your Guard. 
 	- If you have at least 1 GD remaining, you have evaded the attack.
@@ -295,10 +298,11 @@ When enemies attack you, follow this procedure:
 	- If this exceeds your GD, any excess damage is applied to your Vigour
 - If you take damage to your Vigour, immediately make a VIG Save using your new score. 
 	- If you succeed you are **Wounded** but still in the game.
-	- If you fail, you are **Mortally Wounded** - you're down and dying, and if untended to you die within the hour. An ally taking time to bandage you up will stabilize you and bring your from Mortally Wounded to simply Wounded.
+	- If you fail, you are **Mortally Wounded** - you're down and dying only able to crawl and moan weakly. If untended, you die within the hour. 
+	- After combat, an ally with Bandages can patch you up and bring you from Mortally Wounded to Wounded. This does not recover any Vigour.
 - If damage reduces your Vigour to 0, you die. 
 
-Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, is applied directly to your Vigour but does not per se trigger a VIG Save to avoid being Mortally Wounded.
+Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, are treated as if you are **Exposed** and is applied directly to your Vigour. However, this kind of damage does not necessarily trigger a VIG Save to avoid being Mortally Wounded.
 
 
 ### Scars
