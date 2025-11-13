@@ -392,9 +392,7 @@ If you happen to find a random Runestone, the Ur-Runes inscribed are randomly de
 # Optional Reading
 
 ## Dungeon Crawling
-When the player characters move through a dungeon, or a dungeon-like environment, they follow of cyclical process of exploring and searching: the **Dungeon Cycle**. A Dungeon Cycle takes an unspecified amount of time, but for purposes of time-keeping for effect durations is considered to last for 10 minutes.
-
-Each Dungeon Cycle, the characters can move, explore, search, or rest in the dungeon, with the following sequence of play:
+When the characters explore a dungeon or a dungeon-like environment, they follow a cyclical process: the **Dungeon Cycle**. Each Dungeon Cycle, the characters can choose to move, explore, search, or rest in the dungeon, with the following sequence of play:
 
 1. The GM describes the current environment and rehashes the party's situation, giving any pertinent information that is immediately noticeable to the characters.
 2. The players each declare what activity their characters will be doing during the Cycle. Examples of common activities are:
@@ -405,22 +403,26 @@ Each Dungeon Cycle, the characters can move, explore, search, or rest in the dun
 	- Overcome an obstacle, such as a locked door or a trap
 	- Fight monsters or bad guys
 3. Once everyone has declared their activity, all activities resolve simultaneously.
-4. The GM determines whether there is a trigger to roll the Event Die on this Cycle, and resolves the outcome.
+4. The GM determines whether there is a trigger to roll the **Dungeon Event Die** on this Cycle, and resolves the outcome.
 5. Any resources are checked against their duration and inventory is updated, and the Cycle repeats.
 
-### The Event Die
-When the characters move through the Dungeon, they might attract attention or cause the dungeon to change in some way. The Event Die is a tool for the GM to determine when and how these dynamics change.
+A Dungeon Cycle takes an unspecified amount of time, but for purposes of time-keeping one Cycle is considered to last for 10 minutes.
 
-The GM rolls the Event Die when the party draws attention to themselves, such as:
-- Characters travel to a new location
-- Characters traverse a sequence of previously explored locations
-- Characters linger in an unsafe location
-- Characters rest in an unsafe location
-- Characters make a disturbance or cause a ruckus
 
-The Event Die starts as a *d12*. If the party's actions creates unrest and disturbances in the dungeon, the Event Die steps down (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. Additionally, the Event Die steps down every time the party encounters a Wandering Encounter. Laying low in a safe location can result in the Event Die stepping up again to a maximum of *d12*.
+### The Dungeon Event Die
+When the characters move through the Dungeon, they might attract unwanted attention or cause the dungeon to change in some way. The **Dungeon Event Die** is a tool for the GM to determine when and how these dynamics change.
 
-On a result of 1-3 on the Event Die, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
+The GM rolls the Dungeon Event Die when the party draws attention to themselves, such as:
+- They travel to a new location
+- They traverse a sequence of previously explored locations
+- They linger for longer than a Cycle in an unsafe location
+- They rest in an unsafe location
+- They make a disturbance or otheriwse cause a ruckus
+
+The Dungeon Event Die starts as a *d12*. If the party's actions creates unusual unrest or disturbances in the dungeon, the die steps down in size (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. 
+Laying low in a safe location for a few Cycles can result in the Event Die stepping up again to a maximum of *d12*.
+
+On a result of 1-3 on the Dungeon Event Die, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
 
 | Event Die | Outcome                                                                                                                                                                                        |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -433,7 +435,7 @@ On a result of 1-3 on the Event Die, something happens in response to the party'
 If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die.
 
 ### Light in a Dungeon
-If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
+If a dungeon has no light sources of its own, the party will need to carry at least one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
 
 A regular Torch has 3 usage dots and can last for 3 hours, unless unfortunate Setbacks cause them to falter earlier. Every 6 Dungeon Cycles of use, mark one usage dot on the Torch. You also mark one usage dot whenever you have to relight an extinguished Torch.
 
