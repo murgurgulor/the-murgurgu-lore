@@ -256,7 +256,7 @@ The Gambits are:
 - **Impair**: Impair a weapon, or otherwise weaken one attacking power of an opponent on their next turn.
 - **Expose**: Negate the opponent's sources of Armor for the round, or otherwise weaken one defensive aspect of the opponent.
 - **Dismount**: Dismount a mounted opponent.
-- **Something else** that would reasonably fit in the above list. State what your intended effect is and check whether it doesn't fit into the effects of one of the other Gambits. If not, the GM will tell you what the effect of your Gambit will be and you can make an informed decision.
+- **Something else** that would reasonably fit in the above list. State what your intended effect is and check whether it doesn't match the effects of one of the other Gambits. If not, the GM will tell you what the effect of your Gambit will be and you can make an informed decision.
 
 **Example**
 Characters Yan and Yokel both declare to attack the same creature. Yan is wielding two daggers, Yokel a longsword and shield. When their action resolves, Yan rolls 1d6 twice and Yokel rolls 1d8 and 1d4. They come up with 2, 4, 5, 4 respectively. Yan and Yokel decide to expend both 4's to perform two Gambits. They can't choose the same Gambit twice, so Yan will *Bolster* to increase the attack's damage, and Yokel will *Repel* the creature away - for which the creature gets a VIG Save to avoid the effect.
