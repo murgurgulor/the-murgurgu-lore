@@ -65,8 +65,12 @@ Items come in 3 varieties:
 *Examples of item cards with multiple uses.*
 
 ---
+### Conditions
+There are three Conditions that influence your character's capacities: **Exposed**, **Deprived**, and **Strain**.
+- **Exposed**: You are Exposed if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
+- **Deprived**: You're Deprived if you haven't had sufficient food, drink, or rest for 24 hours. When you're Deprived, you can't recover your Guard in a short rest. If you are Deprived for more than 24 hours, you take one instance of Strain for every day you're Deprived thereafter. As soon as you cure the source of your deprivation, you lose the condition.
 
-### Strain
+##### Strain
 Strain is a condition that represents fatigue and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
 
 Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. 
@@ -119,7 +123,7 @@ Saves are made with one of the three Qualities: VIG, CLA, or SPI. If you have to
 
 If two sides are in a contest, the individual that is **most at risk as a result of failure** has to make the Save.
 
-There is no Advantage or Disadvantage. Planning carefully and executing cunning schemes can result in not having to roll a Save to pull off something crazy, or reducing the risk you run as a result of failing a Save. Conversely, rushing blindly into a dangerous situation increases the risk you run, even on a successful Sa
+There is no Advantage or Disadvantage. Planning carefully and executing cunning schemes can result in not having to roll a Save to pull off something crazy, or reducing the risk you run as a result of failing a Save. Conversely, rushing blindly into a dangerous situation increases the risk you run, even on a successful Save!
 
 If it's unclear if an action is risky enough to warrant a Save, the GM can check three factors: **Time**, **Gear**, and **Skill**.
 - You have **Time** if there is nothing in your current situation that prevents you from taking as long as you need.
@@ -131,12 +135,6 @@ After checking these factors, the GM decides:
 - If you have all three, you can probably do it
 - If you have two, you can probably do it but you need to roll a Save to avoid a negative outcome
 
-
-### Conditions
-There are three Conditions that influence your character's capacities:
-- **Exposed**: You are Exposed if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
-- **Strain**: Strain can be gained in various ways, such as failed Saves, strenuous activities, casting magic spells, or staying up too late. Each instance of Strain occupies one Inventory Slot. A full night's rest removes all Strain, a night's rest interrupted by light activities such as keeping watch removes only one Strain.
-- **Deprived**: You're Deprived if you haven't had sufficient food, drink, or rest for 24 hours. When you're Deprived, you can't recover your Guard in a short rest. If you are Deprived for more than 24 hours, you take one instance of Strain for every day you're Deprived thereafter. As soon as you cure the source of your deprivation, you lose the condition.
 
 ---
 # Combat
@@ -155,7 +153,7 @@ Everyone's distance to each other in combat is expressed in relative terms.
 Using your movement in your turn can shift your relative distance up or down one category (so from being *Nearby* a monster to being *Engaged* with the monster for example, or moving from being *Far Away* from the main group of antagonists to being *Distant*). Using your action for extra movement allows you to shift an additional step.
 
 
-### Initiative
+### Turns in 
 Combat rounds are around 10 seconds long, and every character on the same side takes their actions simultaneously. When it's your side's turn, everyone needs to declare what their character is going to do before any dice are rolled. After everyone has declared their actions, they all get resolved simultaneously.
 
 In a round, the player characters get to act first, followed by the opposing side(s).
