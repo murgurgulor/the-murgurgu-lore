@@ -153,7 +153,7 @@ Everyone's distance to each other in combat is expressed in relative terms.
 Using your movement in your turn can shift your relative distance up or down one category (so from being *Nearby* a monster to being *Engaged* with the monster for example, or moving from being *Far Away* from the main group of antagonists to being *Distant*). Using your action for extra movement allows you to shift an additional step.
 
 
-### Turns in 
+### Turn Order
 Combat rounds are around 10 seconds long, and every character on the same side takes their actions simultaneously. When it's your side's turn, everyone needs to declare what their character is going to do before any dice are rolled. After everyone has declared their actions, they all get resolved simultaneously.
 
 In a round, the player characters get to act first, followed by the opposing side(s).
