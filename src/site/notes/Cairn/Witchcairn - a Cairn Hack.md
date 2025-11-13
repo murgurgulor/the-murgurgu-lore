@@ -14,21 +14,31 @@ This is a custom ruleset with elements taken from the following 'Marked by the O
 ![Pasted image 20251112101401.png](/img/user/z_attachments/Pasted%20image%2020251112101401.png)
 
 ---
-### Attributes
-There are three attributes: **Vigour** (VIG), **Clarity** (CLA), and **Spirit** (SPI).
+### Qualities
+There are three Qualities: **Vigour** (VIG), **Clarity** (CLA), and **Spirit** (SPI).
 - **Vigour** encompasses your physical strength, fortitude, and stamina. If you take physical damage, it lowers your Vigour.
 - **Clarity** encompasses your agility, quick-thinking, and keen instincts. If you are met with disorienting circumstances or mind-muddling situations, it lowers your Clarity.
 - **Spirit** encompasses your willpower, hope, and heart. If you are demoralized, intimidated, or otherwise disheartened, it lowers your Spirit.
 
-Each attribute is ranked between 3 and 18, and you determine your starting score by rolling 3d6.
+Each Quality is ranked between 3 and 18, and you determine your starting score by rolling 3d6.
 
-Whenever you perform a risky action, you roll a **Save** with the appropriate attribute. Your attributes can also decrease during play, lowering your chance of successful Saves and thereby increasing the risks you take with your actions. 
+Whenever you perform a risky action, you roll a **Save** with the appropriate Quality. Your Qualities can also decrease during play, lowering your chance of successful Saves and thereby increasing the risks you take with your actions. 
 
-When an attribute reaches 0, you are either dead (VIG), unable to react to the world around you (CLA), or utterly hopeless (SPI).
+When an Quality reaches 0, you are either dead (VIG), unable to react to the world around you (CLA), or utterly hopeless (SPI).
+
+
+### Background
+Your character has a Background: a description of the experiences, knowledge, and skills you have obtained in your life so far. A large number of quirky Backgrounds can be found here: https://cairnrpg.com/second-edition/backgrounds/
+You can choose or roll for one of these Backgrounds, or make a custom one that adheres to the same format and style.
+
+Each Background gives you:
+- Starting gear
+- Funky and unique items and personal history
+- Diegetic knowledge and skills: a character who is a *Greenwise* (druid-type background) would have a lot of knowledge about plants, nature, and how to navigate through thickets. A *Cutpurse* on the other hand might be more skilled in climbing, sneaking, and may have lots of connections. 
 
 
 ### Guard
-**Guard** (GD) represents your ability and capacity to avoid actual harm. When you are attacked and you are in a position where you could defend yourself to avoid harm, damage gets taken off your Guard before it lowers the appropriate Attribute. If this means the damage is fully absorbed by your Guard and no attribute damage has been taken, you've not taken any actual wounds: you've managed to protect yourself against it.
+**Guard** (GD) represents your ability and capacity to avoid actual harm. When you are attacked and you are in a position where you could defend yourself to avoid harm, damage gets taken off your Guard before it lowers the appropriate Quality. If this means the damage is fully absorbed by your Guard and no Quality damage has been taken, you've not taken any actual wounds: you've managed to protect yourself against it.
 
 You determine your max GD by rolling 1d6. GD is recovered quickly: resting for a short time restores it back to full. 
 
@@ -104,7 +114,7 @@ This sequence of events can be shorted to **ILCRI**. You can easily remember thi
 ### Saves
 The main roll in the game is the **Save**. You don't make a Save to see if you can do something, you make a Save **to avoid risk or harm** when you do something. If you take an action that doesn't have any risk involved, you don't need to roll a Save - you can just do it. 
 
-Saves are made with one of the three attributes: VIG, CLA, or SPI. If you have to roll a Save, you roll a d20 and compare the result to the relevant attribute. If the result is **equal to or lower** than your attribute, you succeed in avoiding risk or harm. If it's **greater** than your attribute, you are subjected to risk or harm.
+Saves are made with one of the three Qualities: VIG, CLA, or SPI. If you have to roll a Save, you roll a d20 and compare the result to the relevant Quality. If the result is **equal to or lower** than your Quality, you succeed in avoiding risk or harm. If it's **greater** than your Quality, you are subjected to risk or harm.
 
 If two sides are in a contest, the individual that is **most at risk as a result of failure** has to make the Save.
 
@@ -285,7 +295,7 @@ When an attack in combat reduces your GD to exactly 0, you take a Scar. The amou
 | 3 GD    | **Walloped**: You’re sent flying and land flat on your face, winded. You are **Deprived** until you rest for a few hours. Then, roll 1d6. Add that amount to your max GD.                                                                                                                                            |
 | 4 GD    | **Broken Limb**: Roll 1d6 to determine the bone - 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended,roll 2d6. If the total is higher than your max GD, take the new result.                                                                                                                                          |
 | 5 GD    | **Disease**: Your wound gets afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max GD, take the new result.                                                                                                                                          |
-| 6 GD    | **Reorienting Head Wound**: Roll 1d6 \| 1-2: VIG, 3-4: CLA, 5-6: SPI. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                                                                                                             |
+| 6 GD    | **Reorienting Head Wound**: Roll 1d6 \| 1-2: VIG, 3-4: CLA, 5-6: SPI. Roll 3d6. If the total is higher than your current Quality, take the new result.                                                                                                                                                             |
 | 7 GD    | **Hamstrung**: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max CLA, take the new result.                                                                                                                                                     |
 | 8 GD    | **Deafened**: You cannot hear anything until you find extraordinary aid. Regardless, make a SPI save. If you pass, increase your max SPI by 1d4.                                                                                                                                                                     |
 | 9 GD    | **Re-brained**: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max SPI, take the new result.                                                                                                                                                                           |
@@ -296,9 +306,9 @@ When an attack in combat reduces your GD to exactly 0, you take a Scar. The amou
 ### Recovering
 To recover your GD, you need to rest for around 10 minutes in a safe environment. Afterwards, your GD is fully recovered and you can perform Feats again, if you've taxed yourself earlier. 
 
-Attribute Damage is recovered at one point per full night's rest. If multiple attributes are damaged, choose which one to recover a point in each day.
+Quality Damage is recovered at one point per full night's rest. If multiple Qualities are damaged, choose which one to recover a point in each day.
 
-All Attribute Damage is fully recovered after a full week's dedicated rest.
+All Quality Damage is fully recovered after a full week's dedicated rest.
 
 
 ---
@@ -372,7 +382,7 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder of aid actions of others
 - Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or *Nearby*
-	- Or: deal direct attribute damage (*d4*) if the target fails a Save
+	- Or: deal direct Quality damage (*d4*) if the target fails a Save
 
 
 ### Extra Effort
@@ -457,7 +467,7 @@ Usually two Watches in the day are spent with activities, and the Night Watch is
 ### How to Travel
 When you travel through the Wilderness, you travel between two points on a map. If you don't know where your destination is on the map, you might have to spend time exploring areas to find it. 
 
-The time it takes to travel between two points is measured in Watches. This is a composite of distance, terrain type, trail quality (if any), and circumstancial factors like the weather. If you spend a Watch doing something other than traveling, you won't progress to your destination. 
+The time it takes to travel between two points is measured in Watches. This is a composite of distance, terrain type, trail Quality (if any), and circumstancial factors like the weather. If you spend a Watch doing something other than traveling, you won't progress to your destination. 
 
 If someone tells you something is 'x days traveling away', multiply the given number of days by 2 to get the amount of Watches you need to Travel to get there barring any unforeseen circumstances or delays.
 
