@@ -38,11 +38,13 @@ Each Background gives you:
 
 
 ### Guard
-**Guard** (GD) represents your ability and capacity to avoid actual harm. When you are attacked and you are in a position where you could defend yourself to avoid harm, damage gets taken off your Guard before it lowers the appropriate Quality. If this means the damage is fully absorbed by your Guard and no Quality Loss has been taken, you've not taken any actual wounds: you've managed to protect yourself against it.
+**Guard** (GD) represents your ability and capacity to avoid actual harm. When you are attacked and you are in a position where you could defend yourself to avoid harm, damage gets taken off your Guard before it lowers the appropriate Quality. 
 
-You determine your max GD by rolling 1d6. GD is recovered quickly: resting for a short time restores it back to full. 
+If an attack fails to reduce your Guard to 0, you've not taken any actual wounds: you've managed to protect yourself against it.
 
-During play, your max GD can increase by taking **Scars** in combat.
+You determine your max GD by rolling 1d6. GD is recovered quickly: resting for a short time after a fight restores it back to full. 
+
+During play, your max GD can increase if you suffer a **Scar** in combat.
 
 
 ### Inventory
@@ -67,8 +69,16 @@ Items come in 3 varieties:
 ---
 ### Conditions
 There are three Conditions that influence your character's capacities: **Exposed**, **Deprived**, and **Strain**.
-- **Exposed**: You are Exposed if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
-- **Deprived**: You're Deprived if you haven't had sufficient food, drink, or rest for 24 hours. When you're Deprived, you can't recover your Guard in a short rest. If you are Deprived for more than 24 hours, you take one instance of Strain for every day you're Deprived thereafter. As soon as you cure the source of your deprivation, you lose the condition.
+
+##### Exposed 
+You are **Exposed** if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
+
+##### Deprived
+You're **Deprived** if you haven't had sufficient food, drink, or rest for 24 hours. When you're Deprived, you can't recover your Guard in a short rest, nor can you recover any Quality Loss. 
+
+Furthermore: if you are Deprived for more than 24 hours, you take one instance of **Strain** for every day you're Deprived. 
+
+As soon as you cure the source of your deprivation, you lose the condition.
 
 ##### Strain
 Strain is a condition that represents fatigue and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
@@ -283,7 +293,7 @@ When enemies attack you, follow this procedure:
 	- If you fail, you are **Mortally Wounded** - you're down and dying, and if untended to you die within the hour. An ally taking time to bandage you up will stabilize you and bring your from Mortally Wounded to simply Wounded.
 - If damage reduces your Vigour to 0, you die. 
 
-Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, is applied directly to your Vigour but does not per se trigger a VIG Save to avoid being Mortally Wounde.
+Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, is applied directly to your Vigour but does not per se trigger a VIG Save to avoid being Mortally Wounded.
 
 
 ### Scars
