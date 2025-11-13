@@ -391,8 +391,7 @@ If you happen to find a random Runestone, the Ur-Runes inscribed are randomly de
 ---
 # Optional Reading
 
-## Procedures
-### Dungeon Crawling
+## Dungeon Crawling
 When the player characters move through a dungeon, or a dungeon-like environment, they follow of cyclical process of exploring and searching: the **Dungeon Cycle**. A Dungeon Cycle takes an unspecified amount of time, but for purposes of time-keeping for effect durations is considered to last for 10 minutes.
 
 Each Dungeon Cycle, the characters can move, explore, search, or rest in the dungeon, with the following sequence of play:
@@ -409,7 +408,7 @@ Each Dungeon Cycle, the characters can move, explore, search, or rest in the dun
 4. The GM determines whether there is a trigger to roll the Event Die on this Cycle, and resolves the outcome.
 5. Any resources are checked against their duration and inventory is updated, and the Cycle repeats.
 
-##### The Event Die
+### The Event Die
 When the characters move through the Dungeon, they might attract attention or cause the dungeon to change in some way. The Event Die is a tool for the GM to determine when and how these dynamics change.
 
 The GM rolls the Event Die when the party draws attention to themselves, such as:
@@ -430,57 +429,89 @@ On a result of 1-3 on the Event Die, something happens in response to the party'
 | 3         | Altered Circumstances indirectly hinder the party, such as the Environment of the dungeon changing, a Choice between to unwanted scenarios, or a Setback causes a resource to falter or break. |
 | 4+        | It is quiet, for now...                                                                                                                                                                        |
 
-##### Resting in a Dungeon
+### Resting in a Dungeon
 If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die.
 
-##### Light in a Dungeon
+### Light in a Dungeon
 If a dungeon has no light sources of its own, the party will need to carry one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
 
 A regular Torch has 3 usage dots and can last for 3 hours, unless unfortunate Setbacks cause them to falter earlier. Every 6 Dungeon Cycles of use, mark one usage dot on the Torch. You also mark one usage dot whenever you have to relight an extinguished Torch.
 
 
 ---
-### Wilderness Travel
-When traveling, time is measured in **Watches**. There are three Watches to a day, each around 8 hours long.
+## Wilderness Travel
+Traveling overland in civilized areas is narrated briefly by the GM, unless the players want to focus on specific elements.
+
+Traveling through the wilderness, which requires navigation and exploration, has a risk of getting lost, encountering struggles, and meeting nature's inhabitants.
+
+In Wilderness Travel, time is measured in **Watches**. There are three Watches to a day, each around 8 hours long.
 - The **Morning Watch** is from around an hour before **Sunrise** until lunch.
 - The **Afternoon Watch** is from lunch until an hour or two after **Sunset**.
 - The **Night Watch** is during the dark hours.
 
-Usually two Watches in the day are spent with activities, and one Watch is spent Making Camp and resting. If you go three Watches without resting, you become **Deprived** and take **Strain**.
+Usually two Watches in the day are spent with activities, and the Night Watch is spent Making Camp and resting. Characters can always choose to do things differently, but if they go three Watches without properly resting, they become **Deprived** and take **Strain**.
 
 ---
-##### Pointcrawling
-The time it takes to travel between your current location and the destination on your map is measured in the amount of Watches you have to spend traveling to arrive. This time is a composite of distance, terrain type, availability of roads, and circumstancial factors like the weather. You can also spend Watches doing something else than traveling, but then you won't progress to your destination.
+### How to Travel
+When you travel through the Wilderness, you travel between two points on a map. If you don't know where your destination is on the map, you might have to spend time exploring areas to find it. 
 
-Each Watch, the following sequence of events happens:
+The time it takes to travel between two points is measured in Watches. This is a composite of distance, terrain type, trail quality (if any), and circumstancial factors like the weather. If you spend a Watch doing something other than traveling, you won't progress to your destination. 
+
+If someone tells you something is 'x days traveling away', multiply the given number of days by 2 to get the amount of Watches you need to Travel to get there barring any unforeseen circumstances or delays.
+
+#### Wilderness Cycle
+Each Watch of Wilderness Travel, the following Cycle of events happens:
 1. The GM describes the current environment and rehashes the party's situation, giving any pertinent information that is immediately noticeable to the characters.
 2. At **Sunrise** and **Sunset** (so, during the Morning Watch and Afternoon Watch), the GM rolls the Wilderness Event Die to see what unexpected events will transpire in the coming 12 hours. If the party elects to travel during the Night Watch, an additional Event Die is rolled.
-3. The players each declare what Wilderness Action their characters will be doing during the Watch. Wilderness Actions are:
-	- Travel
-	- Explore the current area
-	- Forage for food and other supplies
-	- Make Camp
+3. The players each declare what Wilderness Action their characters will be doing during the Watch. 
 4. The GM narrates the Watch's happenings, and incorporates the result of the Wilderness Event Die to which the player characters can respond.
-5. At the end of the Watch, any resources are checked against their duration and inventory is updated. If the party hasn't reached their destination, the sequence begins anew.
+5. At the end of the Watch, any resources are checked against their duration and inventory is updated. If the party hasn't reached their destination, the Cycle begins anew.
 
-**Example**: If the party starts out at Auchentyr and travels to the Wood Lodge, which is 4 Watches away, the party would Travel for the Morning and Afternoon Watch on day one and then decide to Make Camp during the Night Watch. The next day, they would have 2 Watches of Travel remaining before they would arrive at the Wood Lodge in the evening. However, if the party would experience an unexpected obstacle along the way, get lost, or get stuck in bad weather, they might not make enough progress and lose a Watch of Travel, which might require spending another Night Watch Making Camp, etc etc.
-
-If someone tells you something is 'x days traveling away', multiply the given number of days by 2 to get the amount of Watches you need to Travel to get there (barring any unforeseen circumstances).
 
 ---
-##### Wilderness Actions
-During each Watch, each characters declares which Wilderness Action they will take. Only the Travel action actually covers ground, at the end of the other actions you remain in your current location.
+#### Wilderness Actions
+During each Watch, each characters declares which **Wilderness Action** they will take. Only the Travel action actually covers ground, at the end of the other actions you remain (roughly) in your current location.
 
-- **Travel**: A Wilderness Action usually taken as a group. When you travel, you move closer to your destination. Depending on the terrain, you might need to roll to see if you get lost. If you get lost, you need to spend another Watch traveling to get back on track. Other factors can also limit your progress, such as inclement weather or unexpected blocks or overgrowths. While you Travel, any obvious locations, features, and terrain of nearby areas are revealed according to their distance.
-	- Traveling during the Night Watch comes with added risk of encountering dangers, allows for less progress, and requires proper light sources to do. It is possible, but not without risk and cost!
-- **Explore**: A character who Explores spends the Watch searching around in a large area, looking for hidden locations or scouting out dangers ahead. You don't move from your current location and have to spend a Watch to Travel to proceed along your way.
-- **Forage**: A character who Forages spends the Watch hunting, fishing, or otherwise finding supplies. They find 1d4 Rations (3 uses each), but for each additional character foraging the die steps up in size to a maximum of 1d12. Depending on the situation, you might find some homesteads or small villages to resupply in.
-- **Make Camp**: When you make camp, you get ready to take a rest. Everyone has to consume a **Ration** to get the benefits from the rest. If you go for 3 Watches without Making Camp, you become **Deprived**. It's generally advised to set a sentry schedule while sleeping in the wild. At the end of the Watch, everyone who has had a full night's rest removes all **Strain**. A night with light interruptions, such as standing guard for a period of time, only allows you to remove one **Strain**.
+
+##### Travel
+- A Wilderness Action usually taken as a group. When you Travel, you move closer to your destination. 
+- Depending on the terrain, you might need to roll to see if you get lost. 
+- If you get lost, you will have to spend another Watch traveling to get back on track. 
+- Other factors can also limit your progress, such as inclement weather or unexpected blocks or overgrowths. 
+- While you Travel, any obvious locations, features, and terrain of nearby areas are revealed according to their distance.
+- Traveling during the Night Watch comes with added risk of encountering dangers, allows for less progress, and requires proper light sources to do. It is possible, but not without risk and cost!
+
+##### Explore
+- A character who Explores spends the Watch searching around in a large area, looking for hidden locations or scouting out dangers ahead. 
+- If your destination is not marked on your map, the only way to find it is to Travel in the right direction and spend time Exploring the area.
+- If you Explore, you don't move from your current location.
+
+##### Supply
+- A character who Supplies spends the Watch hunting, fishing, or otherwise foraging for essential items. 
+- At the end of the Watch, they find 1d4 Rations (3 uses each)
+- For each additional character taking the Supply action, the die steps up in size - to a maximum of 1d12. 
+- Depending on the area, you might find some homesteads or small villages to resupply in.
+
+##### Make Camp
+- When you make camp, you settle down to rest.
+- Everyone has to consume a **Ration** to get the benefits from the rest. If you go for 3 Watches without Making Camp or having a Ration while Making Camp, you become **Deprived**.
+- It's generally advised to set a sentry schedule while sleeping in the wild.
+- At the end of the Watch, everyone who has had a full night's rest removes all **Strain**. 
+- A night with light interruptions, such as standing guard for a period of time, only allows you to remove one **Strain**.
+
+
+---
+#### Example of Wilderness Travel
+The party starts out at Auchentyr and wants to travel to the Wood Lodge, which is 4 Watches away. 
+On day one, the party elects to Travel for the Morning and Afternoon Watch. For the Night Watch, they decide to Make Camp. They have now covered 2 Watches of the trip and have 2 Watches to go until their destination. 
+The following day, the weather turns bad. The party spends the Morning Watch in Travel, but unfortunately get lost. They have to spend the Afternoon Watch to get back on track. They now have a choice: Make Camp for the Night Watch and cover the remaining distance tomorrow, or risk Travel through the Night Watch and arrive at the Lodge in the morning. 
 
 
 ---
 ##### The Wilderness Event Die
 When the characters travel through the wilderness, they might come across unexpected obstacles, natural phenomena, or wilderness inhabitants. The GM rolls the Wilderness Event Die - a d6 - wat **Sunrise** and **Sunset**. The results of the Die occur somewhere in the 12 hours thereafter. If the party decides to Travel, Explore, or Forage during the Night Watch, an additional Event Die is rolled.
+
+Specific terrains or circumstances might change the Wilderness Event Die into a d4 or a d8.
 
 | Wilderness Event Die | Outcome                                                                                                                                 |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
