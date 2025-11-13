@@ -119,6 +119,8 @@ Saves are made with one of the three Qualities: VIG, CLA, or SPI. If you have to
 
 If two sides are in a contest, the individual that is **most at risk as a result of failure** has to make the Save.
 
+Planning carefully and executing cunning schemes can result in not having to roll a Save to pull off something crazy, or reducing the risk you run as a result of failing a Save.
+
 If it's unclear if an action is risky enough to warrant a Save, the GM can check three factors: **Time**, **Gear**, and **Skill**.
 - You have **Time** if there is nothing in your current situation that prevents you from taking as long as you need.
 - You have **Gear** if you have items or the correct circumstances required to perform your task. Having a rope for climbing a wall counts as correct Gear, but the wall itself being rough and climable can also count as correct Gear.
