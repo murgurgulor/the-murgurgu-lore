@@ -261,9 +261,11 @@ The Gambits are:
 **Example**
 Characters Yan and Yokel both declare to attack the same creature. Yan is wielding two daggers, Yokel a longsword and shield. When their action resolves, Yan rolls a *d6* twice and Yokel rolls a *d8* and a *d4*. They come up with 2, 4, 5, 4 respectively. 
 
-Yan and Yokel decide to expend both 4's to perform two Gambits. They can't choose the same Gambit twice, so Yan will *Bolster* to increase the attack's damage, and Yokel will *Repel* the creature away - for which the creature gets a VIG Save to avoid the effect.
+Yan and Yokel decide to expend both 4's to perform two Gambits. Yan will *Bolster* to increase the attack's damage, and Yokel will *Repel* the creature away - for which the creature gets a VIG Save to avoid the effect.
 
-After Yan and Yokel expend the Gambit dice, only the 2 and 5 remain. The 5 gets applied as damage to the creature, +1 from Yan's *Bolster* for a total of 6 damage.
+After Yan and Yokel expend the Gambit dice, only the 2 and 5 remain. The 5 gets applied as damage to the creature, +1 from Yan's *Bolster* for a total of 6 damage. 
+
+Yan couldn't have chosen to also *Repel* the creature, but Yokel could have chosen to also *Bolster* the attack. In that case they would have dealt 7 damage.
 
 
 ---
