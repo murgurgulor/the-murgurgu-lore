@@ -338,22 +338,25 @@ All Quality Loss is fully recovered after a full week's dedicated rest.
 Melee Weapons are divided in three categories:
 
 **Light Weapons** (*d6*) 
-Light Weapons are small weapons that can easily be dual wielded, or that can be concealed on your body. 
-Light Weapons have a d6 as their attack die.
-Examples of Light Weapons are daggers, clubs, handaxes, brass knuckles, etc.
+- Light Weapons are small weapons that can easily be dual wielded, or that can be concealed on your body. 
+- Light Weapons have a d6 as their attack die.
+- Examples of Light Weapons are daggers, clubs, handaxes, brass knuckles, etc.
 
 **Balanced Weapons** (*d8*)
-Balanced Weapons are weapons of some size that require precision and balance to effectively wield. Balanced weapons can be combined with a Shield or a Light Weapon, but not with another Balanced Weapon. You can't easily conceal them on your body. 
-Balanced Weapons have a d8 as their attack die.
-Examples of Balanced Weapons are longsword, spears, maces, battleaxes, etc.
+- Balanced Weapons are weapons of some size that require precision and balance to effectively wield. 
+- Balanced weapons can be combined with a Shield or a Light Weapon, but not with another Balanced Weapon. 
+- You can't easily conceal Balanced weapons on your body. 
+- Balanced Weapons have a d8 as their attack die.
+- Examples of Balanced Weapons are longsword, spears, maces, battleaxes, etc.
 
 **Great Weapons** (*d10*)
-Great Weapons are weapons that require both hands to wield. They are a large size and have a wide reach, but that may become a hindrance in restricted spaces.
-Great Weapons have a d10 as their attack die. They are *Bulky* and have *Reach*, but attacks with Great Weapons in confined spaces are *Impaired*.
-Examples of Great Weapons are greatswords, glaives, halberds, longspears, etc.
+- Great Weapons are weapons that require both hands to wield. They are a large size and have a wide reach, but that may become a hindrance in restricted spaces.
+- Great Weapons have a d10 as their attack die. 
+- They are *Bulky* and have *Reach*, but attacks with Great Weapons in confined spaces are *Impaired*.
+- Examples of Great Weapons are greatswords, glaives, halberds, longspears, etc.
 
 **Special**
-If you wield a Shield, you can use it as a weapon to Shield Bash. A Shield Bash has a d4 attack die. If you Shield Bash, you can't use your Shield for Armor for the remainder of the round.
+If you wield a Shield, you can use it as a weapon to **Shield Bash**. A Shield Bash has a d4 attack die. If you Shield Bash, you can't use your Shield for Armor for the remainder of the round.
 
 
 ### Ranged Weapons
@@ -365,7 +368,7 @@ Ranged Weapons can target anyone you can see, but attacks against *Distant* targ
 - Javelin: d6 attack die, considered a Balanced Weapon for purposes of dual wielding.
 
 **Two-handed (*Bulky*) Ranged Weapons**
-- Bow: d6 attack die. Quiver(3) included in the Item.
+- Bow: d6 attack die. Quiver(3) included in the Item. Particularly artisanal bows may have a d8 attack die.
 - Crossbow: d8 attack die, and has to be reloaded as an action after each attack. Bolts(3) included in the Item.
 
 
