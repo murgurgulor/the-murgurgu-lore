@@ -229,11 +229,11 @@ Yokel is wielding a longsword and a shield. The longsword has a d8 attack die, t
 There are several modifiers that affect your attacks:
 - **Impaired**: If you make an attack from a position of weakness or disadvantage, your attack is *Impaired*. When your attack is *Impaired*, you roll only a **single d4** for this attack, regardless of the weapons you use. Ranged Attacks made against *Distant* enemies are always *Impaired*, and attacks made with *Reach* weapons in confined spaces may also be *Impaired*.
 - **Bonus Dice**: If a particular circumstance works in your benefit, you can get a bonus attack die on your attack. Usually this is *+d8*, which means you roll a d8 in addition to your normal attack dice and - as usual - keep the single highest value. You can also use this bonus die for a Gambit. Depending on the circumstances, you might get to roll a bigger die for bonus damage. The **Frenzy** Feat can give you a *+d12* bonus die, for example.
-- **Blast**: A Blast attack affects multiple targets close together. Roll the attack dice for each target separately. If it's unsure how many targets a Blast would affect, roll the relevant attack die to determine the number of targets.
+- **Blast**: A Blast attack affects multiple targets close together, not discriminating between friend and foe. Roll the attack dice for each target separately. If it's unsure how many targets a Blast would affect, roll the relevant attack die to determine the number of targets.
 
 ---
 ### Gambits
-Gambits are maneuvers you can make to apply a **temporary effect** on your target. You can choose to perform a Gambit after you've rolled your attack dice, but before damage is applied.
+Gambits are maneuvers you can make to apply a **temporary effect** on your target. You choose to perform a Gambit after you've rolled your attack dice, but before damage is applied.
 
 You can perform a Gambit by expending any attack die of **4 or higher** from your roll. When you expend the die, you take it off the table and it is no longer considered when determining the single highest value for damage. 
 If the die you expended for the Gambit was **8 or higher**, your target either doesn't get a chance to resist the effect, or you can ask for a greater or longer lasting effect from the GM.
@@ -242,15 +242,14 @@ When you perform a Gambit, the target of the Gambit must be the target of the at
 
 Targets get to make a **VIG Save** to avoid the effect of a Gambit - with the exception of the *Bolster* and *Move* Gambit. If you expend an 8+ die for the Gambit, you can deny the target their Save.
 
-If multiple characters perform a Gambit against the same target at the same time, they can't perform the same Gambit, with the exception of *Bolster* and *Move*. 
+If multiple characters perform a Gambit against the same target at the same time, they can't perform the same Gambit - again with the exception of *Bolster* and *Move*. 
 
 If one character performs multiple Gambits that grant a Save, the opponent only gets to roll one VIG Save for an all-or-nothing result.
 
 Gambits can never do something that would outright end combat, they only give a temporary advantage.
 
-
 The Gambits are:
-- **Bolster**: Add +1 to the attack's total damage.
+- **Bolster**: Add +1 to the attack's total damage (stacks).
 - **Move**: Move after your attack, even if you have already moved or are unable to move.
 - **Repel**: Force an opponent away from you. 
 - **Stop**: Prevent an opponent from moving on their next turn.
