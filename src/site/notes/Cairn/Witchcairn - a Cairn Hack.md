@@ -15,7 +15,7 @@ This is a custom ruleset with elements taken from the following 'Marked by the O
 
 ---
 ### Qualities
-There are three Qualities: **Vigour** (VIG), **Clarity** (CLA), and **Spirit** (SPI).
+Everyone has three Qualities: **Vigour** (VIG), **Clarity** (CLA), and **Spirit** (SPI).
 - **Vigour** encompasses your physical strength, fortitude, and stamina. If you take physical damage, it lowers your Vigour.
 - **Clarity** encompasses your agility, quick-thinking, and keen instincts. If you are met with disorienting circumstances or mind-muddling situations, it lowers your Clarity.
 - **Spirit** encompasses your willpower, hope, and heart. If you are demoralized, intimidated, or otherwise disheartened, it lowers your Spirit.
