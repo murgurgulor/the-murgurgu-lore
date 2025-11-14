@@ -138,7 +138,7 @@ Saves are made with one of the three Qualities: VIG, CLA, or SPI. If you have to
 If two sides are in a contest, the individual that is **most at risk as a result of failure** has to make the Save.
 
 There is no Advantage or Disadvantage. Planning your moves carefully and executing cunning schemes to improve your situation influences your position when you make a daring move. If your plans have put you in a good position, the impact of consequences from a failed Save is reduced. If you play it right, you might even negate any risk from your actions and avoid a Save altogether.
-Conversely: if you don't anticipate for any risks or dangers and just blindly rush into a dangerous situation, you are put in a bad position where even a successful Save may have a negative impact on you - al be it not as bad as a failed Save would have.
+Conversely: if you don't anticipate for any risks or dangers and just blindly rush into a dangerous situation, you are put in a bad position where a successful Save can only achieve damage control, but not negate any negative outcomes.
 
 
 ##### The Time, Gear, Skill Doctrine
