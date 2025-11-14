@@ -11,7 +11,7 @@ This is a custom ruleset with elements taken from the following 'Marked by the O
 
 ---
 # What's on the Character Sheet
-![Pasted image 20251114100932.png](/img/user/z_attachments/Pasted%20image%2020251114100932.png)
+![Pasted image 20251114123808.png](/img/user/z_attachments/Pasted%20image%2020251114123808.png)
 
 ---
 ### Qualities
@@ -84,7 +84,7 @@ Furthermore: if you are Deprived for more than 24 hours, you take one instance o
 As soon as you cure the source of your deprivation, you lose the condition.
 
 ##### Strain
-**Strain** is a condition that represents fatigue and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
+**Strain** is a condition that represents tiredness, overexertion, and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
 
 Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. 
 
@@ -277,7 +277,7 @@ Yan couldn't have chosen to also *Repel* the creature, but Yokel could have chos
 ### Feats
 Every character can perform the following 3 Feats in combat. A Feat is a special maneuver that you make on your attack or as a response to someone else's attack. You can only apply one Feat per character per attack. 
 
-After you perform a Feat, roll the associated Save. If you fail this Save, you are **FFatigued*: you can't perform any more Feats until you've had a rest.
+After you perform a Feat, roll the associated Save. If you fail this Save, you are **Fatigued**: you can't perform any more Feats until you've had a rest.
 
 The Feats are:
 - **Frenzy** (*VIG Save*): You declare to Frenzy *when you declare your attack, before the attack dice have been rolled*. When you Frenzy, choose one effect on your attack:
