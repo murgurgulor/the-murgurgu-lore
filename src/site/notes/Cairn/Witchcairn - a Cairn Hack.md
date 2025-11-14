@@ -84,7 +84,7 @@ Furthermore: if you are Deprived for more than 24 hours, you take one instance o
 As soon as you cure the source of your deprivation, you lose the condition.
 
 ##### Strain
-**Strain** is a condition that represents tiredness, overexertion, and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
+**Strain** is a condition that represents exhaustion, overexertion, and stress. It occupies 1 Inventory Slot, and until the Strain clears you can't use that slot for carrying items. If you have to take Strain when you're already at full Inventory, you either become **Exposed**, or you have to drop an item.
 
 Strain can be gained from strenuous activites, not sleeping or resting enough, or overtaxing your body. Strain can accumulate, occupying one slot for each instance of Strain you have. 
 
