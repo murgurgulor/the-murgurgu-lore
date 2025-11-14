@@ -11,7 +11,7 @@ This is a custom ruleset with elements taken from the following 'Marked by the O
 
 ---
 # What's on the Character Sheet
-![Pasted image 20251112101401.png](/img/user/z_attachments/Pasted%20image%2020251112101401.png)
+![Pasted image 20251114100932.png](/img/user/z_attachments/Pasted%20image%2020251114100932.png)
 
 ---
 ### Qualities
@@ -68,7 +68,7 @@ Items come in 3 varieties:
 
 ---
 ### Conditions
-There are three Conditions that influence your character's capacities: **Exposed**, **Deprived**, and **Strain**.
+There are four Conditions that influence your character's capacities: **Exposed**, **Feat Fatigue**, **Deprived**, and **Strain**.
 
 ##### Exposed 
 You are **Exposed** if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
@@ -160,9 +160,9 @@ Combat is split up in rounds of roughly 10 seconds. Each round, every group of p
 ### Distance and Range
 Everyone's distance to each other in combat is expressed in relative terms.
 - **Engaged**: At arm's length. You need to be *Engaged* with an opponent in order to make a Melee Attack against them. You can't make a Ranged Attack if you start your turn *Engaged* with an enemy.
-- **Nearby**: Within movement's distance. '*Across the room*.' You can make a Melee Attack against a *Nearby* target if your weapon has *Reach*, or you can make a Ranged Attack.
-- **Far Away**: More than a single movement away. '*Across the field*.' You can only target opponents with a Ranged Attack.
-- **Distant**: So far away that you can't make out details. Ranged Attacks at *Distant* targets are *Impaired*.
+- **Nearby**: Within movement's distance; within 40 feet; '*Across the room*.' You can make a Melee Attack against a *Nearby* target if your weapon has *Reach*, or you can make a Ranged Attack.
+- **Far Away**: More than a single movement away; between 40-80 feet; '*Across the field*.' You can only target opponents with a Ranged Attack.
+- **Distant**: So far away that you can't make out details; More than 80 feet away. Ranged Attacks at *Distant* targets are *Impaired*.
 
 If you move during your turn, you can shift your relative distance up or down one category (moving towards a *Nearby* monster to *Engage* it, fleeing to get *Distant* from a *Far Away* archer). 
 Using your turn's action for extra movement allows you to shift an additional step.
@@ -178,9 +178,11 @@ If neither side is surprised, each player character needs to pass a CLA Save in 
 
 
 ### Your Turn
-When your side has its turn, you can declare whether you want to move and specify if you want to take an action. You move either **before** or **after** your action, you can't split it up around your action.
+When your side has its turn, you can declare to Move and an Action. If you Move, you move either **before** or **after** your Action, you can't split it up around your action.
 
-Switching one *At Hand* and *Body* item around doesn't count as an action and can be done freely at any point.
+Switching one *At Hand* and *Body* item around doesn't count as an action and can be done freely at any point during your turn.
+
+If you Move, you can shift your relative distance to others by one step. In terms of absolute distance, a Move allows you to move around 40 feet.
 
 Actions include:
 - Making an attack and/or performing a Gambit
@@ -200,7 +202,7 @@ There are no separate to-hit rolls. When you attack, you roll the attack dice of
 
 If your attack didn't deplete your enemy's Guard, you didn't wound your enemy. If your attack exceeds your enemy's Guard, any excess damage reduces their Vigour and you've wounded them.
 
-Attack dice range from d4 for unarmed or *Impaired* attacks to d10 for big two-handed weapons.
+Attack dice range from *d4* for unarmed or *Impaired* attacks to *d10* for big two-handed weapons.
 
 ##### Melee Attacks
 You can make a melee attack against an opponent if you are *Engaged* with them, or if they are *Nearby* and your weapon has the *Reach* property. You can dual wield two Light weapons, or one Balanced weapon and a Light weapon, rolling both attack dice if you do so.
