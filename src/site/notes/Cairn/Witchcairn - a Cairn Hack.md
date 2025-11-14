@@ -409,7 +409,7 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 - Bypass a situation that could normally require you to make a Save
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder of aid actions of others
-- Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or * Near*
+- Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or *Near*
 	- Or: deal direct Quality Loss (*d4*) if the target fails a Save
 
 
