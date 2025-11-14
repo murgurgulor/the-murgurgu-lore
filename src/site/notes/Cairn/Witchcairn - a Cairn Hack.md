@@ -163,11 +163,11 @@ Combat is split up in rounds of roughly 10 seconds. Each round, every group of p
 ### Distance and Range
 Everyone's distance to each other in combat is expressed in relative terms.
 - **Engaged**: At arm's length. You need to be *Engaged* with an opponent in order to make a Melee Attack against them. You can't make a Ranged Attack if you start your turn *Engaged* with an enemy.
-- **Nearby**: Within movement's distance; within 40 feet; '*Across the room*.' You can make a Melee Attack against a *Nearby* target if your weapon has *Reach*, or you can make a Ranged Attack.
+- **Near**: Within movement's distance; within 40 feet; '*Across the room*.' You can make a Melee Attack against a * Near* target if your weapon has *Reach*, or you can make a Ranged Attack.
 - **Far**: More than a single movement away; between 40-80 feet; '*Across the field*.' You can only target opponents with a Ranged Attack.
 - **Distant**: So far away that you can't make out details; More than 80 feet away. Ranged Attacks at *Distant* targets are *Impaired*.
 
-If you move during your turn, you can shift your relative distance up or down one category (moving towards a *Nearby* monster to *Engage* it, fleeing to get *Distant* from a *Far* archer). 
+If you move during your turn, you can shift your relative distance up or down one category (moving towards a *Near* monster to *Engage* it, fleeing to get *Distant* from a *Far* archer). 
 Using your turn's action for extra movement allows you to shift an additional step.
 
 
@@ -208,10 +208,10 @@ If your attack didn't deplete your enemy's Guard, you didn't wound your enemy. I
 Attack dice range from *d4* for unarmed or *Impaired* attacks to *d10* for big two-handed weapons.
 
 ##### Melee Attacks
-You can make a melee attack against an opponent if you are *Engaged* with them, or if they are *Nearby* and your weapon has the *Reach* property. You can dual wield two Light weapons, or one Balanced weapon and a Light weapon, rolling both attack dice if you do so.
+You can make a melee attack against an opponent if you are *Engaged* with them, or if they are *Near* and your weapon has the *Reach* property. You can dual wield two Light weapons, or one Balanced weapon and a Light weapon, rolling both attack dice if you do so.
 
 ##### Ranged Attacks
-You can make ranged attacks against opponents that are *Nearby* or *Far* without a problem. A ranged attack against a *Distant* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
+You can make ranged attacks against opponents that are *Near* or *Far* without a problem. A ranged attack against a *Distant* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
 
 Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 usage dots. After combat, roll a d6. If you roll a 1-3, you mark one of the dots. When all three dots are marked, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight. If you are unable to retrieve arrows after a fight - when fleeing for example - you always mark a usage dot.
 
@@ -409,7 +409,7 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 - Bypass a situation that could normally require you to make a Save
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder of aid actions of others
-- Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or *Nearby*
+- Deal damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or * Near*
 	- Or: deal direct Quality Loss (*d4*) if the target fails a Save
 
 
