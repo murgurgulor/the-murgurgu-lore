@@ -68,13 +68,13 @@ Items come in 3 varieties:
 
 ---
 ### Conditions
-There are four Conditions that influence your character's capacities: **Exposed**, **Feat Fatigue**, **Deprived**, and **Strain**.
+There are four Conditions that influence your character's capacities: **Exposed**, **Fatigued**, **Deprived**, and **Strain**.
 
 ##### Exposed 
 You are **Exposed** if you are encumbered (carrying more items than you have slots for) or otherwise unable to actively defend yourself. While you are Exposed, your Guard is treated as 0 and you can't recover it when resting.
 
-##### Feat Fatigue
-In combat, you can perform special maneuvers called Feats that can demand a lot of your energy. If you suffer **Feat Fatigue**, you've overtaxed yourself and can't perform any more Feats. You lose Feat Fatigue after a short rest.
+##### Fatigued
+In combat, you can perform special maneuvers called Feats that can demand a lot of your energy. If you are **Fatigued**, you've overtaxed yourself and can't perform any more Feats. You lose Fatigue after a short rest.
 
 ##### Deprived
 You're **Deprived** if you haven't had sufficient food, drink, or rest for 24 hours. When you're Deprived, you can't recover your Guard in a short rest, nor can you recover any Quality Loss. 
@@ -277,7 +277,7 @@ Yan couldn't have chosen to also *Repel* the creature, but Yokel could have chos
 ### Feats
 Every character can perform the following 3 Feats in combat. A Feat is a special maneuver that you make on your attack or as a response to someone else's attack. You can only apply one Feat per character per attack. 
 
-After you perform a Feat, roll the associated Save. If you fail this Save, you have **Feat Fatigue**: you can't perform any more Feats until you've had a rest.
+After you perform a Feat, roll the associated Save. If you fail this Save, you are **FFatigued*: you can't perform any more Feats until you've had a rest.
 
 The Feats are:
 - **Frenzy** (*VIG Save*): You declare to Frenzy *when you declare your attack, before the attack dice have been rolled*. When you Frenzy, choose one effect on your attack:
@@ -326,7 +326,7 @@ When an attack in combat reduces your GD to exactly 0, you take a Scar. The amou
 | 12 GD   | **Doomed**: Death seemed ever so close, but somehow you survived. You are out of action until you've had a day to recover. Afterwards, your next VIG Save from a Wound determines your fate. If it is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max GD, take the new result. |
 
 ### Recovering
-If you rest in a safe environment for at least 10 minutes and you are not **Deprived**, you recover your GD fully and remove any Feat Fatigue.
+If you rest in a safe environment for at least 10 minutes and you are not **Deprived**, you recover your GD fully and remove any Fatigue.
 
 Quality Loss is recovered at one point per full night's rest. If multiple Qualities are reduced, choose which one to recover a point in each day.
 
