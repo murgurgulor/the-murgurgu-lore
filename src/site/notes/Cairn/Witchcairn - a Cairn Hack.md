@@ -387,20 +387,20 @@ Ranged Weapons can target anyone you can see, but attacks against *Distant* targ
 
 ---
 # Magic
-### Runestones
-Magic is contained in **Runestones**. Runestones are stones veined with a rare star metal that acts as a conduit between the wielder's intent and the physical reality. Each Runestone is inscribed with two runes of the Ur-language. These Runes are difficult to directly translate and can have many different meanings based on the circumstances and intent.
+### Runeskelfs
+Magic is contained in **Runeskelfs**. Runeskelfs are thin slivers of wood broken from a tree deep within Vald that is deeply rooted in the magic underneath. Runeskelfs contain part of that magic, and acts as a conduit between the wielder's intent and the physical reality. Each Runeskelf is inscribed with two runes of the Ur-language. These Runes are difficult to directly translate and can have many different meanings based on the circumstances and intent.
 
-When you wield a Runestone, you can focus your energy on visualizing an intended effect on the physical world that could be described with the Ur-Runes on the stone. The GM will tell you to what extent your effect is achievable.
+When you wield a Runeskelf, you can focus your energy on visualizing an intended effect on the physical world that could be described with the Ur-Runes on the stone. The GM will tell you to what extent your effect is achievable.
 
 **Example**
-If you wield a Runestone with the runes '*Expanding Mind*', one application could be to temporarily enhance someone's cognitive capacities in order to solve a difficult problem. A different application could be to enlarge an opponent's brain in their skull to hurt them. A third application could be to establish some form of telepathy between several people and create a temporary hivemind.
+If you wield a Runeskelf with the runes '*Expanding Mind*', one application could be to temporarily enhance someone's cognitive capacities in order to solve a difficult problem. A different application could be to enlarge an opponent's brain in their skull to hurt them. A third application could be to establish some form of telepathy between several people and create a temporary hivemind.
 
 ![Pasted image 20251112090636.png](/img/user/z_attachments/Pasted%20image%2020251112090636.png)
 
-### Channeling Runestones
-Channeling your energy through a Runestone requires freedom of body and mind. You can only use a Runestone if you have **at least one empty Inventory Slot**. After you've used the Runestone, you take one **Strain** from the mental efforts.
+### Channeling Runeskelfs
+Channeling your energy through a Runeskelf requires freedom of body and mind. You can only use a Runeskelf if you have **at least one empty Inventory Slot**. After you've used the Runeskelf, you take one **Strain** from the mental efforts.
 
-If you try to channel a Runestone in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic in addition to the intended effect.
+If you try to channel a Runeskelf in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic in addition to the intended effect.
 
 
 ### Magical Effects
@@ -418,11 +418,11 @@ If you want to achieve an effect that's greater than listed above - such as affe
 
 Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person always needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
 
-After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, the Runestone is tapped out and can't be used again until it is recharged. Each Runestone has a specific recharge ritual related to the Runes it holds.
+After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, the Runeskelf is tapped out and can't be used again until it is recharged. Each Runeskelf has a specific recharge ritual related to the Runes it holds.
 
 
-### Random Runestones
-If you happen to find a random Runestone, the Ur-Runes inscribed are randomly determined according to the spell generation methods of the TTRPG *Maze Rats*:
+### Random Runeskelfs
+If you happen to find a random Runeskelf, the Ur-Runes inscribed are randomly determined according to the spell generation methods of the TTRPG *Maze Rats*:
 
 ![Pasted image 20250910092446.png](/img/user/z_attachments/Pasted%20image%2020250910092446.png)
 
@@ -565,7 +565,7 @@ Specific terrains or circumstances might change the Wilderness Event Die into a 
 
 # Marketplace
 
-All prices are in Silver Guilders, unless otherwise noted. Prices stated here are an average estimation. Actual prices may change based on location, availability, local circumstances, and your reputation.
+All prices are in Silver Guilders, unless otherwise noted. Prices stated here are an average estimation. Actual prices may differ based on location, availability, local circumstances, and your reputation.
 
 10 Coppers Shavings make up 1 Silver Guilder, and 10 Silver Guilders make up 1 Golden Mark.
 Regular daily wages for someone making a modest living are around 5 Guilders a day. Poor people manage to scrape by on 2 Guilders a day. Prosperous merchants and specialized craftsmen may make up to 4 Marks a day.
