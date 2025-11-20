@@ -565,7 +565,8 @@ Specific terrains or circumstances might change the Wilderness Event Die into a 
 
 # Marketplace
 
-All prices are in Silver Guilders, unless otherwise noted.
+All prices are in Silver Guilders, unless otherwise noted. Prices stated here are an average estimation. Actual prices may change based on location, availability, local circumstances, and your reputation.
+
 10 Coppers Shavings make up 1 Silver Guilder, and 10 Silver Guilders make up 1 Golden Mark.
 Regular daily wages for someone making a modest living are around 5 Guilders a day. Poor people manage to scrape by on 2 Guilders a day. Prosperous merchants and specialized craftsmen may make up to 4 Marks a day.
 
