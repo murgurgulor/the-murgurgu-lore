@@ -104,6 +104,11 @@ Armor from Shields only functions if the Shield is worn in an *At Hand* slot.
 Armor from body pieces only functions if it is worn on a *Body* slot.
 
 
+### Wealth
+Your Wealth is expressed in coins: Copper Shavings, Silver Guilders, and Golden Marks.
+Coins are not counted towards your inventory, but treasures in other shapes - jewels, gems, and such - can be required to occupy a slot. When you get back into town and sell them for money, you add it to your Wealth.
+
+
 ---
 # The Rules of the Game
 The rules of the game are straightforward. The GM describes the environment and your situation, and the player characters react to it. Characters can do anything they can be reasonably assumed to be capable of, keeping in mind their background and prior achievements. 
