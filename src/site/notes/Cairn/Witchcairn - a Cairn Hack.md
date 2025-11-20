@@ -398,7 +398,7 @@ If you wield a Runeskelf with the runes '*Expanding Mind*', one application coul
 ![Pasted image 20251112090636.png](/img/user/z_attachments/Pasted%20image%2020251112090636.png)
 
 ### Channeling Runeskelfs
-Channeling your energy through a Runeskelf requires freedom of body and mind. You can only use a Runeskelf if you have **at least one empty Inventory Slot**. After you've used the Runeskelf, you take one **Strain** from the mental efforts.
+Channeling your energy through a Runeskelf requires freedom of body and mind. You can only use a Runeskelf if you have **at least one empty Inventory Slot**. After you've used the Runeskelf, roll a d6. On a 1-3, you take one **Strain** from the mental efforts.
 
 If you try to channel a Runeskelf in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic in addition to the intended effect.
 
@@ -549,7 +549,7 @@ The following day, the weather turns bad. The party spends the Morning Watch in 
 
 ---
 ##### The Wilderness Event Die
-When the characters travel through the wilderness, they might come across unexpected obstacles, natural phenomena, or wilderness inhabitants. The GM rolls the Wilderness Event Die - a d6 - wat **Sunrise** and **Sunset**. The results of the Die occur somewhere in the 12 hours thereafter. If the party decides to Travel, Explore, or Forage during the Night Watch, an additional Event Die is rolled.
+When the characters travel through the wilderness, they might come across unexpected obstacles, natural phenomena, or wilderness inhabitants. The GM rolls the Wilderness Event Die - a d6 - at **Sunrise** and **Sunset**. The results of the Die occur somewhere in the 12 hours thereafter. If the party decides to Travel, Explore, or Forage during the Night Watch, an additional Event Die is rolled.
 
 Specific terrains or circumstances might change the Wilderness Event Die into a d4 or a d8.
 
