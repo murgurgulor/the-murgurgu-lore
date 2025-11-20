@@ -562,3 +562,58 @@ Specific terrains or circumstances might change the Wilderness Event Die into a 
 | 5+                   | Safe and easy travels.                                                                                                                  |
 
 ---
+
+# Marketplace
+
+All prices are in Silvers, unless otherwise noted.
+10 Coppers Shavings make up 1 Silver, and 10 Silvers make up 1 Golden Mark.
+Regular daily wages for someone making a modest living are around 5 Silvers a day. Poor people manage to scrape by on 2 Silvers a day. Prosperous merchants and specialized craftsmen may make up to 4 Marks a day.
+
+
+| Category            | Item                                               | Price (Silvers) |
+| ------------------- | -------------------------------------------------- | --------------- |
+| Armor               | Light Armor (1 Armor)                              | **20**          |
+| Armor               | Heavy Armor (2 Armor, bulky)                       | **70**          |
+| Armor               | Plate Mail (3 Armor, bulky)                        | **120**         |
+| Armor               | Shield (+1 Armor)                                  | **15**          |
+| Weapons             | Light Weapons (Dagger, Cudgel, Staff)              | **5**           |
+| Weapons             | Balanced Weapons (Spear, Sword, Mace)              | **10**          |
+| Weapons             | Great Weapons (Halberd, Glaive, Waraxe)            | **20**          |
+| Weapons             | Bow (d6, bulky)                                    | **15**          |
+| Weapons             | Crossbow (d8, bulky)                               | **25**          |
+| Weapons             | Sling (d6)                                         | **2**           |
+| Transport           | Cart (+4 slots, bulky)                             | **40**          |
+| Transport           | Horse (+4 slots)                                   | **100**         |
+| Transport           | Mule (+6 slots, slow)                              | **50**          |
+| Transport           | Ship’s Passage                                     | **30**          |
+| Transport           | Wagon (+8 slots, slow)                             | **150**         |
+| Upkeep & Recovery   | Private Room & Board (fits 4)                      | **16**          |
+| Upkeep & Recovery   | Room & Board (per night)                           | **5**           |
+| Upkeep & Recovery   | Stable & Feed (per night)                          | **2**           |
+| Upkeep & Recovery   | Rations (3 uses)                                   | **5**           |
+| Upkeep & Recovery   | Animal Feed (3 uses, bulky)                        | **2**           |
+| Upkeep & Recovery   | Medical Healing (per week)                         | **50**          |
+| Hirelings (per day) | Inexperienced/Unskilled Labor                      | **5**           |
+| Hirelings (per day) | Experienced/Skilled Labor                          | **10**          |
+| Hirelings (per day) | Specialized Labor                                  | **25**          |
+| Gear                | Antitoxin                                          | **25**          |
+| Gear                | Medical Supplies and Herbs (3 uses)                | **10**          |
+| Gear                | Chest                                              | **20**          |
+| Gear                | Compass                                            | **40**          |
+| Gear                | Complex Instruments (Bagpipes, Fiddle, etc.)       | **40**          |
+| Gear                | Containers (Sack, Waterskin, etc.)                 | **5**           |
+| Gear                | Dowsing Rod                                        | **20**          |
+| Gear                | Expeditionary Gear (Climbing Spikes, Pulley, etc.) | **15**          |
+| Gear                | Fire Oil                                           | **15**          |
+| Gear                | Games                                              | **5**           |
+| Gear                | Gloves (petty)                                     | **5**           |
+| Gear                | Mirror                                             | **10**          |
+| Gear                | Pole (10ft)                                        | **3**           |
+| Gear                | Sewing Kit                                         | **10**          |
+| Gear                | Simple Instruments (Pipes, Lute, etc.)             | **15**          |
+| Gear                | Smoking Pipe (petty)                               | **10**          |
+| Gear                | Spyglass                                           | **100**         |
+| Gear                | Thieving Tools (Lockpick, Metal File, etc.)        | **30**          |
+| Gear                | Torch (3 uses)                                     | **3**           |
+| Gear                | Whistle (petty)                                    | **5**           |
+| Gear                | Wilderness Clothes (Poncho, Cloak, etc.) (petty)   | **10**          |
