@@ -11,7 +11,7 @@ This is a custom ruleset with elements taken from the following 'Marked by the O
 
 ---
 # What's on the Character Sheet
-![Pasted image 20251114123808.png](/img/user/z_attachments/Pasted%20image%2020251114123808.png)
+![Pasted image 20251121133443.png](/img/user/z_attachments/Pasted%20image%2020251121133443.png)
 
 ---
 ### Qualities
@@ -393,7 +393,7 @@ Ranged Weapons can target anyone you can see, but attacks against *Distant* targ
 ---
 # Magic
 ### Runeskelfs
-Magic is contained in **Runeskelfs**. Runeskelfs are thin slivers of wood broken from a tree deep within Vald that is deeply rooted in the magic underneath. Runeskelfs contain part of that magic, and acts as a conduit between the wielder's intent and the physical reality. Each Runeskelf is inscribed with two runes of the Ur-language. These Runes are difficult to directly translate and can have many different meanings based on the circumstances and intent.
+Magic is contained in **Runeskelfs**. Runeskelfs are thin slivers of wood broken from a tree deep within Vald that is deeply rooted in the magic underneath. Runeskelfs contain part of that magic, and act as a conduit between the wielder's intent and the physical reality. Each Runeskelf is inscribed with two runes of the Ur-language. These Runes are difficult to directly translate and can have many different meanings based on the circumstances and intent.
 
 When you wield a Runeskelf, you can focus your energy on visualizing an intended effect on the physical world that could be described with the Ur-Runes on the stone. The GM will tell you to what extent your effect is achievable.
 
