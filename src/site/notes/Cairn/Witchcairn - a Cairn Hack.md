@@ -594,7 +594,7 @@ Regular daily wages for someone making a modest living are around 5 Guilders a d
 | Transport           | Ship’s Passage                                     | **30**                  |
 | Transport           | Wagon (+8 slots, slow)                             | **150**                 |
 | Upkeep & Recovery   | Private Room & Board (fits 4)                      | **16**                  |
-| Upkeep & Recovery   | Room & Board (per night)                           | **5**                   |
+| Upkeep & Recovery   | Room & Board (per night)                           | **4**                   |
 | Upkeep & Recovery   | Stable & Feed (per night)                          | **2**                   |
 | Upkeep & Recovery   | Rations (3 uses)                                   | **5**                   |
 | Upkeep & Recovery   | Animal Feed (3 uses, bulky)                        | **2**                   |
