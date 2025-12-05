@@ -28,7 +28,7 @@ When an Quality reaches 0, you are either dead (VIG), unable to react to the wor
 
 
 ### Background
-Your character has a Background: a description of the experiences, knowledge, and skills you have obtained in your life so far. A large number of quirky Backgrounds can be found here: https://cairnrpg.com/second-edition/backgrounds/
+Your character has a Background: a description of the experiences, knowledge, and skills you have obtained in your life so far. A large number of quirky Backgrounds can be found here: https://cairnrpg.com/second-edition/backgrounds/. If you want a more low-key fantasy background, you can also peruse these lists: https://cairnrpg.com/barebones/barebones-gear-packages/, https://cairnrpg.com/barebones/barebones-character-creation/#background
 You can choose or roll for one of these Backgrounds, or make a custom one that adheres to the same format and style.
 
 Each Background gives you:
@@ -168,11 +168,12 @@ Combat is split up in rounds of roughly 10 seconds. Each round, every group of p
 ### Distance and Range
 Everyone's distance to each other in combat is expressed in relative terms.
 - **Engaged**: At arm's length. You need to be *Engaged* with an opponent in order to make a Melee Attack against them. You can't make a Ranged Attack if you start your turn *Engaged* with an enemy.
-- **Near**: Within movement's distance; within 40 feet; '*Across the room*.' You can make a Melee Attack against a * Near* target if your weapon has *Reach*, or you can make a Ranged Attack.
-- **Far**: More than a single movement away; between 40-80 feet; '*Across the field*.' You can only target opponents with a Ranged Attack.
-- **Distant**: So far away that you can't make out details; More than 80 feet away. Ranged Attacks at *Distant* targets are *Impaired*.
+- **Close**: Within movement's distance; within 40 feet; '*Across the room*.' You can make a Melee Attack against a *Close* target if your weapon has *Reach*, or you can make a Ranged Attack.
+- **Near**: Within a double movement's distance; between 40-80 feet; '*In the next room*'. You can only attack opponents with a Ranged Attack.
+- **Far**: Further away; between 80-160 feet; '*Across the field*.' Ranged Attacks at *Far* targets are *Impaired*.
+- **Distant**: So far away that you can't make out details; More than 160 feet away. Out of range for ranged attacks.
 
-If you move during your turn, you can shift your relative distance up or down one category (moving towards a *Near* monster to *Engage* it, fleeing to get *Distant* from a *Far* archer). 
+If you move during your turn, you can shift your relative distance up or down one category (moving towards a *Close* monster to *Engage* it, fleeing to get *Far* from a *Near* archer). 
 Using your turn's action for extra movement allows you to shift an additional step.
 
 
@@ -202,8 +203,6 @@ Actions include:
 - Parley
 - Anything else that would reasonably fit in this list
 
-You can also specify holding a specific action until a specific trigger occurs in the enemy's turn. You need to specify your action and the trigger on which you will unleash that action. You can only hold your action if you don't move in your turn.
-
 
 ### Attacking
 There are no separate to-hit rolls. When you attack, you roll the attack dice of your weapons. The result of these dice compared to the Armor and GD of the target determine the effect of your attack. 
@@ -213,10 +212,10 @@ If your attack didn't deplete your enemy's Guard, you didn't wound your enemy. I
 Attack dice range from *d4* for unarmed or *Impaired* attacks to *d10* for big two-handed weapons.
 
 ##### Melee Attacks
-You can make a melee attack against an opponent if you are *Engaged* with them, or if they are *Near* and your weapon has the *Reach* property. You can dual wield two Light weapons, or one Balanced weapon and a Light weapon, rolling both attack dice if you do so.
+You can make a melee attack against an opponent if you are *Engaged* with them, or if they are *Close* and your weapon has the *Reach* property. You can dual wield two Light weapons, or one Balanced weapon and a Light weapon, rolling both attack dice if you do so.
 
 ##### Ranged Attacks
-You can make ranged attacks against opponents that are *Near* or *Far* without a problem. A ranged attack against a *Distant* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first.
+You can make ranged attacks against opponents that are *Close* or *Near* without a problem. A ranged attack against a *Far* opponent is *Impaired*. You can't make a Ranged Attack if you start your turn *Engaged* with an opponent, even if you move away from them first. You also can't make a Ranged Attack against an opponent that's *Distant*.
 
 Ranged weapons that use ammunition come with an appropriate quiver (included in the item slot). Ammunition is not tracked minutely. Instead, each of these weapons has 3 usage dots. After combat, roll a d6. If you roll a 1-3, you mark one of the dots. When all three dots are marked, you're out of ammo. This represents the combined variables of how many arrows you shoot and how many functional arrows you can retrieve after a fight. If you are unable to retrieve arrows after a fight - when fleeing for example - you always mark a usage dot.
 
@@ -240,9 +239,10 @@ Yokel is wielding a longsword and a shield. The longsword has a d8 attack die, t
 
 ##### Attack Modifiers
 There are several modifiers that affect your attacks:
-- **Impaired**: If you make an attack from a position of weakness or disadvantage, your attack is *Impaired*. When your attack is *Impaired*, you roll only a **single d4** for this attack, regardless of the weapons you use. Ranged Attacks made against *Distant* enemies are always *Impaired*, and attacks made with *Reach* weapons in confined spaces may also be *Impaired*.
+- **Impaired**: If you make an attack from a position of weakness or disadvantage, your attack is *Impaired*. When your attack is *Impaired*, you roll only a **single d4** for this attack, regardless of the weapons you use. Ranged Attacks made against *Far* enemies are always *Impaired*, and attacks made with *Reach* weapons in confined spaces may also be *Impaired*.
 - **Bonus Dice**: If a particular circumstance works in your benefit, you can get a bonus attack die on your attack. Usually this is *+d8*, which means you roll a d8 in addition to your normal attack dice and - as usual - keep the single highest value. You can also use this bonus die for a Gambit. Depending on the circumstances, you might get to roll a bigger die for bonus damage. The **Frenzy** Feat can give you a *+d12* bonus die, for example.
 - **Blast**: A Blast attack affects multiple targets close together, not discriminating between friend and foe. Roll the attack dice for each target separately. If it's unsure how many targets a Blast would affect, roll the relevant attack die to determine the number of targets.
+
 
 ---
 ### Gambits
@@ -297,6 +297,15 @@ The Feats are:
 
 
 ---
+## Detachments
+Large groups of similar combatants fighting together are treated as a single unit: the *Detachment*. 
+- Attacks by individuals against Detachments are always *Impaired*, unless it's *Blast* damage or other attacks that provide a suitably large area or effect.
+- Attacks of Detachments against individuals gain *+d12* and *Blast*.
+- A Detachment doesn't make a VIG Save for Critical Damage. Instead, when its VIG is reduced to half or lower, it must make a **SPI Save** or be routed and flee. If the Detachment has a specific leader, the leader's SPI is used.
+When a Detachment's VIG is reduced to 0, it is wiped out.
+
+
+---
 # Getting Hurt
 When enemies attack you, follow this procedure:
 - Consider the attack dice rolled by the opponents: the GM will tell you if it expends any dice for Gambits, and what the damage will be.
@@ -308,11 +317,11 @@ When enemies attack you, follow this procedure:
 	- If this exceeds your GD, any excess damage is applied to your Vigour
 - If you take damage to your Vigour, immediately make a VIG Save using your new score. 
 	- If you succeed you are **Wounded** but still in the game.
-	- If you fail, you are **Mortally Wounded** - you're down and dying only able to crawl and moan weakly. If untended, you die within the hour. 
-	- After combat, an ally with Bandages can patch you up and bring you from Mortally Wounded to Wounded. This does not recover any Vigour.
+	- If you fail, you are **Critically Wounded** - you're down and dying, only able to crawl and moan weakly. If untended to, you die within the hour. Some opponents have a special ability or effect that triggers when they Critically Wound you.
+	- After combat, an ally with Bandages can patch you up and bring you from Critically Wounded to Wounded. This does not recover any Vigour.
 - If damage reduces your Vigour to 0, you die. 
 
-Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, are treated as if you are **Exposed** and is applied directly to your Vigour. However, this kind of damage does not necessarily trigger a VIG Save to avoid being Mortally Wounded.
+Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, are treated as if you are **Exposed** and is applied directly to your Vigour. However, this kind of damage does not necessarily trigger a VIG Save to avoid being Critically Wounded.
 
 
 ### Scars
@@ -378,8 +387,9 @@ Ranged Weapons can target anyone you can see, but attacks against *Distant* targ
 - Javelin: d6 attack die, considered a Balanced Weapon for purposes of dual wielding.
 
 **Two-handed (*Bulky*) Ranged Weapons**
-- Bow: d6 attack die. Quiver(3) included in the Item. Particularly artisanal bows may have a d8 attack die.
-- Crossbow: d8 attack die, and has to be reloaded as an action after each attack. Bolts(3) included in the Item.
+- Shortbow: d6 attack die. Quiver(3) included in the Item.
+- Longbow: d8 attack die. Quiver(3) included in the item. *Impaired* in cramped spaces.
+- Crossbow: d10 attack die, and has to be reloaded after each attack. You can reload a crossbow by forgoing your movement or using an action. Bolts(3) included in the Item.
 
 
 ### Armor
@@ -462,10 +472,20 @@ The GM rolls the Dungeon Event Die when the party draws attention to themselves,
 - They rest in an unsafe location
 - They make a disturbance or otheriwse cause a ruckus
 
-The Dungeon Event Die starts as a *d12*. If the party's actions creates unusual unrest or disturbances in the dungeon, the die steps down in size (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. When the Event Die is a *d4*. it might be a good idea for the party to leave and come back when things have cooled down - if they can.
+The Dungeon Event Die starting size is dependent on the status of the dungeon, see below. Usually it is a *d12* or *d10*. If the party's actions creates unusual unrest or disturbances in the dungeon, the die steps down in size (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. When the Event Die is a *d4*. it might be a good idea for the party to leave and come back when things have cooled down - if they can.
 Laying low in a safe location for a few Cycles can result in the Event Die stepping up again to a maximum of *d12*.
 
 On a result of 1-3 on the Dungeon Event Die, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
+
+
+| Dungeon Status | Dungeon Event Die |
+| -------------- | ----------------- |
+| Peaceful       | d12               |
+| Calm           | d10               |
+| Alert          | d8                |
+| Alarmed        | d6                |
+| Crisis         | d4                |
+
 
 | Event Die | Outcome                                                                                                                                                                                        |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -489,12 +509,13 @@ Traveling overland in civilized areas is narrated briefly by the GM, unless the 
 
 Traveling through the wilderness, which requires navigation and exploration, has a risk of getting lost, encountering struggles, and meeting nature's inhabitants.
 
-In Wilderness Travel, time is measured in **Watches**. There are three Watches to a day, each around 8 hours long.
-- The **Morning Watch** is from around an hour before **Sunrise** until lunch.
-- The **Afternoon Watch** is from lunch until an hour or two after **Sunset**.
+In Wilderness Travel, time is measured in **Watches**. There are four Watches to a day, each around 6 hours long.
+- The **Dawn Watch** is from **Sunrise** until lunch.
+- The **Noon Watch** is from lunch until **Sunset**.
+- The **Dusk Watch** is from **Sunset** until **Moonrise**
 - The **Night Watch** is during the dark hours.
 
-Usually two Watches in the day are spent with activities, and the Night Watch is spent Making Camp and resting. Characters can always choose to do things differently, but if they go three Watches without properly resting, they become **Deprived** and take **Strain**.
+Usually three Watches in the day are spent with activities, and the Night Watch is spent resting. Characters can always choose to do things differently, but if they go a full day without properly resting, they become **Deprived** and take **Strain**.
 
 ---
 ### How to Travel
@@ -507,7 +528,7 @@ If someone tells you something is 'x days traveling away', multiply the given nu
 #### Wilderness Cycle
 Each Watch of Wilderness Travel, the following Cycle of events happens:
 1. The GM describes the current environment and rehashes the party's situation, giving any pertinent information that is immediately noticeable to the characters.
-2. At **Sunrise** and **Sunset** (so, during the Morning Watch and Afternoon Watch), the GM rolls the Wilderness Event Die to see what unexpected events will transpire in the coming 12 hours. If the party elects to travel during the Night Watch, an additional Event Die is rolled.
+2. At **Sunrise** and **Sunset**, the GM rolls the Wilderness Event Die to see what unexpected events will transpire in the coming 12 hours. If the party elects to travel during the Night Watch, an additional Event Die is rolled.
 3. The players each declare what Wilderness Action their characters will be doing during the Watch. 
 4. The GM narrates the Watch's happenings, and incorporates the result of the Wilderness Event Die to which the player characters can respond.
 5. At the end of the Watch, any resources are checked against their duration and inventory is updated. If the party hasn't reached their destination, the Cycle begins anew.
@@ -515,46 +536,52 @@ Each Watch of Wilderness Travel, the following Cycle of events happens:
 
 ---
 #### Wilderness Actions
-During each Watch, each characters declares which **Wilderness Action** they will take. Only the Travel action actually covers ground, at the end of the other actions you remain (roughly) in your current location.
+During each Watch, each characters declares which **Wilderness Action** they will take. Only the **Hike** action actually covers ground, at the end of the other actions you remain (roughly) in your current location.
 
 
-##### Travel
-- A Wilderness Action usually taken as a group. When you Travel, you move closer to your destination. 
-- Depending on the terrain, you might need to roll to see if you get lost. 
-- If you get lost, you will have to spend another Watch traveling to get back on track. 
+##### Hike
+- A Wilderness Action that has to be taken as a group. When you Hike, you move closer to your destination.
+- Designate one of the Hikers to be the Wayfinder. They will roll to see if you get lost along the way.
+- If you get lost, you will have to spend another Watch hiking to get back on track. 
 - Other factors can also limit your progress, such as inclement weather or unexpected blocks or overgrowths. 
-- While you Travel, any obvious locations, features, and terrain of nearby areas are revealed according to their distance.
-- Traveling during the Night Watch comes with added risk of encountering dangers, allows for less progress, and requires proper light sources to do. It is possible, but not without risk and cost!
+- While you Hike, any obvious locations, features, and terrain of nearby areas are revealed according to their distance.
+- Hiking during the Dusk and Night Watch comes with added risk of encountering dangers, allows for less progress, and requires proper light sources to do. It is possible, but not without risk and cost!
 
 ##### Explore
 - A character who Explores spends the Watch searching around in a large area, looking for hidden locations or scouting out dangers ahead. 
-- If your destination is not marked on your map, the only way to find it is to Travel in the right direction and spend time Exploring the area.
+- If your destination is not marked on your map, the only way to find it is to Hike in the right direction and spend time Exploring the area.
 - If you Explore, you don't move from your current location.
 
-##### Supply
-- A character who Supplies spends the Watch hunting, fishing, or otherwise foraging for essential items. 
-- At the end of the Watch, they find 1d4 Rations (3 uses each)
-- For each additional character taking the Supply action, the die steps up in size - to a maximum of 1d12. 
+##### Forage
+- A character who Forages spends the Watch hunting, fishing, or otherwise foraging for essential items. 
+- At the end of the Watch, they find d3-d6 Rations, based on the terrain you're in.
+- For each additional character taking the Forage action, the die steps up in size - to a maximum of 1d12. 
 - Depending on the area, you might find some homesteads or small villages to resupply in.
 
 ##### Make Camp
-- When you make camp, you settle down to rest.
-- Everyone has to consume a **Ration** to get the benefits from the rest. If you go for 3 Watches without Making Camp or having a Ration while Making Camp, you become **Deprived**.
-- It's generally advised to set a sentry schedule while sleeping in the wild.
-- At the end of the Watch, everyone who has had a full night's rest removes all **Strain**. 
-- A night with light interruptions, such as standing guard for a period of time, only allows you to remove one **Strain**.
+- When you make camp, you set out to find a good location to rest in. This includes scouting for the right area, gathering firewood, cooking, setting up tents, clearing the perimeter, et cetera. Only one person is required to Make Camp.
+- You need to have Made Camp in order to Sleep. Otherwise, you can only Rest.
+
+##### Rest
+- If you spend a Watch Resting, you remain in your current location and only undertake light activities.
+- If you consume a **Ration**, you recover one Strain at the end of the Watch. If you can't consume a **Ration**, you don't gain any benefits.
+
+##### Sleep
+- If you consume a **Ration** and spend a Watch Sleeping without any major interruptions, you recover all Strain when you wake up. Additionally you can recover 1 point of Quality Loss. If your sleep is majorly interrupted or if you can't consume a **Ration**, you don't gain any benefits.
+- You can only Sleep if you have Made Camp. Otherwise the Watch counts as a Rest.
+- It's generally advised to set a sentry while sleeping in the wild. That person might need to Rest earlier, while others Make Camp or Forage.
 
 
 ---
 #### Example of Wilderness Travel
 The party starts out at Auchentyr and wants to travel to the Wood Lodge, which is 4 Watches away. 
-On day one, the party elects to Travel for the Morning and Afternoon Watch. For the Night Watch, they decide to Make Camp. They have now covered 2 Watches of the trip and have 2 Watches to go until their destination. 
-The following day, the weather turns bad. The party spends the Morning Watch in Travel, but unfortunately get lost. They have to spend the Afternoon Watch to get back on track. They now have a choice: Make Camp for the Night Watch and cover the remaining distance tomorrow, or risk Travel through the Night Watch and arrive at the Lodge in the morning. 
+On day one, the party elects to Hike for the Dawn and Noon Watch. For the Dusk Watch, they decide to Make Camp so they can Sleep in the Night Watch. They have now covered 2 Watches of the trip and have 2 Watches to go until their destination. 
+The following day, the weather turns bad. The party spends the Dawn Watch Hiking, but unfortunately get lost. They have to spend the Noon Watch to get back on track. They now have a choice: Make Camp to be ready for the Night Watch and cover the remaining distance tomorrow, or risk Hiking through the Dusk Watch and arrive at the Lodge at Moonrise. 
 
 
 ---
 ##### The Wilderness Event Die
-When the characters travel through the wilderness, they might come across unexpected obstacles, natural phenomena, or wilderness inhabitants. The GM rolls the Wilderness Event Die - a d6 - at **Sunrise** and **Sunset**. The results of the Die occur somewhere in the 12 hours thereafter. If the party decides to Travel, Explore, or Forage during the Night Watch, an additional Event Die is rolled.
+When the characters travel through the wilderness, they might come across unexpected obstacles, natural phenomena, or wilderness inhabitants. The GM rolls the Wilderness Event Die - a d6 - at **Sunrise** and **Sunset**. The results of the Die occur somewhere in the 12 hours thereafter. If the party decides to Hike, Explore, or Forage during the Dusk or Night Watch, an additional Event Die is rolled.
 
 Specific terrains or circumstances might change the Wilderness Event Die into a d4 or a d8.
 
