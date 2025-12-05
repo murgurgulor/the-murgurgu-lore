@@ -554,9 +554,16 @@ During each Watch, each characters declares which **Wilderness Action** they wil
 
 ##### Forage
 - A character who Forages spends the Watch hunting, fishing, or otherwise foraging for essential items. 
-- At the end of the Watch, they find d3-d6 Rations, based on the terrain you're in.
+- At the end of the Watch, they find d3-d6 uses of Rations (each slot of Rations has 3 Usage), based on the terrain you're in.
 - For each additional character taking the Forage action, the die steps up in size - to a maximum of 1d12. 
 - Depending on the area, you might find some homesteads or small villages to resupply in.
+
+| Terrain                                             | Forage (in Ration Usages) |
+| --------------------------------------------------- | ------------------------- |
+| Mountains, Swamp, Ruins                             | d3                        |
+| Plains, Dense Forests, Hills, Marshes, Rivers/Lakes | d4                        |
+| Light Forests                                       | d6                        |
+
 
 ##### Make Camp
 - When you make camp, you set out to find a good location to rest in. This includes scouting for the right area, gathering firewood, cooking, setting up tents, clearing the perimeter, et cetera. Only one person is required to Make Camp.
