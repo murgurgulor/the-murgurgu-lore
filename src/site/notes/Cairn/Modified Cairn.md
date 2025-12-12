@@ -466,41 +466,40 @@ A Dungeon Cycle takes an unspecified amount of time, but for purposes of time-ke
 When the characters move through the Dungeon, they might attract unwanted attention or cause the dungeon to change in some way. The **Dungeon Event Die** is a tool for the GM to determine when and how these dynamics change.
 
 The GM rolls the Dungeon Event Die when the party draws attention to themselves, such as:
-- They travel to a new location
+- They travel to a new level or zone of the dungeon
 - They traverse a sequence of previously explored locations
 - They linger for longer than a Cycle in an unsafe location
 - They rest in an unsafe location
-- They make a disturbance or otheriwse cause a ruckus
+- They make a disturbance or otherwise cause a ruckus
 
-The Dungeon Event Die starting size is dependent on the status of the dungeon, see below. Usually it is a *d12* or *d10*. If the party's actions creates unusual unrest or disturbances in the dungeon, the die steps down in size (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d4*. When the Event Die is a *d4*. it might be a good idea for the party to leave and come back when things have cooled down - if they can.
-Laying low in a safe location for a few Cycles can result in the Event Die stepping up again to a maximum of *d12*.
+The Dungeon Event Die starting size is dependent on the status of the dungeon, see below. Usually it is a *d12* or *d10*. If the party's actions creates unusual unrest or disturbances in the dungeon, the die steps down in size (so from *d12* to *d10*, or from *d8* to *d6*) to a minimum of *d6*. The die may also step down when the party enters an area in the dungeon with more activity than others, and vice versa. When the Event Die is a *d6*. it might be a good idea for the party to leave and come back when things have cooled down - if they can.
+Laying low in a safe location for a few Cycles can result in the Event Die stepping up again, to a maximum of *d12*.
 
-On a result of 1-3 on the Dungeon Event Die, something happens in response to the party's presence. A result of 4 or higher means the party is safe, for now.
+On a result of 1-6 on the Dungeon Event Die, something happens in response to the party's presence. A result of 7 or higher means the party is safe, for now.
 
 
 | Dungeon Status | Dungeon Event Die |
 | -------------- | ----------------- |
-| Peaceful       | d12               |
-| Calm           | d10               |
-| Alert          | d8                |
-| Alarmed        | d6                |
-| Crisis         | d4                |
+| Calm           | d12               |
+| Alert          | d10               |
+| Alarmed        | d8                |
+| Crisis         | d6                |
 
+| Event Die | Outcome                                                                                                                                                                                                |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1         | A **Wandering Encounter** is presented to the party. They will have to deal with it in a direct way before proceeding.                                                                                 |
+| 2-3       | **Altered Circumstances** indirectly affect the party. These are usually environmental changes, faltering resources, or events that transpire out of the direct knowledge and perception of the party. |
+| 4-6       | A **Sign or Omen** that hints at an impending Encounter or Event, or that reveals a secret, gives a hint about what has happened before, or what will happen soon.                                     |
+| 7+        | It is quiet, for now...                                                                                                                                                                                |
 
-| Event Die | Outcome                                                                                                                                                                                        |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1         | A Wandering Encounter occurs.                                                                                                                                                                  |
-| 2         | Signs or Omens of a nearby Encounter or danger. If the party doesn't react to the signs, they will encounter problems.                                                                         |
-| 3         | Altered Circumstances indirectly hinder the party, such as the Environment of the dungeon changing, a Choice between to unwanted scenarios, or a Setback causes a resource to falter or break. |
-| 4+        | It is quiet, for now...                                                                                                                                                                        |
 
 ### Resting in a Dungeon
-If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die.
+If the party wants to recover their GD and Feats while in a dungeon, they need to rest for a full Cycle. If they rest in an unsafe location in the dungeon, the GM will roll the Event Die. Any results come to pass at the end of the Cycle.
 
 ### Light in a Dungeon
-If a dungeon has no light sources of its own, the party will need to carry at least one light source per three characters. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage.
+If a dungeon has no light sources of its own, the party will need to carry at least one light source per three characters that travel close together. If there are not enough light sources to support the number of characters in the party, the characters furthest away from the light source are at a severe disadvantage. If someone without a Torch goes ahead of others, they will be left in the dark.
 
-A regular Torch has 3 usage dots and can last for 3 hours, unless unfortunate Setbacks cause them to falter earlier. Every 6 Dungeon Cycles of use, mark one usage dot on the Torch. You also mark one usage dot whenever you have to relight an extinguished Torch.
+A regular Torch has 3 usage dots. Every 6 Dungeon Cycles of use, mark one usage dot on the Torch. You also mark one usage dot whenever you have to relight a Torch that was extinguished, either by choice or by bad luck extinguished Torch.
 
 
 ---
@@ -528,7 +527,7 @@ If someone tells you something is 'x days traveling away', multiply the given nu
 #### Wilderness Cycle
 Each Watch of Wilderness Travel, the following Cycle of events happens:
 1. The GM describes the current environment and rehashes the party's situation, giving any pertinent information that is immediately noticeable to the characters.
-2. At **Sunrise** and **Sunset**, the GM rolls the Wilderness Event Die to see what unexpected events will transpire in the coming 12 hours. If the party elects to travel during the Night Watch, an additional Event Die is rolled.
+2. At **Sunrise** and **Sunset**, the GM rolls the Wilderness Event Die to see what unexpected events will transpire in the coming 12 hours. If the party elects to Hike, Explore, or Forage during the Dusk or Night Watch, an additional Event Die is rolled.
 3. The players each declare what Wilderness Action their characters will be doing during the Watch. 
 4. The GM narrates the Watch's happenings, and incorporates the result of the Wilderness Event Die to which the player characters can respond.
 5. At the end of the Watch, any resources are checked against their duration and inventory is updated. If the party hasn't reached their destination, the Cycle begins anew.
@@ -592,13 +591,12 @@ When the characters travel through the wilderness, they might come across unexpe
 
 Specific terrains or circumstances might change the Wilderness Event Die into a d4 or a d8.
 
-| Wilderness Event Die | Outcome                                                                                                                                 |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                    | A Wandering Encounter occurs.                                                                                                           |
-| 2                    | Signs or Omens of a nearby Encounter, special Feature or Locality, or Information about the area.                                       |
-| 3                    | The Weather changes. If it turns bad, the party might need to hunker down or risk **Strain**.                                           |
-| 4                    | The party Struggles. Either there's an obstacle that needs to be overcome or traveled around, or they meet with an unfortunate setback. |
-| 5+                   | Safe and easy travels.                                                                                                                  |
+| Wilderness Event Die | Outcome                                                                                                                                                                                             |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                    | A **Wandering Encounter** is presented to the party. They will have to deal with it in some way before proceeding.                                                                                  |
+| 2                    | **Altered Circumstances** indirectly affect the party. This may be an environmental hazard or obstacle, a change in the weather, or they meet with an unfortunate setback in resources or progress. |
+| 3                    | A **Sign or Omen** that hints at an impending Encounter, Event, or reveals signs of a nearby local Feature or Location.                                                                             |
+| 4+                   | Safe and easy travels.                                                                                                                                                                              |
 
 ---
 
