@@ -159,7 +159,7 @@ There are signs that Frost Giants and Winter Wolves are roaming in the area arou
 ### Omu
 Omu was the city of the **Eshowe** tribe, and nicknamed 'the City of Wizards' - although now it's known as the **Forbidden City**. It was once a thriving nexus in Chultan economy as its natural location in a basin made it a central trading hub for all of Chult. Things started to change when they started imposing tariffs on trade from the other cities. It is said that Ubtao abandoned them, and in response they decided to create a new god. The wizard of the city transformed their flesh to become more powerful, and they built the **Soulforge** - a large crystalline apparatus that stores souls.
 
-Ubtao responded by sending the Barae from Mezro to sack Omu. Warlord Ras Nsi genocided most of Omu's population well after the war was over. Omu still existed afterwards, but only as a shadow of its former self. The most recent mention of Omu in history is of Queen Zalkoré, who was said to be the most beautiful person in the world. A monument to her still exists: the 'hanging garden of dreams', or **Nangalor**. Nangalor is situated east of the river **Olun**, just above **Lake Luo**.
+Ubtao responded by sending the Barae from Mezro to sack Omu. Warlord Ras Nsi genocided most of Omu's population well after the war was over. Omu still existed afterwards, but only as a shadow of its former self. The most recent mention of Omu in history is of Queen Zalkoré, who was said to be the most beautiful person in the world. A monument to her still exists: the 'hanging garden of dreams', or **Nangalor**. Nangalor is situated east of the river **Olung**, just above **Lake Luo**.
 
 
 
