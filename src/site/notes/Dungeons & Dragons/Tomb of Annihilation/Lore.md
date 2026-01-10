@@ -6,15 +6,12 @@
 
 # Current Goals and Objectives
 
-**Expedition Day**: 22
+**Expedition Day**: 25(?)
 
-- Do research in the library
-- Find the way to the top floor of the tower to surveil the city
-- Find Artus Cimber in the residential district of Mezro
+- Downtime in Port Nyanzaru
+- Head back to Mezro and quickly leave to continue our way to Kir Sabal
 
 Sidequests:
-- Head to the Aaracokra settlement of Kir Sabal as emissaries of the Temple of Gond, to establish a line of communication in order for the Gondians to get access to the Plane of Air, to make Air Planes.
-- Figure out why a Night Hag is after Poag.
 - Head to the Albino Dwarves to re-open the Hrakhamar Mines and increase the production of Chultan Bronze.
 - I guess we should at one point help Hew avenge his family at the Wyrmheart Mines.
 
@@ -32,8 +29,10 @@ A vision of a black obelisk covered in vines. Possibly a crystal containing grea
 ### The Crystal Cylinder
 A vision of a large crystal cylinder supported on struts of adamantine. Faces float by inside the crystal - possibly souls. We surmise this is some sort of (man-made) machine.
 
+We learned that this is a machine called the '**Soulforge**'. It was created thousands of years ago by the **Eshowe** people of **Omu**, and it was intended to create a new god. Under orders of Ubtao, the Barae of Mezro sacked Omu before they could go ahead. Ras Nsi massacred all the Eshowe, even long after the battle was won.
+
 ### The Many-Eyed God
-A vision of a gigantic being of black flesh and countless eyes. In the space behind, countless dead titans float by - one of which we identified as Tymora. This may relate to the Children of the Crocodile's mentions of a new God coming to town.
+A vision of a gigantic being of black flesh and countless eyes. In the space behind, countless dead titans float by - one of which we identified as Tymora. This may relate to the Children of the Crocodile's mentions of a new God coming to town, and tie in to the **Soulforge** in Omu.
 
 ### The Lich
 A vision of a skeletal figure with great horns, wearing robes and wielding a stuff with a human skull. Opposed to the other visions, this creature turned to face Mo and wreathed him in necrotic energies. From the description we gather this must be a lich.
@@ -90,7 +89,7 @@ Poag had the Zhentarim convinced he was elite agent **Diognesis Thumbskin**, but
 ### The Flaming Fist
 The Flaming Fist are a band of mercenaries that was hired by Port Nyanzaru in the Amnian Independence War, 11 years ago. In return they got a base in Fort Beluaran. Additionally, they lay a claim to all treasures found in the jungle. If you want to hunt for treasure in the jungle, you need a charter from the Flaming Fist and share part of the loot, or they will (forcefully) take everything.
 
-There is currently a detachment of the Flaming Fist stationed in/near **Mezro**. They patrol the waters and have their base in the North West area of the city.
+There is currently a detachment of the Flaming Fist stationed in/near **Mezro**. They patrol the waters and have their base in the North West area of the city. We encountered a patrol of them led by **Lt. Kess Veldro**. An **Antimagic Field** popped up during the fight, and they seemed to feel sick from it. They also were carrying crazy magic items that dissolve when they leave Mezro. This is a result of the curse on Mezro, that ties everything to the city.
 
 
 ---
@@ -111,7 +110,9 @@ Hew can't read maps, but he is knowledgeable about quantum mechanics.
 In a daring game of Fortune's Favor, Cassandra managed to evict Cathas' soul from the ring. Instead of heading to Tymora, however, his soul was pulled towards the center of Chult.
 
 ##### Artus Cimber
-We found Artus Cimber encased in a dome of ice, wearing the fabled **Ring of Winter** which grants protection against death. We woke him up from what seemed a century-long slumber. After we told him what's what, he was confused about the falling of **Mezro** and **Ras Nsi**'s actions. Before answering any of our deepest questions he summoned an ice bird and flew off to Mezro. There he is rumoured to be residing in the residential district.
+We found Artus Cimber encased in a dome of ice, wearing the fabled **Ring of Winter** which grants protection against death. We woke him up from what seemed a century-long slumber. After we told him what's what, he was confused about the falling of **Mezro** and **Ras Nsi**'s actions. Before answering any of our deepest questions he summoned an ice bird and flew off to Mezro. 
+
+Later on, we found him in Mezro and we hooked up for a bit. He was looking for his wife, and seemed to think that Mezro was shifted away or something. We helped him get back to Port Nyanzaru, where our ways parted.
 
 ### Independents
 Other NPCs we've encountered are:
@@ -140,13 +141,7 @@ Sites we visited in Port Nyanzaru were:
 
 
 ---
-### Temple of Crocodile and Man
-The Temple of Crocodile and Man is situated a few days south from Port Nyanzaru. The Temple depicts the story of Crocodile and Man who rode on each other backs. This also proved to be the key to unlocking the Temple's secret chamber where we found an **Alchemy Jug**, and a portal. We assume the portal leads to the plant-maze-pocket dimension that also connects to **Port Nyanzaru**. The Maze is a challenge to get through, but we learned that going **Right-Right-Right-Left-Left-Straight** will bring us to Port Nyanzaru.
 
-We discerned that the Man represents **Ubtao**, and Crocodile represents **Thard'har**, a nature god related to the Albino Dwarves.
-
-
----
 ### Mezro
 Mezro is a ruin deep in the undead-infested jungles of Chult that was destroyed around 100 years ago. Originally a great capital of the Jakabi tribe, it was ruled by paladins of Ubtao who were gifted immortality and the power to animate the dead: **Barae**. Then, the **Eshowe** tribe turned against Ubtao and the Jakabi declared war. One of the Bara - **Ras Nsi** - decided to genocide the entire Eshowe tribe with his undead minions, even after the war was already won. In retribution, Ras Nsi was exiled from Mezro. He retreated into the jungle and waited for a time when Mezro would call on his help again.
 
@@ -158,6 +153,19 @@ Mezro is split up into four districts. The South East district is home to the Cu
 In the center of the city, there's a large Temple to Ubtao with maze portals connecting the different floors. It's plated with crystal and gold, and looking into the gold shows reflections of other creatures and places.
 
 There are signs that Frost Giants and Winter Wolves are roaming in the area around Mezro.
+
+---
+### Omu
+Omu was the city of the **Eshowe** tribe, and nicknamed 'the City of Wizards' - although now it's known as the **Forbidden City**. It was once a thriving nexus in Chultan economy as its natural location in a basin made it a central trading hub for all of Chult. Things started to change when they started imposing tariffs on trade from the other cities. It is said that Ubtao abandoned them, and in response they decided to create a new god. The wizard of the city transformed their flesh to become more powerful, and they built the **Soulforge** - a large crystalline apparatus that stores souls.
+
+Ubtao responded by sending the Barae from Mezro to sack Omu. Warlord Ras Nsi genocided most of Omu's population well after the war was over. Omu still existed afterwards, but only as a shadow of its former self. The most recent mention of Omu in history is of Queen Zalkoré, who was said to be the most beautiful person in the world. A monument to her still exists: the 'hanging garden of dreams', or **Nangalor**. Nangalor is situated east of the river **Olun**, just above **Lake Luo**.
+
+
+
+### Temple of Crocodile and Man
+The Temple of Crocodile and Man is situated a few days south from Port Nyanzaru. The Temple depicts the story of Crocodile and Man who rode on each other backs. This also proved to be the key to unlocking the Temple's secret chamber where we found an **Alchemy Jug**, and a portal. We assume the portal leads to the plant-maze-pocket dimension that also connects to **Port Nyanzaru**. The Maze is a challenge to get through, but we learned that going **Right-Right-Right-Left-Left-Straight** will bring us to Port Nyanzaru.
+
+We discerned that the Man represents **Ubtao**, and Crocodile represents **Thard'har**, a nature god related to the Albino Dwarves.
 
 
 ---
@@ -221,7 +229,7 @@ According to visions granted by the Psychic Crocodile in Mezro, a new god is com
 ### Ubtao
 **Ubtao** is a primordial of Chult, and its protector. He disappeared around 100 years ago, and no one really seems to know how or why. This seems to coincide with the destruction of **Mezro**, but any relation is conjecture. Ubtao is the god of mazes, and their believers walk Ubtao's Maze of Life. 
 
-In the old days there was a war between the primordials and the divine gods. In the end the war was won by the gods because Ubtao switched sides. As a reward he got to rule Chult. Ubtao's sister Dendar - The Night Serpent - was none to pleased and started eating the sun. She was buried somewhere underneath Chult.
+In the old days there was a war between the primordials and the divine gods. In the end the war was won by the gods because Ubtao switched sides. As a reward he got to rule Chult. Ubtao's sister **Dendar** - The Night Serpent - was none to pleased and started eating the sun. She was buried somewhere underneath Chult.
 
 From the Temple of Crocodile and Man, it can be inferred that **Ubtao** and **Thard'har** were buddies who liked to ride on each other's back. This is in contrast to the official legend which claims animosity between the two.
 
@@ -229,8 +237,20 @@ However, Ubtao isn't all labyrinths and piggybacks: the **Legend of the Aldani**
 
 There are statues of Ubtao, depicted as a giant Chultan native with feathered wings and a T-rex head, across Chult. If you trace the maze on its stomach with your finger, you get a prize.
 
+The transportation portals around Chult are linked to Ubtao, but Artus Cimber told us that when he last checken - 100 years ago - they didn't work.
 
 ---
+### The Trickster Gods
+There are 9 Trickster Gods of Chult, each represented as one of its animals. An old folk tale describes enmity between four pairs of these Trickster Gods. 
+- The **Zorbo** and **Almiraj** Trickster Gods don't like each other, something about a stew.
+- The **Kamadan** and **Grung** Trickster Gods don't like each other
+- The **Iblis** and **Froghemoth** Trickster Gods don't like each other
+- The **Su Monster** and **Jakuli** Trickster Gods don't like each other
+- The final Trickster God is **Unk the Flail Snail**, who is neutral and made Ubtao's eyes water.
+
+We know that the Su Monster Trickster God is called **Wongo**. We have a ring that proclaims its wearer his friend.
+
+
 ### Thard'har
 Chultan God of the Albino Dwarves, often depicted as a crocodile.
 
