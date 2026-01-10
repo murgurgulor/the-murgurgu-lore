@@ -10,6 +10,7 @@
 
 - Downtime in Port Nyanzaru
 - Head back to Mezro and quickly leave to continue our way to Kir Sabal
+- Find the location of Nangalor and/or Omu
 
 Sidequests:
 - Head to the Albino Dwarves to re-open the Hrakhamar Mines and increase the production of Chultan Bronze.
