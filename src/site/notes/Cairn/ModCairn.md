@@ -11,7 +11,7 @@ This is a custom ruleset with elements taken from the following 'Marked by the O
 
 ---
 # What's on the Character Sheet
-![Pasted image 20251121133443.png](/img/user/z_attachments/Pasted%20image%2020251121133443.png)
+![Pasted image 20260119094604.png](/img/user/z_attachments/Pasted%20image%2020260119094604.png)
 
 ---
 ### Qualities
