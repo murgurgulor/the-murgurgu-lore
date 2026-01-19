@@ -313,7 +313,7 @@ Note that GD only protects you from damage that you could *reasonably prevent*. 
 
 
 ### Other types of hurt
-In combat, most attacks are intended to Harm and will target your Vigour. However, certain attacks or maneuvers can target your Clarity or Spirit instead. These attacks are designated as **Daze** and **Fear**, respectively. As with Harm attacks, if you can reasonably resist the effect, these attacks target your GD first. 
+In combat, most attacks are intended to **Harm** and will target your Vigour. However, certain attacks or maneuvers can target your Clarity or Spirit instead. These attacks are designated as **Daze** and **Fear**, respectively. As with Harm attacks, if you can reasonably resist the effect, these attacks target your GD first. 
 
 ##### Daze Attacks
 Daze Attacks are usually made through magic, or non-lethal use of weapons. Anything that can give you a big wallop and disorient, confuse, or debilitate you without outright killing you. If you take Clarity Loss through a Daze attack, you immediately make a CLA Save using your new score.
