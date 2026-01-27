@@ -403,7 +403,7 @@ When you wield a Runeskelf, you focus your energy on visualizing an intended eff
 ### Channeling Runeskelfs
 Channeling your energy through a Runeskelf requires freedom of body and mind. You can only use a Runeskelf if you have **at least one empty Inventory Slot**. After you've used the Runeskelf, roll a d6. On a 1-3, you take one **Strain** from the mental efforts.
 
-If you try to channel a Runeskelf in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic in addition to the intended effect.
+If you try to channel a Runeskelf in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a CLA or SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic in addition to the intended effect.
 
 
 ### Magical Effects
