@@ -302,7 +302,7 @@ When enemies attack you, follow this procedure:
 - If you take damage to your Vigour, immediately make a VIG Save using your new score. 
 	- If you succeed you are **Wounded** but still in the game.
 	- If you fail, you are **Critically Wounded** - you're down and dying, only able to crawl and moan weakly. If untended to, you die within the hour. Some opponents have a special ability or effect that triggers when they Critically Wound you.
-	- After combat, an ally with Bandages can patch you up and bring you from Critically Wounded to Wounded. This does not recover any Vigour.
+	- After combat, an ally with Bandages or Medicinal Herbs can patch you up and bring you from Critically Wounded to Wounded. This does not recover any Vigour.
 - If damage reduces your Vigour to 0, you die. 
 
 Note that GD only protects you from damage that you could *reasonably prevent*. Damage from other sources, such as falling from a great height or ingesting poison, are treated as if you are **Exposed** and is applied directly to your Vigour. However, this kind of damage does not necessarily trigger a VIG Save to avoid being Critically Wounded.
@@ -310,7 +310,7 @@ Note that GD only protects you from damage that you could *reasonably prevent*. 
 
 
 
-### Scars and Trauma
+### Scars
 When an attack in combat reduces your GD to exactly 0, you take a Scar. The amount of GD you lost in the attack that gave you the Scar determines the effect. Consult the table below.
 
 | GD Lost | Scars                                                                                                                                                                                                                                                                                                                |
