@@ -421,7 +421,7 @@ If you want to achieve an effect that's greater than listed above - such as affe
 
  You can't expend **Effort** if you're **Deprived**, and putting in Effort requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person always needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
 
-After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, you become **Deprived**.
+After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, you become **Deprived**. This Deprivation can only be cured by performing a specific ritual associated with the Skelf.
 
 
 ### Random Runeskelfs
