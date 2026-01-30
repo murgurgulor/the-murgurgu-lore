@@ -401,7 +401,7 @@ When you wield a Runeskelf, you focus your energy on visualizing an intended eff
 ![Pasted image 20251112090636.png](/img/user/z_attachments/Pasted%20image%2020251112090636.png)
 
 ### Channeling Runeskelfs
-Channeling your energy through a Runeskelf requires freedom of body and mind. You can only use a Runeskelf if you have **at least one empty Inventory Slot** and if you're not **Deprived**. After you've used the Runeskelf, roll a d6. On a 1-3, you take one **Strain** from the mental efforts.
+Channeling your energy through a Runeskelf requires freedom of body and mind. You can only use a Runeskelf if you have **at least one empty Inventory Slot**. After you've used the Runeskelf, roll a d6. On a 1-3, you take one **Strain** from the mental efforts.
 
 If you try to channel a Runeskelf in a particularly tense or dangerous situation, there's a chance of the magic backfiring on you. The GM can require you to make a CLA or SPI Save, and on a failed save there will be an unforeseen and unfortunate side-effect to your magic in addition to the intended effect.
 
@@ -419,7 +419,7 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 ### Extra Effort
 If you want to achieve an effect that's greater than listed above - such as affecting more than one target, covering a larger area or range, enhancing the overall effect, or any combination thereof - you will have to put in extra **Effort**. 
 
-Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person always needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
+ You can't expend **Effort** if you're **Deprived**, and putting in Effort requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person always needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
 
 After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, you become **Deprived**.
 
