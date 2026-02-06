@@ -6,11 +6,12 @@
 
 # Current Goals and Objectives
 
-**Expedition Day**: 25(?)
+**Expedition Day**: 28
 
 - Head back through the portal to Mezro, quickly exiting the city southward - avoiding the Flaming Fist
 - Travel down the river Olung to Kir Sabal
 - Travel down further to Ishai, to find two scientists with a submarine
+- Find the location of Nangalor and/or Omu
 
 Sidequests:
 - Track down the pirates and force their engineers to make Walter a new mechanical hand
