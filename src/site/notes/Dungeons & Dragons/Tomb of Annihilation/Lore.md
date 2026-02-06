@@ -8,11 +8,12 @@
 
 **Expedition Day**: 25(?)
 
-- Downtime in Port Nyanzaru
-- Head back to Mezro and quickly leave to continue our way to Kir Sabal
-- Find the location of Nangalor and/or Omu
+- Head back through the portal to Mezro, quickly exiting the city southward - avoiding the Flaming Fist
+- Travel down the river Olung to Kir Sabal
+- Travel down further to Ishai, to find two scientists with a submarine
 
 Sidequests:
+- Track down the pirates and force their engineers to make Walter a new mechanical hand
 - Head to the Albino Dwarves to re-open the Hrakhamar Mines and increase the production of Chultan Bronze.
 - I guess we should at one point help Hew avenge his family at the Wyrmheart Mines.
 
@@ -33,7 +34,7 @@ A vision of a large crystal cylinder supported on struts of adamantine. Faces fl
 We learned that this is a machine called the '**Soulforge**'. It was created thousands of years ago by the **Eshowe** people of **Omu**, and it was intended to create a new god. Under orders of Ubtao, the Barae of Mezro sacked Omu before they could go ahead. Ras Nsi massacred all the Eshowe, even long after the battle was won.
 
 ### The Many-Eyed God
-A vision of a gigantic being of black flesh and countless eyes. In the space behind, countless dead titans float by - one of which we identified as Tymora. This may relate to the Children of the Crocodile's mentions of a new God coming to town, and tie in to the **Soulforge** in Omu.
+A vision of a gigantic being of black flesh and countless eyes. In the space behind, countless dead titans float by - one of which we identified as Tymora. This may relate to the Children of the Crocodile's mentions of a new God coming to town, and tie in to the **Soulforge** in **Omu**.
 
 ### The Lich
 A vision of a skeletal figure with great horns, wearing robes and wielding a stuff with a human skull. Opposed to the other visions, this creature turned to face Mo and wreathed him in necrotic energies. From the description we gather this must be a lich.
@@ -46,17 +47,38 @@ A vision of a skeletal figure with great horns, wearing robes and wielding a stu
 ##### Ekena-Afa
 **Ekena-Afa** is our de facto patron in investigating the Death Curse, as she has been resurrected many times in her past as a gladiator. She is interested in mapping out the unexplored jungles of Chult, aided by the Gnomish cartographer **Dieter Tittlethumb**. This is kept secret from another Merchant Prince - **Azir** - who has a monopoly on maps and geographical information.
 
+Ekena-Afa is the Merchant Prince of timber, weapons, and mercenaries.
+
 ##### Azir
-Merchant Prince Azir has a monopoly of information and maps of all kinds in Chult.
+Merchant Prince Azir has a monopoly of information and maps of all kinds in Chult. He is a minotaur that enjoys cruel games and cursed objects. He dared Walter to put his hand in a stone maw in return for a tentacly bag. Without a moment's hesitation, Walter obliged and promptly lost his hand - but gained a bag.
+
+Prince Azir offered us information on **Omu** - as it was apparently built by minotaurs - but only in return for control of **Vorn the Shield Guardian**, or **3000 GP**
 
 ##### Kwayothé
-Kwayothé is a Merchant Prince who used to be a priest of Ubtao. 
+Kwayothé is a Merchant Prince who used to be a priest of Ubtao. Currently deals in dyes, oils, and fashion.
+
+##### Jessenin
+Merchant Prince of Trials and Lawyers - can be bribed to attain your own sense of justice.
+Also deals in spices and narcotics.
+
+##### Ifan Taroa
+Merchant Prince that deals in meat and animals.
+
+##### Thrung
+Merchant Prince that deals in salt, fish, and chips/ships.
+
+##### Janti
+Merchant Prince who is descendent from the royal line of Mezro. Currently deals in fruits, gems, and local crafts.
+
+
 
 ##### The Beggar Princes
 There are three Beggar Princes that hold sway and influence in the Old Town of Port Nyanzaru:
-- **Prince Tatunani**: a formal Chultan royal prince
+- **Prince Tatunani**: a formal Chultan royal prince. Not really royalty, just the remaining member of a family that was installed as 'royals' in Port Nyanzaru by Amn, before the independence war.
 - **Queen Stranglevine**: a goblin that came out of the jungle
 - **Hassim the Strange**: a mysterious man who can read minds
+	- Hassim the Strange is a man with influence and connections in the Zhentarim. He knows Poag from long ago, and made Poag realize he is actually missing 20 years of memories! Apparently, Poag was a high-up in the Zhentarim and an old friend of Hassim. 
+	- Even more mysterious: a letter in Poag's handwriting has been sent to Hassim only recently, from somewhere in the Chultan jungle...
 
 
 ---
@@ -84,6 +106,8 @@ Thaddeus has employed elite Zhentarim agents:
 - **Orgnorg**, a Half-Orc Warrior with a love for grappling and throwing
 
 Poag had the Zhentarim convinced he was elite agent **Diognesis Thumbskin**, but after an unfortunate stint we have antagonized them. Let's hope we never encounter them again.
+
+**Hassim the Strange** is also connected to the Zhentarim, and revealed that Poag is actually a high operative in the organization - a detail that Poag has forgotten.
 
 
 ---
@@ -123,12 +147,16 @@ Other NPCs we've encountered are:
 - **Zindar**: The Gold Dragonborn Harbormaster whose breakfast we ate.
 - **Kwilgok**: A Tortle dinosaur jockey who is generally chill and laid back.
 - **Pirates!**: A crew of pirates, led by **Cpt. Tiffany Cannonview**, harried us on our arrival. We managed to drive them off, but they're still sailing around somewhere, presumable.
-- **Volothamp Geddarm (Volo)**: Some guy who writes books about stuff. Currently under scrutiny by Merchant Prince Azir.
+- **Volothamp Geddarm (Volo)**: Some guy who writes books about stuff. Currently under scrutiny by Merchant Prince Azir. We saved him from execution by dinosaur for illegally peddling his guides.
 - **Flask of Wine** and **River Mist**, two illegal Tabaxi guides who were escorting the **Zhentarim**.
 
 
 ---
 # Locations
+### Ubtao's Maze
+Currently the most approximate rendition of the routes in Ubtao's Maze:
+![PXL_20260206_112346077.jpg](/img/user/z_attachments/D&D/PXL_20260206_112346077.jpg)
+
 
 ### Port Nyanzaru
 The main hub and major city in Chult. It's ruled by 7 Merchant Princes, but there are also some **Beggar Princes** who hold some power over the poorer parts of town. The old part of town is hooked up to a portal - the **Old Gate** that leads to a planar maze of plants, supposedly created by **Ubtao**, that is rumoured to lead to other places in Chult.
@@ -184,7 +212,7 @@ A tribe of **Pterafolk** live near it, and carry unsuspecting people off to thei
 
 ---
 ### Kir Sabal
-A settlement of the Aarakocra, south east of Mezro.
+A settlement of the Aarakocra, south east of Mezro. We rescued the Aarakocra **Nephyr** from Tower Firefinger.
 
 
 ---
