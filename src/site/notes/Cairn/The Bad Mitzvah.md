@@ -10,7 +10,7 @@ You've all gathered in Bobby's hometown of Tannic, a small village on the edge o
 
 The party is well on its way into the afternoon, when you suddenly hear a commotion. Some distant screaming, coming closer. Someone crashes over a barrel of Kugel Fizz and stumbles into the clearing. It's Scoutmaster Justin of the Tannic Scouting Troupe! His hair is disheveled, his tunic is torn, scratches all over his skin. Wide-eyed, he looks around at no one in particular. As the dubious clown starts to ask if he's ok, Scoutmaster Justin finds his words again.
 
-"The children!" He gasps. "I've lost the children are gone!"
+"The children!" He gasps. "I've lost the children!"
 
 
 ---
