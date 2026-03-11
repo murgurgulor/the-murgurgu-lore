@@ -432,12 +432,6 @@ While concentrating in this way, the caster is considered **Exposed** for attack
 Magic used to deal damage generally provides a d8 of single target, or d6 of Blast damage. If the magical effect is unsuited for damaging the particular target, the damage may be reduced or Impaired. If the magical effect is especially suited to hurt the target, a bonus die may apply - typically +d8, but depending on the particular circumstances it may be as high as +d12. Extra Effort can grant or improve bonus damage, as well as increase range or area of effect.
 
 
-### Extra Effort
-If you want to achieve an effect that's greater than listed above - such as affecting more than one target, covering a larger area or range, enhancing the overall effect, or any combination thereof - you will have to put in extra **Effort**. 
-
-P
-
-
 ### Random Runeskelfs
 If you happen to find a random Runeskelf, the Ur-Runes inscribed are randomly determined according to the spell generation methods of the TTRPG *Maze Rats*:
 
