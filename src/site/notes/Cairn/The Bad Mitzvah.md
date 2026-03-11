@@ -16,7 +16,7 @@ The party is well on its way into the afternoon, when you suddenly hear a commot
 ---
 # Downtime Activities
 
-What have you been up to in the past month? Choose, roll, or create your own downtime activity and accompanying effects.
+What have you been up to in the past month? Choose, roll, or create your own downtime activity and accompanying effects. Any new benefit replaces the one from the previous adventure.
 
 | D6  | Downtime activity                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
