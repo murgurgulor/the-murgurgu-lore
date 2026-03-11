@@ -412,16 +412,32 @@ The effects of magic are broad and difficult to define. In general, keep in mind
 - Bypass a situation that could normally require you to make a Save
 - Bypass a situation that could normally require you to have a specific skill or resource
 - Hinder or aid actions of others
-- Deal physical damage (*d8*, or *d6 Blast*) to targets that are *Engaged* or *Nearby*
-	- Or: attempt to assault other faculties (Clarity, Spirit) and damage them with a *d4* if the target fails a Save
+- Improve or impair offensive or defensive capacities
+- Deal damage or perform a Gambit
+
+When determining how much Effort a magical effect requires, the following factors are taken into account:
+- How suitable is the effect to achieve the intended goal?
+- How far from the caster is the effect to take place?
+- How large is the area that is affected by the magic?
+- How long is the intended duration?
+- How complex is the effect that is intended?
+
+From these factors, the GM determines whether a spell would be 1 Effort for limited and suitable effects, 3 Effort for complex and large effects, or 2 Effort for things in between. Not everything is possible with magic - if the intended effect is too extreme or out there, it can't be done. The GM should then offer the player the maximum attainable effect for 3 Effort, and let the player decide from there how to proceed.
+
+Magic can also be used to perform a Gambit, following the same guidelines as above. The target gets to make an appropriate Save to resist the effect, but expending more Effort might deny them this Save.
+
+In combat situation, a magical effect can be prolonged if the caster spends their consecutive actions concentrating on the effect and staying within a reasonable range. The effects and range can be enhanced on later turns, but the cumulative Effort spent on a spell can't exceed 3. 
+While concentrating in this way, the caster is considered **Exposed** for attacks. When the caster becomes the target of an attack, they can decide to drop the concentration **before attack dice are rolled** to lose the Exposed condition for the attack. If a character sustains Critical Damage while concentrating, they need to pass a SPI Save to avoid dropping the effect.
+
+Magic used to deal damage generally provides a d8 of single target, or d6 of Blast damage. If the magical effect is unsuited for damaging the particular target, the damage may be reduced or Impaired. If the magical effect is especially suited to hurt the target, a bonus die may apply - typically +d8, but depending on the particular circumstances it may be as high as +d12. Extra Effort can grant or improve bonus damage, as well as increase range or area of effect.
 
 
 ### Extra Effort
 If you want to achieve an effect that's greater than listed above - such as affecting more than one target, covering a larger area or range, enhancing the overall effect, or any combination thereof - you will have to put in extra **Effort**. 
 
- You can't expend **Effort** if you're **Deprived**, and putting in Effort requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person always needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
+Putting in **Effort** requires you to have an additional empty Inventory Slot available per Effort expended. You can expend Effort up to a maximum of three times per casting (requiring a total of 4 empty Inventory Slots to do so: one of the base casting, and one for each extra Effort). However, you can share the Effort with one other person, providing they are willing, have empty Inventory Slots, and they hold your hand. Sharing Effort can be risky, because unexpected side-effects can occur if the intentions of the two persons do not align properly. The aiding person always needs to pass a SPI Save in order to avoid any consequences from misaligned intentions.
 
-After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, you become **Deprived**. This Deprivation can only be cured by performing a specific ritual associated with the Skelf.
+After you cast the spell, roll a d6 for each Effort you put in. For each die that comes up as a 1-3 you take an additional instance of **Strain**. Additionally, if one or more of the dice comes up as a 1, the Runeskelf is tapped out and can't be used again until it is recharged. Each Runeskelf has a specific recharge ritual related to the Runes it holds.
 
 
 ### Random Runeskelfs
