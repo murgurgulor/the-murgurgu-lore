@@ -14,4 +14,15 @@ The party is well on its way into the afternoon, when you suddenly hear a commot
 
 
 ---
-# More information to follow
+# Downtime Activities
+
+What have you been up to in the past month? Choose, roll, or create your own downtime activity and accompanying effects.
+
+| D6  | Downtime activity                                                                                                                                                                                                                                                                                                                                                                         |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Absolutely **nothing**. Remain as you were before and gain a burrowing sense of ennui.                                                                                                                                                                                                                                                                                                    |
+| 2   | You’ve sought out a renowned tattoo artist to mark one of your Runeskelfs on your body. You may take an **Ashing** of a Runeskelf you own, but also find yourself the target of several treasure hunters out to take your skin off.<br>*(An Ashing is a tattoo made from the ashes of a Runeskelf. It works the same as the original Skelf, except it doesn’t take up an inventory slot)* |
+| 3   | You’ve been carousing far too much for any good to happen, and you only remember a fragment of it. You’ve had to sell one unique item from your inventory to pay for all the rounds, but you now have **new friends in many places** to make up for it.                                                                                                                                   |
+| 4   | After losing some of your valuable items in a disastrous game of cups, you’ve decided to steal back your losses. Replace as many items as you have with **equivalent alternatives** and top it off with a warrant out for your arrest.                                                                                                                                                    |
+| 5   | You’ve visited a shamanistic retreat to ‘re-invent yourself’. You had to deposit your earthly belongings upon entry and you never got them back. On the up-side: you may **reroll your Qualities and Guard**. If the new result is higher than your current score, it becomes your new score.                                                                                             |
+| 6   | Seeking a hot and fast way to deepen your connection with nature, you’ve summoned a powerful druidic spirit and struck a deal. You may never again use an item that was created by anyone but you or nature, but you can now **talk to animals**. If you break your deal, nature will get its revenge.                                                                                    |
