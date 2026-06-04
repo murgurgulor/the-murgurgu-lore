@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/cairn/the-most-dangerous-game/"}
 ---
 
-
-
-Warwick grumbles in his luxurious armchair, plush red velvet doing little to soothe his inner pains. The embarrassment from his latest book reading proves almost too much to bear. With magnanimous verbosity and dogmatic passion he enthralled the gathered crowd with passages from his latest adventure memoir ‘_Check Mate! How To Corner and Conquer Any Queen_’, when a heckling jeer rose from the crowd, pointing out presumed discrepancies and fallacies in the chess terminology the book was rife with. Within minutes his questionable knowledge of the game of chess was all anyone could talk about, and Warwick had to cut his planned 3 hour monologue 2 hours and 54 minutes short. Distasteful! Disheartening! Disconcerting! In other words: unacceptable!
+Warwick grumbles in his luxurious armchair, plush red velvet doing little to soothe his inner pains. The embarrassment from his latest book reading proves almost too much to bear. With magnanimous verbosity and dogmatic passion he enthralled the gathered crowd with passages from his latest adventure memoir ‘_Check Mate! How To Corner and Conquer Any Queen_’, when a heckling jeer rose from the crowd, pointing out presumed discrepancies and fallacies in the chess metaphors the book was rife with. Within minutes his questionable knowledge of the game of chess was all anyone could talk about, and Warwick had to cut his planned 3 hour monologue 2 hours and 54 minutes short. Distasteful! Disheartening! Disconcerting! In other words: unacceptable!
 
 Swigging deep from a decanter of amber ambrosia, Warwick canters through his study. Something in the back of his mind tickles at an answer, a solution, a way to say nay to the nay-sayers!
 
