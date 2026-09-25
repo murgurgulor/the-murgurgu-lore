@@ -8,10 +8,9 @@
 
 **Expedition Day**: 28
 
-- Head back through the portal to Mezro, quickly exiting the city southward - avoiding the Flaming Fist
-- Travel down the river Olung to Kir Sabal
-- Travel down further to Ishai, to find two scientists with a submarine
-- Find the location of Nangalor and/or Omu
+- Take the Kwalish Apparatus to the waters in search of the fate of the two scientists
+- Find our way to Nangalor for Mogzenari's plant
+- Find our way to Omu
 
 Sidequests:
 - Track down the pirates and force their engineers to make Walter a new mechanical hand
@@ -39,6 +38,8 @@ A vision of a gigantic being of black flesh and countless eyes. In the space beh
 
 ### The Lich
 A vision of a skeletal figure with great horns, wearing robes and wielding a stuff with a human skull. Opposed to the other visions, this creature turned to face Mo and wreathed him in necrotic energies. From the description we gather this must be a lich.
+
+We surmise that a lich forced Ras Nsi to attack Mezro by wresting away control over his undead.
 
 
 ---
@@ -139,6 +140,18 @@ In a daring game of Fortune's Favor, Cassandra managed to evict Cathas' soul fro
 We found Artus Cimber encased in a dome of ice, wearing the fabled **Ring of Winter** which grants protection against death. We woke him up from what seemed a century-long slumber. After we told him what's what, he was confused about the falling of **Mezro** and **Ras Nsi**'s actions. Before answering any of our deepest questions he summoned an ice bird and flew off to Mezro. 
 
 Later on, we found him in Mezro and we hooked up for a bit. He was looking for his wife, and seemed to think that Mezro was shifted away or something. We helped him get back to Port Nyanzaru, where our ways parted.
+
+
+##### Ras Nsi
+Legendary undying Barae Paladin of Ubtao, who was abandoned by Ubtao after he killed all of Omu. Brooded miserably for centuries, building up an army of undead in the meantime. 100 years ago he used his army to assault Mezro.
+
+We found his palace in the barren and dead Nsi Wastes. We rescued **Reistal** from magic entrapment and we found a shard of a **Black Obelisk** of **Netheril**. Mo's brother **Ip**'s soul is imprisoned in it. We also found a note in a chest that read:
+"*When your Bara falls in combat, you must revive him with more expediency.*"
+Upon turning the Mirror of the Past to the note, we saw a vision of Ras Nsi in the throne room with injured warriors of Mezro kneeling behind him. His undead warriors are chained to the wall and appear hostile to him. Ras Nsi then says:
+"*I agree to the terms: I will take Mezro, if you give me back my army.*"
+This is followed by laughter from someone off-screen.
+Our interpretation of this is that someone/something took away Ras Nsi's control of his undead. To get his control back, he agreed to sack Mezro. The only kind of creature that would have such a power over the undead would be a lich, we think.
+
 
 ### Independents
 Other NPCs we've encountered are:
@@ -288,9 +301,3 @@ Chultan God of the Albino Dwarves, often depicted as a crocodile.
 ---
 ### Aremag
 **Aremag** is a giant dragon turtle that patrols the waters near Port Nyanzaru. Any who want to pass will have to present him with a present.
-
-
----
-# Magic Loot
-- **Alchemy Jug**: Found in the Temple of Crocodile and Man
-- **Tiger Mask of the Beast**: Found at the top of Tower Firefinger
